@@ -1,0 +1,328 @@
+Towson,103,Boston College,119
+time,team_id,description,h_score,a_score
+19:43,103,Connar Tava missed Layup.,0,0
+19:43,103,Mo Jeffers Offensive Rebound.,0,0
+19:38,103,Jerome Robinson missed Jumper.,0,0
+19:38,119,Arnaud William Adala Moto Defensive Rebound.,0,0
+19:27,119,Arnaud William Adala Moto missed Jumper.,0,0
+19:27,103,Mo Jeffers Defensive Rebound.,0,0
+19:07,119,Foul on Alex Thomas.,0,0
+19:07,103,Mo Jeffers made Free Throw.,0,1
+19:07,103,Mo Jeffers made Free Throw.,0,2
+18:46,119,Arnaud William Adala Moto missed Layup.,0,2
+18:46,103,Mo Jeffers Block.,0,2
+18:45,103,A.J. Turner Defensive Rebound.,0,2
+18:36,103,Jerome Robinson missed Jumper.,0,2
+18:36,103,Connar Tava Offensive Rebound.,0,2
+18:33,103,Connar Tava made Layup.,0,4
+18:13,119,Alex Thomas made Layup. Assisted by Deshaun Morman.,2,4
+17:54,103,Jerome Robinson made Layup. Assisted by Ky Bowman.,2,6
+17:37,119,Arnaud William Adala Moto missed Three Point Jumper.,2,6
+17:37,103,Mo Jeffers Defensive Rebound.,2,6
+17:22,119,Foul on Deshaun Morman.,2,6
+17:19,103,Mo Jeffers Turnover.,2,6
+17:10,119,Mike Morsell Turnover.,2,6
+17:09,103,Ky Bowman Steal.,2,6
+17:07,103,Ky Bowman made Dunk.,2,8
+16:51,119,Deshaun Morman missed Jumper.,2,8
+16:51,103,Jerome Robinson Defensive Rebound.,2,8
+16:37,103,Jerome Robinson made Layup.,2,10
+16:36,119,Towson  Timeout,2,10
+16:14,119,John Davis missed Jumper.,2,10
+16:14,103,Jerome Robinson Defensive Rebound.,2,10
+16:04,103,Ky Bowman missed Three Point Jumper.,2,10
+16:04,119,Deshaun Morman Defensive Rebound.,2,10
+15:57,103,Foul on A.J. Turner.,2,10
+15:57,103,Official TV Timeout,2,10
+15:57,119,Towson  Timeout,2,10
+15:52,119,Mike Morsell missed Layup.,2,10
+15:52,103,Boston College Defensive Rebound.,2,10
+15:24,103,Connar Tava Turnover.,2,10
+15:23,119,Arnaud William Adala Moto Steal.,2,10
+15:11,119,Mike Morsell made Three Point Jumper.,5,10
+14:49,103,Connar Tava made Layup. Assisted by Jerome Robinson.,5,12
+14:49,119,Foul on John Davis.,5,12
+14:49,103,Connar Tava made Free Throw.,5,13
+14:28,103,Foul on A.J. Turner.,5,13
+14:28,119,Arnaud William Adala Moto made Free Throw.,6,13
+14:28,119,Arnaud William Adala Moto made Free Throw.,7,13
+14:09,103,Jerome Robinson made Jumper. Assisted by Connar Tava.,7,15
+13:54,119,Mike Morsell made Three Point Jumper.,10,15
+13:32,103,Nik Popovic made Layup. Assisted by Connar Tava.,10,17
+13:12,119,Mike Morsell made Jumper.,12,17
+13:12,103,Foul on Jerome Robinson.,12,17
+13:12,119,Mike Morsell made Free Throw.,13,17
+12:47,103,Nik Popovic made Three Point Jumper. Assisted by Jerome Robinson.,13,20
+12:33,119,Arnaud William Adala Moto made Layup. Assisted by Jordan McNeil.,15,20
+12:11,103,Mo Jeffers made Layup. Assisted by Jordan Chatman.,15,22
+11:48,119,Deshaun Morman missed Jumper.,15,22
+11:48,119,Deshaun Morman Offensive Rebound.,15,22
+11:44,119,Deshaun Morman made Layup.,17,22
+11:27,103,Mo Jeffers missed Jumper.,17,22
+11:27,119,Alex Thomas Block.,17,22
+11:25,119,Arnaud William Adala Moto Defensive Rebound.,17,22
+11:16,119,Foul on Jordan McNeil.,17,22
+11:16,119,Jordan McNeil Turnover.,17,22
+11:16,103,Official TV Timeout,17,22
+10:57,103,Jordan Chatman missed Jumper.,17,22
+10:57,119,John Davis Defensive Rebound.,17,22
+10:35,119,Eddie Keith II missed Three Point Jumper.,17,22
+10:35,103,Garland Owens Defensive Rebound.,17,22
+10:24,119,Foul on Zane Martin.,17,22
+10:21,119,Foul on Deshaun Morman.,17,22
+10:18,103,Jordan Chatman made Jumper. Assisted by Garland Owens.,17,24
+9:59,119,John Davis missed Three Point Jumper.,17,24
+9:59,103,Nik Popovic Defensive Rebound.,17,24
+9:54,103,Jordan Chatman made Three Point Jumper. Assisted by Ty Graves.,17,27
+9:31,119,John Davis missed Layup.,17,27
+9:31,103,Ty Graves Defensive Rebound.,17,27
+9:19,103,Mo Jeffers Turnover.,17,27
+9:06,119,Mike Morsell missed Layup.,17,27
+9:06,103,Ky Bowman Defensive Rebound.,17,27
+9:03,119,Foul on Deshaun Morman.,17,27
+9:03,103,Ky Bowman missed Free Throw.,17,27
+9:03,119,Alex Thomas Defensive Rebound.,17,27
+8:53,119,Arnaud William Adala Moto made Jumper. Assisted by Zane Martin.,19,27
+8:22,103,Jordan Chatman made Three Point Jumper. Assisted by Ky Bowman.,19,30
+8:11,103,Foul on Ky Bowman.,19,30
+8:02,103,Foul on Johncarlos Reyes.,19,30
+8:02,119,Mike Morsell missed Free Throw.,19,30
+8:02,119,Towson Deadball Team Rebound.,19,30
+8:02,119,Mike Morsell made Free Throw.,20,30
+7:33,103,Jerome Robinson made Three Point Jumper. Assisted by Connar Tava.,20,33
+7:15,119,Arnaud William Adala Moto made Three Point Jumper. Assisted by Eddie Keith II.,23,33
+6:53,103,Ky Bowman Turnover.,23,33
+6:53,119,Mike Morsell Steal.,23,33
+6:50,119,Mike Morsell made Layup.,25,33
+6:50,103,Foul on Ky Bowman.,25,33
+6:50,103,Official TV Timeout,25,33
+6:50,119,Mike Morsell made Free Throw.,26,33
+6:42,103,Ty Graves made Three Point Jumper. Assisted by Jerome Robinson.,26,36
+6:27,119,Arnaud William Adala Moto missed Jumper.,26,36
+6:27,103,Connar Tava Defensive Rebound.,26,36
+6:19,103,Jerome Robinson missed Three Point Jumper.,26,36
+6:19,103,Garland Owens Offensive Rebound.,26,36
+6:11,103,Garland Owens Turnover.,26,36
+6:10,119,Arnaud William Adala Moto Steal.,26,36
+6:08,103,Foul on Ty Graves.,26,36
+6:08,119,Arnaud William Adala Moto missed Free Throw.,26,36
+6:08,119,Towson Deadball Team Rebound.,26,36
+6:08,119,Arnaud William Adala Moto missed Free Throw.,26,36
+6:08,103,Connar Tava Defensive Rebound.,26,36
+6:08,119,Foul on Justin Gorham.,26,36
+6:08,103,Connar Tava made Free Throw.,26,37
+6:08,103,Connar Tava made Free Throw.,26,38
+5:43,119,Mike Morsell missed Jumper.,26,38
+5:43,119,Justin Gorham Offensive Rebound.,26,38
+5:38,119,Justin Gorham missed Layup.,26,38
+5:38,103,Jerome Robinson Block.,26,38
+5:38,119,Justin Gorham Offensive Rebound.,26,38
+5:31,119,Justin Gorham Turnover.,26,38
+5:11,103,Foul on Mo Jeffers.,26,38
+5:11,103,Mo Jeffers Turnover.,26,38
+4:51,119,Mike Morsell made Jumper.,28,38
+4:31,103,Jerome Robinson made Dunk. Assisted by Ty Graves.,28,40
+4:14,119,Jordan McNeil made Three Point Jumper. Assisted by Arnaud William Adala Moto.,31,40
+3:44,103,Jordan Chatman Turnover.,31,40
+3:43,119,Arnaud William Adala Moto Steal.,31,40
+3:40,119,Arnaud William Adala Moto missed Layup.,31,40
+3:40,103,Jordan Chatman Defensive Rebound.,31,40
+3:30,103,Ty Graves Turnover.,31,40
+3:30,103,Official TV Timeout,31,40
+3:13,103,Foul on Nik Popovic.,31,40
+3:13,119,Alex Thomas missed Free Throw.,31,40
+3:13,103,Garland Owens Defensive Rebound.,31,40
+2:51,119,Foul on Alex Thomas.,31,40
+2:51,103,Jerome Robinson missed Free Throw.,31,40
+2:51,103,Boston College Deadball Team Rebound.,31,40
+2:51,103,Jerome Robinson made Free Throw.,31,41
+2:32,119,Jordan McNeil made Three Point Jumper. Assisted by Mike Morsell.,34,41
+2:08,103,Jerome Robinson Turnover.,34,41
+2:08,119,Jordan McNeil Steal.,34,41
+2:08,103,Foul on Garland Owens.,34,41
+1:59,103,Foul on Ty Graves.,34,41
+1:59,119,Arnaud William Adala Moto made Free Throw.,35,41
+1:59,119,Arnaud William Adala Moto missed Free Throw.,35,41
+1:59,103,Connar Tava Defensive Rebound.,35,41
+1:37,103,Jerome Robinson missed Three Point Jumper.,35,41
+1:37,119,Eddie Keith II Defensive Rebound.,35,41
+1:28,119,Arnaud William Adala Moto made Jumper. Assisted by Eddie Keith II.,37,41
+1:02,103,Ky Bowman made Three Point Jumper. Assisted by Jerome Robinson.,37,44
+0:46,119,Arnaud William Adala Moto missed Jumper.,37,44
+0:46,103,Jerome Robinson Defensive Rebound.,37,44
+0:41,103,Jordan Chatman missed Three Point Jumper.,37,44
+0:41,103,Nik Popovic Offensive Rebound.,37,44
+0:12,103,Jordan Chatman missed Three Point Jumper.,37,44
+0:12,119,Arnaud William Adala Moto Defensive Rebound.,37,44
+0:03,119,Jordan McNeil missed Three Point Jumper.,37,44
+0:03,103,Ky Bowman Defensive Rebound.,37,44
+0:01,119,Foul on Arnaud William Adala Moto.,37,44
+0:01,103,Ky Bowman missed Free Throw.,37,44
+0:01,103,Boston College Deadball Team Rebound.,37,44
+0:01,103,Ky Bowman made Free Throw.,37,45
+0:00,103,End of 1st half,37,45
+19:50,103,Ky Bowman missed Three Point Jumper.,37,45
+19:50,119,Alex Thomas Defensive Rebound.,37,45
+19:35,103,Foul on Ky Bowman.,37,45
+19:35,119,Deshaun Morman made Free Throw.,38,45
+19:35,119,Deshaun Morman missed Free Throw.,38,45
+19:35,103,Mo Jeffers Defensive Rebound.,38,45
+19:28,103,Ty Graves missed Three Point Jumper.,38,45
+19:28,119,Towson Defensive Rebound.,38,45
+19:07,119,Arnaud William Adala Moto made Jumper. Assisted by Deshaun Morman.,40,45
+18:48,103,Ty Graves made Three Point Jumper. Assisted by A.J. Turner.,40,48
+18:19,119,Eddie Keith II made Three Point Jumper. Assisted by Alex Thomas.,43,48
+17:54,119,Foul on Arnaud William Adala Moto.,43,48
+17:54,103,Connar Tava made Free Throw.,43,49
+17:54,103,Connar Tava made Free Throw.,43,50
+17:36,119,Arnaud William Adala Moto made Jumper.,45,50
+17:18,103,Mo Jeffers missed Layup.,45,50
+17:15,119,Alex Thomas Defensive Rebound.,45,50
+17:03,119,Eddie Keith II missed Three Point Jumper.,45,50
+17:03,103,Mo Jeffers Defensive Rebound.,45,50
+16:53,103,Ty Graves missed Three Point Jumper.,45,50
+16:53,103,Boston College Offensive Rebound.,45,50
+16:45,103,Jerome Robinson missed Jumper.,45,50
+16:45,119,Eddie Keith II Block.,45,50
+16:45,119,Deshaun Morman Defensive Rebound.,45,50
+16:39,119,Mike Morsell made Layup. Assisted by Eddie Keith II.,47,50
+16:21,119,Foul on John Davis.,47,50
+16:16,103,A.J. Turner missed Three Point Jumper.,47,50
+16:16,119,Eddie Keith II Defensive Rebound.,47,50
+16:07,119,John Davis made Jumper. Assisted by Eddie Keith II.,49,50
+16:02,103,Boston College  Timeout,49,50
+15:53,119,Foul on Eddie Keith II.,49,50
+15:53,103,Official TV Timeout,49,50
+15:27,103,Mo Jeffers missed Layup.,49,50
+15:27,119,Justin Gorham Defensive Rebound.,49,50
+15:12,119,Deshaun Morman Turnover.,49,50
+15:12,103,Connar Tava Steal.,49,50
+15:05,103,Jordan Chatman Turnover.,49,50
+15:04,119,John Davis Steal.,49,50
+14:41,119,Deshaun Morman missed Three Point Jumper.,49,50
+14:41,103,Boston College Defensive Rebound.,49,50
+14:15,103,Foul on Nik Popovic.,49,50
+14:15,103,Nik Popovic Turnover.,49,50
+13:59,119,Mike Morsell missed Layup.,49,50
+13:59,119,Mike Morsell Offensive Rebound.,49,50
+13:57,103,Foul on Nik Popovic.,49,50
+13:57,119,Mike Morsell made Free Throw.,50,50
+13:57,119,Mike Morsell made Free Throw.,51,50
+13:38,103,Jerome Robinson missed Three Point Jumper.,51,50
+13:38,119,Eddie Keith II Defensive Rebound.,51,50
+13:24,103,Foul on Nik Popovic.,51,50
+13:24,119,Zane Martin made Free Throw.,52,50
+13:24,119,Zane Martin made Free Throw.,53,50
+13:06,119,Foul on John Davis.,53,50
+13:02,103,Jordan Chatman missed Jumper.,53,50
+13:02,103,Connar Tava Offensive Rebound.,53,50
+12:32,103,Jerome Robinson made Jumper.,53,52
+12:07,103,Foul on Mo Jeffers.,53,52
+11:49,119,Brian Starr missed Three Point Jumper.,53,52
+11:49,103,Mo Jeffers Defensive Rebound.,53,52
+11:41,103,Ky Bowman missed Layup.,53,52
+11:41,119,Arnaud William Adala Moto Defensive Rebound.,53,52
+11:19,119,Arnaud William Adala Moto missed Jumper.,53,52
+11:19,103,Connar Tava Defensive Rebound.,53,52
+10:55,119,Foul on Zane Martin.,53,52
+10:55,103,Official TV Timeout,53,52
+10:50,103,Jerome Robinson missed Three Point Jumper.,53,52
+10:50,103,Jerome Robinson Offensive Rebound.,53,52
+10:34,103,Jordan Chatman missed Three Point Jumper.,53,52
+10:34,103,Ky Bowman Offensive Rebound.,53,52
+10:31,103,Ky Bowman missed Layup.,53,52
+10:31,119,John Davis Defensive Rebound.,53,52
+10:30,103,Foul on Connar Tava.,53,52
+10:18,119,Mike Morsell Turnover.,53,52
+10:17,103,Connar Tava Steal.,53,52
+10:06,103,Jerome Robinson made Dunk. Assisted by Ky Bowman.,53,54
+9:47,119,Foul on Jordan McNeil.,53,54
+9:47,119,Jordan McNeil Turnover.,53,54
+9:32,119,Foul on Mike Morsell.,53,54
+9:32,103,Jerome Robinson made Free Throw.,53,55
+9:32,103,Jerome Robinson made Free Throw.,53,56
+9:08,103,Foul on Garland Owens.,53,56
+9:08,119,Arnaud William Adala Moto made Free Throw.,54,56
+9:08,119,Arnaud William Adala Moto made Free Throw.,55,56
+8:53,103,Foul on Mo Jeffers.,55,56
+8:53,103,Mo Jeffers Turnover.,55,56
+8:36,119,John Davis made Jumper. Assisted by Mike Morsell.,57,56
+8:11,119,Foul on Arnaud William Adala Moto.,57,56
+8:11,103,Garland Owens made Free Throw.,57,57
+8:11,103,Garland Owens made Free Throw.,57,58
+7:50,119,Deshaun Morman Turnover.,57,58
+7:50,103,Official TV Timeout,57,58
+7:27,119,Foul on Deshaun Morman.,57,58
+7:27,103,Ky Bowman made Free Throw.,57,59
+7:27,103,Ky Bowman made Free Throw.,57,60
+7:05,103,Foul on Ky Bowman.,57,60
+7:05,119,Brian Starr missed Free Throw.,57,60
+7:05,119,Towson Deadball Team Rebound.,57,60
+7:05,119,Brian Starr made Free Throw.,58,60
+6:35,103,Garland Owens missed Three Point Jumper.,58,60
+6:35,103,Boston College Offensive Rebound.,58,60
+6:16,103,Jordan Chatman Turnover.,58,60
+6:15,119,Brian Starr Steal.,58,60
+6:01,119,Mike Morsell missed Three Point Jumper.,58,60
+6:01,119,John Davis Offensive Rebound.,58,60
+5:55,119,Arnaud William Adala Moto missed Three Point Jumper.,58,60
+5:55,103,Jerome Robinson Defensive Rebound.,58,60
+5:43,119,Foul on Brian Starr.,58,60
+5:43,103,Jordan Chatman made Free Throw.,58,61
+5:43,103,Jordan Chatman made Free Throw.,58,62
+5:17,119,John Davis made Jumper. Assisted by Arnaud William Adala Moto.,60,62
+4:55,103,Connar Tava made Layup.,60,64
+4:30,119,Arnaud William Adala Moto missed Layup.,60,64
+4:30,119,John Davis Offensive Rebound.,60,64
+4:29,103,Foul on Mo Jeffers.,60,64
+4:29,119,John Davis made Free Throw.,61,64
+4:29,119,John Davis missed Free Throw.,61,64
+4:29,103,Connar Tava Defensive Rebound.,61,64
+4:06,103,A.J. Turner missed Jumper.,61,64
+4:06,119,John Davis Defensive Rebound.,61,64
+3:58,119,John Davis made Jumper.,63,64
+3:37,103,Jerome Robinson made Jumper. Assisted by Jordan Chatman.,63,66
+3:19,119,Deshaun Morman missed Jumper.,63,66
+3:19,103,Jordan Chatman Block.,63,66
+3:18,119,Towson Offensive Rebound.,63,66
+3:18,103,Official TV Timeout,63,66
+3:16,119,Arnaud William Adala Moto made Layup. Assisted by Eddie Keith II.,65,66
+2:55,103,Jerome Robinson missed Layup.,65,66
+2:55,103,Boston College Offensive Rebound.,65,66
+2:51,103,Connar Tava made Layup. Assisted by A.J. Turner.,65,68
+2:32,119,Foul on Mike Morsell.,65,68
+2:32,119,Mike Morsell Turnover.,65,68
+2:25,103,Boston College  Timeout,65,68
+2:08,103,Connar Tava missed Layup.,65,68
+2:08,119,Arnaud William Adala Moto Defensive Rebound.,65,68
+1:49,119,Mike Morsell Turnover.,65,68
+1:24,103,Nik Popovic made Jumper. Assisted by A.J. Turner.,65,70
+1:03,119,Arnaud William Adala Moto Turnover.,65,70
+1:02,103,Jerome Robinson Steal.,65,70
+0:59,119,Foul on Arnaud William Adala Moto.,65,70
+0:59,103,Ky Bowman made Free Throw.,65,71
+0:59,103,Ky Bowman made Free Throw.,65,72
+0:59,119,Foul on Alex Thomas.,65,72
+0:59,103,Ky Bowman made Free Throw.,65,73
+0:59,103,Ky Bowman made Free Throw.,65,74
+0:46,119,Mike Morsell made Three Point Jumper.,68,74
+0:44,119,Towson  Timeout,68,74
+0:44,119,Foul on Eddie Keith II.,68,74
+0:44,103,Jerome Robinson made Free Throw.,68,75
+0:44,103,Jerome Robinson made Free Throw.,68,76
+0:27,119,Mike Morsell missed Three Point Jumper.,68,76
+0:27,119,Alex Thomas Offensive Rebound.,68,76
+0:24,103,Foul on Jerome Robinson.,68,76
+0:24,119,Alex Thomas made Free Throw.,69,76
+0:24,119,Alex Thomas made Free Throw.,70,76
+0:24,119,Foul on Mike Morsell.,70,76
+0:24,103,Ky Bowman made Free Throw.,70,77
+0:24,103,Ky Bowman made Free Throw.,70,78
+0:15,119,Mike Morsell missed Three Point Jumper.,70,78
+0:15,103,Ky Bowman Defensive Rebound.,70,78
+0:08,119,Foul on Jordan McNeil.,70,78
+0:08,103,Jerome Robinson made Free Throw.,70,79
+0:08,103,Jerome Robinson made Free Throw.,70,80
+0:02,119,Mike Morsell missed Three Point Jumper.,70,80
+0:02,103,Connar Tava Defensive Rebound.,70,80
+0:00,103,End of Game,70,80

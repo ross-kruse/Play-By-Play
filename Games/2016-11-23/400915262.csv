@@ -1,0 +1,315 @@
+William &amp; Mary,150,Duke,2729
+time,team_id,description,h_score,a_score
+20:00,150,Jump Ball won by Duke,0,0
+19:45,2729,Foul on Paul Rowley.,0,0
+19:29,150,Luke Kennard Turnover.,0,0
+19:29,2729,Daniel Dixon Steal.,0,0
+19:23,2729,Paul Rowley made Three Point Jumper. Assisted by Daniel Dixon.,3,0
+19:06,150,Frank Jackson missed Three Point Jumper.,3,0
+19:06,150,Grayson Allen Offensive Rebound.,3,0
+18:49,150,Luke Kennard made Jumper. Assisted by Grayson Allen.,3,2
+18:31,2729,David Cohn missed Jumper.,3,2
+18:31,150,Frank Jackson Defensive Rebound.,3,2
+18:22,2729,Foul on David Cohn.,3,2
+18:21,150,Luke Kennard missed Three Point Jumper.,3,2
+18:21,150,Matt Jones Offensive Rebound.,3,2
+18:15,150,Grayson Allen missed Three Point Jumper.,3,2
+18:15,150,Luke Kennard Offensive Rebound.,3,2
+17:57,150,Grayson Allen Turnover.,3,2
+17:57,2729,Paul Rowley Steal.,3,2
+17:46,2729,Omar Prewitt missed Jumper.,3,2
+17:46,150,Amile Jefferson Defensive Rebound.,3,2
+17:29,2729,Foul on Jack Whitman.,3,2
+17:29,150,Grayson Allen made Free Throw.,3,3
+17:29,150,Grayson Allen made Free Throw.,3,4
+17:14,2729,Paul Rowley missed Three Point Jumper.,3,4
+17:14,150,Frank Jackson Defensive Rebound.,3,4
+17:00,150,Frank Jackson missed Jumper.,3,4
+17:00,2729,Omar Prewitt Defensive Rebound.,3,4
+16:39,150,Foul on Frank Jackson.,3,4
+16:39,2729,Daniel Dixon made Free Throw.,4,4
+16:39,2729,Daniel Dixon made Free Throw.,5,4
+16:26,150,Amile Jefferson made Jumper.,5,6
+16:05,2729,Jack Whitman made Jumper. Assisted by David Cohn.,7,6
+16:05,150,Foul on Amile Jefferson.,7,6
+16:05,2729,Jack Whitman made Free Throw.,8,6
+15:51,150,Grayson Allen missed Three Point Jumper.,8,6
+15:51,2729,Daniel Dixon Defensive Rebound.,8,6
+15:42,2729,Paul Rowley missed Jumper.,8,6
+15:42,150,Grayson Allen Defensive Rebound.,8,6
+15:36,150,Grayson Allen missed Layup.,8,6
+15:36,2729,Omar Prewitt Defensive Rebound.,8,6
+15:29,2729,Paul Rowley made Three Point Jumper. Assisted by Omar Prewitt.,11,6
+15:09,2729,Foul on Daniel Dixon.,11,6
+15:09,150,Official TV Timeout,11,6
+15:09,150,Luke Kennard made Three Point Jumper. Assisted by Matt Jones.,11,9
+14:50,2729,Nathan Knight made Layup.,13,9
+14:30,150,Luke Kennard made Jumper.,13,11
+14:06,2729,Foul on Daniel Dixon.,13,11
+14:06,2729,Daniel Dixon Turnover.,13,11
+13:54,2729,Foul on David Cohn.,13,11
+13:49,150,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.,13,14
+13:34,2729,Omar Prewitt missed Three Point Jumper.,13,14
+13:34,150,Luke Kennard Defensive Rebound.,13,14
+13:10,150,Amile Jefferson Turnover.,13,14
+12:52,2729,Omar Prewitt missed Jumper.,13,14
+12:52,150,Amile Jefferson Defensive Rebound.,13,14
+12:35,150,Matt Jones missed Layup.,13,14
+12:35,2729,Oliver Tot Block.,13,14
+12:35,150,Luke Kennard Offensive Rebound.,13,14
+12:21,2729,Foul on Omar Prewitt.,13,14
+12:21,150,Grayson Allen made Free Throw.,13,15
+12:21,150,Grayson Allen made Free Throw.,13,16
+12:00,2729,Greg Malinowski missed Three Point Jumper.,13,16
+12:00,150,Chase Jeter Defensive Rebound.,13,16
+11:50,150,Luke Kennard missed Layup.,13,16
+11:50,150,Chase Jeter Offensive Rebound.,13,16
+11:41,150,Chase Jeter missed Layup.,13,16
+11:41,2729,Greg Malinowski Block.,13,16
+11:41,150,Luke Kennard Offensive Rebound.,13,16
+11:35,150,Official TV Timeout,13,16
+11:30,150,Frank Jackson made Three Point Jumper. Assisted by Luke Kennard.,13,19
+11:08,2729,Greg Malinowski missed Jumper.,13,19
+11:08,150,Frank Jackson Defensive Rebound.,13,19
+10:46,150,Javin DeLaurier made Dunk. Assisted by Luke Kennard.,13,21
+10:35,2729,William & Mary  Timeout,13,21
+10:23,2729,Daniel Dixon missed Jumper.,13,21
+10:23,2729,Jack Whitman Offensive Rebound.,13,21
+10:18,150,Foul on Chase Jeter.,13,21
+10:18,2729,Jack Whitman made Free Throw.,14,21
+10:18,2729,Jack Whitman made Free Throw.,15,21
+10:07,150,Luke Kennard missed Jumper.,15,21
+10:07,2729,Daniel Dixon Defensive Rebound.,15,21
+9:58,2729,Foul on Jack Whitman.,15,21
+9:58,2729,Jack Whitman Turnover.,15,21
+9:44,150,Chase Jeter made Layup. Assisted by Frank Jackson.,15,23
+9:24,2729,Jack Whitman made Dunk. Assisted by Omar Prewitt.,17,23
+9:02,150,Matt Jones missed Jumper.,17,23
+9:02,2729,Omar Prewitt Defensive Rebound.,17,23
+8:46,150,Foul on Frank Jackson.,17,23
+8:46,2729,Jack Whitman made Free Throw.,18,23
+8:46,2729,Jack Whitman missed Free Throw.,18,23
+8:46,150,Amile Jefferson Defensive Rebound.,18,23
+8:30,150,Luke Kennard missed Layup.,18,23
+8:30,2729,David Cohn Defensive Rebound.,18,23
+8:22,2729,Justin Pierce missed Three Point Jumper.,18,23
+8:22,150,Amile Jefferson Defensive Rebound.,18,23
+8:14,150,Luke Kennard missed Three Point Jumper.,18,23
+8:14,2729,Justin Pierce Defensive Rebound.,18,23
+8:07,2729,Daniel Dixon missed Three Point Jumper.,18,23
+8:07,150,Grayson Allen Defensive Rebound.,18,23
+7:44,150,Foul on Chase Jeter.,18,23
+7:44,150,Chase Jeter Turnover.,18,23
+7:44,150,Official TV Timeout,18,23
+7:21,2729,David Cohn missed Three Point Jumper.,18,23
+7:21,150,Antonio Vrankovic Defensive Rebound.,18,23
+7:21,2729,Foul on Jack Whitman.,18,23
+7:19,150,Antonio Vrankovic missed Free Throw.,18,23
+7:19,150,Luke Kennard Offensive Rebound.,18,23
+7:17,150,Grayson Allen missed Three Point Jumper.,18,23
+7:17,2729,Nathan Knight Defensive Rebound.,18,23
+7:17,150,Foul on Amile Jefferson.,18,23
+7:04,2729,Daniel Dixon missed Three Point Jumper.,18,23
+7:04,150,Amile Jefferson Defensive Rebound.,18,23
+6:40,150,Amile Jefferson made Jumper. Assisted by Luke Kennard.,18,25
+6:14,2729,Nathan Knight Turnover.,18,25
+5:58,150,Luke Kennard Turnover.,18,25
+5:58,2729,David Cohn Steal.,18,25
+5:52,2729,Omar Prewitt made Layup. Assisted by David Cohn.,20,25
+5:36,150,Grayson Allen missed Three Point Jumper.,20,25
+5:36,2729,Omar Prewitt Defensive Rebound.,20,25
+5:16,2729,Omar Prewitt missed Three Point Jumper.,20,25
+5:16,150,Matt Jones Defensive Rebound.,20,25
+5:07,150,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.,20,28
+4:55,2729,Connor Burchfield made Three Point Jumper. Assisted by David Cohn.,23,28
+4:30,2729,Foul on Connor Burchfield.,23,28
+4:30,150,Amile Jefferson made Free Throw.,23,29
+4:30,150,Amile Jefferson made Free Throw.,23,30
+4:18,150,Foul on Javin DeLaurier.,23,30
+4:18,2729,Nathan Knight made Free Throw.,24,30
+4:18,2729,Nathan Knight made Free Throw.,25,30
+4:08,150,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.,25,33
+3:45,2729,David Cohn Turnover.,25,33
+3:45,150,Official TV Timeout,25,33
+3:35,150,Frank Jackson made Jumper.,25,35
+3:20,2729,Paul Rowley made Three Point Jumper. Assisted by David Cohn.,28,35
+3:04,150,Frank Jackson made Layup.,28,37
+2:48,2729,Nathan Knight Turnover.,28,37
+2:43,150,Grayson Allen made Three Point Jumper. Assisted by Luke Kennard.,28,40
+2:22,2729,Connor Burchfield missed Three Point Jumper.,28,40
+2:22,150,Luke Kennard Defensive Rebound.,28,40
+1:59,2729,Foul on Connor Burchfield.,28,40
+1:59,150,Grayson Allen made Free Throw.,28,41
+1:59,150,Grayson Allen made Free Throw.,28,42
+1:52,2729,William & Mary  Timeout,28,42
+1:43,2729,Nathan Knight missed Layup.,28,42
+1:43,2729,Nathan Knight Offensive Rebound.,28,42
+1:43,2729,Nathan Knight made Two Point Tip Shot.,30,42
+1:24,150,Matt Jones missed Jumper.,30,42
+1:24,2729,Paul Rowley Block.,30,42
+1:24,2729,Nathan Knight Defensive Rebound.,30,42
+1:16,2729,Nathan Knight missed Three Point Jumper.,30,42
+1:16,150,Luke Kennard Defensive Rebound.,30,42
+0:54,150,Antonio Vrankovic made Dunk. Assisted by Grayson Allen.,30,44
+0:36,2729,Omar Prewitt missed Layup.,30,44
+0:36,150,Antonio Vrankovic Block.,30,44
+0:36,150,Antonio Vrankovic Defensive Rebound.,30,44
+0:28,150,Duke  Timeout,30,44
+0:10,150,Frank Jackson missed Three Point Jumper.,30,44
+0:10,150,Antonio Vrankovic Offensive Rebound.,30,44
+0:05,150,Antonio Vrankovic made Layup.,30,46
+0:00,150,End of 1st half,30,46
+20:00,2729,Jump Ball won by William & Mary,30,46
+19:41,2729,Paul Rowley Turnover.,30,46
+19:41,150,Luke Kennard Steal.,30,46
+19:35,150,Frank Jackson missed Three Point Jumper.,30,46
+19:35,2729,Jack Whitman Defensive Rebound.,30,46
+19:06,2729,Daniel Dixon made Three Point Jumper. Assisted by Omar Prewitt.,33,46
+18:43,2729,Foul on Jack Whitman.,33,46
+18:41,150,Matt Jones missed Three Point Jumper.,33,46
+18:41,2729,Nathan Knight Defensive Rebound.,33,46
+18:32,2729,Omar Prewitt made Layup. Assisted by David Cohn.,35,46
+18:13,2729,Foul on Nathan Knight.,35,46
+18:13,150,Frank Jackson made Free Throw.,35,47
+18:13,150,Frank Jackson made Free Throw.,35,48
+18:03,150,Foul on Luke Kennard.,35,48
+18:01,2729,Daniel Dixon missed Layup.,35,48
+18:01,150,Amile Jefferson Defensive Rebound.,35,48
+17:54,150,Grayson Allen missed Three Point Jumper.,35,48
+17:54,2729,Daniel Dixon Defensive Rebound.,35,48
+17:43,2729,Nathan Knight made Dunk. Assisted by David Cohn.,37,48
+17:24,150,Amile Jefferson made Layup.,37,50
+17:24,2729,Foul on Omar Prewitt.,37,50
+17:24,150,Amile Jefferson made Free Throw.,37,51
+17:12,2729,Omar Prewitt made Dunk. Assisted by Nathan Knight.,39,51
+16:58,2729,Foul on Paul Rowley.,39,51
+16:55,150,Frank Jackson made Jumper. Assisted by Grayson Allen.,39,53
+16:40,2729,Nathan Knight made Jumper.,41,53
+16:29,150,Grayson Allen made Jumper.,41,55
+16:18,150,Foul on Matt Jones.,41,55
+16:11,2729,Nathan Knight missed Jumper.,41,55
+16:11,150,Amile Jefferson Block.,41,55
+16:11,150,Luke Kennard Defensive Rebound.,41,55
+15:50,2729,Foul on Daniel Dixon.,41,55
+15:50,150,Official TV Timeout,41,55
+15:40,150,Amile Jefferson made Layup.,41,57
+15:25,2729,Nathan Knight missed Jumper.,41,57
+15:25,150,Frank Jackson Defensive Rebound.,41,57
+15:07,2729,Foul on Connor Burchfield.,41,57
+14:59,150,Frank Jackson missed Jumper.,41,57
+14:59,2729,Greg Malinowski Defensive Rebound.,41,57
+14:41,2729,Omar Prewitt made Jumper. Assisted by David Cohn.,43,57
+14:24,2729,Foul on Paul Rowley.,43,57
+14:24,150,Amile Jefferson missed Free Throw.,43,57
+14:24,150,Duke Deadball Team Rebound.,43,57
+14:24,150,Amile Jefferson made Free Throw.,43,58
+14:14,150,Foul on Matt Jones.,43,58
+14:14,2729,Omar Prewitt made Free Throw.,44,58
+14:14,2729,Omar Prewitt missed Free Throw.,44,58
+14:14,150,Amile Jefferson Defensive Rebound.,44,58
+14:02,150,Luke Kennard made Layup.,44,60
+13:37,2729,Greg Malinowski Turnover.,44,60
+13:37,150,Luke Kennard Steal.,44,60
+13:21,150,Frank Jackson made Three Point Jumper. Assisted by Luke Kennard.,44,63
+13:00,2729,Omar Prewitt made Layup. Assisted by Paul Rowley.,46,63
+12:40,2729,Foul on Paul Rowley.,46,63
+12:40,150,Amile Jefferson made Free Throw.,46,64
+12:40,150,Amile Jefferson missed Free Throw.,46,64
+12:40,2729,Jack Whitman Defensive Rebound.,46,64
+12:35,2729,Jack Whitman made Dunk. Assisted by Greg Malinowski.,48,64
+12:17,2729,Foul on Greg Malinowski.,48,64
+12:17,150,Matt Jones made Free Throw.,48,65
+12:17,150,Matt Jones made Free Throw.,48,66
+12:03,2729,David Cohn Turnover.,48,66
+11:49,150,Luke Kennard made Jumper.,48,68
+11:23,2729,Jack Whitman Turnover.,48,68
+11:23,150,Official TV Timeout,48,68
+11:16,150,Luke Kennard missed Three Point Jumper.,48,68
+11:16,2729,Justin Pierce Defensive Rebound.,48,68
+11:01,2729,Daniel Dixon missed Jumper.,48,68
+11:01,150,Chase Jeter Block.,48,68
+11:01,150,Grayson Allen Defensive Rebound.,48,68
+10:37,150,Grayson Allen made Three Point Jumper. Assisted by Chase Jeter.,48,71
+10:22,2729,Daniel Dixon made Three Point Jumper. Assisted by Jack Whitman.,51,71
+9:59,150,Frank Jackson made Three Point Jumper. Assisted by Luke Kennard.,51,74
+9:49,2729,Foul on Greg Malinowski.,51,74
+9:49,2729,Greg Malinowski Turnover.,51,74
+9:49,150,Chase Jeter made Free Throw.,51,75
+9:49,150,Chase Jeter made Free Throw.,51,76
+9:33,2729,Justin Pierce missed Jumper.,51,76
+9:33,150,Chase Jeter Defensive Rebound.,51,76
+9:01,150,Grayson Allen Turnover.,51,76
+8:46,2729,Daniel Dixon made Layup.,53,76
+8:46,150,Foul on Luke Kennard.,53,76
+8:46,2729,Daniel Dixon made Free Throw.,54,76
+8:20,150,Matt Jones missed Three Point Jumper.,54,76
+8:20,2729,Jack Whitman Defensive Rebound.,54,76
+8:01,2729,Daniel Dixon missed Three Point Jumper.,54,76
+8:01,150,Amile Jefferson Defensive Rebound.,54,76
+7:38,150,Chase Jeter made Dunk. Assisted by Amile Jefferson.,54,78
+7:20,2729,Jack Whitman made Layup.,56,78
+7:20,150,Foul on Chase Jeter.,56,78
+7:20,150,Official TV Timeout,56,78
+7:20,2729,Jack Whitman made Free Throw.,57,78
+7:05,2729,Foul on Oliver Tot.,57,78
+7:05,150,Frank Jackson made Free Throw.,57,79
+7:05,150,Frank Jackson made Free Throw.,57,80
+6:53,2729,Omar Prewitt missed Three Point Jumper.,57,80
+6:53,150,Grayson Allen Defensive Rebound.,57,80
+6:45,150,Amile Jefferson made Dunk. Assisted by Grayson Allen.,57,82
+6:24,2729,Daniel Dixon missed Jumper.,57,82
+6:24,150,Amile Jefferson Defensive Rebound.,57,82
+6:14,150,Luke Kennard missed Three Point Jumper.,57,82
+6:14,2729,Omar Prewitt Defensive Rebound.,57,82
+6:04,2729,Omar Prewitt Turnover.,57,82
+6:04,150,Frank Jackson Steal.,57,82
+5:59,150,Grayson Allen missed Layup.,57,82
+5:59,150,Amile Jefferson Offensive Rebound.,57,82
+5:41,150,Amile Jefferson Turnover.,57,82
+5:15,150,Foul on Amile Jefferson.,57,82
+5:15,2729,Nathan Knight missed Free Throw.,57,82
+5:15,2729,William & Mary Deadball Team Rebound.,57,82
+5:15,2729,Nathan Knight made Free Throw.,58,82
+5:03,150,Foul on Javin DeLaurier.,58,82
+5:03,150,Javin DeLaurier Turnover.,58,82
+4:43,150,Foul on Luke Kennard.,58,82
+4:43,2729,David Cohn made Free Throw.,59,82
+4:43,2729,David Cohn made Free Throw.,60,82
+4:30,150,Luke Kennard missed Jumper.,60,82
+4:30,2729,Nathan Knight Defensive Rebound.,60,82
+4:23,2729,David Cohn Turnover.,60,82
+4:09,150,Frank Jackson missed Three Point Jumper.,60,82
+4:09,2729,David Cohn Defensive Rebound.,60,82
+4:03,2729,Daniel Dixon Turnover.,60,82
+3:49,150,Matt Jones made Jumper.,60,84
+3:33,2729,Daniel Dixon Turnover.,60,84
+3:33,150,Javin DeLaurier Steal.,60,84
+3:21,150,Foul on Javin DeLaurier.,60,84
+3:21,150,Javin DeLaurier Turnover.,60,84
+3:21,150,Official TV Timeout,60,84
+3:06,2729,Daniel Dixon missed Three Point Jumper.,60,84
+3:06,150,Javin DeLaurier Defensive Rebound.,60,84
+2:51,150,Jack White made Jumper. Assisted by Frank Jackson.,60,86
+2:32,2729,Daniel Dixon missed Layup.,60,86
+2:32,150,Antonio Vrankovic Block.,60,86
+2:32,2729,William & Mary Offensive Rebound.,60,86
+2:29,2729,Daniel Dixon missed Three Point Jumper.,60,86
+2:29,150,Antonio Vrankovic Defensive Rebound.,60,86
+2:08,150,Matt Jones missed Layup.,60,86
+2:08,150,Javin DeLaurier Offensive Rebound.,60,86
+2:04,150,Javin DeLaurier Turnover.,60,86
+2:04,2729,Daniel Dixon Steal.,60,86
+1:51,2729,Daniel Dixon made Jumper. Assisted by Paul Rowley.,62,86
+1:35,150,Duke  Timeout,62,86
+1:23,150,Jack White missed Layup.,62,86
+1:23,150,Jack White Offensive Rebound.,62,86
+1:17,150,Jack White made Layup.,62,88
+1:07,2729,Greg Malinowski missed Layup.,62,88
+1:07,150,Jack White Block.,62,88
+1:07,2729,Justin Pierce Offensive Rebound.,62,88
+0:58,2729,Justin Pierce made Layup.,64,88
+0:55,150,Duke  Timeout,64,88
+0:36,150,Nick Pagliuca missed Three Point Jumper.,64,88
+0:36,2729,William & Mary Defensive Rebound.,64,88
+0:20,2729,Connor Burchfield made Three Point Jumper. Assisted by Nathan Knight.,67,88
+0:00,150,End of Game,67,88

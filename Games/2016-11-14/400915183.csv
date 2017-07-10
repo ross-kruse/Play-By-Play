@@ -1,0 +1,325 @@
+Villanova,2509,Purdue,222
+time,team_id,description,h_score,a_score
+20:00,2509,Jump Ball won by Purdue,0,0
+19:45,2509,Caleb Swanigan made Layup. Assisted by Vince Edwards.,0,2
+19:21,222,Kris Jenkins missed Three Point Jumper.,0,2
+19:21,2509,Vince Edwards Defensive Rebound.,0,2
+19:13,2509,Vince Edwards missed Three Point Jumper.,0,2
+19:13,222,Jalen Brunson Defensive Rebound.,0,2
+19:05,222,Phil Booth made Three Point Jumper. Assisted by Jalen Brunson.,3,2
+18:46,2509,Dakota Mathias Turnover.,3,2
+18:46,222,Josh Hart Steal.,3,2
+18:35,222,Josh Hart made Three Point Jumper. Assisted by Kris Jenkins.,6,2
+18:08,2509,P.J. Thompson made Three Point Jumper. Assisted by Vince Edwards.,6,5
+17:34,2509,Foul on Isaac Haas.,6,5
+17:34,222,Josh Hart missed Free Throw.,6,5
+17:34,222,Villanova Deadball Team Rebound.,6,5
+17:34,222,Josh Hart made Free Throw.,7,5
+17:27,2509,Dakota Mathias missed Jumper.,7,5
+17:27,222,Jalen Brunson Defensive Rebound.,7,5
+17:13,222,Jalen Brunson Turnover.,7,5
+17:03,2509,Caleb Swanigan made Three Point Jumper. Assisted by Dakota Mathias.,7,8
+16:52,2509,Foul on P.J. Thompson.,7,8
+16:31,222,Kris Jenkins missed Jumper.,7,8
+16:31,2509,Basil Smotherman Defensive Rebound.,7,8
+16:17,2509,Vince Edwards made Jumper. Assisted by Dakota Mathias.,7,10
+15:57,222,Jalen Brunson missed Three Point Jumper.,7,10
+15:57,2509,Caleb Swanigan Defensive Rebound.,7,10
+15:45,2509,Caleb Swanigan Turnover.,7,10
+15:45,222,Jalen Brunson Steal.,7,10
+15:41,222,Jalen Brunson made Dunk.,9,10
+15:20,2509,Dakota Mathias made Three Point Jumper. Assisted by Spike Albrecht.,9,13
+14:57,2509,Foul on Basil Smotherman.,9,13
+14:57,2509,Official TV Timeout,9,13
+14:46,222,Mikal Bridges made Dunk.,11,13
+14:20,2509,Dakota Mathias missed Three Point Jumper.,11,13
+14:20,222,Eric Paschall Defensive Rebound.,11,13
+14:15,222,Foul on Eric Paschall.,11,13
+14:13,2509,Foul on Caleb Swanigan.,11,13
+13:46,222,Josh Hart made Jumper.,13,13
+13:46,2509,Foul on Isaac Haas.,13,13
+13:46,222,Josh Hart missed Free Throw.,13,13
+13:46,2509,Purdue Deadball Team Rebound.,13,13
+13:46,222,Foul on Eric Paschall.,13,13
+13:30,2509,Caleb Swanigan missed Jumper.,13,13
+13:30,222,Donte DiVincenzo Defensive Rebound.,13,13
+12:57,222,Darryl Reynolds made Layup. Assisted by Donte DiVincenzo.,15,13
+12:29,2509,Caleb Swanigan missed Jumper.,15,13
+12:29,222,Kris Jenkins Defensive Rebound.,15,13
+12:03,222,Foul on Phil Booth.,15,13
+12:03,222,Phil Booth Turnover.,15,13
+11:54,2509,Carsen Edwards Turnover.,15,13
+11:54,222,Jalen Brunson Steal.,15,13
+11:49,222,Donte DiVincenzo missed Three Point Jumper.,15,13
+11:49,2509,Caleb Swanigan Defensive Rebound.,15,13
+11:36,2509,Vince Edwards missed Layup.,15,13
+11:36,2509,Caleb Swanigan Offensive Rebound.,15,13
+11:30,222,Foul on Mikal Bridges.,15,13
+11:30,2509,Official TV Timeout,15,13
+11:30,2509,Caleb Swanigan missed Free Throw.,15,13
+11:30,2509,Purdue Deadball Team Rebound.,15,13
+11:30,2509,Caleb Swanigan missed Free Throw.,15,13
+11:30,222,Mikal Bridges Defensive Rebound.,15,13
+11:10,222,Jalen Brunson Turnover.,15,13
+10:52,2509,Vince Edwards Turnover.,15,13
+10:41,222,Josh Hart missed Layup.,15,13
+10:41,222,Darryl Reynolds Offensive Rebound.,15,13
+10:34,222,Darryl Reynolds made Dunk.,17,13
+10:25,2509,Dakota Mathias missed Three Point Jumper.,17,13
+10:25,222,Jalen Brunson Defensive Rebound.,17,13
+10:06,222,Josh Hart missed Three Point Jumper.,17,13
+10:06,2509,Purdue Defensive Rebound.,17,13
+9:57,2509,Vince Edwards made Layup. Assisted by Carsen Edwards.,17,15
+9:37,222,Jalen Brunson missed Jumper.,17,15
+9:37,2509,Dakota Mathias Defensive Rebound.,17,15
+9:30,2509,Vince Edwards missed Three Point Jumper.,17,15
+9:30,222,Josh Hart Defensive Rebound.,17,15
+9:21,222,Josh Hart made Layup.,19,15
+9:05,2509,Caleb Swanigan made Layup. Assisted by Dakota Mathias.,19,17
+8:42,222,Mikal Bridges missed Three Point Jumper.,19,17
+8:42,222,Darryl Reynolds Offensive Rebound.,19,17
+8:37,2509,Foul on Caleb Swanigan.,19,17
+8:37,222,Darryl Reynolds made Free Throw.,20,17
+8:37,222,Darryl Reynolds made Free Throw.,21,17
+8:18,222,Foul on Darryl Reynolds.,21,17
+8:18,2509,Vince Edwards missed Free Throw.,21,17
+8:18,2509,Purdue Deadball Team Rebound.,21,17
+8:18,2509,Vince Edwards made Free Throw.,21,18
+8:05,222,Phil Booth made Jumper.,23,18
+7:52,2509,Carsen Edwards missed Three Point Jumper.,23,18
+7:52,222,Phil Booth Defensive Rebound.,23,18
+7:45,222,Kris Jenkins made Three Point Jumper. Assisted by Phil Booth.,26,18
+7:40,2509,Purdue  Timeout,26,18
+7:40,222,Foul on Phil Booth.,26,18
+7:37,2509,Dakota Mathias Turnover.,26,18
+7:37,222,Josh Hart Steal.,26,18
+7:33,222,Foul on Jalen Brunson.,26,18
+7:33,222,Jalen Brunson Turnover.,26,18
+7:16,2509,Dakota Mathias Turnover.,26,18
+7:16,222,Darryl Reynolds Steal.,26,18
+7:11,222,Darryl Reynolds made Layup.,28,18
+6:57,2509,Isaac Haas made Dunk. Assisted by Basil Smotherman.,28,20
+6:29,2509,Foul on Vince Edwards.,28,20
+6:29,222,Josh Hart missed Free Throw.,28,20
+6:29,2509,Vince Edwards Defensive Rebound.,28,20
+6:19,2509,Foul on Spike Albrecht.,28,20
+6:19,2509,Spike Albrecht Turnover.,28,20
+6:08,222,Kris Jenkins missed Three Point Jumper.,28,20
+6:08,2509,Isaac Haas Defensive Rebound.,28,20
+5:56,222,Foul on Eric Paschall.,28,20
+5:56,2509,Isaac Haas made Free Throw.,28,21
+5:56,2509,Isaac Haas made Free Throw.,28,22
+5:40,2509,Foul on Isaac Haas.,28,22
+5:40,222,Josh Hart made Free Throw.,29,22
+5:40,222,Josh Hart missed Free Throw.,29,22
+5:40,2509,Basil Smotherman Defensive Rebound.,29,22
+5:35,222,Foul on Jalen Brunson.,29,22
+5:35,2509,Spike Albrecht made Free Throw.,29,23
+5:35,2509,Spike Albrecht made Free Throw.,29,24
+5:15,222,Kris Jenkins missed Jumper.,29,24
+5:15,2509,Basil Smotherman Defensive Rebound.,29,24
+5:06,2509,Carsen Edwards missed Layup.,29,24
+5:06,222,Kris Jenkins Block.,29,24
+5:06,2509,Purdue Offensive Rebound.,29,24
+4:58,2509,Caleb Swanigan made Layup. Assisted by Vince Edwards.,29,26
+4:34,222,Josh Hart made Layup.,31,26
+4:21,2509,Carsen Edwards missed Layup.,31,26
+4:21,2509,Vince Edwards Offensive Rebound.,31,26
+4:17,2509,Spike Albrecht made Three Point Jumper. Assisted by Vince Edwards.,31,29
+4:00,222,Darryl Reynolds missed Jumper.,31,29
+4:00,2509,Carsen Edwards Defensive Rebound.,31,29
+3:50,2509,Caleb Swanigan made Layup. Assisted by Spike Albrecht.,31,31
+3:31,222,Phil Booth missed Jumper.,31,31
+3:31,222,Phil Booth Offensive Rebound.,31,31
+3:29,2509,Foul on Spike Albrecht.,31,31
+3:29,2509,Official TV Timeout,31,31
+3:29,222,Phil Booth made Free Throw.,32,31
+3:29,222,Phil Booth made Free Throw.,33,31
+3:15,2509,Vince Edwards missed Three Point Jumper.,33,31
+3:15,222,Villanova Defensive Rebound.,33,31
+2:53,222,Kris Jenkins missed Jumper.,33,31
+2:53,2509,Caleb Swanigan Defensive Rebound.,33,31
+2:41,2509,Carsen Edwards missed Jumper.,33,31
+2:41,222,Kris Jenkins Defensive Rebound.,33,31
+2:34,222,Josh Hart missed Three Point Jumper.,33,31
+2:34,2509,Basil Smotherman Defensive Rebound.,33,31
+2:25,2509,Vince Edwards made Three Point Jumper. Assisted by Basil Smotherman.,33,34
+1:59,222,Jalen Brunson made Layup.,35,34
+1:39,2509,Carsen Edwards missed Three Point Jumper.,35,34
+1:39,2509,Basil Smotherman Offensive Rebound.,35,34
+1:35,2509,Spike Albrecht missed Three Point Jumper.,35,34
+1:35,222,Mikal Bridges Defensive Rebound.,35,34
+1:11,222,Josh Hart missed Layup.,35,34
+1:11,222,Darryl Reynolds Offensive Rebound.,35,34
+1:08,222,Darryl Reynolds made Dunk.,37,34
+1:03,2509,Spike Albrecht missed Three Point Jumper.,37,34
+1:03,222,Darryl Reynolds Defensive Rebound.,37,34
+0:40,2509,Foul on Basil Smotherman.,37,34
+0:40,222,Josh Hart made Free Throw.,38,34
+0:40,222,Josh Hart made Free Throw.,39,34
+0:22,2509,Caleb Swanigan made Layup. Assisted by Vince Edwards.,39,36
+0:20,222,Villanova  Timeout,39,36
+0:05,222,Darryl Reynolds Turnover.,39,36
+0:05,2509,Basil Smotherman Steal.,39,36
+0:01,2509,P.J. Thompson made Three Point Jumper. Assisted by Vince Edwards.,39,39
+0:00,2509,End of 1st half,39,39
+20:00,2509,Jump Ball won by Purdue,39,39
+19:44,2509,P.J. Thompson made Jumper.,39,41
+19:13,222,Jalen Brunson made Jumper.,41,41
+18:54,222,Foul on Darryl Reynolds.,41,41
+18:46,2509,Caleb Swanigan missed Jumper.,41,41
+18:46,222,Darryl Reynolds Defensive Rebound.,41,41
+18:36,222,Josh Hart made Layup.,43,41
+18:25,2509,Vince Edwards Turnover.,43,41
+18:25,222,Kris Jenkins Steal.,43,41
+18:24,2509,Foul on Vince Edwards.,43,41
+18:11,222,Josh Hart made Layup.,45,41
+17:57,2509,Vince Edwards made Layup. Assisted by Caleb Swanigan.,45,43
+17:34,222,Darryl Reynolds made Layup. Assisted by Phil Booth.,47,43
+17:13,2509,Basil Smotherman made Layup. Assisted by Caleb Swanigan.,47,45
+16:54,222,Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.,50,45
+16:36,222,Foul on Darryl Reynolds.,50,45
+16:32,2509,Foul on Caleb Swanigan.,50,45
+16:32,2509,Caleb Swanigan Turnover.,50,45
+16:18,222,Eric Paschall made Three Point Jumper. Assisted by Jalen Brunson.,53,45
+15:59,2509,Dakota Mathias missed Three Point Jumper.,53,45
+15:59,222,Josh Hart Defensive Rebound.,53,45
+15:52,222,Josh Hart made Layup. Assisted by Mikal Bridges.,55,45
+15:52,2509,Foul on Dakota Mathias.,55,45
+15:52,2509,Official TV Timeout,55,45
+15:52,222,Josh Hart made Free Throw.,56,45
+15:33,2509,Dakota Mathias missed Jumper.,56,45
+15:33,222,Kris Jenkins Defensive Rebound.,56,45
+15:13,222,Eric Paschall missed Dunk.,56,45
+15:13,2509,Isaac Haas Defensive Rebound.,56,45
+14:58,2509,Isaac Haas made Jumper. Assisted by Basil Smotherman.,56,47
+14:58,222,Foul on Josh Hart.,56,47
+14:58,2509,Isaac Haas made Free Throw.,56,48
+14:44,222,Kris Jenkins made Layup.,58,48
+14:31,222,Foul on Eric Paschall.,58,48
+14:23,222,Foul on Kris Jenkins.,58,48
+14:23,2509,Isaac Haas made Free Throw.,58,49
+14:23,2509,Isaac Haas made Free Throw.,58,50
+14:05,222,Josh Hart Turnover.,58,50
+13:43,2509,Vince Edwards missed Jumper.,58,50
+13:43,2509,Caleb Swanigan Offensive Rebound.,58,50
+13:38,2509,Caleb Swanigan made Layup.,58,52
+13:17,222,Phil Booth missed Layup.,58,52
+13:17,2509,Isaac Haas Block.,58,52
+13:17,2509,Vince Edwards Defensive Rebound.,58,52
+13:11,222,Foul on Donte DiVincenzo.,58,52
+12:56,2509,Caleb Swanigan made Three Point Jumper. Assisted by Carsen Edwards.,58,55
+12:32,222,Kris Jenkins missed Jumper.,58,55
+12:32,2509,Spike Albrecht Defensive Rebound.,58,55
+12:11,2509,Isaac Haas missed Jumper.,58,55
+12:11,222,Darryl Reynolds Block.,58,55
+12:11,2509,Purdue Offensive Rebound.,58,55
+12:05,2509,Isaac Haas made Dunk. Assisted by Spike Albrecht.,58,57
+11:46,222,Mikal Bridges made Three Point Jumper. Assisted by Jalen Brunson.,61,57
+11:30,2509,Carsen Edwards made Three Point Jumper. Assisted by Spike Albrecht.,61,60
+11:08,2509,Foul on Dakota Mathias.,61,60
+11:08,2509,Official TV Timeout,61,60
+10:52,222,Eric Paschall Turnover.,61,60
+10:47,2509,Carsen Edwards missed Layup.,61,60
+10:47,222,Kris Jenkins Defensive Rebound.,61,60
+10:25,222,Eric Paschall made Jumper. Assisted by Mikal Bridges.,63,60
+10:25,2509,Foul on Vince Edwards.,63,60
+10:25,222,Eric Paschall made Free Throw.,64,60
+10:07,2509,Vince Edwards missed Jumper.,64,60
+10:07,2509,Purdue Offensive Rebound.,64,60
+9:57,2509,Caleb Swanigan Turnover.,64,60
+9:57,2509,Foul on Caleb Swanigan.,64,60
+9:37,222,Kris Jenkins missed Jumper.,64,60
+9:37,2509,Carsen Edwards Defensive Rebound.,64,60
+9:30,2509,Basil Smotherman made Jumper. Assisted by Carsen Edwards.,64,62
+9:30,222,Foul on Jalen Brunson.,64,62
+9:30,2509,Basil Smotherman made Free Throw.,64,63
+9:09,222,Josh Hart missed Jumper.,64,63
+9:09,222,Darryl Reynolds Offensive Rebound.,64,63
+9:00,222,Mikal Bridges missed Layup.,64,63
+9:00,2509,Basil Smotherman Defensive Rebound.,64,63
+8:57,222,Foul on Donte DiVincenzo.,64,63
+8:57,2509,Basil Smotherman missed Free Throw.,64,63
+8:57,222,Darryl Reynolds Defensive Rebound.,64,63
+8:46,222,Foul on Donte DiVincenzo.,64,63
+8:46,222,Donte DiVincenzo Turnover.,64,63
+8:34,2509,Basil Smotherman Turnover.,64,63
+8:34,222,Donte DiVincenzo Steal.,64,63
+8:13,222,Josh Hart missed Jumper.,64,63
+8:13,2509,Carsen Edwards Defensive Rebound.,64,63
+8:06,2509,Vince Edwards Turnover.,64,63
+7:54,222,Eric Paschall made Three Point Jumper. Assisted by Jalen Brunson.,67,63
+7:37,2509,Basil Smotherman Turnover.,67,63
+7:37,2509,Official TV Timeout,67,63
+7:14,222,Josh Hart missed Jumper.,67,63
+7:14,2509,Purdue Defensive Rebound.,67,63
+6:57,2509,Isaac Haas missed Layup.,67,63
+6:57,222,Darryl Reynolds Block.,67,63
+6:57,222,Darryl Reynolds Defensive Rebound.,67,63
+6:37,222,Kris Jenkins missed Three Point Jumper.,67,63
+6:34,222,Villanova Offensive Rebound.,67,63
+6:30,222,Kris Jenkins Turnover.,67,63
+6:19,2509,Isaac Haas made Jumper. Assisted by Vince Edwards.,67,65
+5:59,222,Jalen Brunson Turnover.,67,65
+5:59,2509,P.J. Thompson Steal.,67,65
+5:52,2509,Carsen Edwards Turnover.,67,65
+5:37,222,Eric Paschall made Dunk. Assisted by Kris Jenkins.,69,65
+5:25,2509,Purdue  Timeout,69,65
+5:18,2509,Caleb Swanigan missed Jumper.,69,65
+5:18,222,Phil Booth Defensive Rebound.,69,65
+4:54,222,Kris Jenkins missed Three Point Jumper.,69,65
+4:54,222,Mikal Bridges Offensive Rebound.,69,65
+4:49,222,Mikal Bridges Turnover.,69,65
+4:36,2509,Isaac Haas made Dunk. Assisted by Dakota Mathias.,69,67
+4:10,222,Josh Hart made Layup.,71,67
+3:48,2509,Isaac Haas Turnover.,71,67
+3:48,2509,Official TV Timeout,71,67
+3:30,222,Eric Paschall missed Jumper.,71,67
+3:30,2509,Caleb Swanigan Defensive Rebound.,71,67
+3:09,2509,P.J. Thompson missed Three Point Jumper.,71,67
+3:09,2509,Purdue Offensive Rebound.,71,67
+3:02,2509,Vince Edwards missed Three Point Jumper.,71,67
+3:02,222,Eric Paschall Defensive Rebound.,71,67
+2:43,2509,Foul on Dakota Mathias.,71,67
+2:43,222,Josh Hart made Free Throw.,72,67
+2:43,222,Josh Hart made Free Throw.,73,67
+2:33,222,Foul on Darryl Reynolds.,73,67
+2:33,2509,Isaac Haas made Free Throw.,73,68
+2:33,2509,Isaac Haas missed Free Throw.,73,68
+2:33,222,Mikal Bridges Defensive Rebound.,73,68
+2:16,222,Eric Paschall missed Three Point Jumper.,73,68
+2:16,2509,Caleb Swanigan Defensive Rebound.,73,68
+2:03,222,Foul on Eric Paschall.,73,68
+2:03,2509,Isaac Haas missed Free Throw.,73,68
+2:03,2509,Purdue Deadball Team Rebound.,73,68
+2:03,2509,Isaac Haas missed Free Throw.,73,68
+2:03,222,Josh Hart Defensive Rebound.,73,68
+1:37,222,Jump Ball won by Villanova,73,68
+1:35,222,Josh Hart missed Jumper.,73,68
+1:35,2509,Caleb Swanigan Defensive Rebound.,73,68
+1:32,222,Foul on Mikal Bridges.,73,68
+1:32,2509,Caleb Swanigan made Free Throw.,73,69
+1:32,2509,Caleb Swanigan made Free Throw.,73,70
+1:16,222,Josh Hart missed Jumper.,73,70
+1:16,2509,Isaac Haas Defensive Rebound.,73,70
+1:00,2509,Isaac Haas made Layup. Assisted by Caleb Swanigan.,73,72
+0:59,222,Villanova  Timeout,73,72
+0:43,2509,Foul on P.J. Thompson.,73,72
+0:43,222,Mikal Bridges made Free Throw.,74,72
+0:43,222,Mikal Bridges made Free Throw.,75,72
+0:33,2509,Isaac Haas made Layup. Assisted by Caleb Swanigan.,75,74
+0:31,2509,Purdue  Timeout,75,74
+0:24,2509,Foul on Dakota Mathias.,75,74
+0:24,222,Jalen Brunson made Free Throw.,76,74
+0:24,222,Jalen Brunson made Free Throw.,77,74
+0:15,2509,Isaac Haas made Layup. Assisted by Vince Edwards.,77,76
+0:14,2509,Purdue  Timeout,77,76
+0:14,222,Villanova  Timeout,77,76
+0:13,2509,Foul on Vince Edwards.,77,76
+0:13,222,Jalen Brunson made Free Throw.,78,76
+0:13,222,Jalen Brunson made Free Throw.,79,76
+0:05,2509,Caleb Swanigan missed Three Point Jumper.,79,76
+0:05,2509,Dakota Mathias Offensive Rebound.,79,76
+0:01,2509,Carsen Edwards missed Three Point Jumper.,79,76
+0:01,2509,Purdue Deadball Team Rebound.,79,76
+0:00,2509,End of Game,79,76

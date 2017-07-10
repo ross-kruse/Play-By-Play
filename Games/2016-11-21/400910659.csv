@@ -1,0 +1,329 @@
+George Washington,61,Georgia,45
+time,team_id,description,h_score,a_score
+20:00,61,Jump Ball won by Georgia,0,0
+19:44,61,Yante Maten made Jumper.,0,2
+19:16,45,Tyler Cavanaugh Turnover.,0,2
+19:16,61,Derek Ogbeide Steal.,0,2
+19:11,61,William Jackson II missed Three Point Jumper.,0,2
+19:11,45,Collin Smith Defensive Rebound.,0,2
+18:53,45,Jaren Sina missed Jumper.,0,2
+18:53,61,Juwan Parker Defensive Rebound.,0,2
+18:42,61,Yante Maten missed Three Point Jumper.,0,2
+18:42,45,Collin Smith Defensive Rebound.,0,2
+18:17,45,Tyler Cavanaugh missed Three Point Jumper.,0,2
+18:17,45,Yuta Watanabe Offensive Rebound.,0,2
+18:17,45,Yuta Watanabe made Two Point Tip Shot.,2,2
+18:07,45,Foul on Tyler Cavanaugh.,2,2
+17:57,61,Juwan Parker missed Jumper.,2,2
+17:57,45,Tyler Cavanaugh Defensive Rebound.,2,2
+17:49,45,Tyler Cavanaugh missed Three Point Jumper.,2,2
+17:49,61,J.J. Frazier Defensive Rebound.,2,2
+17:38,61,Derek Ogbeide missed Jumper.,2,2
+17:38,45,Tyler Cavanaugh Defensive Rebound.,2,2
+17:24,45,Collin Smith missed Jumper.,2,2
+17:24,61,Derek Ogbeide Defensive Rebound.,2,2
+16:56,61,J.J. Frazier made Jumper.,2,4
+16:39,45,Foul on Collin Smith.,2,4
+16:39,45,Collin Smith Turnover.,2,4
+16:28,61,Juwan Parker missed Jumper.,2,4
+16:28,45,Arnaldo Toro Defensive Rebound.,2,4
+16:00,45,Yuta Watanabe missed Jumper.,2,4
+16:00,61,Juwan Parker Defensive Rebound.,2,4
+15:51,61,J.J. Frazier made Layup. Assisted by Juwan Parker.,2,6
+15:29,45,Tyler Cavanaugh made Layup.,4,6
+15:18,61,J.J. Frazier made Three Point Jumper. Assisted by Juwan Parker.,4,9
+14:57,45,Jaren Sina missed Three Point Jumper.,4,9
+14:57,61,Juwan Parker Defensive Rebound.,4,9
+14:48,61,Yante Maten made Layup. Assisted by Juwan Parker.,4,11
+14:29,45,Yuta Watanabe made Three Point Jumper. Assisted by Matt Hart.,7,11
+14:05,45,Foul on Yuta Watanabe.,7,11
+14:05,61,Official TV Timeout,7,11
+14:05,61,J.J. Frazier made Free Throw.,7,12
+14:05,61,J.J. Frazier missed Free Throw.,7,12
+14:05,61,Georgia Deadball Team Rebound.,7,12
+14:05,61,J.J. Frazier made Free Throw.,7,13
+13:36,45,Tyler Cavanaugh missed Jumper.,7,13
+13:35,45,George Washington Offensive Rebound.,7,13
+13:34,45,George Washington  Turnover.,7,13
+13:28,61,Pape Diatta Turnover.,7,13
+13:28,45,Jaren Sina Steal.,7,13
+13:10,61,Foul on Mike Edwards.,7,13
+13:10,45,Patrick Steeves missed Free Throw.,7,13
+13:10,45,George Washington Deadball Team Rebound.,7,13
+13:10,45,Patrick Steeves made Free Throw.,8,13
+12:46,61,Pape Diatta missed Jumper.,8,13
+12:46,45,Jaren Sina Defensive Rebound.,8,13
+12:38,61,Foul on J.J. Frazier.,8,13
+12:33,45,Tyler Cavanaugh made Jumper. Assisted by Jaren Sina.,10,13
+12:21,61,Derek Ogbeide made Layup. Assisted by Jordan Harris.,10,15
+12:12,45,Tyler Cavanaugh made Three Point Jumper. Assisted by Jaren Sina.,13,15
+11:57,61,Houston Kessler missed Three Point Jumper.,13,15
+11:57,45,Jaren Sina Defensive Rebound.,13,15
+11:46,61,Foul on Houston Kessler.,13,15
+11:46,61,Official TV Timeout,13,15
+11:46,45,Tyler Cavanaugh made Free Throw.,14,15
+11:46,45,Tyler Cavanaugh made Free Throw.,15,15
+11:41,61,Jordan Harris made Layup.,15,17
+11:16,45,Patrick Steeves missed Jumper.,15,17
+11:16,61,J.J. Frazier Defensive Rebound.,15,17
+11:10,45,Foul on Collin Smith.,15,17
+11:09,61,J.J. Frazier missed Three Point Jumper.,15,17
+11:09,45,Kevin Marfo Defensive Rebound.,15,17
+10:53,45,Tyler Cavanaugh missed Three Point Jumper.,15,17
+10:53,45,Patrick Steeves Offensive Rebound.,15,17
+10:45,45,Tyler Cavanaugh Turnover.,15,17
+10:45,61,Jordan Harris Steal.,15,17
+10:31,45,Foul on Kevin Marfo.,15,17
+10:31,61,J.J. Frazier Turnover.,15,17
+10:31,45,Jordan Roland Steal.,15,17
+10:31,45,Jaren Sina missed Three Point Jumper.,15,17
+10:31,61,J.J. Frazier Defensive Rebound.,15,17
+10:18,61,J.J. Frazier missed Jumper.,15,17
+10:18,45,Patrick Steeves Defensive Rebound.,15,17
+10:13,45,Patrick Steeves Turnover.,15,17
+10:13,61,Yante Maten Steal.,15,17
+10:06,45,Foul on Jordan Roland.,15,17
+9:55,61,Jordan Harris Turnover.,15,17
+9:44,45,Arnaldo Toro made Layup.,17,17
+9:34,61,Juwan Parker missed Jumper.,17,17
+9:34,61,Mike Edwards Offensive Rebound.,17,17
+9:15,61,Jordan Harris made Three Point Jumper. Assisted by William Jackson II.,17,20
+8:52,45,Matt Hart missed Three Point Jumper.,17,20
+8:52,61,Juwan Parker Defensive Rebound.,17,20
+8:21,61,William Jackson II missed Jumper.,17,20
+8:21,61,Yante Maten Offensive Rebound.,17,20
+8:21,61,Yante Maten made Two Point Tip Shot.,17,22
+7:59,61,Foul on Mike Edwards.,17,22
+7:59,61,Official TV Timeout,17,22
+7:52,45,Yuta Watanabe made Jumper. Assisted by Tyler Cavanaugh.,19,22
+7:52,61,Foul on William Jackson II.,19,22
+7:52,45,Yuta Watanabe missed Free Throw.,19,22
+7:52,61,Derek Ogbeide Defensive Rebound.,19,22
+7:39,61,William Jackson II made Three Point Jumper. Assisted by Derek Ogbeide.,19,25
+7:20,45,Matt Hart made Three Point Jumper.,22,25
+6:57,61,Derek Ogbeide made Jumper. Assisted by Yante Maten.,22,27
+6:34,45,Matt Hart made Three Point Jumper. Assisted by Jaren Sina.,25,27
+6:04,61,William Jackson II missed Layup.,25,27
+6:04,45,Arnaldo Toro Defensive Rebound.,25,27
+5:53,45,Yuta Watanabe missed Three Point Jumper.,25,27
+5:53,61,Yante Maten Defensive Rebound.,25,27
+5:50,45,Foul on Arnaldo Toro.,25,27
+5:50,61,Yante Maten missed Free Throw.,25,27
+5:50,45,Arnaldo Toro Defensive Rebound.,25,27
+5:42,45,Matt Hart made Three Point Jumper. Assisted by Jaren Sina.,28,27
+5:26,61,Yante Maten made Dunk. Assisted by J.J. Frazier.,28,29
+5:02,45,Tyler Cavanaugh made Jumper.,30,29
+4:50,61,Yante Maten made Layup. Assisted by Derek Ogbeide.,30,31
+4:20,45,Foul on Matt Hart.,30,31
+4:20,45,Matt Hart Turnover.,30,31
+4:10,61,Derek Ogbeide made Layup. Assisted by Tyree Crump.,30,33
+3:55,45,Matt Hart missed Jumper.,30,33
+3:55,61,Pape Diatta Defensive Rebound.,30,33
+3:48,61,J.J. Frazier missed Three Point Jumper.,30,33
+3:48,45,Tyler Cavanaugh Defensive Rebound.,30,33
+3:39,45,George Washington  Timeout,30,33
+3:29,45,Yuta Watanabe missed Jumper.,30,33
+3:29,61,Yante Maten Defensive Rebound.,30,33
+3:14,61,Derek Ogbeide made Layup. Assisted by Pape Diatta.,30,35
+2:46,45,Tyler Cavanaugh made Three Point Jumper. Assisted by Jaren Sina.,33,35
+2:26,61,Yante Maten missed Three Point Jumper.,33,35
+2:26,45,Arnaldo Toro Defensive Rebound.,33,35
+2:08,45,Tyler Cavanaugh Turnover.,33,35
+1:56,61,Tyree Crump missed Three Point Jumper.,33,35
+1:56,45,George Washington Defensive Rebound.,33,35
+1:39,61,Foul on Juwan Parker.,33,35
+1:39,45,Patrick Steeves made Free Throw.,34,35
+1:39,45,Patrick Steeves missed Free Throw.,34,35
+1:39,61,Juwan Parker Defensive Rebound.,34,35
+1:33,61,Juwan Parker missed Three Point Jumper.,34,35
+1:33,45,Arnaldo Toro Defensive Rebound.,34,35
+1:15,45,Jaren Sina missed Three Point Jumper.,34,35
+1:15,61,Yante Maten Defensive Rebound.,34,35
+1:07,61,Juwan Parker missed Jumper.,34,35
+1:07,45,Jaren Sina Defensive Rebound.,34,35
+0:51,45,Yuta Watanabe missed Three Point Jumper.,34,35
+0:51,61,Yante Maten Defensive Rebound.,34,35
+0:42,61,J.J. Frazier missed Layup.,34,35
+0:42,61,Houston Kessler Offensive Rebound.,34,35
+0:20,61,J.J. Frazier missed Jumper.,34,35
+0:20,45,Tyler Cavanaugh Block.,34,35
+0:20,45,Jaren Sina Defensive Rebound.,34,35
+0:01,61,Foul on Houston Kessler.,34,35
+0:01,45,Arnaldo Toro made Free Throw.,35,35
+0:01,45,Arnaldo Toro made Free Throw.,36,35
+0:00,61,End of 1st half,36,35
+20:00,45,Jump Ball won by George Washington,36,35
+19:37,45,Collin Smith made Jumper.,38,35
+19:22,61,William Jackson II made Three Point Jumper. Assisted by Juwan Parker.,38,38
+19:09,45,Tyler Cavanaugh made Three Point Jumper. Assisted by Yuta Watanabe.,41,38
+18:53,61,Yante Maten missed Jumper.,41,38
+18:53,45,Tyler Cavanaugh Defensive Rebound.,41,38
+18:43,61,Foul on Derek Ogbeide.,41,38
+18:33,45,Jaren Sina Turnover.,41,38
+18:33,61,J.J. Frazier Steal.,41,38
+18:30,61,William Jackson II Turnover.,41,38
+18:15,45,Tyler Cavanaugh missed Three Point Jumper.,41,38
+18:15,61,William Jackson II Defensive Rebound.,41,38
+17:58,45,Foul on Matt Hart.,41,38
+17:58,61,Juwan Parker made Free Throw.,41,39
+17:58,61,Juwan Parker made Free Throw.,41,40
+17:48,45,Tyler Cavanaugh missed Jumper.,41,40
+17:48,61,Mike Edwards Defensive Rebound.,41,40
+17:32,45,Foul on Collin Smith.,41,40
+17:32,61,Mike Edwards made Free Throw.,41,41
+17:32,61,Mike Edwards made Free Throw.,41,42
+17:17,61,Foul on Yante Maten.,41,42
+17:17,45,Yuta Watanabe missed Free Throw.,41,42
+17:17,45,George Washington Deadball Team Rebound.,41,42
+17:17,45,Yuta Watanabe made Free Throw.,42,42
+17:12,61,Yante Maten missed Jumper.,42,42
+17:12,45,Jaren Sina Defensive Rebound.,42,42
+16:44,45,Matt Hart missed Jumper.,42,42
+16:44,61,Juwan Parker Defensive Rebound.,42,42
+16:39,61,Mike Edwards made Dunk. Assisted by J.J. Frazier.,42,44
+16:19,45,Yuta Watanabe Turnover.,42,44
+16:19,61,J.J. Frazier Steal.,42,44
+15:54,61,Mike Edwards made Jumper.,42,46
+15:35,45,Matt Hart made Three Point Jumper. Assisted by Tyler Cavanaugh.,45,46
+15:09,61,J.J. Frazier Turnover.,45,46
+15:09,45,Jaren Sina Steal.,45,46
+14:59,61,Foul on Juwan Parker.,45,46
+14:59,61,Official TV Timeout,45,46
+14:59,45,Yuta Watanabe missed Free Throw.,45,46
+14:59,45,George Washington Deadball Team Rebound.,45,46
+14:59,45,Yuta Watanabe made Free Throw.,46,46
+14:46,61,Pape Diatta made Jumper.,46,48
+14:31,45,Matt Hart made Three Point Jumper. Assisted by Yuta Watanabe.,49,48
+14:03,61,Derek Ogbeide missed Jumper.,49,48
+14:03,45,Arnaldo Toro Defensive Rebound.,49,48
+13:44,45,Tyler Cavanaugh missed Jumper.,49,48
+13:44,61,Pape Diatta Defensive Rebound.,49,48
+13:27,61,Mike Edwards made Dunk. Assisted by Jordan Harris.,49,50
+13:27,45,Foul on Arnaldo Toro.,49,50
+13:27,61,Mike Edwards missed Free Throw.,49,50
+13:27,45,Tyler Cavanaugh Defensive Rebound.,49,50
+13:07,45,Patrick Steeves made Jumper.,51,50
+13:07,61,Foul on Mike Edwards.,51,50
+13:07,45,Patrick Steeves made Free Throw.,52,50
+12:55,61,Juwan Parker made Three Point Jumper. Assisted by J.J. Frazier.,52,53
+12:30,45,Patrick Steeves made Layup.,54,53
+12:30,61,Foul on Houston Kessler.,54,53
+12:30,61,Georgia  Timeout,54,53
+12:30,45,Patrick Steeves made Free Throw.,55,53
+12:18,61,Yante Maten made Jumper.,55,55
+11:58,45,Matt Hart made Jumper.,57,55
+11:43,45,Foul on Matt Hart.,57,55
+11:43,61,Official TV Timeout,57,55
+11:42,61,J.J. Frazier made Three Point Jumper. Assisted by Juwan Parker.,57,58
+11:10,45,Yuta Watanabe missed Three Point Jumper.,57,58
+11:10,61,Juwan Parker Defensive Rebound.,57,58
+10:49,61,J.J. Frazier missed Jumper.,57,58
+10:49,61,Juwan Parker Offensive Rebound.,57,58
+10:49,61,Juwan Parker made Two Point Tip Shot.,57,60
+10:49,45,Foul on Tyler Cavanaugh.,57,60
+10:49,61,Juwan Parker made Free Throw.,57,61
+10:22,45,Collin Smith Turnover.,57,61
+10:22,61,Jordan Harris Steal.,57,61
+10:15,61,Foul on Juwan Parker.,57,61
+10:15,61,Juwan Parker Turnover.,57,61
+10:03,45,Collin Smith missed Jumper.,57,61
+10:03,61,Juwan Parker Defensive Rebound.,57,61
+9:50,45,Foul on Collin Smith.,57,61
+9:50,61,Yante Maten made Free Throw.,57,62
+9:50,61,Yante Maten made Free Throw.,57,63
+9:31,61,Foul on Yante Maten.,57,63
+9:31,45,Arnaldo Toro made Free Throw.,58,63
+9:31,45,Arnaldo Toro missed Free Throw.,58,63
+9:31,61,Derek Ogbeide Defensive Rebound.,58,63
+9:06,61,Derek Ogbeide made Dunk.,58,65
+8:46,45,Arnaldo Toro missed Jumper.,58,65
+8:46,61,Yante Maten Defensive Rebound.,58,65
+8:34,61,Derek Ogbeide missed Jumper.,58,65
+8:34,45,Arnaldo Toro Defensive Rebound.,58,65
+8:18,61,Foul on Yante Maten.,58,65
+8:18,45,Tyler Cavanaugh made Free Throw.,59,65
+8:18,45,Tyler Cavanaugh missed Free Throw.,59,65
+8:18,61,Derek Ogbeide Defensive Rebound.,59,65
+7:47,61,Georgia  Turnover.,59,65
+7:47,61,Official TV Timeout,59,65
+7:30,61,Foul on Mike Edwards.,59,65
+7:30,45,Arnaldo Toro made Free Throw.,60,65
+7:30,45,Arnaldo Toro made Free Throw.,61,65
+7:11,61,Yante Maten missed Jumper.,61,65
+7:11,45,George Washington Defensive Rebound.,61,65
+6:47,45,Tyler Cavanaugh missed Jumper.,61,65
+6:47,61,Pape Diatta Defensive Rebound.,61,65
+6:35,45,Foul on Tyler Cavanaugh.,61,65
+6:35,61,Yante Maten made Free Throw.,61,66
+6:35,61,Yante Maten made Free Throw.,61,67
+6:13,45,Tyler Cavanaugh missed Jumper.,61,67
+6:13,45,Yuta Watanabe Offensive Rebound.,61,67
+6:05,45,Yuta Watanabe made Jumper.,63,67
+6:05,61,Foul on Houston Kessler.,63,67
+6:05,45,Patrick Steeves Turnover.,63,67
+5:42,45,Foul on Yuta Watanabe.,63,67
+5:42,61,Yante Maten missed Free Throw.,63,67
+5:42,45,Tyler Cavanaugh Defensive Rebound.,63,67
+5:27,45,Collin Smith made Jumper. Assisted by Yuta Watanabe.,65,67
+5:13,61,J.J. Frazier missed Three Point Jumper.,65,67
+5:13,61,Juwan Parker Offensive Rebound.,65,67
+5:04,45,Foul on Yuta Watanabe.,65,67
+5:04,61,Juwan Parker missed Free Throw.,65,67
+5:04,61,Georgia Deadball Team Rebound.,65,67
+5:04,61,Juwan Parker made Free Throw.,65,68
+4:42,45,Yuta Watanabe made Layup.,67,68
+4:42,61,Foul on Yante Maten.,67,68
+4:42,45,Yuta Watanabe made Free Throw.,68,68
+4:27,61,Yante Maten missed Layup.,68,68
+4:27,45,Yuta Watanabe Defensive Rebound.,68,68
+4:18,45,Yuta Watanabe missed Three Point Jumper.,68,68
+4:18,61,Derek Ogbeide Block.,68,68
+4:18,61,Pape Diatta Defensive Rebound.,68,68
+4:03,61,Yante Maten made Jumper.,68,70
+4:03,61,Georgia  Timeout,68,70
+3:38,45,Patrick Steeves missed Layup.,68,70
+3:38,45,Arnaldo Toro Offensive Rebound.,68,70
+3:36,61,Foul on Yante Maten.,68,70
+3:36,45,Arnaldo Toro missed Free Throw.,68,70
+3:36,45,George Washington Deadball Team Rebound.,68,70
+3:36,45,Arnaldo Toro missed Free Throw.,68,70
+3:36,61,Derek Ogbeide Defensive Rebound.,68,70
+3:18,45,Foul on Patrick Steeves.,68,70
+3:18,61,Pape Diatta missed Free Throw.,68,70
+3:18,61,Georgia Deadball Team Rebound.,68,70
+3:18,61,Pape Diatta made Free Throw.,68,71
+2:58,45,Patrick Steeves missed Three Point Jumper.,68,71
+2:58,45,George Washington Offensive Rebound.,68,71
+2:45,45,Tyler Cavanaugh missed Jumper.,68,71
+2:45,61,Derek Ogbeide Defensive Rebound.,68,71
+2:21,61,J.J. Frazier made Layup.,68,73
+2:10,45,Matt Hart missed Jumper.,68,73
+2:10,61,J.J. Frazier Defensive Rebound.,68,73
+1:38,61,Pape Diatta missed Jumper.,68,73
+1:38,61,Derek Ogbeide Offensive Rebound.,68,73
+1:33,45,Foul on Arnaldo Toro.,68,73
+1:33,61,Derek Ogbeide missed Free Throw.,68,73
+1:33,61,Georgia Deadball Team Rebound.,68,73
+1:33,61,Derek Ogbeide made Free Throw.,68,74
+1:12,45,Tyler Cavanaugh made Three Point Jumper. Assisted by Matt Hart.,71,74
+0:42,61,J.J. Frazier missed Three Point Jumper.,71,74
+0:42,61,Derek Ogbeide Offensive Rebound.,71,74
+0:42,61,Derek Ogbeide missed Two Point Tip Shot.,71,74
+0:42,61,Pape Diatta Offensive Rebound.,71,74
+0:42,61,Pape Diatta made Two Point Tip Shot.,71,76
+0:42,45,Foul on Matt Hart.,71,76
+0:42,61,Pape Diatta made Free Throw.,71,77
+0:35,45,George Washington  Timeout,71,77
+0:31,45,Jaren Sina missed Three Point Jumper.,71,77
+0:31,61,J.J. Frazier Defensive Rebound.,71,77
+0:25,45,Foul on Yuta Watanabe.,71,77
+0:25,61,J.J. Frazier made Free Throw.,71,78
+0:25,61,J.J. Frazier made Free Throw.,71,79
+0:18,45,Jaren Sina made Layup.,73,79
+0:16,45,George Washington  Timeout,73,79
+0:14,45,Foul on Matt Hart.,73,79
+0:14,61,J.J. Frazier made Free Throw.,73,80
+0:14,61,J.J. Frazier made Free Throw.,73,81
+0:12,45,Jaren Sina missed Jumper.,73,81
+0:12,61,Juwan Parker Defensive Rebound.,73,81
+0:00,61,End of Game,73,81

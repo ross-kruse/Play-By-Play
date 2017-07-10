@@ -1,0 +1,328 @@
+Alabama,251,Texas,333
+time,team_id,description,h_score,a_score
+20:00,251,Jump Ball won by Texas,0,0
+19:46,251,Foul on Jarrett Allen.,0,0
+19:46,251,Jarrett Allen Turnover.,0,0
+19:38,333,Jimmie Taylor missed Jumper.,0,0
+19:38,251,Tevin Mack Defensive Rebound.,0,0
+19:06,251,Andrew Jones Turnover.,0,0
+18:49,333,Braxton Key missed Three Point Jumper.,0,0
+18:49,333,Jimmie Taylor Offensive Rebound.,0,0
+18:42,333,Jimmie Taylor missed Jumper.,0,0
+18:42,251,Tevin Mack Defensive Rebound.,0,0
+18:34,251,Andrew Jones Turnover.,0,0
+18:09,333,Braxton Key made Layup.,2,0
+17:50,251,Shaquille Cleare made Jumper.,2,2
+17:32,333,Corban Collins made Three Point Jumper.,5,2
+17:15,251,Shaquille Cleare missed Jumper.,5,2
+17:15,333,Nick King Defensive Rebound.,5,2
+17:03,251,Foul on Andrew Jones.,5,2
+17:00,333,Braxton Key made Dunk.,7,2
+16:39,251,Tevin Mack missed Jumper.,7,2
+16:39,333,Dazon Ingram Defensive Rebound.,7,2
+16:31,333,Corban Collins made Three Point Jumper. Assisted by Dazon Ingram.,10,2
+16:27,251,Texas  Timeout,10,2
+16:09,251,Jarrett Allen made Jumper.,10,4
+15:54,333,Jimmie Taylor made Dunk. Assisted by Dazon Ingram.,12,4
+15:20,251,Kerwin Roach Jr. missed Jumper.,12,4
+15:20,251,James Banks Offensive Rebound.,12,4
+15:14,251,James Banks made Jumper.,12,6
+14:50,251,Foul on Kerwin Roach Jr..,12,6
+14:44,333,Nick King Turnover.,12,6
+14:28,251,Jacob Young made Three Point Jumper. Assisted by Tevin Mack.,12,9
+14:10,333,Corban Collins made Three Point Jumper. Assisted by Braxton Key.,15,9
+13:46,251,Eric Davis Jr. missed Three Point Jumper.,15,9
+13:46,333,Alabama Defensive Rebound.,15,9
+13:14,333,Riley Norris made Jumper.,17,9
+13:01,251,Kendal Yancy made Layup.,17,11
+12:37,333,Avery Johnson Jr. Turnover.,17,11
+12:26,251,Tevin Mack missed Jumper.,17,11
+12:26,333,Alabama Defensive Rebound.,17,11
+11:59,333,Jump Ball won by Alabama,17,11
+11:59,251,Official TV Timeout,17,11
+11:57,333,Riley Norris made Jumper.,19,11
+11:51,251,Jacob Young made Three Point Jumper. Assisted by Eric Davis Jr..,19,14
+11:23,333,Shannon Hale missed Three Point Jumper.,19,14
+11:23,333,Riley Norris Offensive Rebound.,19,14
+11:01,251,Foul on Jarrett Allen.,19,14
+11:01,333,Shannon Hale made Free Throw.,20,14
+11:01,333,Shannon Hale made Free Throw.,21,14
+10:44,251,Eric Davis Jr. missed Jumper.,21,14
+10:44,333,Donta Hall Defensive Rebound.,21,14
+10:35,333,Shannon Hale missed Three Point Jumper.,21,14
+10:35,333,Riley Norris Offensive Rebound.,21,14
+10:28,333,Shannon Hale made Layup. Assisted by Dazon Ingram.,23,14
+10:18,333,Foul on Dazon Ingram.,23,14
+10:18,251,Kerwin Roach Jr. made Free Throw.,23,15
+10:18,251,Kerwin Roach Jr. made Free Throw.,23,16
+10:05,333,Corban Collins missed Three Point Jumper.,23,16
+10:05,251,Shaquille Cleare Defensive Rebound.,23,16
+9:42,251,Shaquille Cleare missed Jumper.,23,16
+9:42,333,Donta Hall Block.,23,16
+9:42,333,Braxton Key Defensive Rebound.,23,16
+9:32,333,Donta Hall made Dunk. Assisted by Dazon Ingram.,25,16
+9:11,333,Foul on Donta Hall.,25,16
+9:11,251,Kerwin Roach Jr. made Free Throw.,25,17
+9:11,251,Kerwin Roach Jr. made Free Throw.,25,18
+9:02,333,Dazon Ingram missed Three Point Jumper.,25,18
+9:02,251,Andrew Jones Defensive Rebound.,25,18
+8:42,251,Kerwin Roach Jr. missed Layup.,25,18
+8:42,251,Kerwin Roach Jr. Offensive Rebound.,25,18
+8:35,251,Tevin Mack missed Three Point Jumper.,25,18
+8:35,333,Braxton Key Defensive Rebound.,25,18
+8:19,333,Braxton Key missed Three Point Jumper.,25,18
+8:19,251,Andrew Jones Defensive Rebound.,25,18
+7:53,251,Shaquille Cleare made Layup. Assisted by Kerwin Roach Jr..,25,20
+7:24,333,Dazon Ingram missed Three Point Jumper.,25,20
+7:24,333,Donta Hall Offensive Rebound.,25,20
+7:18,251,Foul on Jacob Young.,25,20
+7:18,251,Official TV Timeout,25,20
+7:18,333,Donta Hall missed Free Throw.,25,20
+7:18,333,Alabama Deadball Team Rebound.,25,20
+7:18,333,Donta Hall missed Free Throw.,25,20
+7:18,333,Braxton Key Offensive Rebound.,25,20
+7:13,333,Nick King missed Jumper.,25,20
+7:13,251,Andrew Jones Defensive Rebound.,25,20
+7:09,333,Foul on Braxton Key.,25,20
+7:01,333,Foul on Nick King.,25,20
+7:01,251,Kendal Yancy made Free Throw.,25,21
+7:01,251,Kendal Yancy made Free Throw.,25,22
+6:53,333,Avery Johnson Jr. missed Three Point Jumper.,25,22
+6:53,333,Avery Johnson Jr. Offensive Rebound.,25,22
+6:46,333,Dazon Ingram made Layup.,27,22
+6:37,251,Andrew Jones missed Three Point Jumper.,27,22
+6:37,333,Jimmie Taylor Defensive Rebound.,27,22
+6:08,333,Nick King made Three Point Jumper. Assisted by Dazon Ingram.,30,22
+5:34,251,Andrew Jones missed Three Point Jumper.,30,22
+5:34,251,James Banks Offensive Rebound.,30,22
+5:26,251,Tevin Mack missed Jumper.,30,22
+5:26,333,Braxton Key Defensive Rebound.,30,22
+5:01,333,Avery Johnson Jr. made Layup.,32,22
+4:46,251,Texas  Timeout,32,22
+4:33,251,Jarrett Allen Turnover.,32,22
+4:33,333,Dazon Ingram Steal.,32,22
+4:14,333,Avery Johnson Jr. Turnover.,32,22
+3:58,251,Foul on Andrew Jones.,32,22
+3:58,251,Andrew Jones Turnover.,32,22
+3:58,251,Official TV Timeout,32,22
+3:48,333,Jimmie Taylor missed Jumper.,32,22
+3:48,251,Tevin Mack Defensive Rebound.,32,22
+3:35,251,Eric Davis Jr. missed Layup.,32,22
+3:35,251,Tevin Mack Offensive Rebound.,32,22
+3:31,333,Foul on Corban Collins.,32,22
+3:28,251,Jarrett Allen made Layup.,32,24
+3:02,333,Braxton Key made Three Point Jumper. Assisted by Corban Collins.,35,24
+2:34,251,Tevin Mack missed Three Point Jumper.,35,24
+2:34,333,Donta Hall Defensive Rebound.,35,24
+2:23,333,Riley Norris missed Three Point Jumper.,35,24
+2:23,251,Texas Defensive Rebound.,35,24
+2:13,251,Kerwin Roach Jr. Turnover.,35,24
+2:13,333,Dazon Ingram Steal.,35,24
+2:08,333,Dazon Ingram missed Layup.,35,24
+2:08,251,Jacob Young Defensive Rebound.,35,24
+1:50,333,Foul on Donta Hall.,35,24
+1:49,333,Foul on Jimmie Taylor.,35,24
+1:49,251,Kerwin Roach Jr. made Free Throw.,35,25
+1:49,251,Kerwin Roach Jr. made Free Throw.,35,26
+1:39,333,Braxton Key missed Three Point Jumper.,35,26
+1:39,251,Kerwin Roach Jr. Defensive Rebound.,35,26
+1:18,251,Shaquille Cleare missed Jumper.,35,26
+1:18,333,Braxton Key Defensive Rebound.,35,26
+1:09,333,Alabama  Timeout,35,26
+0:59,333,Corban Collins Turnover.,35,26
+0:52,251,Tevin Mack Turnover.,35,26
+0:52,333,Riley Norris Steal.,35,26
+0:30,333,Braxton Key missed Layup.,35,26
+0:30,251,Jarrett Allen Block.,35,26
+0:30,251,Eric Davis Jr. Defensive Rebound.,35,26
+0:19,251,Foul on Kerwin Roach Jr..,35,26
+0:19,251,Kerwin Roach Jr. Turnover.,35,26
+0:08,333,Shannon Hale made Three Point Jumper. Assisted by Corban Collins.,38,26
+0:00,251,End of 1st half,38,26
+20:00,251,Jump Ball won by Texas,38,26
+19:48,251,Jarrett Allen made Layup. Assisted by Kerwin Roach Jr..,38,28
+19:24,333,Jimmie Taylor Turnover.,38,28
+19:03,333,Foul on Braxton Key.,38,28
+19:03,251,Shaquille Cleare made Free Throw.,38,29
+19:03,251,Shaquille Cleare missed Free Throw.,38,29
+19:03,333,Dazon Ingram Defensive Rebound.,38,29
+18:56,251,Foul on Kerwin Roach Jr..,38,29
+18:43,251,Foul on Shaquille Cleare.,38,29
+18:43,333,Braxton Key Turnover.,38,29
+18:31,251,Tevin Mack missed Jumper.,38,29
+18:31,333,Jimmie Taylor Block.,38,29
+18:31,251,Tevin Mack Offensive Rebound.,38,29
+18:24,251,Jacob Young missed Three Point Jumper.,38,29
+18:24,333,Braxton Key Defensive Rebound.,38,29
+18:04,333,Foul on Jimmie Taylor.,38,29
+18:04,333,Jimmie Taylor Turnover.,38,29
+17:41,251,Shaquille Cleare made Layup.,38,31
+17:31,333,Alabama  Timeout,38,31
+17:22,333,Shannon Hale missed Dunk.,38,31
+17:22,251,Shaquille Cleare Block.,38,31
+17:22,251,Andrew Jones Defensive Rebound.,38,31
+17:15,251,Jacob Young missed Three Point Jumper.,38,31
+17:15,333,Dazon Ingram Defensive Rebound.,38,31
+17:06,251,Foul on Andrew Jones.,38,31
+17:06,333,Braxton Key missed Free Throw.,38,31
+17:06,333,Alabama Deadball Team Rebound.,38,31
+17:06,333,Braxton Key made Free Throw.,39,31
+16:48,251,Tevin Mack made Jumper.,39,33
+16:48,333,Foul on Donta Hall.,39,33
+16:48,251,Tevin Mack missed Free Throw.,39,33
+16:48,251,Eric Davis Jr. Offensive Rebound.,39,33
+16:35,333,Foul on Riley Norris.,39,33
+16:32,251,Andrew Jones made Three Point Jumper. Assisted by Tevin Mack.,39,36
+16:15,333,Riley Norris made Three Point Jumper. Assisted by Dazon Ingram.,42,36
+16:05,251,Andrew Jones missed Layup.,42,36
+16:05,251,Texas Offensive Rebound.,42,36
+15:59,251,Official TV Timeout,42,36
+15:59,333,Foul on Dazon Ingram.,42,36
+15:54,251,Foul on Tevin Mack.,42,36
+15:54,251,Tevin Mack Turnover.,42,36
+15:54,333,Dazon Ingram Turnover.,42,36
+15:47,251,Jarrett Allen made Layup.,42,38
+15:14,333,Dazon Ingram missed Jumper.,42,38
+15:14,251,James Banks Defensive Rebound.,42,38
+15:04,251,Foul on Jarrett Allen.,42,38
+15:04,251,Jarrett Allen Turnover.,42,38
+14:47,333,Braxton Key missed Jumper.,42,38
+14:41,251,Tevin Mack Defensive Rebound.,42,38
+14:33,251,Kerwin Roach Jr. made Dunk. Assisted by Shaquille Cleare.,42,40
+14:10,333,Shannon Hale made Layup.,44,40
+13:39,251,Shaquille Cleare made Jumper.,44,42
+13:15,333,Shannon Hale missed Jumper.,44,42
+13:15,251,Shaquille Cleare Defensive Rebound.,44,42
+12:47,251,Kerwin Roach Jr. made Layup.,44,44
+12:47,333,Foul on Shannon Hale.,44,44
+12:47,251,Kerwin Roach Jr. made Free Throw.,44,45
+12:24,333,Dazon Ingram made Three Point Jumper.,47,45
+11:57,251,Tevin Mack missed Jumper.,47,45
+11:57,333,Dazon Ingram Defensive Rebound.,47,45
+11:50,251,Official TV Timeout,47,45
+11:47,333,Dazon Ingram Turnover.,47,45
+11:47,251,Eric Davis Jr. Steal.,47,45
+11:43,251,Tevin Mack made Layup. Assisted by Eric Davis Jr..,47,47
+11:34,251,Foul on Jarrett Allen.,47,47
+11:34,333,Braxton Key missed Free Throw.,47,47
+11:34,333,Alabama Deadball Team Rebound.,47,47
+11:34,333,Braxton Key made Free Throw.,48,47
+11:10,251,Jump Ball won by Texas,48,47
+11:10,251,Texas  Timeout,48,47
+11:08,251,Kerwin Roach Jr. missed Three Point Jumper.,48,47
+11:08,333,Braxton Key Defensive Rebound.,48,47
+10:42,333,Avery Johnson Jr. made Jumper.,50,47
+10:26,251,Kerwin Roach Jr. missed Layup.,50,47
+10:26,333,Jimmie Taylor Block.,50,47
+10:26,251,Texas Offensive Rebound.,50,47
+10:09,251,Tevin Mack made Layup. Assisted by Andrew Jones.,50,49
+9:42,333,Avery Johnson Jr. made Three Point Jumper. Assisted by Riley Norris.,53,49
+9:21,251,Tevin Mack made Three Point Jumper. Assisted by Kerwin Roach Jr..,53,52
+8:53,251,Foul on Andrew Jones.,53,52
+8:53,333,Riley Norris made Free Throw.,54,52
+8:53,333,Riley Norris made Free Throw.,55,52
+8:35,251,Kerwin Roach Jr. Turnover.,55,52
+8:32,333,Avery Johnson Jr. missed Three Point Jumper.,55,52
+8:32,251,Tevin Mack Defensive Rebound.,55,52
+8:22,251,Jacob Young missed Jumper.,55,52
+8:22,251,Shaquille Cleare Offensive Rebound.,55,52
+8:18,251,Shaquille Cleare missed Two Point Tip Shot.,55,52
+8:18,333,Donta Hall Defensive Rebound.,55,52
+8:06,333,Riley Norris Turnover.,55,52
+8:06,251,Tevin Mack Steal.,55,52
+8:01,251,Jacob Young made Layup.,55,54
+7:40,333,Corban Collins missed Three Point Jumper.,55,54
+7:40,251,Shaquille Cleare Defensive Rebound.,55,54
+7:27,333,Foul on Avery Johnson Jr..,55,54
+7:27,251,Official TV Timeout,55,54
+7:27,251,Kerwin Roach Jr. made Free Throw.,55,55
+7:27,251,Kerwin Roach Jr. made Free Throw.,55,56
+7:03,333,Dazon Ingram made Layup.,57,56
+6:32,251,Shaquille Cleare made Jumper.,57,58
+6:06,333,Dazon Ingram Turnover.,57,58
+5:59,251,Eric Davis Jr. made Layup.,57,60
+5:45,333,Alabama  Timeout,57,60
+5:31,251,Foul on James Banks.,57,60
+5:31,333,Donta Hall made Free Throw.,58,60
+5:31,333,Donta Hall made Free Throw.,59,60
+5:14,251,James Banks missed Layup.,59,60
+5:14,333,Donta Hall Block.,59,60
+5:14,251,Texas Offensive Rebound.,59,60
+5:05,333,Foul on Corban Collins.,59,60
+5:05,251,Kerwin Roach Jr. missed Free Throw.,59,60
+5:05,333,Donta Hall Defensive Rebound.,59,60
+4:55,251,Foul on Eric Davis Jr..,59,60
+4:55,333,Dazon Ingram missed Free Throw.,59,60
+4:55,333,Alabama Deadball Team Rebound.,59,60
+4:55,333,Dazon Ingram made Free Throw.,60,60
+4:42,251,Kerwin Roach Jr. Turnover.,60,60
+4:35,333,Dazon Ingram made Dunk. Assisted by Donta Hall.,62,60
+4:09,251,Tevin Mack made Jumper.,62,62
+3:59,251,Foul on Shaquille Cleare.,62,62
+3:59,251,Official TV Timeout,62,62
+3:59,333,Donta Hall missed Free Throw.,62,62
+3:59,333,Alabama Deadball Team Rebound.,62,62
+3:59,333,Donta Hall made Free Throw.,63,62
+3:47,251,Jarrett Allen missed Layup.,63,62
+3:47,333,Donta Hall Block.,63,62
+3:47,251,Eric Davis Jr. Offensive Rebound.,63,62
+3:43,251,Jacob Young made Three Point Jumper. Assisted by Eric Davis Jr..,63,65
+3:18,333,Alabama  Timeout,63,65
+3:14,333,Braxton Key missed Jumper.,63,65
+3:14,251,Andrew Jones Defensive Rebound.,63,65
+3:03,251,Andrew Jones made Layup.,63,67
+2:42,251,Foul on Eric Davis Jr..,63,67
+2:42,333,Braxton Key missed Free Throw.,63,67
+2:42,333,Alabama Deadball Team Rebound.,63,67
+2:42,333,Braxton Key missed Free Throw.,63,67
+2:42,251,Andrew Jones Defensive Rebound.,63,67
+2:15,251,Kerwin Roach Jr. missed Jumper.,63,67
+2:15,333,Donta Hall Block.,63,67
+2:15,251,Texas Offensive Rebound.,63,67
+2:13,251,Jacob Young missed Three Point Jumper.,63,67
+2:13,333,Alabama Deadball Team Rebound.,63,67
+2:02,333,Riley Norris missed Three Point Jumper.,63,67
+2:02,251,Kerwin Roach Jr. Defensive Rebound.,63,67
+1:24,333,Foul on Braxton Key.,63,67
+1:24,251,Jarrett Allen missed Free Throw.,63,67
+1:24,333,Riley Norris Defensive Rebound.,63,67
+1:17,333,Dazon Ingram missed Layup.,63,67
+1:17,333,Dazon Ingram Offensive Rebound.,63,67
+1:10,333,Braxton Key missed Three Point Jumper.,63,67
+1:10,251,Kerwin Roach Jr. Defensive Rebound.,63,67
+1:02,333,Foul on Riley Norris.,63,67
+1:02,251,Kerwin Roach Jr. missed Free Throw.,63,67
+1:02,251,Texas Deadball Team Rebound.,63,67
+1:02,251,Kerwin Roach Jr. made Free Throw.,63,68
+0:59,333,Ar'Mond Davis missed Three Point Jumper.,63,68
+0:59,251,Texas Deadball Team Rebound.,63,68
+0:56,333,Foul on Shannon Hale.,63,68
+0:56,251,Kerwin Roach Jr. missed Free Throw.,63,68
+0:56,251,Texas Deadball Team Rebound.,63,68
+0:56,251,Kerwin Roach Jr. missed Free Throw.,63,68
+0:56,333,Dazon Ingram Defensive Rebound.,63,68
+0:49,333,Braxton Key missed Layup.,63,68
+0:49,251,Andrew Jones Defensive Rebound.,63,68
+0:41,333,Foul on Shannon Hale.,63,68
+0:41,251,Jarrett Allen made Free Throw.,63,69
+0:41,251,Jarrett Allen made Free Throw.,63,70
+0:37,333,Dazon Ingram made Layup.,65,70
+0:31,333,Foul on Avery Johnson Jr..,65,70
+0:31,251,Andrew Jones made Free Throw.,65,71
+0:31,251,Andrew Jones made Free Throw.,65,72
+0:27,333,Avery Johnson Jr. made Three Point Jumper. Assisted by Riley Norris.,68,72
+0:18,333,Foul on Shannon Hale.,68,72
+0:18,251,Andrew Jones made Free Throw.,68,73
+0:18,251,Andrew Jones made Free Throw.,68,74
+0:16,333,Foul on Avery Johnson Jr..,68,74
+0:16,333,Avery Johnson Jr. Turnover.,68,74
+0:15,333,Foul on Braxton Key.,68,74
+0:15,251,Jarrett Allen missed Free Throw.,68,74
+0:15,251,Texas Deadball Team Rebound.,68,74
+0:15,251,Jarrett Allen made Free Throw.,68,75
+0:10,333,Riley Norris missed Three Point Jumper.,68,75
+0:10,251,Kerwin Roach Jr. Defensive Rebound.,68,75
+0:05,333,Foul on Shannon Hale.,68,75
+0:05,251,Kerwin Roach Jr. made Free Throw.,68,76
+0:05,251,Kerwin Roach Jr. made Free Throw.,68,77
+0:00,251,End of Game,68,77

@@ -1,0 +1,402 @@
+William &amp; Mary,97,Louisville,2729
+time,team_id,description,h_score,a_score
+20:00,97,Jump Ball won by Louisville,0,0
+19:50,97,Quentin Snider made Three Point Jumper. Assisted by Deng Adel.,0,3
+19:21,2729,Jack Whitman missed Dunk.,0,3
+19:21,97,Mangok Mathiang Block.,0,3
+19:21,97,Quentin Snider Defensive Rebound.,0,3
+19:15,97,Deng Adel missed Jumper.,0,3
+19:15,97,Mangok Mathiang Offensive Rebound.,0,3
+19:12,2729,Foul on Jack Whitman.,0,3
+19:12,97,Mangok Mathiang missed Free Throw.,0,3
+19:12,97,Louisville Deadball Team Rebound.,0,3
+19:12,97,Mangok Mathiang missed Free Throw.,0,3
+19:12,2729,Jack Whitman Defensive Rebound.,0,3
+18:59,2729,Omar Prewitt made Dunk.,2,3
+18:59,97,Foul on Mangok Mathiang.,2,3
+18:59,2729,Omar Prewitt made Free Throw.,3,3
+18:51,97,Donovan Mitchell Turnover.,3,3
+18:44,2729,Paul Rowley missed Three Point Jumper.,3,3
+18:44,97,Donovan Mitchell Defensive Rebound.,3,3
+18:37,97,Donovan Mitchell made Layup.,3,5
+18:24,2729,Daniel Dixon missed Three Point Jumper.,3,5
+18:24,97,Mangok Mathiang Defensive Rebound.,3,5
+18:16,97,Deng Adel missed Three Point Jumper.,3,5
+18:16,2729,Paul Rowley Defensive Rebound.,3,5
+17:58,2729,Paul Rowley made Three Point Jumper. Assisted by David Cohn.,6,5
+17:37,97,Quentin Snider made Three Point Jumper. Assisted by Deng Adel.,6,8
+17:02,2729,Paul Rowley Turnover.,6,8
+16:48,97,Quentin Snider Turnover.,6,8
+16:30,2729,Omar Prewitt missed Jumper.,6,8
+16:30,97,Jaylen Johnson Defensive Rebound.,6,8
+16:08,97,Jaylen Johnson made Layup. Assisted by Deng Adel.,6,10
+15:54,2729,Greg Malinowski Turnover.,6,10
+15:54,97,Deng Adel Steal.,6,10
+15:50,97,Deng Adel made Dunk. Assisted by Mangok Mathiang.,6,12
+15:38,2729,Omar Prewitt missed Layup.,6,12
+15:38,97,Mangok Mathiang Block.,6,12
+15:38,2729,William & Mary Offensive Rebound.,6,12
+15:36,97,Official TV Timeout,6,12
+15:20,2729,Greg Malinowski missed Three Point Jumper.,6,12
+15:20,97,Jaylen Johnson Defensive Rebound.,6,12
+15:11,97,Quentin Snider missed Three Point Jumper.,6,12
+15:11,2729,Nathan Knight Defensive Rebound.,6,12
+14:42,2729,Omar Prewitt missed Three Point Jumper.,6,12
+14:42,97,Deng Adel Defensive Rebound.,6,12
+14:35,97,Deng Adel missed Three Point Jumper.,6,12
+14:35,2729,Daniel Dixon Defensive Rebound.,6,12
+14:26,2729,Greg Malinowski Turnover.,6,12
+14:15,97,Donovan Mitchell missed Three Point Jumper.,6,12
+14:15,97,Jaylen Johnson Offensive Rebound.,6,12
+14:02,97,V.J. King made Jumper.,6,14
+13:46,2729,Nathan Knight made Layup. Assisted by Justin Pierce.,8,14
+13:32,97,V.J. King made Three Point Jumper. Assisted by Quentin Snider.,8,17
+13:23,2729,Justin Pierce missed Layup.,8,17
+13:23,97,Anas Mahmoud Block.,8,17
+13:23,97,V.J. King Defensive Rebound.,8,17
+13:11,97,Quentin Snider missed Jumper.,8,17
+13:11,2729,Nathan Knight Defensive Rebound.,8,17
+13:05,97,Foul on Anas Mahmoud.,8,17
+12:47,2729,Michael Schlotman Turnover.,8,17
+12:34,97,Tony Hicks made Jumper.,8,19
+12:30,2729,William & Mary  Timeout,8,19
+12:08,2729,Connor Burchfield missed Three Point Jumper.,8,19
+12:08,97,V.J. King Defensive Rebound.,8,19
+12:00,97,Donovan Mitchell Turnover.,8,19
+12:00,2729,Nathan Knight Steal.,8,19
+11:45,2729,Omar Prewitt made Three Point Jumper. Assisted by Connor Burchfield.,11,19
+11:33,97,V.J. King made Jumper.,11,21
+11:16,2729,Omar Prewitt missed Layup.,11,21
+11:16,97,Ray Spalding Block.,11,21
+11:16,2729,William & Mary Offensive Rebound.,11,21
+11:16,97,Official TV Timeout,11,21
+11:03,2729,Connor Burchfield made Three Point Jumper. Assisted by Justin Pierce.,14,21
+10:50,97,Mangok Mathiang made Jumper.,14,23
+10:35,97,Foul on Tony Hicks.,14,23
+10:29,2729,David Cohn made Jumper.,16,23
+10:16,97,Ray Spalding made Layup. Assisted by Tony Hicks.,16,25
+10:05,2729,Justin Pierce missed Three Point Jumper.,16,25
+10:05,2729,Connor Burchfield Offensive Rebound.,16,25
+10:00,2729,Connor Burchfield missed Layup.,16,25
+10:00,97,Mangok Mathiang Block.,16,25
+10:00,2729,Jack Whitman Offensive Rebound.,16,25
+9:53,2729,Jack Whitman made Dunk.,18,25
+9:48,2729,Foul on Connor Burchfield.,18,25
+9:44,97,Tony Hicks missed Three Point Jumper.,18,25
+9:44,2729,David Cohn Block.,18,25
+9:44,97,David Levitch Offensive Rebound.,18,25
+9:36,2729,Foul on Jack Whitman.,18,25
+9:27,2729,Foul on David Cohn.,18,25
+9:27,97,David Levitch missed Free Throw.,18,25
+9:27,97,Louisville Deadball Team Rebound.,18,25
+9:27,97,David Levitch missed Free Throw.,18,25
+9:27,97,Louisville Deadball Team Rebound.,18,25
+9:27,97,David Levitch made Free Throw.,18,26
+9:12,2729,Daniel Dixon Turnover.,18,26
+9:12,97,Anas Mahmoud Steal.,18,26
+9:05,97,Tony Hicks missed Layup.,18,26
+9:05,97,Deng Adel Offensive Rebound.,18,26
+9:05,97,Deng Adel made Two Point Tip Shot.,18,28
+8:55,2729,David Cohn Turnover.,18,28
+8:55,97,Deng Adel Steal.,18,28
+8:43,97,Tony Hicks missed Three Point Jumper.,18,28
+8:43,2729,David Cohn Defensive Rebound.,18,28
+8:37,2729,Omar Prewitt made Dunk. Assisted by David Cohn.,20,28
+8:20,97,David Levitch missed Three Point Jumper.,20,28
+8:20,2729,Justin Pierce Defensive Rebound.,20,28
+8:09,2729,Justin Pierce Turnover.,20,28
+8:09,97,Anas Mahmoud Steal.,20,28
+8:00,97,Tony Hicks missed Layup.,20,28
+8:00,97,Ray Spalding Offensive Rebound.,20,28
+7:54,97,David Levitch missed Jumper.,20,28
+7:54,2729,David Cohn Defensive Rebound.,20,28
+7:48,2729,Daniel Dixon made Three Point Jumper. Assisted by David Cohn.,23,28
+7:33,2729,Foul on Daniel Dixon.,23,28
+7:33,97,Official TV Timeout,23,28
+7:24,2729,Foul on Oliver Tot.,23,28
+7:15,97,Quentin Snider missed Three Point Jumper.,23,28
+7:15,97,Louisville Offensive Rebound.,23,28
+7:08,97,Ray Spalding made Dunk. Assisted by Quentin Snider.,23,30
+6:42,2729,Daniel Dixon missed Three Point Jumper.,23,30
+6:42,97,Ray Spalding Defensive Rebound.,23,30
+6:38,2729,Foul on Greg Malinowski.,23,30
+6:38,97,Ray Spalding missed Free Throw.,23,30
+6:38,2729,Nathan Knight Defensive Rebound.,23,30
+6:23,97,Foul on Ray Spalding.,23,30
+6:23,2729,Nathan Knight missed Free Throw.,23,30
+6:23,2729,William & Mary Deadball Team Rebound.,23,30
+6:23,2729,Nathan Knight made Free Throw.,24,30
+6:15,97,Donovan Mitchell missed Three Point Jumper.,24,30
+6:15,97,Donovan Mitchell Offensive Rebound.,24,30
+6:09,97,Donovan Mitchell missed Dunk.,24,30
+6:09,2729,Nathan Knight Defensive Rebound.,24,30
+6:04,2729,Nathan Knight made Layup.,26,30
+5:46,97,Anas Mahmoud made Layup.,26,32
+5:39,97,Foul on Donovan Mitchell.,26,32
+5:23,2729,Foul on Nathan Knight.,26,32
+5:23,2729,Nathan Knight Turnover.,26,32
+5:04,97,Donovan Mitchell made Layup.,26,34
+4:40,2729,Omar Prewitt made Three Point Jumper. Assisted by Oliver Tot.,29,34
+4:17,97,Jaylen Johnson missed Jumper.,29,34
+4:17,2729,Omar Prewitt Defensive Rebound.,29,34
+4:06,97,Foul on Jaylen Johnson.,29,34
+4:06,2729,Nathan Knight missed Free Throw.,29,34
+4:06,2729,William & Mary Deadball Team Rebound.,29,34
+4:06,2729,Nathan Knight missed Free Throw.,29,34
+4:06,97,Quentin Snider Defensive Rebound.,29,34
+3:50,97,Official TV Timeout,29,34
+3:43,97,Jaylen Johnson missed Layup.,29,34
+3:43,2729,Daniel Dixon Defensive Rebound.,29,34
+3:28,2729,Omar Prewitt missed Three Point Jumper.,29,34
+3:28,97,Anas Mahmoud Defensive Rebound.,29,34
+3:23,97,Donovan Mitchell missed Three Point Jumper.,29,34
+3:23,97,Anas Mahmoud Offensive Rebound.,29,34
+3:23,97,Anas Mahmoud Turnover.,29,34
+3:06,2729,Omar Prewitt missed Three Point Jumper.,29,34
+3:06,97,Ray Spalding Defensive Rebound.,29,34
+2:45,97,Ryan McMahon missed Three Point Jumper.,29,34
+2:45,2729,Jack Whitman Defensive Rebound.,29,34
+2:33,2729,David Cohn missed Jumper.,29,34
+2:32,2729,Jack Whitman Offensive Rebound.,29,34
+2:32,2729,Jack Whitman missed Layup.,29,34
+2:32,97,Donovan Mitchell Block.,29,34
+2:32,2729,William & Mary Offensive Rebound.,29,34
+2:14,2729,Nathan Knight made Dunk. Assisted by David Cohn.,31,34
+1:58,2729,Foul on Justin Pierce.,31,34
+1:58,97,Deng Adel made Free Throw.,31,35
+1:58,97,Deng Adel made Free Throw.,31,36
+1:58,97,Deng Adel made Free Throw.,31,37
+1:42,2729,Omar Prewitt missed Three Point Jumper.,31,37
+1:42,97,Deng Adel Defensive Rebound.,31,37
+1:42,2729,Foul on David Cohn.,31,37
+1:42,97,Deng Adel made Free Throw.,31,38
+1:42,97,Deng Adel made Free Throw.,31,39
+1:28,2729,Omar Prewitt Turnover.,31,39
+1:28,97,Ray Spalding Steal.,31,39
+1:23,97,Ray Spalding made Layup. Assisted by Deng Adel.,31,41
+1:02,2729,Foul on Nathan Knight.,31,41
+1:02,2729,Nathan Knight Turnover.,31,41
+0:48,97,Foul on Quentin Snider.,31,41
+0:48,97,Quentin Snider Turnover.,31,41
+0:36,2729,Omar Prewitt Turnover.,31,41
+0:36,97,Deng Adel Steal.,31,41
+0:29,97,Deng Adel made Three Point Jumper. Assisted by Donovan Mitchell.,31,44
+0:04,2729,David Cohn missed Three Point Jumper.,31,44
+0:04,97,Donovan Mitchell Block.,31,44
+0:04,97,Mangok Mathiang Defensive Rebound.,31,44
+0:01,97,Quentin Snider missed Three Point Jumper.,31,44
+0:01,2729,Paul Rowley Defensive Rebound.,31,44
+0:00,97,End of 1st half,31,44
+20:00,2729,Jump Ball won by William & Mary,31,44
+19:39,2729,Jack Whitman missed Layup.,31,44
+19:39,97,Mangok Mathiang Block.,31,44
+19:39,97,Mangok Mathiang Defensive Rebound.,31,44
+19:30,97,Jaylen Johnson made Dunk. Assisted by Quentin Snider.,31,46
+19:03,2729,Omar Prewitt missed Three Point Jumper.,31,46
+19:03,97,Mangok Mathiang Defensive Rebound.,31,46
+18:48,2729,Foul on Jack Whitman.,31,46
+18:48,97,Quentin Snider made Three Point Jumper. Assisted by Deng Adel.,31,49
+18:31,2729,William & Mary  Timeout,31,49
+18:18,2729,Daniel Dixon missed Three Point Jumper.,31,49
+18:18,97,Deng Adel Defensive Rebound.,31,49
+18:03,97,Deng Adel missed Three Point Jumper.,31,49
+18:03,2729,David Cohn Defensive Rebound.,31,49
+17:53,2729,David Cohn missed Layup.,31,49
+17:53,97,Louisville Deadball Team Rebound.,31,49
+17:38,97,Deng Adel missed Three Point Jumper.,31,49
+17:38,2729,Daniel Dixon Defensive Rebound.,31,49
+17:30,2729,Paul Rowley missed Three Point Jumper.,31,49
+17:30,97,Mangok Mathiang Defensive Rebound.,31,49
+17:22,97,Donovan Mitchell missed Jumper.,31,49
+17:22,2729,David Cohn Defensive Rebound.,31,49
+17:11,2729,David Cohn Turnover.,31,49
+17:11,97,Jaylen Johnson Steal.,31,49
+17:02,2729,Foul on Nathan Knight.,31,49
+17:02,97,Jaylen Johnson made Free Throw.,31,50
+17:02,97,Jaylen Johnson missed Free Throw.,31,50
+17:02,2729,Nathan Knight Defensive Rebound.,31,50
+16:43,2729,Omar Prewitt Turnover.,31,50
+16:28,2729,Foul on Nathan Knight.,31,50
+16:24,97,Quentin Snider missed Layup.,31,50
+16:24,2729,Oliver Tot Block.,31,50
+16:24,2729,Daniel Dixon Defensive Rebound.,31,50
+16:19,97,Foul on Deng Adel.,31,50
+16:07,97,Foul on Donovan Mitchell.,31,50
+16:07,2729,Daniel Dixon made Free Throw.,32,50
+16:07,2729,Daniel Dixon made Free Throw.,33,50
+15:51,2729,Foul on Daniel Dixon.,33,50
+15:51,97,Official TV Timeout,33,50
+15:51,97,Tony Hicks made Free Throw.,33,51
+15:51,97,Tony Hicks made Free Throw.,33,52
+15:33,97,Foul on Jaylen Johnson.,33,52
+15:32,2729,Omar Prewitt Turnover.,33,52
+15:32,97,Deng Adel Steal.,33,52
+15:24,97,Jaylen Johnson made Layup. Assisted by Tony Hicks.,33,54
+14:56,97,Foul on Anas Mahmoud.,33,54
+14:56,2729,Daniel Dixon made Free Throw.,34,54
+14:56,2729,Daniel Dixon made Free Throw.,35,54
+14:45,97,Quentin Snider made Three Point Jumper. Assisted by Mangok Mathiang.,35,57
+14:38,2729,Connor Burchfield made Jumper. Assisted by Omar Prewitt.,37,57
+14:26,97,Quentin Snider missed Three Point Jumper.,37,57
+14:26,2729,Greg Malinowski Defensive Rebound.,37,57
+14:17,2729,Connor Burchfield missed Three Point Jumper.,37,57
+14:17,97,Mangok Mathiang Defensive Rebound.,37,57
+13:59,2729,Foul on Greg Malinowski.,37,57
+13:59,97,Quentin Snider made Free Throw.,37,58
+13:59,97,Quentin Snider missed Free Throw.,37,58
+13:59,97,V.J. King Offensive Rebound.,37,58
+13:46,97,Tony Hicks missed Jumper.,37,58
+13:46,97,Tony Hicks Offensive Rebound.,37,58
+13:42,97,Tony Hicks missed Jumper.,37,58
+13:42,2729,Connor Burchfield Defensive Rebound.,37,58
+13:35,97,Foul on Jaylen Johnson.,37,58
+13:35,2729,Omar Prewitt missed Free Throw.,37,58
+13:35,2729,William & Mary Deadball Team Rebound.,37,58
+13:35,2729,Omar Prewitt made Free Throw.,38,58
+13:27,97,Ray Spalding made Layup. Assisted by Donovan Mitchell.,38,60
+13:09,2729,Omar Prewitt missed Jumper.,38,60
+13:09,97,Mangok Mathiang Defensive Rebound.,38,60
+12:57,97,Tony Hicks missed Three Point Jumper.,38,60
+12:57,2729,Jack Whitman Defensive Rebound.,38,60
+12:45,97,Foul on Ray Spalding.,38,60
+12:26,97,Foul on Donovan Mitchell.,38,60
+12:26,2729,David Cohn made Free Throw.,39,60
+12:26,2729,David Cohn made Free Throw.,40,60
+12:05,2729,Foul on Greg Malinowski.,40,60
+12:01,97,Deng Adel made Jumper.,40,62
+11:46,2729,Greg Malinowski missed Jumper.,40,62
+11:46,2729,Greg Malinowski Offensive Rebound.,40,62
+11:41,2729,Greg Malinowski made Layup.,42,62
+11:14,97,Ray Spalding missed Jumper.,42,62
+11:14,2729,William & Mary Defensive Rebound.,42,62
+11:14,97,Official TV Timeout,42,62
+10:54,97,Foul on V.J. King.,42,62
+10:54,2729,Justin Pierce missed Free Throw.,42,62
+10:54,97,V.J. King Defensive Rebound.,42,62
+10:33,2729,Foul on Daniel Dixon.,42,62
+10:33,97,Deng Adel made Free Throw.,42,63
+10:33,97,Deng Adel made Free Throw.,42,64
+10:25,2729,Justin Pierce missed Three Point Jumper.,42,64
+10:25,97,Deng Adel Defensive Rebound.,42,64
+10:14,97,Foul on Ray Spalding.,42,64
+10:14,97,Ray Spalding Turnover.,42,64
+10:05,2729,Nathan Knight missed Jumper.,42,64
+10:05,97,Ray Spalding Defensive Rebound.,42,64
+9:50,97,Mangok Mathiang missed Jumper.,42,64
+9:50,2729,Daniel Dixon Defensive Rebound.,42,64
+9:40,2729,Nathan Knight missed Jumper.,42,64
+9:40,97,Mangok Mathiang Block.,42,64
+9:40,2729,William & Mary Offensive Rebound.,42,64
+9:32,2729,Nathan Knight missed Jumper.,42,64
+9:32,2729,Justin Pierce Offensive Rebound.,42,64
+9:27,2729,William & Mary  Timeout,42,64
+9:12,97,Foul on Ray Spalding.,42,64
+9:12,2729,Nathan Knight missed Free Throw.,42,64
+9:12,2729,William & Mary Deadball Team Rebound.,42,64
+9:12,2729,Nathan Knight missed Free Throw.,42,64
+9:12,2729,Nathan Knight Offensive Rebound.,42,64
+9:10,2729,Nathan Knight made Layup.,44,64
+8:50,97,V.J. King made Three Point Jumper. Assisted by Quentin Snider.,44,67
+8:39,97,Foul on Anas Mahmoud.,44,67
+8:39,2729,Omar Prewitt made Free Throw.,45,67
+8:39,2729,Omar Prewitt made Free Throw.,46,67
+8:35,97,Louisville  Timeout,46,67
+8:28,97,V.J. King missed Layup.,46,67
+8:28,97,Jaylen Johnson Offensive Rebound.,46,67
+8:22,97,Jaylen Johnson made Jumper.,46,69
+7:59,2729,Daniel Dixon missed Layup.,46,69
+7:59,97,Quentin Snider Defensive Rebound.,46,69
+7:52,97,Quentin Snider missed Three Point Jumper.,46,69
+7:52,97,Anas Mahmoud Offensive Rebound.,46,69
+7:38,97,Official TV Timeout,46,69
+7:16,97,Anas Mahmoud missed Jumper.,46,69
+7:16,97,Jaylen Johnson Offensive Rebound.,46,69
+7:09,97,Donovan Mitchell made Three Point Jumper. Assisted by Anas Mahmoud.,46,72
+6:53,97,Foul on Anas Mahmoud.,46,72
+6:53,2729,David Cohn missed Free Throw.,46,72
+6:53,2729,William & Mary Deadball Team Rebound.,46,72
+6:53,2729,David Cohn made Free Throw.,47,72
+6:32,97,V.J. King missed Jumper.,47,72
+6:32,97,Jaylen Johnson Offensive Rebound.,47,72
+6:29,2729,Foul on Paul Rowley.,47,72
+6:29,97,Jaylen Johnson made Free Throw.,47,73
+6:29,97,Jaylen Johnson made Free Throw.,47,74
+6:09,97,Foul on V.J. King.,47,74
+6:09,2729,Jack Whitman missed Free Throw.,47,74
+6:09,2729,William & Mary Deadball Team Rebound.,47,74
+6:09,2729,Jack Whitman made Free Throw.,48,74
+5:50,2729,Foul on Daniel Dixon.,48,74
+5:50,97,Mangok Mathiang made Free Throw.,48,75
+5:50,97,Mangok Mathiang missed Free Throw.,48,75
+5:50,2729,Daniel Dixon Defensive Rebound.,48,75
+5:43,2729,Omar Prewitt Turnover.,48,75
+5:43,97,Donovan Mitchell Steal.,48,75
+5:39,97,Donovan Mitchell made Dunk.,48,77
+5:22,2729,Daniel Dixon missed Three Point Jumper.,48,77
+5:22,97,Tony Hicks Defensive Rebound.,48,77
+5:13,97,V.J. King missed Layup.,48,77
+5:13,2729,Paul Rowley Defensive Rebound.,48,77
+5:00,2729,Paul Rowley missed Three Point Jumper.,48,77
+5:00,97,Jaylen Johnson Defensive Rebound.,48,77
+4:47,97,Donovan Mitchell missed Three Point Jumper.,48,77
+4:47,97,V.J. King Offensive Rebound.,48,77
+4:41,97,V.J. King missed Jumper.,48,77
+4:41,2729,Jack Whitman Defensive Rebound.,48,77
+4:34,2729,David Cohn made Three Point Jumper. Assisted by Daniel Dixon.,51,77
+4:22,97,Tony Hicks missed Jumper.,51,77
+4:22,97,Jaylen Johnson Offensive Rebound.,51,77
+4:16,97,Jaylen Johnson missed Layup.,51,77
+4:16,2729,Jack Whitman Block.,51,77
+4:16,97,Mangok Mathiang Offensive Rebound.,51,77
+4:12,2729,Foul on Jack Whitman.,51,77
+4:12,97,Mangok Mathiang missed Free Throw.,51,77
+4:12,97,Louisville Deadball Team Rebound.,51,77
+4:12,97,Mangok Mathiang missed Free Throw.,51,77
+4:12,2729,Omar Prewitt Defensive Rebound.,51,77
+4:00,2729,David Cohn missed Three Point Jumper.,51,77
+4:00,97,Mangok Mathiang Defensive Rebound.,51,77
+3:46,97,Jaylen Johnson Turnover.,51,77
+3:39,2729,Connor Burchfield missed Three Point Jumper.,51,77
+3:39,97,Jaylen Johnson Defensive Rebound.,51,77
+3:33,97,V.J. King made Layup. Assisted by Tony Hicks.,51,79
+3:13,2729,Justin Pierce made Layup. Assisted by Nathan Knight.,53,79
+3:02,97,Tony Hicks Turnover.,53,79
+3:02,2729,Connor Burchfield Steal.,53,79
+2:52,2729,Connor Burchfield missed Layup.,53,79
+2:52,97,Donovan Mitchell Block.,53,79
+2:52,2729,William & Mary Offensive Rebound.,53,79
+2:52,97,Official TV Timeout,53,79
+2:47,2729,Nathan Knight missed Jumper.,53,79
+2:47,2729,Nathan Knight Offensive Rebound.,53,79
+2:45,2729,Nathan Knight missed Layup.,53,79
+2:45,97,Donovan Mitchell Block.,53,79
+2:45,2729,William & Mary Offensive Rebound.,53,79
+2:39,2729,Nathan Knight made Layup.,55,79
+2:26,97,V.J. King made Three Point Jumper. Assisted by Ryan McMahon.,55,82
+2:11,2729,Nathan Knight missed Three Point Jumper.,55,82
+2:11,97,Donovan Mitchell Defensive Rebound.,55,82
+2:06,97,Jaylen Johnson made Dunk. Assisted by Donovan Mitchell.,55,84
+1:51,2729,Paul Rowley Turnover.,55,84
+1:51,97,V.J. King Steal.,55,84
+1:44,97,V.J. King made Layup.,55,86
+1:28,2729,Oliver Tot missed Three Point Jumper.,55,86
+1:28,97,Donovan Mitchell Defensive Rebound.,55,86
+1:15,97,V.J. King Turnover.,55,86
+0:59,2729,Justin Pierce missed Three Point Jumper.,55,86
+0:59,2729,Michael Schlotman Offensive Rebound.,55,86
+0:55,97,Foul on Jay Henderson.,55,86
+0:55,2729,Michael Schlotman missed Free Throw.,55,86
+0:55,2729,William & Mary Deadball Team Rebound.,55,86
+0:55,2729,Michael Schlotman missed Free Throw.,55,86
+0:55,97,Donovan Mitchell Defensive Rebound.,55,86
+0:45,97,Jay Henderson made Three Point Jumper. Assisted by Ryan McMahon.,55,89
+0:34,97,Foul on Jay Henderson.,55,89
+0:34,2729,Nathan Knight missed Free Throw.,55,89
+0:34,2729,William & Mary Deadball Team Rebound.,55,89
+0:34,2729,Nathan Knight missed Free Throw.,55,89
+0:34,97,Matz Stockman Defensive Rebound.,55,89
+0:18,97,Ray Spalding made Dunk. Assisted by Ryan McMahon.,55,91
+0:03,2729,Nathan Knight made Jumper.,57,91
+0:03,97,Foul on Jay Henderson.,57,91
+0:03,2729,Nathan Knight made Free Throw.,58,91
+0:00,97,End of Game,58,91

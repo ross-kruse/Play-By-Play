@@ -1,0 +1,336 @@
+Villanova,219,Pennsylvania,222
+time,team_id,description,h_score,a_score
+20:00,219,Jump Ball won by Pennsylvania,0,0
+19:45,219,AJ Brodeur missed Jumper.,0,0
+19:45,222,Kris Jenkins Defensive Rebound.,0,0
+19:35,222,Kris Jenkins made Three Point Jumper.,3,0
+19:24,219,Jackson Donahue made Three Point Jumper. Assisted by Matt MacDonald.,3,3
+18:59,222,Donte DiVincenzo made Three Point Jumper. Assisted by Kris Jenkins.,6,3
+18:31,219,Matt MacDonald missed Three Point Jumper.,6,3
+18:31,222,Darryl Reynolds Defensive Rebound.,6,3
+18:31,219,Foul on Darnell Foreman.,6,3
+17:51,222,Darryl Reynolds made Jumper.,8,3
+17:35,219,Matt Howard Turnover.,8,3
+17:35,222,Jalen Brunson Steal.,8,3
+17:31,222,Jalen Brunson made Layup.,10,3
+17:15,219,Jackson Donahue missed Three Point Jumper.,10,3
+17:15,219,Matt Howard Offensive Rebound.,10,3
+17:05,219,Matt Howard missed Three Point Jumper.,10,3
+17:05,219,AJ Brodeur Offensive Rebound.,10,3
+16:55,219,Matt Howard missed Layup.,10,3
+16:55,219,Pennsylvania Deadball Team Rebound.,10,3
+16:40,219,AJ Brodeur made Jumper. Assisted by Darnell Foreman.,10,5
+16:19,222,Kris Jenkins made Jumper. Assisted by Mikal Bridges.,12,5
+15:46,219,Matt Howard missed Layup.,12,5
+15:46,222,Donte DiVincenzo Block.,12,5
+15:46,219,Pennsylvania Deadball Team Rebound.,12,5
+15:39,219,Official TV Timeout,12,5
+15:35,219,Jackson Donahue made Three Point Jumper. Assisted by AJ Brodeur.,12,8
+15:18,222,Kris Jenkins made Three Point Jumper. Assisted by Jalen Brunson.,15,8
+14:49,219,Matt Howard Turnover.,15,8
+14:35,222,Eric Paschall missed Three Point Jumper.,15,8
+14:35,222,Kris Jenkins Offensive Rebound.,15,8
+14:33,219,Foul on Matt MacDonald.,15,8
+14:17,222,Eric Paschall Turnover.,15,8
+14:17,219,Matt MacDonald Steal.,15,8
+14:05,219,Darnell Foreman made Layup.,15,10
+13:48,222,Jalen Brunson made Three Point Jumper. Assisted by Mikal Bridges.,18,10
+13:37,219,Matt Howard made Three Point Jumper. Assisted by Darnell Foreman.,18,13
+13:12,222,Jalen Brunson missed Three Point Jumper.,18,13
+13:12,219,Max Rothschild Defensive Rebound.,18,13
+13:09,222,Foul on Eric Paschall.,18,13
+12:44,219,Darnell Foreman missed Three Point Jumper.,18,13
+12:44,219,Max Rothschild Offensive Rebound.,18,13
+12:44,219,Max Rothschild Turnover.,18,13
+12:44,222,Mikal Bridges Steal.,18,13
+12:26,222,Mikal Bridges made Three Point Jumper. Assisted by Josh Hart.,21,13
+12:10,222,Foul on Donte DiVincenzo.,21,13
+12:01,219,Tyler Hamilton Turnover.,21,13
+11:49,219,Official TV Timeout,21,13
+11:49,222,Darryl Reynolds Turnover.,21,13
+11:49,219,Max Rothschild Steal.,21,13
+11:21,219,Darnell Foreman missed Jumper.,21,13
+11:21,222,Darryl Reynolds Defensive Rebound.,21,13
+10:47,222,Villanova  Turnover.,21,13
+10:36,222,Foul on Jalen Brunson.,21,13
+10:23,219,Caleb Wood missed Three Point Jumper.,21,13
+10:23,222,Darryl Reynolds Defensive Rebound.,21,13
+9:59,219,Foul on Max Rothschild.,21,13
+9:57,222,Jalen Brunson missed Three Point Jumper.,21,13
+9:57,219,Caleb Wood Defensive Rebound.,21,13
+9:47,219,Max Rothschild missed Layup.,21,13
+9:47,222,Darryl Reynolds Block.,21,13
+9:47,222,Darryl Reynolds Defensive Rebound.,21,13
+9:47,219,Foul on Tyler Hamilton.,21,13
+9:36,222,Darryl Reynolds made Jumper. Assisted by Josh Hart.,23,13
+9:16,219,Foul on Max Rothschild.,23,13
+9:16,219,Max Rothschild Turnover.,23,13
+8:59,222,Jalen Brunson missed Jumper.,23,13
+8:59,219,Matt MacDonald Defensive Rebound.,23,13
+8:48,219,Foul on Caleb Wood.,23,13
+8:48,219,Caleb Wood Turnover.,23,13
+8:31,222,Foul on Eric Paschall.,23,13
+8:31,222,Eric Paschall Turnover.,23,13
+8:03,219,Matt Howard missed Three Point Jumper.,23,13
+8:03,222,Darryl Reynolds Defensive Rebound.,23,13
+7:54,219,Foul on Matt MacDonald.,23,13
+7:54,219,Official TV Timeout,23,13
+7:54,222,Josh Hart made Free Throw.,24,13
+7:54,222,Josh Hart made Free Throw.,25,13
+7:34,219,Jackson Donahue missed Three Point Jumper.,25,13
+7:34,222,Darryl Reynolds Defensive Rebound.,25,13
+7:25,219,Foul on Jackson Donahue.,25,13
+7:25,222,Donte DiVincenzo made Free Throw.,26,13
+7:25,222,Donte DiVincenzo made Free Throw.,27,13
+7:18,219,Darnell Foreman Turnover.,27,13
+7:09,222,Jalen Brunson missed Three Point Jumper.,27,13
+7:09,222,Mikal Bridges Offensive Rebound.,27,13
+7:00,222,Josh Hart made Jumper.,29,13
+7:00,219,Foul on Tyler Hamilton.,29,13
+7:00,222,Josh Hart made Free Throw.,30,13
+6:44,219,Darnell Foreman made Layup.,30,15
+6:13,222,Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.,33,15
+5:50,219,Darnell Foreman missed Jumper.,33,15
+5:50,222,Josh Hart Defensive Rebound.,33,15
+5:43,222,Kris Jenkins missed Three Point Jumper.,33,15
+5:43,219,Matt Howard Defensive Rebound.,33,15
+5:35,219,AJ Brodeur made Layup. Assisted by Darnell Foreman.,33,17
+5:26,219,Official TV Timeout,33,17
+5:18,222,Josh Hart missed Three Point Jumper.,33,17
+4:50,219,Matt MacDonald missed Three Point Jumper.,33,17
+4:50,219,Matt Howard Offensive Rebound.,33,17
+4:50,219,Matt Howard missed Two Point Tip Shot.,33,17
+4:50,222,Darryl Reynolds Defensive Rebound.,33,17
+4:21,222,Darryl Reynolds made Dunk. Assisted by Josh Hart.,35,17
+4:12,219,AJ Brodeur made Dunk. Assisted by Jake Silpe.,35,19
+4:12,222,Foul on Donte DiVincenzo.,35,19
+4:12,219,AJ Brodeur missed Free Throw.,35,19
+4:12,222,Kris Jenkins Defensive Rebound.,35,19
+3:51,222,Mikal Bridges missed Three Point Jumper.,35,19
+3:51,222,Villanova Offensive Rebound.,35,19
+3:49,219,Foul on AJ Brodeur.,35,19
+3:49,219,Official TV Timeout,35,19
+3:49,222,Eric Paschall missed Free Throw.,35,19
+3:49,222,Villanova Deadball Team Rebound.,35,19
+3:49,222,Eric Paschall missed Free Throw.,35,19
+3:49,219,AJ Brodeur Defensive Rebound.,35,19
+3:18,219,Matt MacDonald missed Jumper.,35,19
+3:18,222,Kris Jenkins Defensive Rebound.,35,19
+3:05,222,Mikal Bridges missed Layup.,35,19
+3:05,219,AJ Brodeur Defensive Rebound.,35,19
+2:54,219,Jackson Donahue Turnover.,35,19
+2:54,222,Villanova  Timeout,35,19
+2:38,222,Mikal Bridges Turnover.,35,19
+2:38,219,Tyler Hamilton Steal.,35,19
+2:35,222,Foul on Josh Hart.,35,19
+2:35,219,Tyler Hamilton missed Free Throw.,35,19
+2:35,219,Pennsylvania Deadball Team Rebound.,35,19
+2:35,219,Tyler Hamilton made Free Throw.,35,20
+2:25,222,Josh Hart Turnover.,35,20
+2:25,219,Max Rothschild Steal.,35,20
+2:15,219,Tyler Hamilton missed Jumper.,35,20
+2:15,222,Mikal Bridges Defensive Rebound.,35,20
+1:51,222,Kris Jenkins missed Jumper.,35,20
+1:51,222,Mikal Bridges Offensive Rebound.,35,20
+1:45,222,Mikal Bridges made Layup.,37,20
+1:20,219,Max Rothschild made Jumper.,37,22
+1:04,222,Josh Hart made Three Point Jumper.,40,22
+0:53,219,Pennsylvania  Timeout,40,22
+0:47,219,Caleb Wood made Three Point Jumper. Assisted by Jackson Donahue.,40,25
+0:47,222,Josh Hart Defensive Rebound.,40,25
+0:14,222,Jalen Brunson Turnover.,40,25
+0:14,219,Max Rothschild Steal.,40,25
+0:06,219,Matt Howard Turnover.,40,25
+0:06,222,Mikal Bridges Steal.,40,25
+0:02,222,Josh Hart made Dunk.,42,25
+0:02,222,Kris Jenkins made Free Throw.,44,25
+0:02,219,Technical Foul on Pennsylvania.,42,25
+0:02,222,Kris Jenkins made Free Throw.,43,25
+0:01,219,AJ Brodeur missed Jumper.,44,25
+0:01,222,Villanova Deadball Team Rebound.,44,25
+0:00,219,End of 1st half,44,25
+20:00,222,Jump Ball won by Villanova,44,25
+19:46,219,Foul on Jackson Donahue.,44,25
+19:46,222,Darryl Reynolds made Free Throw.,45,25
+19:46,222,Darryl Reynolds made Free Throw.,46,25
+19:31,219,Jackson Donahue made Three Point Jumper. Assisted by Matt MacDonald.,46,28
+18:58,222,Josh Hart missed Three Point Jumper.,46,28
+18:58,219,Darnell Foreman Defensive Rebound.,46,28
+18:48,219,Jackson Donahue missed Three Point Jumper.,46,28
+18:48,222,Darryl Reynolds Defensive Rebound.,46,28
+18:22,222,Darryl Reynolds made Layup. Assisted by Josh Hart.,48,28
+18:22,219,Foul on AJ Brodeur.,48,28
+18:22,222,Darryl Reynolds missed Free Throw.,48,28
+18:22,219,Pennsylvania Deadball Team Rebound.,48,28
+18:22,222,Foul on Mikal Bridges.,48,28
+18:04,219,Jackson Donahue missed Three Point Jumper.,48,28
+18:04,222,Mikal Bridges Defensive Rebound.,48,28
+17:56,222,Mikal Bridges made Layup.,50,28
+17:45,219,Jackson Donahue made Three Point Jumper. Assisted by Darnell Foreman.,50,31
+17:05,222,Kris Jenkins missed Jumper.,50,31
+17:05,222,Josh Hart Offensive Rebound.,50,31
+16:58,219,Foul on Darnell Foreman.,50,31
+16:50,222,Donte DiVincenzo made Three Point Jumper. Assisted by Josh Hart.,53,31
+16:24,219,AJ Brodeur missed Layup.,53,31
+16:24,219,Matt Howard Offensive Rebound.,53,31
+16:14,219,Matt MacDonald missed Three Point Jumper.,53,31
+16:14,219,Matt Howard Defensive Rebound.,53,31
+16:14,222,Villanova Deadball Team Rebound.,53,31
+16:05,222,Jalen Brunson made Layup.,55,31
+15:34,219,Darnell Foreman missed Three Point Jumper.,55,31
+15:34,222,Kris Jenkins Defensive Rebound.,55,31
+15:26,222,Foul on Jalen Brunson.,55,31
+15:26,222,Jalen Brunson Turnover.,55,31
+15:26,219,Official TV Timeout,55,31
+14:54,219,AJ Brodeur made Layup. Assisted by Jake Silpe.,55,33
+14:44,222,Eric Paschall Turnover.,55,33
+14:44,219,Jackson Donahue Steal.,55,33
+14:35,219,Foul on Max Rothschild.,55,33
+14:35,219,Max Rothschild Turnover.,55,33
+14:35,222,Darryl Reynolds Turnover.,55,33
+14:35,219,Max Rothschild Steal.,55,33
+14:05,219,Caleb Wood missed Three Point Jumper.,55,33
+14:05,222,Donte DiVincenzo Defensive Rebound.,55,33
+13:50,222,Josh Hart missed Three Point Jumper.,55,33
+13:50,219,Caleb Wood Defensive Rebound.,55,33
+13:42,222,Foul on Donte DiVincenzo.,55,33
+13:42,219,Caleb Wood made Free Throw.,55,34
+13:42,219,Caleb Wood made Free Throw.,55,35
+13:25,222,Kris Jenkins Turnover.,55,35
+13:25,219,Jake Silpe Steal.,55,35
+13:22,219,Foul on Jake Silpe.,55,35
+13:22,219,Jake Silpe Turnover.,55,35
+13:07,222,Eric Paschall missed Jumper.,55,35
+13:07,219,AJ Brodeur Block.,55,35
+13:07,219,Caleb Wood Defensive Rebound.,55,35
+12:58,219,Caleb Wood Turnover.,55,35
+12:58,222,Eric Paschall Steal.,55,35
+12:54,222,Jalen Brunson made Layup. Assisted by Eric Paschall.,57,35
+12:45,219,AJ Brodeur missed Jumper.,57,35
+12:45,222,Donte DiVincenzo Defensive Rebound.,57,35
+12:25,222,Eric Paschall Turnover.,57,35
+12:06,219,Caleb Wood missed Layup.,57,35
+12:06,222,Eric Paschall Block.,57,35
+12:06,222,Mikal Bridges Defensive Rebound.,57,35
+11:50,222,Eric Paschall Turnover.,57,35
+11:50,219,AJ Brodeur Steal.,57,35
+11:45,219,Matt Howard made Layup. Assisted by Darnell Foreman.,57,37
+11:45,222,Foul on Jalen Brunson.,57,37
+11:45,219,Official TV Timeout,57,37
+11:45,219,Matt Howard missed Free Throw.,57,37
+11:39,219,Tyler Hamilton Offensive Rebound.,57,37
+11:39,219,Caleb Wood Turnover.,57,37
+11:39,222,Mikal Bridges Steal.,57,37
+11:39,219,Foul on Caleb Wood.,57,37
+11:06,222,Darryl Reynolds Turnover.,57,37
+11:06,219,Tyler Hamilton Steal.,57,37
+10:59,219,Matt Howard missed Layup.,57,37
+10:59,222,Josh Hart Defensive Rebound.,57,37
+10:52,222,Donte DiVincenzo missed Layup.,57,37
+10:52,222,Josh Hart Offensive Rebound.,57,37
+10:52,222,Josh Hart made Two Point Tip Shot.,59,37
+10:37,219,Darnell Foreman made Jumper.,59,39
+10:37,222,Foul on Donte DiVincenzo.,59,39
+10:37,219,Darnell Foreman made Free Throw.,59,40
+10:22,222,Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.,62,40
+9:59,219,Darnell Foreman made Three Point Jumper. Assisted by AJ Brodeur.,62,43
+9:33,222,Mikal Bridges missed Three Point Jumper.,62,43
+9:33,219,Darnell Foreman Defensive Rebound.,62,43
+9:24,219,Darnell Foreman missed Layup.,62,43
+9:24,222,Eric Paschall Defensive Rebound.,62,43
+9:18,222,Mikal Bridges made Layup. Assisted by Eric Paschall.,64,43
+9:18,219,Foul on Tyler Hamilton.,64,43
+9:18,222,Mikal Bridges made Free Throw.,65,43
+9:00,219,AJ Brodeur Turnover.,65,43
+9:00,222,Josh Hart Steal.,65,43
+8:55,222,Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.,68,43
+8:21,219,Max Rothschild Turnover.,68,43
+8:13,219,Foul on Max Rothschild.,68,43
+8:13,222,Darryl Reynolds made Free Throw.,69,43
+8:13,222,Darryl Reynolds made Free Throw.,70,43
+7:51,219,Jackson Donahue missed Three Point Jumper.,70,43
+7:51,222,Eric Paschall Defensive Rebound.,70,43
+7:32,222,Donte DiVincenzo missed Three Point Jumper.,70,43
+7:32,219,Jackson Donahue Defensive Rebound.,70,43
+7:22,219,Jackson Donahue missed Three Point Jumper.,70,43
+7:22,219,AJ Brodeur Offensive Rebound.,70,43
+7:01,219,AJ Brodeur missed Jumper.,70,43
+7:01,222,Eric Paschall Defensive Rebound.,70,43
+6:39,222,Kris Jenkins missed Jumper.,70,43
+6:39,219,Caleb Wood Defensive Rebound.,70,43
+6:28,219,Caleb Wood missed Three Point Jumper.,70,43
+6:28,219,AJ Brodeur Offensive Rebound.,70,43
+6:22,219,Jackson Donahue missed Three Point Jumper.,70,43
+6:22,222,Dylan Painter Defensive Rebound.,70,43
+6:00,222,Villanova  Timeout,70,43
+5:59,222,Donte DiVincenzo Turnover.,70,43
+5:59,219,Jackson Donahue Steal.,70,43
+5:59,222,Foul on Kris Jenkins.,70,43
+5:59,219,Official TV Timeout,70,43
+5:48,222,Foul on Mikal Bridges.,70,43
+5:48,219,Caleb Wood made Free Throw.,70,44
+5:48,219,Caleb Wood made Free Throw.,70,45
+5:31,222,Jump Ball won by Villanova,70,45
+5:29,222,Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.,73,45
+5:10,219,Tyler Hamilton missed Layup.,73,45
+5:10,219,Tyler Hamilton Offensive Rebound.,73,45
+5:08,222,Foul on Kris Jenkins.,73,45
+5:08,219,Tyler Hamilton made Free Throw.,73,46
+5:08,219,Tyler Hamilton made Free Throw.,73,47
+5:01,222,Foul on Mikal Bridges.,73,47
+5:01,222,Mikal Bridges Turnover.,73,47
+4:50,219,Tyler Hamilton missed Layup.,73,47
+4:50,222,Josh Hart Defensive Rebound.,73,47
+4:34,219,Foul on Tyler Hamilton.,73,47
+4:34,222,Dylan Painter missed Free Throw.,73,47
+4:34,222,Villanova Deadball Team Rebound.,73,47
+4:34,222,Dylan Painter missed Free Throw.,73,47
+4:34,219,Sam Jones Defensive Rebound.,73,47
+4:32,222,Foul on Dylan Painter.,73,47
+4:32,219,Sam Jones made Free Throw.,73,48
+4:32,219,Sam Jones made Free Throw.,73,49
+4:23,222,Darryl Reynolds Turnover.,73,49
+4:23,219,Max Rothschild Steal.,73,49
+4:18,219,AJ Brodeur made Dunk. Assisted by Jake Silpe.,73,51
+3:41,222,Jalen Brunson missed Layup.,73,51
+3:41,219,Max Rothschild Defensive Rebound.,73,51
+3:27,219,Caleb Wood Turnover.,73,51
+3:27,222,Dylan Painter Steal.,73,51
+3:02,222,Jalen Brunson made Jumper.,75,51
+2:51,219,Caleb Wood missed Three Point Jumper.,75,51
+2:51,222,Donte DiVincenzo Defensive Rebound.,75,51
+2:32,222,Donte DiVincenzo missed Three Point Jumper.,75,51
+2:32,219,Jake Silpe Defensive Rebound.,75,51
+2:25,219,Jake Silpe missed Three Point Jumper.,75,51
+2:25,222,Eric Paschall Defensive Rebound.,75,51
+2:23,219,Foul on Max Rothschild.,75,51
+2:23,219,Official TV Timeout,75,51
+2:23,222,Eric Paschall missed Free Throw.,75,51
+2:23,222,Villanova Deadball Team Rebound.,75,51
+2:23,222,Eric Paschall missed Free Throw.,75,51
+2:23,219,Collin McManus Defensive Rebound.,75,51
+2:10,219,AJ Brodeur missed Layup.,75,51
+2:10,222,Eric Paschall Block.,75,51
+2:10,222,Eric Paschall Defensive Rebound.,75,51
+2:00,222,Eric Paschall missed Three Point Jumper.,75,51
+2:00,219,Jake Silpe Defensive Rebound.,75,51
+1:54,219,Sam Jones made Three Point Jumper. Assisted by Jake Silpe.,75,54
+1:20,222,Donte DiVincenzo made Three Point Jumper. Assisted by Jalen Brunson.,78,54
+1:02,219,Collin McManus Turnover.,78,54
+1:02,222,Donte DiVincenzo Steal.,78,54
+0:59,219,Foul on Caleb Wood.,78,54
+0:59,222,Donte DiVincenzo made Free Throw.,79,54
+0:59,222,Donte DiVincenzo made Free Throw.,80,54
+0:51,222,Foul on Denny Grace.,80,54
+0:51,219,Devon Goodman missed Free Throw.,80,54
+0:51,219,Pennsylvania Deadball Team Rebound.,80,54
+0:51,219,Devon Goodman made Free Throw.,80,55
+0:49,219,Foul on Ray Jerome.,80,55
+0:49,222,Eric Paschall made Free Throw.,81,55
+0:49,222,Eric Paschall made Free Throw.,82,55
+0:42,222,Foul on Denny Grace.,82,55
+0:42,219,Devon Goodman made Free Throw.,82,56
+0:42,219,Devon Goodman made Free Throw.,82,57
+0:27,222,Eric Paschall missed Three Point Jumper.,82,57
+0:27,222,Matt Kennedy Offensive Rebound.,82,57
+0:00,219,End of Game,82,57

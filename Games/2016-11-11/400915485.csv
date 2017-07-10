@@ -1,0 +1,386 @@
+Pacific,26,UCLA,279
+time,team_id,description,h_score,a_score
+20:00,26,Jump Ball won by UCLA,0,0
+19:52,26,Lonzo Ball made Three Point Jumper. Assisted by Bryce Alford.,0,3
+19:25,279,T.J. Wallace missed Layup.,0,3
+19:25,279,David Taylor Offensive Rebound.,0,3
+19:24,279,Ray Bowles Turnover.,0,3
+19:24,26,Lonzo Ball Steal.,0,3
+19:20,26,Bryce Alford made Three Point Jumper. Assisted by TJ Leaf.,0,6
+18:55,279,Ray Bowles made Three Point Jumper.,3,6
+18:37,26,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.,3,9
+18:13,279,Ray Bowles missed Three Point Jumper.,3,9
+18:13,279,David Taylor Offensive Rebound.,3,9
+18:05,279,Tonko Vuko made Jumper.,5,9
+17:58,26,Isaac Hamilton missed Three Point Jumper.,5,9
+17:58,279,Tonko Vuko Defensive Rebound.,5,9
+17:40,279,Ray Bowles missed Layup.,5,9
+17:40,279,Tonko Vuko Offensive Rebound.,5,9
+17:36,279,David Taylor made Jumper.,7,9
+17:15,26,TJ Leaf Turnover.,7,9
+17:03,26,Foul on Isaac Hamilton.,7,9
+17:03,279,David Taylor missed Jumper.,7,9
+17:03,26,Thomas Welsh Defensive Rebound.,7,9
+16:54,26,TJ Leaf missed Three Point Jumper.,7,9
+16:54,279,Pacific Deadball Team Rebound.,7,9
+16:39,279,Sami Eleraky Turnover.,7,9
+16:39,279,Foul on Sami Eleraky.,7,9
+16:29,279,Foul on David Taylor.,7,9
+16:26,26,Thomas Welsh missed Jumper.,7,9
+16:26,279,Tonko Vuko Defensive Rebound.,7,9
+16:10,279,Sami Eleraky missed Jumper.,7,9
+16:10,26,Thomas Welsh Defensive Rebound.,7,9
+15:59,26,Lonzo Ball made Three Point Jumper. Assisted by Isaac Hamilton.,7,12
+15:47,279,T.J. Wallace missed Layup.,7,12
+15:47,26,TJ Leaf Block.,7,12
+15:47,26,TJ Leaf Defensive Rebound.,7,12
+15:37,26,Lonzo Ball made Dunk. Assisted by Isaac Hamilton.,7,14
+15:24,279,Ray Bowles made Jumper.,9,14
+15:11,26,Thomas Welsh missed Jumper.,9,14
+15:07,26,Official TV Timeout,9,14
+15:07,279,Foul on T.J. Wallace.,9,14
+15:07,26,TJ Leaf Offensive Rebound.,9,14
+14:46,26,Bryce Alford missed Three Point Jumper.,9,14
+14:46,279,Ray Bowles Defensive Rebound.,9,14
+14:38,26,Foul on Isaac Hamilton.,9,14
+14:21,279,David Taylor missed Layup.,9,14
+14:21,26,Thomas Welsh Defensive Rebound.,9,14
+13:59,26,Aaron Holiday made Three Point Jumper. Assisted by Lonzo Ball.,9,17
+13:49,279,Jack Williams made Jumper.,11,17
+13:36,26,Aaron Holiday made Three Point Jumper. Assisted by Lonzo Ball.,11,20
+13:15,279,Jack Williams Turnover.,11,20
+13:15,26,Bryce Alford Steal.,11,20
+13:11,26,Aaron Holiday made Layup.,11,22
+12:50,279,Ray Bowles made Layup.,13,22
+12:37,26,Aaron Holiday made Jumper.,13,24
+12:20,279,Jacob Lampkin Turnover.,13,24
+12:10,26,Bryce Alford made Jumper. Assisted by TJ Leaf.,13,26
+12:10,279,Foul on David Taylor.,13,26
+12:10,26,Bryce Alford made Free Throw.,13,27
+11:57,279,Jack Williams missed Three Point Jumper.,13,27
+11:57,26,Aaron Holiday Defensive Rebound.,13,27
+11:38,26,TJ Leaf made Three Point Jumper. Assisted by Lonzo Ball.,13,30
+11:31,26,Official TV Timeout,13,30
+11:18,26,Foul on Gyorgy Goloman.,13,30
+11:06,279,David Taylor made Three Point Jumper. Assisted by Jacob Lampkin.,16,30
+10:53,279,Foul on David Taylor.,16,30
+10:50,26,Aaron Holiday missed Jumper.,16,30
+10:50,26,Gyorgy Goloman Offensive Rebound.,16,30
+10:45,26,Gyorgy Goloman Turnover.,16,30
+10:45,279,Jack Williams Steal.,16,30
+10:32,279,D.J. Ursery missed Jumper.,16,30
+10:32,26,TJ Leaf Defensive Rebound.,16,30
+10:17,26,Gyorgy Goloman Turnover.,16,30
+10:17,279,D.J. Ursery Steal.,16,30
+10:11,279,Jack Williams made Three Point Jumper. Assisted by Keshon Montague.,19,30
+9:55,26,Foul on Bryce Alford.,19,30
+9:55,26,Bryce Alford Turnover.,19,30
+9:45,279,Jack Williams missed Jumper.,19,30
+9:45,26,Lonzo Ball Defensive Rebound.,19,30
+9:33,26,Lonzo Ball missed Three Point Jumper.,19,30
+9:33,279,Pacific Defensive Rebound.,19,30
+9:17,279,Jacob Lampkin missed Jumper.,19,30
+9:17,26,Gyorgy Goloman Defensive Rebound.,19,30
+9:09,26,Isaac Hamilton Turnover.,19,30
+9:09,279,Jacob Lampkin Steal.,19,30
+9:01,26,Foul on Gyorgy Goloman.,19,30
+8:59,279,T.J. Wallace made Jumper.,21,30
+8:43,26,Thomas Welsh made Jumper. Assisted by Aaron Holiday.,21,32
+8:33,279,T.J. Wallace Turnover.,21,32
+8:33,26,Lonzo Ball Steal.,21,32
+8:28,279,Foul on T.J. Wallace.,21,32
+8:28,26,Lonzo Ball made Free Throw.,21,33
+8:28,26,Lonzo Ball made Free Throw.,21,34
+8:21,279,Sami Eleraky Turnover.,21,34
+8:21,26,Aaron Holiday Steal.,21,34
+8:11,26,Lonzo Ball missed Dunk.,21,34
+8:11,26,Aaron Holiday Offensive Rebound.,21,34
+8:11,279,Foul on Sami Eleraky.,21,34
+8:11,26,Aaron Holiday made Free Throw.,21,35
+8:11,26,Aaron Holiday made Free Throw.,21,36
+7:59,279,T.J. Wallace made Three Point Jumper.,24,36
+7:41,26,Gyorgy Goloman made Layup.,24,38
+7:41,279,Foul on Tonko Vuko.,24,38
+7:41,26,Official TV Timeout,24,38
+7:41,26,Gyorgy Goloman made Free Throw.,24,39
+7:30,279,T.J. Wallace missed Jumper.,24,39
+7:26,279,Tonko Vuko Offensive Rebound.,24,39
+7:26,26,Foul on Thomas Welsh.,24,39
+7:26,279,Ray Bowles Turnover.,24,39
+7:26,279,Foul on Ray Bowles.,24,39
+7:19,26,Thomas Welsh missed Jumper.,24,39
+7:19,26,Gyorgy Goloman Offensive Rebound.,24,39
+7:17,279,Foul on Ray Bowles.,24,39
+7:17,26,Gyorgy Goloman missed Free Throw.,24,39
+7:17,26,UCLA Deadball Team Rebound.,24,39
+7:17,26,Gyorgy Goloman made Free Throw.,24,40
+6:54,279,T.J. Wallace made Three Point Jumper.,27,40
+6:37,26,Isaac Hamilton made Three Point Jumper. Assisted by Aaron Holiday.,27,43
+6:27,26,Foul on Aaron Holiday.,27,43
+6:27,279,T.J. Wallace missed Free Throw.,27,43
+6:27,279,T.J. Wallace Offensive Rebound.,27,43
+6:11,279,Tonko Vuko missed Layup.,27,43
+6:11,26,Thomas Welsh Block.,27,43
+6:11,26,UCLA Defensive Rebound.,27,43
+6:00,26,Bryce Alford made Three Point Jumper. Assisted by Isaac Hamilton.,27,46
+6:00,279,Foul on D.J. Ursery.,27,46
+6:00,26,Bryce Alford made Free Throw.,27,47
+5:49,279,Jack Williams missed Three Point Jumper.,27,47
+5:49,26,Thomas Welsh Defensive Rebound.,27,47
+5:41,26,Bryce Alford missed Three Point Jumper.,27,47
+5:41,279,Tonko Vuko Defensive Rebound.,27,47
+5:24,279,Ray Bowles Turnover.,27,47
+5:12,26,Aaron Holiday missed Jumper.,27,47
+5:12,279,Jack Williams Defensive Rebound.,27,47
+5:03,279,T.J. Wallace made Dunk.,29,47
+4:32,26,TJ Leaf made Layup. Assisted by Isaac Hamilton.,29,49
+4:32,279,T.J. Wallace missed Three Point Jumper.,29,49
+4:32,26,UCLA Deadball Team Rebound.,29,49
+4:19,26,Isaac Hamilton made Jumper.,29,51
+4:06,26,Foul on Aaron Holiday.,29,51
+4:06,279,T.J. Wallace made Free Throw.,30,51
+4:06,279,T.J. Wallace made Free Throw.,31,51
+3:55,26,TJ Leaf missed Jumper.,31,51
+3:55,279,Jacob Lampkin Defensive Rebound.,31,51
+3:51,26,Foul on Thomas Welsh.,31,51
+3:51,26,Official TV Timeout,31,51
+3:51,279,Jacob Lampkin missed Free Throw.,31,51
+3:51,26,Lonzo Ball Defensive Rebound.,31,51
+3:41,26,Isaac Hamilton missed Three Point Jumper.,31,51
+3:41,26,TJ Leaf Offensive Rebound.,31,51
+3:37,279,Foul on Jacob Lampkin.,31,51
+3:37,26,TJ Leaf missed Free Throw.,31,51
+3:37,26,UCLA Deadball Team Rebound.,31,51
+3:37,26,TJ Leaf missed Free Throw.,31,51
+3:37,279,Jack Williams Defensive Rebound.,31,51
+3:15,26,Foul on TJ Leaf.,31,51
+3:15,279,Ray Bowles made Free Throw.,32,51
+3:15,279,Ray Bowles missed Free Throw.,32,51
+3:15,279,D.J. Ursery Offensive Rebound.,32,51
+3:08,279,D.J. Ursery made Two Point Tip Shot.,34,51
+2:58,26,Aaron Holiday missed Three Point Jumper.,34,51
+2:58,279,T.J. Wallace Defensive Rebound.,34,51
+2:44,279,T.J. Wallace Turnover.,34,51
+2:44,26,Isaac Hamilton Steal.,34,51
+2:37,26,Lonzo Ball made Dunk. Assisted by Aaron Holiday.,34,53
+2:37,279,Foul on D.J. Ursery.,34,53
+2:37,26,Technical Foul on Lonzo Ball.,34,53
+2:37,279,Ray Bowles made Free Throw.,35,53
+2:37,26,Foul on Lonzo Ball.,34,53
+2:37,279,Ray Bowles made Free Throw.,36,53
+2:37,26,Lonzo Ball made Free Throw.,36,54
+2:28,279,D.J. Ursery Turnover.,36,54
+2:28,26,UCLA  Timeout,36,54
+2:17,26,Isaac Hamilton Turnover.,36,54
+2:04,26,Foul on Bryce Alford.,36,54
+2:04,279,D.J. Ursery made Free Throw.,37,54
+2:04,279,D.J. Ursery missed Free Throw.,37,54
+2:04,26,TJ Leaf Defensive Rebound.,37,54
+1:49,26,Bryce Alford missed Jumper.,37,54
+1:49,26,TJ Leaf Offensive Rebound.,37,54
+1:49,26,TJ Leaf made Two Point Tip Shot.,37,56
+1:29,279,T.J. Wallace made Layup.,39,56
+1:29,26,Foul on Isaac Hamilton.,39,56
+1:29,279,T.J. Wallace missed Free Throw.,39,56
+1:29,279,Pacific Offensive Rebound.,39,56
+1:23,279,D.J. Ursery missed Jumper.,39,56
+1:23,26,Bryce Alford Defensive Rebound.,39,56
+1:06,26,Bryce Alford made Jumper.,39,58
+0:47,279,T.J. Wallace missed Three Point Jumper.,39,58
+0:47,26,TJ Leaf Defensive Rebound.,39,58
+0:38,279,Foul on Keshon Montague.,39,58
+0:38,26,Bryce Alford made Free Throw.,39,59
+0:38,26,Bryce Alford made Free Throw.,39,60
+0:19,279,Keshon Montague missed Three Point Jumper.,39,60
+0:19,26,Lonzo Ball Defensive Rebound.,39,60
+0:07,26,Aaron Holiday made Three Point Jumper. Assisted by Lonzo Ball.,39,63
+0:00,26,End of 1st half,39,63
+20:00,279,Jump Ball won by Pacific,39,63
+19:53,279,Ray Bowles missed Layup.,39,63
+19:53,279,Tonko Vuko Offensive Rebound.,39,63
+19:37,26,Foul on Lonzo Ball.,39,63
+19:30,279,T.J. Wallace made Jumper.,41,63
+19:14,26,Bryce Alford made Three Point Jumper. Assisted by Isaac Hamilton.,41,66
+18:52,279,Ray Bowles missed Layup.,41,66
+18:52,26,Thomas Welsh Defensive Rebound.,41,66
+18:47,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,41,69
+18:28,279,T.J. Wallace missed Three Point Jumper.,41,69
+18:28,279,Sami Eleraky Offensive Rebound.,41,69
+18:25,26,Foul on Thomas Welsh.,41,69
+18:23,279,Tonko Vuko made Three Point Jumper. Assisted by Ray Bowles.,44,69
+18:13,26,Isaac Hamilton made Jumper.,44,71
+17:53,26,Foul on Gyorgy Goloman.,44,71
+17:53,279,Sami Eleraky missed Free Throw.,44,71
+17:53,279,Pacific Deadball Team Rebound.,44,71
+17:53,279,Sami Eleraky missed Free Throw.,44,71
+17:53,26,TJ Leaf Defensive Rebound.,44,71
+17:46,26,Isaac Hamilton missed Jumper.,44,71
+17:46,279,David Taylor Defensive Rebound.,44,71
+17:35,279,Ray Bowles missed Three Point Jumper.,44,71
+17:35,26,Lonzo Ball Defensive Rebound.,44,71
+17:25,26,TJ Leaf made Layup. Assisted by Lonzo Ball.,44,73
+17:16,26,Foul on Gyorgy Goloman.,44,73
+17:16,279,Ray Bowles made Free Throw.,45,73
+17:16,279,Ray Bowles made Free Throw.,46,73
+17:07,26,TJ Leaf made Jumper. Assisted by Isaac Hamilton.,46,75
+17:07,279,Foul on T.J. Wallace.,46,75
+17:07,26,TJ Leaf made Free Throw.,46,76
+16:56,279,David Taylor missed Jumper.,46,76
+16:56,26,Ikenna Okwarabizie Defensive Rebound.,46,76
+16:42,279,Foul on D.J. Ursery.,46,76
+16:36,279,Foul on T.J. Wallace.,46,76
+16:34,26,Bryce Alford made Layup. Assisted by Lonzo Ball.,46,78
+16:15,279,Jack Williams made Three Point Jumper. Assisted by David Taylor.,49,78
+16:00,26,TJ Leaf missed Three Point Jumper.,49,78
+16:00,279,David Taylor Defensive Rebound.,49,78
+15:44,26,Foul on Ikenna Okwarabizie.,49,78
+15:44,26,Official TV Timeout,49,78
+15:27,279,Tonko Vuko made Layup.,51,78
+15:13,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,51,81
+15:02,279,Jack Williams missed Three Point Jumper.,51,81
+15:02,279,D.J. Ursery Offensive Rebound.,51,81
+15:02,279,D.J. Ursery made Two Point Tip Shot.,53,81
+14:41,26,Aaron Holiday made Three Point Jumper. Assisted by Isaac Hamilton.,53,84
+14:21,279,David Taylor made Three Point Jumper. Assisted by D.J. Ursery.,56,84
+14:05,279,Foul on Tonko Vuko.,56,84
+14:01,26,Aaron Holiday missed Jumper.,56,84
+14:01,279,David Taylor Defensive Rebound.,56,84
+13:42,279,Ray Bowles missed Layup.,56,84
+13:42,26,TJ Leaf Defensive Rebound.,56,84
+13:38,26,Foul on TJ Leaf.,56,84
+13:38,26,TJ Leaf Turnover.,56,84
+13:23,26,Jump Ball won by UCLA,56,84
+13:23,279,D.J. Ursery Turnover.,56,84
+13:23,26,Bryce Alford Steal.,56,84
+13:19,26,Bryce Alford missed Three Point Jumper.,56,84
+13:19,279,David Taylor Defensive Rebound.,56,84
+13:12,279,K.J. Smith missed Three Point Jumper.,56,84
+13:12,279,Tonko Vuko Offensive Rebound.,56,84
+12:46,26,Foul on Aaron Holiday.,56,84
+12:46,279,Ray Bowles missed Free Throw.,56,84
+12:46,279,Pacific Deadball Team Rebound.,56,84
+12:46,279,Ray Bowles made Free Throw.,57,84
+12:33,26,Isaac Hamilton made Jumper.,57,86
+12:18,279,David Taylor made Three Point Jumper. Assisted by D.J. Ursery.,60,86
+12:04,26,Thomas Welsh missed Jumper.,60,86
+12:04,26,TJ Leaf Offensive Rebound.,60,86
+11:57,26,Official TV Timeout,60,86
+11:46,279,Foul on D.J. Ursery.,60,86
+11:38,26,Lonzo Ball Turnover.,60,86
+11:24,279,K.J. Smith missed Three Point Jumper.,60,86
+11:24,26,Thomas Welsh Defensive Rebound.,60,86
+10:59,26,Lonzo Ball made Three Point Jumper. Assisted by Aaron Holiday.,60,89
+10:34,279,D.J. Ursery missed Layup.,60,89
+10:34,26,Thomas Welsh Block.,60,89
+10:34,26,Aaron Holiday Defensive Rebound.,60,89
+10:21,26,TJ Leaf made Three Point Jumper. Assisted by Aaron Holiday.,60,92
+10:08,26,Foul on Aaron Holiday.,60,92
+10:08,279,K.J. Smith missed Free Throw.,60,92
+10:08,26,TJ Leaf Defensive Rebound.,60,92
+9:54,26,Bryce Alford Turnover.,60,92
+9:54,279,David Taylor Steal.,60,92
+9:44,279,K.J. Smith missed Three Point Jumper.,60,92
+9:44,26,Lonzo Ball Defensive Rebound.,60,92
+9:29,279,Foul on David Taylor.,60,92
+9:27,26,TJ Leaf missed Three Point Jumper.,60,92
+9:27,279,Tonko Vuko Defensive Rebound.,60,92
+9:14,279,Jacob Lampkin made Jumper. Assisted by Ray Bowles.,62,92
+9:03,26,Thomas Welsh missed Jumper.,62,92
+9:03,26,TJ Leaf Offensive Rebound.,62,92
+8:57,26,TJ Leaf made Jumper.,62,94
+8:42,279,Keshon Montague missed Jumper.,62,94
+8:42,26,TJ Leaf Defensive Rebound.,62,94
+8:32,279,Foul on Keshon Montague.,62,94
+8:32,26,Bryce Alford missed Free Throw.,62,94
+8:32,279,Ray Bowles Defensive Rebound.,62,94
+8:25,26,Foul on Gyorgy Goloman.,62,94
+8:25,279,Jacob Lampkin made Free Throw.,63,94
+8:25,279,Jacob Lampkin made Free Throw.,64,94
+8:18,279,Foul on Keshon Montague.,64,94
+8:18,26,Bryce Alford made Free Throw.,64,95
+8:18,26,Bryce Alford made Free Throw.,64,96
+7:58,279,T.J. Wallace Turnover.,64,96
+7:58,26,Official TV Timeout,64,96
+7:47,26,Isaac Hamilton missed Three Point Jumper.,64,96
+7:47,26,Bryce Alford Offensive Rebound.,64,96
+7:35,26,Isaac Hamilton Turnover.,64,96
+7:35,279,Sami Eleraky Steal.,64,96
+7:11,279,T.J. Wallace missed Layup.,64,96
+7:11,26,Isaac Hamilton Defensive Rebound.,64,96
+7:04,26,Bryce Alford made Three Point Jumper. Assisted by Isaac Hamilton.,64,99
+6:54,26,Foul on Bryce Alford.,64,99
+6:54,279,T.J. Wallace missed Free Throw.,64,99
+6:54,279,Pacific Deadball Team Rebound.,64,99
+6:54,279,T.J. Wallace made Free Throw.,65,99
+6:50,26,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.,65,102
+6:36,26,Foul on Thomas Welsh.,65,102
+6:36,279,Sami Eleraky missed Free Throw.,65,102
+6:36,279,Pacific Deadball Team Rebound.,65,102
+6:36,279,Sami Eleraky missed Free Throw.,65,102
+6:36,26,Lonzo Ball Defensive Rebound.,65,102
+6:32,26,Isaac Hamilton missed Three Point Jumper.,65,102
+6:32,279,Keshon Montague Defensive Rebound.,65,102
+6:17,279,T.J. Wallace made Jumper.,67,102
+6:11,26,Isaac Hamilton made Layup. Assisted by Lonzo Ball.,67,104
+6:03,279,Pacific  Timeout,67,104
+6:00,279,Keshon Montague missed Three Point Jumper.,67,104
+6:00,26,Lonzo Ball Defensive Rebound.,67,104
+5:44,26,Thomas Welsh missed Jumper.,67,104
+5:44,279,T.J. Wallace Defensive Rebound.,67,104
+5:37,279,T.J. Wallace made Layup.,69,104
+5:21,26,Thomas Welsh made Layup. Assisted by TJ Leaf.,69,106
+5:01,279,Ray Bowles missed Three Point Jumper.,69,106
+5:01,26,Lonzo Ball Defensive Rebound.,69,106
+4:52,279,Foul on Keshon Montague.,69,106
+4:52,26,Lonzo Ball made Free Throw.,69,107
+4:52,26,Lonzo Ball missed Free Throw.,69,107
+4:52,279,Sami Eleraky Defensive Rebound.,69,107
+4:42,279,D.J. Ursery made Jumper.,71,107
+4:29,26,Thomas Welsh made Jumper.,71,109
+4:13,279,Ilias Theodorou made Three Point Jumper.,74,109
+3:48,26,Lonzo Ball made Layup. Assisted by TJ Leaf.,74,111
+3:31,279,Ilias Theodorou Turnover.,74,111
+3:31,26,Thomas Welsh Steal.,74,111
+3:17,26,TJ Leaf made Jumper.,74,113
+2:54,279,Sami Eleraky missed Layup.,74,113
+2:54,26,Thomas Welsh Block.,74,113
+2:54,279,Sami Eleraky Offensive Rebound.,74,113
+2:41,279,Sami Eleraky made Layup.,76,113
+2:30,279,Foul on Ilias Theodorou.,76,113
+2:30,26,Official TV Timeout,76,113
+2:30,26,TJ Leaf made Free Throw.,76,114
+2:30,26,TJ Leaf missed Free Throw.,76,114
+2:30,26,TJ Leaf Offensive Rebound.,76,114
+2:28,26,TJ Leaf made Dunk.,76,116
+2:10,279,Jacob Lampkin missed Jumper.,76,116
+2:10,279,Jacob Lampkin Offensive Rebound.,76,116
+2:06,279,Jacob Lampkin Turnover.,76,116
+2:06,26,TJ Leaf Steal.,76,116
+2:00,26,Jerrold Smith missed Layup.,76,116
+2:00,279,D.J. Ursery Defensive Rebound.,76,116
+1:50,26,Foul on Aaron Holiday.,76,116
+1:50,279,Ray Bowles made Free Throw.,77,116
+1:50,279,Ray Bowles missed Free Throw.,77,116
+1:50,279,Ilias Theodorou Offensive Rebound.,77,116
+1:40,279,D.J. Ursery missed Jumper.,77,116
+1:40,26,TJ Leaf Defensive Rebound.,77,116
+1:35,279,Foul on K.J. Smith.,77,116
+1:35,26,Isaac Wulff missed Free Throw.,77,116
+1:35,26,UCLA Deadball Team Rebound.,77,116
+1:35,26,Isaac Wulff made Free Throw.,77,117
+1:22,279,Jacob Lampkin missed Three Point Jumper.,77,117
+1:22,26,Alec Wulff Defensive Rebound.,77,117
+1:14,26,TJ Leaf Turnover.,77,117
+1:08,279,Dominic Rector missed Three Point Jumper.,77,117
+1:08,26,Isaac Wulff Defensive Rebound.,77,117
+0:51,26,Foul on Jerrold Smith.,77,117
+0:51,26,Jerrold Smith Turnover.,77,117
+0:35,26,Foul on Jerrold Smith.,77,117
+0:35,279,Max Tinsley missed Free Throw.,77,117
+0:35,279,Pacific Deadball Team Rebound.,77,117
+0:35,279,Max Tinsley made Free Throw.,78,117
+0:25,26,Jerrold Smith missed Jumper.,78,117
+0:25,26,Isaac Wulff Offensive Rebound.,78,117
+0:25,26,Isaac Wulff made Two Point Tip Shot.,78,119
+0:13,279,Max Tinsley made Jumper.,80,119
+0:00,26,End of Game,80,119

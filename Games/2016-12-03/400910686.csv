@@ -1,0 +1,403 @@
+UCLA,96,Kentucky,26
+time,team_id,description,h_score,a_score
+20:00,96,Jump Ball won by Kentucky,0,0
+19:46,96,Isaiah Briscoe missed Jumper.,0,0
+19:46,26,TJ Leaf Defensive Rebound.,0,0
+19:37,26,Lonzo Ball missed Three Point Jumper.,0,0
+19:37,96,Edrice Adebayo Defensive Rebound.,0,0
+19:26,96,Malik Monk missed Three Point Jumper.,0,0
+19:26,26,Lonzo Ball Defensive Rebound.,0,0
+19:07,26,TJ Leaf made Layup. Assisted by Lonzo Ball.,2,0
+18:56,96,Isaiah Briscoe missed Three Point Jumper.,2,0
+18:56,26,Lonzo Ball Defensive Rebound.,2,0
+18:44,26,Bryce Alford made Jumper.,4,0
+18:40,96,Kentucky  Timeout,4,0
+18:30,96,Edrice Adebayo missed Jumper.,4,0
+18:30,26,Thomas Welsh Defensive Rebound.,4,0
+18:21,26,Lonzo Ball Turnover.,4,0
+18:21,96,Malik Monk Steal.,4,0
+18:21,26,Foul on Isaac Hamilton.,4,0
+18:12,26,Foul on Lonzo Ball.,4,0
+18:12,96,De'Aaron Fox missed Free Throw.,4,0
+18:12,96,Kentucky Deadball Team Rebound.,4,0
+18:12,96,De'Aaron Fox made Free Throw.,4,1
+17:50,26,Thomas Welsh missed Jumper.,4,1
+17:50,96,Edrice Adebayo Defensive Rebound.,4,1
+17:31,96,Isaiah Briscoe made Layup.,4,3
+17:21,26,Bryce Alford made Three Point Jumper. Assisted by TJ Leaf.,7,3
+17:00,96,Isaiah Briscoe missed Jumper.,7,3
+17:00,96,Isaiah Briscoe Offensive Rebound.,7,3
+16:59,26,Foul on Thomas Welsh.,7,3
+16:54,96,De'Aaron Fox missed Layup.,7,3
+16:54,26,TJ Leaf Block.,7,3
+16:54,26,Thomas Welsh Defensive Rebound.,7,3
+16:46,26,Bryce Alford Turnover.,7,3
+16:46,96,Malik Monk Steal.,7,3
+16:39,96,De'Aaron Fox made Layup. Assisted by Isaiah Briscoe.,7,5
+16:25,96,Foul on Malik Monk.,7,5
+16:22,26,Isaac Hamilton Turnover.,7,5
+16:14,96,Isaiah Briscoe made Layup.,7,7
+16:00,26,Isaac Hamilton missed Three Point Jumper.,7,7
+16:00,96,De'Aaron Fox Defensive Rebound.,7,7
+15:50,26,Foul on TJ Leaf.,7,7
+15:50,96,Official TV Timeout,7,7
+15:40,96,Derek Willis made Three Point Jumper.,7,10
+15:20,26,Lonzo Ball Turnover.,7,10
+15:11,96,De'Aaron Fox made Jumper.,7,12
+14:52,26,Thomas Welsh Turnover.,7,12
+14:52,96,Malik Monk Steal.,7,12
+14:46,96,Malik Monk missed Jumper.,7,12
+14:46,26,Lonzo Ball Block.,7,12
+14:46,96,Malik Monk Offensive Rebound.,7,12
+14:31,96,De'Aaron Fox made Jumper.,7,14
+14:11,26,Thomas Welsh made Jumper. Assisted by Lonzo Ball.,9,14
+13:52,96,Derek Willis made Dunk. Assisted by De'Aaron Fox.,9,16
+13:32,26,Lonzo Ball Turnover.,9,16
+13:32,96,Derek Willis Steal.,9,16
+13:23,96,Derek Willis missed Three Point Jumper.,9,16
+13:23,96,Isaac Humphries Offensive Rebound.,9,16
+13:18,96,Isaac Humphries missed Jumper.,9,16
+13:18,26,TJ Leaf Defensive Rebound.,9,16
+13:12,96,Foul on Isaiah Briscoe.,9,16
+13:00,26,Ike Anigbogu made Jumper. Assisted by TJ Leaf.,11,16
+12:35,96,Dominique Hawkins made Three Point Jumper. Assisted by De'Aaron Fox.,11,19
+12:22,26,Ike Anigbogu Turnover.,11,19
+12:08,96,De'Aaron Fox missed Three Point Jumper.,11,19
+12:08,26,TJ Leaf Defensive Rebound.,11,19
+12:00,26,Aaron Holiday made Three Point Jumper.,14,19
+11:39,96,De'Aaron Fox Turnover.,14,19
+11:24,96,Foul on Dominique Hawkins.,14,19
+11:24,96,Official TV Timeout,14,19
+11:13,26,Lonzo Ball missed Three Point Jumper.,14,19
+11:13,96,Derek Willis Defensive Rebound.,14,19
+11:03,96,Malik Monk made Layup. Assisted by Derek Willis.,14,21
+10:50,26,Lonzo Ball Turnover.,14,21
+10:50,96,Malik Monk Steal.,14,21
+10:44,96,De'Aaron Fox missed Layup.,14,21
+10:44,96,Edrice Adebayo Offensive Rebound.,14,21
+10:44,96,Edrice Adebayo missed Two Point Tip Shot.,14,21
+10:44,26,Ike Anigbogu Defensive Rebound.,14,21
+10:32,26,Bryce Alford missed Jumper.,14,21
+10:32,96,Edrice Adebayo Defensive Rebound.,14,21
+10:25,96,Dominique Hawkins made Layup. Assisted by Derek Willis.,14,23
+10:02,26,Bryce Alford made Three Point Jumper. Assisted by Aaron Holiday.,17,23
+9:56,96,Foul on Derek Willis.,17,23
+9:44,26,Isaac Hamilton made Jumper.,19,23
+9:34,26,Foul on Ike Anigbogu.,19,23
+9:30,96,Dominique Hawkins missed Three Point Jumper.,19,23
+9:30,96,Wenyen Gabriel Offensive Rebound.,19,23
+9:25,96,Wenyen Gabriel made Layup.,19,25
+9:08,96,Foul on Wenyen Gabriel.,19,25
+8:49,26,Lonzo Ball missed Jumper.,19,25
+8:49,26,Isaac Hamilton Offensive Rebound.,19,25
+8:46,26,Isaac Hamilton missed Jumper.,19,25
+8:45,96,Edrice Adebayo Block.,19,25
+8:44,26,TJ Leaf Offensive Rebound.,19,25
+8:42,96,Foul on Edrice Adebayo.,19,25
+8:42,26,Aaron Holiday missed Free Throw.,19,25
+8:42,26,UCLA Deadball Team Rebound.,19,25
+8:42,26,Aaron Holiday made Free Throw.,20,25
+8:24,96,Dominique Hawkins missed Jumper.,20,25
+8:24,96,Edrice Adebayo Offensive Rebound.,20,25
+8:24,96,Edrice Adebayo made Dunk.,20,27
+8:00,26,Ike Anigbogu made Dunk. Assisted by Aaron Holiday.,22,27
+7:48,96,Isaiah Briscoe missed Layup.,22,27
+7:48,26,Aaron Holiday Block.,22,27
+7:48,26,TJ Leaf Defensive Rebound.,22,27
+7:38,26,Lonzo Ball missed Three Point Jumper.,22,27
+7:38,26,TJ Leaf Offensive Rebound.,22,27
+7:33,26,TJ Leaf made Layup.,24,27
+7:33,96,Official TV Timeout,24,27
+7:12,96,Malik Monk made Layup.,24,29
+6:57,96,Foul on De'Aaron Fox.,24,29
+6:57,26,Aaron Holiday made Free Throw.,25,29
+6:57,26,Aaron Holiday made Free Throw.,26,29
+6:49,96,De'Aaron Fox Turnover.,26,29
+6:38,26,Thomas Welsh missed Jumper.,26,29
+6:38,26,TJ Leaf Offensive Rebound.,26,29
+6:32,26,TJ Leaf made Layup.,28,29
+6:26,96,De'Aaron Fox made Layup.,28,31
+6:26,26,Foul on Aaron Holiday.,28,31
+6:26,96,De'Aaron Fox made Free Throw.,28,32
+6:17,26,TJ Leaf missed Three Point Jumper.,28,32
+6:17,96,Isaiah Briscoe Defensive Rebound.,28,32
+6:08,26,Foul on TJ Leaf.,28,32
+6:08,96,Edrice Adebayo made Free Throw.,28,33
+6:08,96,Edrice Adebayo made Free Throw.,28,34
+5:56,26,Thomas Welsh made Layup. Assisted by Aaron Holiday.,30,34
+5:47,96,Malik Monk made Layup. Assisted by Isaiah Briscoe.,30,36
+5:28,26,Isaac Hamilton made Three Point Jumper. Assisted by Bryce Alford.,33,36
+5:18,96,Malik Monk missed Three Point Jumper.,33,36
+5:18,26,Lonzo Ball Defensive Rebound.,33,36
+5:10,26,Aaron Holiday made Layup.,35,36
+5:02,96,Malik Monk made Three Point Jumper. Assisted by De'Aaron Fox.,35,39
+4:46,26,Lonzo Ball Turnover.,35,39
+4:22,96,Isaiah Briscoe missed Three Point Jumper.,35,39
+4:22,26,Isaac Hamilton Defensive Rebound.,35,39
+4:15,26,Isaac Hamilton missed Layup.,35,39
+4:15,96,Dominique Hawkins Defensive Rebound.,35,39
+4:08,96,De'Aaron Fox missed Jumper.,35,39
+4:08,96,Wenyen Gabriel Offensive Rebound.,35,39
+3:52,96,Edrice Adebayo missed Jumper.,35,39
+3:52,26,Thomas Welsh Defensive Rebound.,35,39
+3:45,96,Foul on Dominique Hawkins.,35,39
+3:45,96,Official TV Timeout,35,39
+3:45,26,Thomas Welsh made Free Throw.,36,39
+3:45,26,Thomas Welsh made Free Throw.,37,39
+3:36,96,Malik Monk missed Jumper.,37,39
+3:36,96,Wenyen Gabriel Offensive Rebound.,37,39
+3:28,26,Foul on Bryce Alford.,37,39
+3:28,96,Isaiah Briscoe missed Free Throw.,37,39
+3:28,26,UCLA Deadball Team Rebound.,37,39
+3:27,96,Foul on Isaac Humphries.,37,39
+3:27,26,Isaac Hamilton missed Free Throw.,37,39
+3:27,96,Wenyen Gabriel Defensive Rebound.,37,39
+3:18,96,De'Aaron Fox made Jumper.,37,41
+2:58,26,Aaron Holiday made Layup.,39,41
+2:39,96,Isaiah Briscoe missed Jumper.,39,41
+2:39,26,UCLA Deadball Team Rebound.,39,41
+2:39,96,Foul on Isaac Humphries.,39,41
+2:39,26,Isaac Hamilton made Free Throw.,40,41
+2:39,26,Isaac Hamilton made Free Throw.,41,41
+2:22,96,De'Aaron Fox missed Jumper.,41,41
+2:22,96,Wenyen Gabriel Offensive Rebound.,41,41
+2:16,96,Wenyen Gabriel Turnover.,41,41
+2:16,26,Aaron Holiday Steal.,41,41
+2:09,26,Aaron Holiday made Three Point Jumper. Assisted by Lonzo Ball.,44,41
+1:57,96,Wenyen Gabriel missed Three Point Jumper.,44,41
+1:57,26,Isaac Hamilton Defensive Rebound.,44,41
+1:35,26,Isaac Hamilton missed Jumper.,44,41
+1:35,96,Kentucky Deadball Team Rebound.,44,41
+1:32,26,Foul on Thomas Welsh.,44,41
+1:32,96,Edrice Adebayo made Free Throw.,44,42
+1:32,96,Edrice Adebayo made Free Throw.,44,43
+1:21,26,Bryce Alford missed Three Point Jumper.,44,43
+1:21,96,Isaiah Briscoe Defensive Rebound.,44,43
+1:13,26,Foul on Ike Anigbogu.,44,43
+1:13,96,Isaiah Briscoe made Free Throw.,44,44
+1:13,96,Isaiah Briscoe missed Free Throw.,44,44
+1:13,26,UCLA Defensive Rebound.,44,44
+0:47,26,Isaac Hamilton made Jumper.,46,44
+0:32,26,Foul on Gyorgy Goloman.,46,44
+0:32,96,Edrice Adebayo made Free Throw.,46,45
+0:32,96,Edrice Adebayo missed Free Throw.,46,45
+0:32,26,Gyorgy Goloman Defensive Rebound.,46,45
+0:30,26,UCLA  Timeout,46,45
+0:03,26,Lonzo Ball made Three Point Jumper.,49,45
+0:00,96,End of 1st half,49,45
+20:00,26,Jump Ball won by UCLA,49,45
+19:42,26,Bryce Alford missed Jumper.,49,45
+19:42,26,Thomas Welsh Offensive Rebound.,49,45
+19:37,26,Thomas Welsh made Jumper.,51,45
+19:26,26,Foul on Thomas Welsh.,51,45
+19:21,96,Derek Willis missed Jumper.,51,45
+19:21,96,Edrice Adebayo Offensive Rebound.,51,45
+19:01,96,Malik Monk made Jumper.,51,47
+18:37,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,54,47
+18:19,96,Edrice Adebayo missed Jumper.,54,47
+18:19,96,Edrice Adebayo Offensive Rebound.,54,47
+18:15,96,Edrice Adebayo missed Layup.,54,47
+18:15,26,Ike Anigbogu Block.,54,47
+18:15,26,Isaac Hamilton Defensive Rebound.,54,47
+18:06,26,Bryce Alford missed Three Point Jumper.,54,47
+18:06,26,Ike Anigbogu Offensive Rebound.,54,47
+18:06,26,Ike Anigbogu made Dunk.,56,47
+18:05,96,Kentucky  Timeout,56,47
+17:56,96,Malik Monk Turnover.,56,47
+17:56,26,TJ Leaf Steal.,56,47
+17:33,26,TJ Leaf made Jumper.,58,47
+17:18,96,Edrice Adebayo missed Jumper.,58,47
+17:18,26,TJ Leaf Defensive Rebound.,58,47
+17:05,26,TJ Leaf missed Layup.,58,47
+17:05,26,Ike Anigbogu Offensive Rebound.,58,47
+16:59,26,Isaac Hamilton missed Three Point Jumper.,58,47
+16:59,26,Ike Anigbogu Offensive Rebound.,58,47
+16:54,26,TJ Leaf made Dunk. Assisted by Isaac Hamilton.,60,47
+16:31,26,Foul on Lonzo Ball.,60,47
+16:31,96,Isaiah Briscoe made Free Throw.,60,48
+16:31,96,Isaiah Briscoe made Free Throw.,60,49
+16:13,26,Lonzo Ball missed Three Point Jumper.,60,49
+16:13,96,Edrice Adebayo Defensive Rebound.,60,49
+16:03,96,Isaiah Briscoe missed Three Point Jumper.,60,49
+16:03,96,Wenyen Gabriel Offensive Rebound.,60,49
+15:54,96,Isaiah Briscoe missed Layup.,60,49
+15:54,26,Ike Anigbogu Block.,60,49
+15:54,96,Kentucky Offensive Rebound.,60,49
+15:52,96,Official TV Timeout,60,49
+15:38,96,De'Aaron Fox missed Jumper.,60,49
+15:38,96,Isaac Humphries Offensive Rebound.,60,49
+15:33,96,De'Aaron Fox made Jumper. Assisted by Isaac Humphries.,60,51
+15:21,26,TJ Leaf Turnover.,60,51
+15:21,96,Malik Monk Steal.,60,51
+15:12,96,Malik Monk missed Layup.,60,51
+15:12,26,Isaac Hamilton Block.,60,51
+15:12,26,TJ Leaf Defensive Rebound.,60,51
+15:05,26,Lonzo Ball made Layup.,62,51
+14:51,96,Malik Monk made Layup.,62,53
+14:27,96,Foul on De'Aaron Fox.,62,53
+14:26,26,Bryce Alford made Layup. Assisted by Lonzo Ball.,64,53
+14:10,96,Isaiah Briscoe made Jumper. Assisted by De'Aaron Fox.,64,55
+13:47,26,TJ Leaf made Three Point Jumper. Assisted by Lonzo Ball.,67,55
+13:29,96,Isaiah Briscoe made Layup. Assisted by De'Aaron Fox.,67,57
+13:09,96,Foul on Isaiah Briscoe.,67,57
+13:06,26,Lonzo Ball missed Three Point Jumper.,67,57
+13:06,96,Derek Willis Defensive Rebound.,67,57
+12:56,96,De'Aaron Fox missed Jumper.,67,57
+12:56,96,Edrice Adebayo Offensive Rebound.,67,57
+12:54,96,Edrice Adebayo made Dunk.,67,59
+12:54,26,Foul on Thomas Welsh.,67,59
+12:54,96,Edrice Adebayo made Free Throw.,67,60
+12:49,26,UCLA  Timeout,67,60
+12:41,26,Ike Anigbogu missed Jumper.,67,60
+12:41,96,Edrice Adebayo Block.,67,60
+12:41,26,UCLA Deadball Team Rebound.,67,60
+12:38,96,Foul on Isaiah Briscoe.,67,60
+12:36,26,Aaron Holiday missed Layup.,67,60
+12:36,96,Isaiah Briscoe Defensive Rebound.,67,60
+12:36,26,Foul on Aaron Holiday.,67,60
+12:26,96,De'Aaron Fox missed Jumper.,67,60
+12:26,26,Ike Anigbogu Defensive Rebound.,67,60
+12:13,96,Foul on De'Aaron Fox.,67,60
+12:10,96,Foul on Malik Monk.,67,60
+12:05,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,70,60
+11:49,26,Foul on Aaron Holiday.,70,60
+11:49,96,Official TV Timeout,70,60
+11:49,96,Isaiah Briscoe missed Free Throw.,70,60
+11:49,96,Kentucky Deadball Team Rebound.,70,60
+11:49,96,Isaiah Briscoe made Free Throw.,70,61
+11:41,26,Foul on Ike Anigbogu.,70,61
+11:41,26,Ike Anigbogu Turnover.,70,61
+11:28,96,Isaiah Briscoe Turnover.,70,61
+11:21,96,Foul on Derek Willis.,70,61
+10:54,96,Foul on Edrice Adebayo.,70,61
+10:54,26,Lonzo Ball made Free Throw.,71,61
+10:54,26,Lonzo Ball made Free Throw.,72,61
+10:46,96,Isaiah Briscoe Turnover.,72,61
+10:36,26,Isaac Hamilton made Jumper. Assisted by Aaron Holiday.,74,61
+10:19,26,Foul on Ike Anigbogu.,74,61
+10:19,96,Edrice Adebayo missed Free Throw.,74,61
+10:19,96,Kentucky Deadball Team Rebound.,74,61
+10:19,96,Edrice Adebayo made Free Throw.,74,62
+10:04,26,Aaron Holiday missed Layup.,74,62
+10:04,96,Edrice Adebayo Block.,74,62
+10:04,96,De'Aaron Fox Defensive Rebound.,74,62
+9:48,96,Edrice Adebayo missed Layup.,74,62
+9:48,26,TJ Leaf Defensive Rebound.,74,62
+9:34,26,TJ Leaf made Dunk.,76,62
+9:27,26,Foul on Gyorgy Goloman.,76,62
+9:27,96,De'Aaron Fox made Free Throw.,76,63
+9:27,96,De'Aaron Fox missed Free Throw.,76,63
+9:27,96,Derek Willis Offensive Rebound.,76,63
+9:23,96,Derek Willis made Jumper.,76,65
+9:03,26,Bryce Alford missed Three Point Jumper.,76,65
+9:03,96,Derek Willis Defensive Rebound.,76,65
+8:56,96,De'Aaron Fox missed Layup.,76,65
+8:56,26,Gyorgy Goloman Defensive Rebound.,76,65
+8:44,26,Aaron Holiday missed Three Point Jumper.,76,65
+8:44,26,TJ Leaf Offensive Rebound.,76,65
+8:26,26,TJ Leaf missed Dunk.,76,65
+8:26,96,Edrice Adebayo Block.,76,65
+8:26,96,Edrice Adebayo Defensive Rebound.,76,65
+8:21,26,Foul on Aaron Holiday.,76,65
+8:21,96,Derek Willis missed Free Throw.,76,65
+8:21,96,Kentucky Deadball Team Rebound.,76,65
+8:21,96,Derek Willis made Free Throw.,76,66
+7:59,26,Gyorgy Goloman missed Layup.,76,66
+7:59,96,Isaac Humphries Block.,76,66
+7:59,96,Wenyen Gabriel Defensive Rebound.,76,66
+7:51,96,De'Aaron Fox missed Jumper.,76,66
+7:51,26,TJ Leaf Defensive Rebound.,76,66
+7:26,26,Lonzo Ball missed Three Point Jumper.,76,66
+7:26,96,Wenyen Gabriel Defensive Rebound.,76,66
+7:17,96,Malik Monk missed Layup.,76,66
+7:17,96,Malik Monk Offensive Rebound.,76,66
+7:17,96,Malik Monk missed Two Point Tip Shot.,76,66
+7:17,26,Gyorgy Goloman Defensive Rebound.,76,66
+7:06,26,Isaac Hamilton made Layup.,78,66
+7:06,96,Wenyen Gabriel Turnover.,78,66
+7:06,26,Isaac Hamilton Steal.,78,66
+7:06,26,Isaac Hamilton Turnover.,78,66
+7:06,96,Official TV Timeout,78,66
+7:01,96,Malik Monk made Three Point Jumper. Assisted by De'Aaron Fox.,78,69
+6:36,26,Lonzo Ball Turnover.,78,69
+6:36,96,Isaac Humphries Steal.,78,69
+6:32,96,Malik Monk made Dunk. Assisted by Isaac Humphries.,78,71
+6:06,26,Bryce Alford missed Jumper.,78,71
+6:06,96,Isaac Humphries Block.,78,71
+6:06,96,Malik Monk Defensive Rebound.,78,71
+6:01,96,Malik Monk Turnover.,78,71
+6:01,26,Lonzo Ball Steal.,78,71
+5:57,26,Lonzo Ball made Dunk.,80,71
+5:43,96,Malik Monk made Three Point Jumper. Assisted by De'Aaron Fox.,80,74
+5:19,26,Lonzo Ball made Three Point Jumper. Assisted by TJ Leaf.,83,74
+5:03,96,Isaac Humphries missed Jumper.,83,74
+5:03,26,Thomas Welsh Defensive Rebound.,83,74
+4:42,26,TJ Leaf missed Jumper.,83,74
+4:42,26,Thomas Welsh Offensive Rebound.,83,74
+4:39,96,Foul on De'Aaron Fox.,83,74
+4:39,26,Thomas Welsh made Free Throw.,84,74
+4:39,26,Thomas Welsh made Free Throw.,85,74
+4:34,96,Derek Willis missed Three Point Jumper.,85,74
+4:34,26,Lonzo Ball Defensive Rebound.,85,74
+4:09,26,TJ Leaf missed Jumper.,85,74
+4:09,26,Ike Anigbogu Offensive Rebound.,85,74
+4:02,26,Isaac Hamilton missed Jumper.,85,74
+4:02,96,Kentucky Deadball Team Rebound.,85,74
+3:52,96,Edrice Adebayo made Layup. Assisted by De'Aaron Fox.,85,76
+3:52,26,Foul on Ike Anigbogu.,85,76
+3:52,96,Official TV Timeout,85,76
+3:52,96,Edrice Adebayo made Free Throw.,85,77
+3:29,26,Thomas Welsh made Jumper. Assisted by TJ Leaf.,87,77
+3:20,96,Malik Monk made Three Point Jumper. Assisted by Isaiah Briscoe.,87,80
+2:50,26,Thomas Welsh made Jumper. Assisted by TJ Leaf.,89,80
+2:45,96,Malik Monk missed Three Point Jumper.,89,80
+2:45,26,Thomas Welsh Defensive Rebound.,89,80
+2:10,26,UCLA  Turnover.,89,80
+1:59,96,Edrice Adebayo missed Layup.,89,80
+1:59,26,Lonzo Ball Defensive Rebound.,89,80
+1:49,26,Foul on Bryce Alford.,89,80
+1:49,26,Bryce Alford Turnover.,89,80
+1:44,96,De'Aaron Fox made Layup.,89,82
+1:39,96,Kentucky  Timeout,89,82
+1:31,26,Lonzo Ball made Layup.,91,82
+1:20,96,Isaiah Briscoe Turnover.,91,82
+1:05,26,Aaron Holiday Turnover.,91,82
+0:57,96,Isaiah Briscoe missed Three Point Jumper.,91,82
+0:57,96,Edrice Adebayo Offensive Rebound.,91,82
+0:52,26,Foul on TJ Leaf.,91,82
+0:52,96,Edrice Adebayo missed Free Throw.,91,82
+0:52,96,Kentucky Deadball Team Rebound.,91,82
+0:52,96,Edrice Adebayo made Free Throw.,91,83
+0:51,26,Bryce Alford Turnover.,91,83
+0:49,96,Malik Monk missed Three Point Jumper.,91,83
+0:49,26,TJ Leaf Defensive Rebound.,91,83
+0:42,96,Foul on Isaiah Briscoe.,91,83
+0:42,26,TJ Leaf made Free Throw.,92,83
+0:42,26,TJ Leaf made Free Throw.,93,83
+0:38,96,Isaiah Briscoe missed Three Point Jumper.,93,83
+0:38,26,Thomas Welsh Defensive Rebound.,93,83
+0:30,96,Foul on Derek Willis.,93,83
+0:30,26,Bryce Alford missed Free Throw.,93,83
+0:30,26,UCLA Deadball Team Rebound.,93,83
+0:30,26,Bryce Alford made Free Throw.,94,83
+0:27,96,De'Aaron Fox made Three Point Jumper.,94,86
+0:24,96,Kentucky  Timeout,94,86
+0:23,26,TJ Leaf Turnover.,94,86
+0:23,96,De'Aaron Fox Steal.,94,86
+0:22,96,De'Aaron Fox missed Three Point Jumper.,94,86
+0:22,96,Edrice Adebayo Offensive Rebound.,94,86
+0:17,96,Edrice Adebayo made Layup.,94,88
+0:17,26,Foul on Thomas Welsh.,94,88
+0:17,96,Edrice Adebayo made Free Throw.,94,89
+0:14,96,Foul on Malik Monk.,94,89
+0:14,26,Bryce Alford made Free Throw.,95,89
+0:14,26,Bryce Alford missed Free Throw.,95,89
+0:14,96,Edrice Adebayo Defensive Rebound.,95,89
+0:08,96,Derek Willis made Three Point Jumper. Assisted by De'Aaron Fox.,95,92
+0:08,26,UCLA  Timeout,95,92
+0:07,96,Foul on Edrice Adebayo.,95,92
+0:07,26,Bryce Alford made Free Throw.,96,92
+0:07,26,Bryce Alford made Free Throw.,97,92
+0:03,96,De'Aaron Fox missed Three Point Jumper.,97,92
+0:03,26,Lonzo Ball Defensive Rebound.,97,92
+0:00,96,End of Game,97,92

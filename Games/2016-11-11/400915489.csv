@@ -1,0 +1,391 @@
+Harvard,24,Stanford,108
+time,team_id,description,h_score,a_score
+20:00,108,Jump Ball won by Harvard,0,0
+19:44,108,Zena Edosomwan Turnover.,0,0
+19:25,24,Reid Travis missed Layup.,0,0
+19:25,24,Reid Travis Offensive Rebound.,0,0
+19:21,24,Reid Travis made Layup.,0,2
+18:56,108,Siyani Chambers missed Three Point Jumper.,0,2
+18:56,24,Marcus Allen Defensive Rebound.,0,2
+18:49,24,Michael Humphrey made Layup. Assisted by Dorian Pickens.,0,4
+18:31,108,Chris Egi missed Layup.,0,4
+18:31,24,Reid Travis Defensive Rebound.,0,4
+18:22,108,Foul on Corey Johnson.,0,4
+18:22,24,Dorian Pickens made Free Throw.,0,5
+18:22,24,Dorian Pickens missed Free Throw.,0,5
+18:22,108,Zena Edosomwan Defensive Rebound.,0,5
+18:08,108,Zena Edosomwan made Layup. Assisted by Siyani Chambers.,2,5
+17:45,24,Reid Travis Turnover.,2,5
+17:20,108,Bryce Aiken missed Three Point Jumper.,2,5
+17:20,24,Marcus Allen Defensive Rebound.,2,5
+17:06,24,Michael Humphrey made Jumper. Assisted by Marcus Allen.,2,7
+16:43,108,Zena Edosomwan missed Layup.,2,7
+16:43,24,Michael Humphrey Defensive Rebound.,2,7
+16:35,24,Dorian Pickens missed Layup.,2,7
+16:35,108,Zena Edosomwan Defensive Rebound.,2,7
+16:30,108,Seth Towns made Jumper. Assisted by Bryce Aiken.,4,7
+16:18,24,Christian Sanders Turnover.,4,7
+16:18,108,Seth Towns Steal.,4,7
+16:18,24,Foul on Michael Humphrey.,4,7
+15:57,24,Foul on Michael Humphrey.,4,7
+15:57,24,Official TV Timeout,4,7
+15:45,108,Seth Towns Turnover.,4,7
+15:33,108,Foul on Bryce Aiken.,4,7
+15:19,24,Josh Sharma missed Jumper.,4,7
+15:19,108,Chris Lewis Block.,4,7
+15:19,24,Reid Travis Offensive Rebound.,4,7
+15:19,24,Grant Verhoeven missed Layup.,4,7
+15:19,108,Chris Lewis Block.,4,7
+15:19,108,Seth Towns Defensive Rebound.,4,7
+15:00,108,Chris Lewis made Jumper. Assisted by Seth Towns.,6,7
+14:30,108,Foul on Siyani Chambers.,6,7
+14:20,24,Josh Sharma missed Three Point Jumper.,6,7
+14:20,108,Chris Egi Defensive Rebound.,6,7
+14:10,108,Bryce Aiken missed Jumper.,6,7
+14:10,108,Chris Egi Offensive Rebound.,6,7
+14:07,24,Foul on Grant Verhoeven.,6,7
+14:05,108,Chris Lewis Turnover.,6,7
+14:05,24,Robert Cartwright Steal.,6,7
+13:58,24,Robert Cartwright made Layup.,6,9
+13:35,108,Chris Egi missed Jumper.,6,9
+13:35,108,Chris Lewis Offensive Rebound.,6,9
+13:31,108,Chris Lewis made Dunk.,8,9
+13:09,108,Foul on Chris Egi.,8,9
+13:09,24,Reid Travis made Free Throw.,8,10
+13:09,24,Reid Travis missed Free Throw.,8,10
+13:09,108,Corey Johnson Defensive Rebound.,8,10
+13:05,108,Christian Juzang missed Layup.,8,10
+13:05,24,Marcus Sheffield Defensive Rebound.,8,10
+12:59,24,Marcus Sheffield missed Layup.,8,10
+12:59,108,Harvard Defensive Rebound.,8,10
+12:33,108,Bryce Aiken missed Layup.,8,10
+12:33,24,Reid Travis Defensive Rebound.,8,10
+12:02,24,Robert Cartwright missed Three Point Jumper.,8,10
+12:02,108,Chris Egi Defensive Rebound.,8,10
+11:41,108,Christian Juzang missed Three Point Jumper.,8,10
+11:41,24,Reid Travis Defensive Rebound.,8,10
+11:27,108,Foul on Corey Johnson.,8,10
+11:27,24,Official TV Timeout,8,10
+11:18,24,Trevor Stanback Turnover.,8,10
+11:18,108,Chris Egi Steal.,8,10
+11:00,24,Foul on Robert Cartwright.,8,10
+11:00,108,Zena Edosomwan missed Free Throw.,8,10
+11:00,108,Harvard Deadball Team Rebound.,8,10
+11:00,108,Zena Edosomwan missed Free Throw.,8,10
+11:00,24,Josh Sharma Defensive Rebound.,8,10
+10:49,108,Foul on Zena Edosomwan.,8,10
+10:49,24,Marcus Sheffield missed Free Throw.,8,10
+10:49,24,Stanford Deadball Team Rebound.,8,10
+10:49,24,Marcus Sheffield made Free Throw.,8,11
+10:43,24,Foul on Marcus Sheffield.,8,11
+10:41,108,Seth Towns missed Jumper.,8,11
+10:41,24,Reid Travis Defensive Rebound.,8,11
+10:26,24,Christian Sanders missed Layup.,8,11
+10:26,108,Zena Edosomwan Defensive Rebound.,8,11
+10:07,24,Foul on Reid Travis.,8,11
+10:07,108,Zena Edosomwan made Free Throw.,9,11
+10:07,108,Zena Edosomwan missed Free Throw.,9,11
+10:07,24,Reid Travis Defensive Rebound.,9,11
+9:47,108,Foul on Zena Edosomwan.,9,11
+9:47,24,Reid Travis missed Free Throw.,9,11
+9:47,108,Chris Lewis Defensive Rebound.,9,11
+9:47,24,Foul on Josh Sharma.,9,11
+9:47,108,Henry Welsh made Free Throw.,10,11
+9:47,108,Henry Welsh made Free Throw.,11,11
+9:32,24,Foul on Dorian Pickens.,11,11
+9:32,24,Dorian Pickens Turnover.,11,11
+9:20,108,Henry Welsh made Jumper.,13,11
+9:04,24,Marcus Allen missed Jumper.,13,11
+9:04,108,Henry Welsh Defensive Rebound.,13,11
+8:53,108,Christian Juzang missed Three Point Jumper.,13,11
+8:53,24,Reid Travis Defensive Rebound.,13,11
+8:32,108,Foul on Chris Lewis.,13,11
+8:32,24,Reid Travis made Free Throw.,13,12
+8:32,24,Reid Travis missed Free Throw.,13,12
+8:32,108,Christian Juzang Defensive Rebound.,13,12
+8:15,108,Henry Welsh Turnover.,13,12
+8:15,24,Marcus Sheffield Steal.,13,12
+8:09,24,Dorian Pickens missed Three Point Jumper.,13,12
+8:09,24,Reid Travis Offensive Rebound.,13,12
+8:05,24,Reid Travis missed Jumper.,13,12
+8:05,24,Grant Verhoeven Offensive Rebound.,13,12
+7:59,108,Foul on Tommy McCarthy.,13,12
+7:59,24,Official TV Timeout,13,12
+7:59,24,Grant Verhoeven made Free Throw.,13,13
+7:59,24,Grant Verhoeven made Free Throw.,13,14
+7:42,108,Henry Welsh made Layup. Assisted by Chris Lewis.,15,14
+7:25,24,Robert Cartwright missed Jumper.,15,14
+7:25,24,Grant Verhoeven Offensive Rebound.,15,14
+7:19,108,Foul on Henry Welsh.,15,14
+7:19,24,Grant Verhoeven made Free Throw.,15,15
+7:19,24,Grant Verhoeven made Free Throw.,15,16
+7:02,108,Bryce Aiken missed Jumper.,15,16
+7:02,24,Reid Travis Defensive Rebound.,15,16
+6:39,24,Marcus Sheffield made Jumper.,15,18
+6:14,108,Henry Welsh Turnover.,15,18
+6:14,24,Grant Verhoeven Steal.,15,18
+6:05,24,Reid Travis missed Layup.,15,18
+6:05,24,Reid Travis Offensive Rebound.,15,18
+6:00,108,Foul on Christian Juzang.,15,18
+6:00,24,Reid Travis made Free Throw.,15,19
+6:00,24,Reid Travis missed Free Throw.,15,19
+6:00,24,Grant Verhoeven Offensive Rebound.,15,19
+5:58,24,Foul on Reid Travis.,15,19
+5:58,24,Reid Travis Turnover.,15,19
+5:49,108,Bryce Aiken missed Three Point Jumper.,15,19
+5:49,108,Seth Towns Offensive Rebound.,15,19
+5:43,24,Foul on Marcus Sheffield.,15,19
+5:43,108,Seth Towns missed Free Throw.,15,19
+5:43,108,Harvard Deadball Team Rebound.,15,19
+5:43,108,Seth Towns missed Free Throw.,15,19
+5:43,24,Robert Cartwright Defensive Rebound.,15,19
+5:40,24,Marcus Allen made Layup. Assisted by Robert Cartwright.,15,21
+5:23,108,Zena Edosomwan missed Layup.,15,21
+5:23,108,Zena Edosomwan Offensive Rebound.,15,21
+5:16,108,Zena Edosomwan missed Layup.,15,21
+5:16,24,Marcus Allen Defensive Rebound.,15,21
+5:13,24,Foul on Marcus Allen.,15,21
+5:13,24,Marcus Allen Turnover.,15,21
+4:58,108,Chris Lewis missed Jumper.,15,21
+4:58,108,Harvard Offensive Rebound.,15,21
+4:54,24,Foul on Josh Sharma.,15,21
+4:54,108,Chris Egi made Free Throw.,16,21
+4:54,108,Chris Egi made Free Throw.,17,21
+4:42,24,Grant Verhoeven made Jumper. Assisted by Marcus Allen.,17,23
+4:30,108,Bryce Aiken made Three Point Jumper.,20,23
+4:20,108,Foul on Bryce Aiken.,20,23
+4:20,24,Robert Cartwright made Free Throw.,20,24
+4:20,24,Robert Cartwright made Free Throw.,20,25
+3:51,108,Christian Juzang missed Jumper.,20,25
+3:51,24,Grant Verhoeven Defensive Rebound.,20,25
+3:42,24,Grant Verhoeven made Layup. Assisted by Robert Cartwright.,20,27
+3:37,108,Harvard  Timeout,20,27
+3:26,108,Bryce Aiken made Three Point Jumper. Assisted by Chris Lewis.,23,27
+3:06,108,Foul on Chris Lewis.,23,27
+3:06,24,Robert Cartwright missed Free Throw.,23,27
+3:06,24,Stanford Deadball Team Rebound.,23,27
+3:06,24,Robert Cartwright made Free Throw.,23,28
+2:54,108,Bryce Aiken missed Jumper.,23,28
+2:54,24,Grant Verhoeven Defensive Rebound.,23,28
+2:45,24,Trevor Stanback missed Layup.,23,28
+2:45,108,Chris Egi Defensive Rebound.,23,28
+2:31,108,Seth Towns missed Jumper.,23,28
+2:31,24,Dorian Pickens Defensive Rebound.,23,28
+1:59,24,Marcus Allen Turnover.,23,28
+1:59,108,Bryce Aiken Steal.,23,28
+1:58,108,Seth Towns missed Jumper.,23,28
+1:58,24,Grant Verhoeven Defensive Rebound.,23,28
+1:40,24,Dorian Pickens missed Jumper.,23,28
+1:40,108,Henry Welsh Defensive Rebound.,23,28
+1:27,108,Henry Welsh missed Jumper.,23,28
+1:27,108,Seth Towns Offensive Rebound.,23,28
+1:23,108,Seth Towns made Layup.,25,28
+1:04,24,Robert Cartwright missed Layup.,25,28
+1:04,108,Chris Egi Block.,25,28
+1:04,108,Harvard Defensive Rebound.,25,28
+0:43,24,Foul on Trevor Stanback.,25,28
+0:43,108,Henry Welsh missed Free Throw.,25,28
+0:43,108,Harvard Deadball Team Rebound.,25,28
+0:43,108,Henry Welsh made Free Throw.,26,28
+0:32,24,Dorian Pickens made Layup. Assisted by Grant Verhoeven.,26,30
+0:04,24,Foul on Trevor Stanback.,26,30
+0:04,108,Siyani Chambers made Free Throw.,27,30
+0:04,24,Stanford  Timeout,27,30
+0:04,108,Siyani Chambers made Free Throw.,28,30
+0:00,24,End of 1st half,28,30
+20:00,24,Jump Ball won by Stanford,28,30
+19:44,24,Michael Humphrey made Three Point Jumper. Assisted by Christian Sanders.,28,33
+19:20,108,Corey Johnson missed Three Point Jumper.,28,33
+19:20,24,Christian Sanders Defensive Rebound.,28,33
+19:04,24,Dorian Pickens missed Jumper.,28,33
+19:04,108,Seth Towns Block.,28,33
+19:04,108,Zena Edosomwan Defensive Rebound.,28,33
+18:56,108,Seth Towns missed Jumper.,28,33
+18:56,24,Reid Travis Defensive Rebound.,28,33
+18:45,24,Michael Humphrey Turnover.,28,33
+18:45,108,Corey Johnson Steal.,28,33
+18:38,24,Foul on Christian Sanders.,28,33
+18:35,24,Foul on Christian Sanders.,28,33
+18:35,108,Siyani Chambers made Free Throw.,29,33
+18:35,108,Siyani Chambers made Free Throw.,30,33
+18:24,108,Foul on Corey Johnson.,30,33
+18:24,24,Dorian Pickens made Free Throw.,30,34
+18:24,24,Dorian Pickens made Free Throw.,30,35
+18:15,108,Zena Edosomwan Turnover.,30,35
+18:02,108,Foul on Chris Egi.,30,35
+18:01,24,Michael Humphrey missed Jumper.,30,35
+18:01,108,Zena Edosomwan Defensive Rebound.,30,35
+17:44,108,Bryce Aiken missed Three Point Jumper.,30,35
+17:44,24,Dorian Pickens Defensive Rebound.,30,35
+17:32,24,Reid Travis made Layup. Assisted by Christian Sanders.,30,37
+17:32,108,Foul on Bryce Aiken.,30,37
+17:32,24,Reid Travis missed Free Throw.,30,37
+17:32,108,Henry Welsh Defensive Rebound.,30,37
+17:20,108,Bryce Aiken Turnover.,30,37
+17:14,24,Reid Travis made Dunk. Assisted by Christian Sanders.,30,39
+16:51,108,Henry Welsh missed Jumper.,30,39
+16:51,108,Henry Welsh Offensive Rebound.,30,39
+16:44,108,Siyani Chambers made Jumper.,32,39
+16:26,24,Dorian Pickens Turnover.,32,39
+16:26,108,Christian Juzang Steal.,32,39
+16:16,108,Henry Welsh made Jumper. Assisted by Siyani Chambers.,34,39
+16:01,108,Foul on Henry Welsh.,34,39
+15:53,24,Grant Verhoeven made Layup. Assisted by Marcus Allen.,34,41
+15:41,108,Chris Lewis made Layup. Assisted by Henry Welsh.,36,41
+15:32,24,Reid Travis made Jumper. Assisted by Dorian Pickens.,36,43
+15:21,24,Foul on Grant Verhoeven.,36,43
+15:20,24,Official TV Timeout,36,43
+14:56,24,Foul on Grant Verhoeven.,36,43
+14:33,108,Siyani Chambers made Three Point Jumper.,39,43
+14:14,24,Reid Travis made Dunk. Assisted by Marcus Sheffield.,39,45
+13:53,108,Corey Johnson Turnover.,39,45
+13:53,24,Marcus Allen Steal.,39,45
+13:47,24,Marcus Allen made Layup.,39,47
+13:32,108,Chris Lewis Turnover.,39,47
+13:32,24,Michael Humphrey Steal.,39,47
+13:16,24,Reid Travis missed Jumper.,39,47
+13:16,108,Corey Johnson Defensive Rebound.,39,47
+13:03,108,Bryce Aiken missed Three Point Jumper.,39,47
+13:03,24,Reid Travis Defensive Rebound.,39,47
+12:53,24,Robert Cartwright missed Layup.,39,47
+12:53,108,Bryce Aiken Defensive Rebound.,39,47
+12:40,108,Chris Lewis Turnover.,39,47
+12:40,24,Michael Humphrey Steal.,39,47
+12:32,24,Foul on Michael Humphrey.,39,47
+12:32,24,Michael Humphrey Turnover.,39,47
+12:18,108,Chris Egi made Layup. Assisted by Bryce Aiken.,41,47
+12:07,24,Marcus Sheffield missed Jumper.,41,47
+12:07,108,Harvard Deadball Team Rebound.,41,47
+12:03,24,Foul on Josh Sharma.,41,47
+11:48,108,Seth Towns made Dunk.,43,47
+11:48,24,Foul on Josh Sharma.,43,47
+11:48,24,Official TV Timeout,43,47
+11:48,108,Seth Towns made Free Throw.,44,47
+11:27,24,Reid Travis missed Jumper.,44,47
+11:27,108,Christian Juzang Defensive Rebound.,44,47
+11:02,108,Bryce Aiken missed Layup.,44,47
+11:02,24,Reid Travis Defensive Rebound.,44,47
+10:53,24,Marcus Allen missed Jumper.,44,47
+10:53,108,Corey Johnson Defensive Rebound.,44,47
+10:41,108,Seth Towns missed Three Point Jumper.,44,47
+10:41,24,Marcus Sheffield Defensive Rebound.,44,47
+10:26,24,Marcus Sheffield made Jumper.,44,49
+10:02,24,Foul on Marcus Sheffield.,44,49
+10:02,108,Christian Juzang made Free Throw.,45,49
+10:02,108,Christian Juzang made Free Throw.,46,49
+9:41,108,Foul on Seth Towns.,46,49
+9:41,24,Reid Travis made Free Throw.,46,50
+9:41,24,Reid Travis made Free Throw.,46,51
+9:30,108,Bryce Aiken made Jumper.,48,51
+9:22,24,Michael Humphrey made Dunk. Assisted by Christian Sanders.,48,53
+9:22,108,Foul on Seth Towns.,48,53
+9:22,24,Michael Humphrey missed Free Throw.,48,53
+9:22,24,Reid Travis Offensive Rebound.,48,53
+9:21,24,Reid Travis made Layup.,48,55
+9:11,108,Corey Johnson missed Three Point Jumper.,48,55
+9:11,24,Michael Humphrey Defensive Rebound.,48,55
+8:59,108,Foul on Corey Johnson.,48,55
+8:59,24,Christian Sanders made Free Throw.,48,56
+8:59,24,Christian Sanders missed Free Throw.,48,56
+8:59,108,Christian Juzang Defensive Rebound.,48,56
+8:53,108,Chris Lewis made Layup. Assisted by Christian Juzang.,50,56
+8:25,24,Reid Travis made Jumper. Assisted by Christian Sanders.,50,58
+8:12,24,Foul on Marcus Allen.,50,58
+8:12,108,Henry Welsh missed Free Throw.,50,58
+8:12,24,Marcus Allen Defensive Rebound.,50,58
+7:58,108,Foul on Christian Juzang.,50,58
+7:58,24,Official TV Timeout,50,58
+7:58,24,Dorian Pickens made Free Throw.,50,59
+7:58,24,Dorian Pickens made Free Throw.,50,60
+7:53,108,Bryce Aiken Turnover.,50,60
+7:45,24,Marcus Allen made Layup.,50,62
+7:22,24,Foul on Marcus Allen.,50,62
+7:22,108,Bryce Aiken made Free Throw.,51,62
+7:22,108,Bryce Aiken made Free Throw.,52,62
+7:03,24,Marcus Allen missed Three Point Jumper.,52,62
+7:03,108,Chris Lewis Defensive Rebound.,52,62
+6:51,108,Zena Edosomwan missed Jumper.,52,62
+6:51,24,Stanford Defensive Rebound.,52,62
+6:33,108,Foul on Zena Edosomwan.,52,62
+6:33,24,Reid Travis missed Free Throw.,52,62
+6:33,108,Bryce Aiken Defensive Rebound.,52,62
+6:30,108,Bryce Aiken made Jumper.,54,62
+6:04,24,Michael Humphrey missed Jumper.,54,62
+6:04,24,Stanford Deadball Team Rebound.,54,62
+5:58,108,Foul on Zena Edosomwan.,54,62
+5:58,24,Reid Travis made Free Throw.,54,63
+5:58,24,Reid Travis made Free Throw.,54,64
+5:46,108,Chris Lewis made Dunk. Assisted by Bryce Aiken.,56,64
+5:29,24,Reid Travis missed Jumper.,56,64
+5:29,108,Siyani Chambers Defensive Rebound.,56,64
+5:22,108,Siyani Chambers missed Layup.,56,64
+5:22,24,Christian Sanders Block.,56,64
+5:22,24,Michael Humphrey Defensive Rebound.,56,64
+5:15,24,Dorian Pickens missed Three Point Jumper.,56,64
+5:15,24,Michael Humphrey Offensive Rebound.,56,64
+5:09,24,Michael Humphrey missed Layup.,56,64
+5:09,24,Dorian Pickens Offensive Rebound.,56,64
+5:08,24,Dorian Pickens made Layup.,56,66
+5:08,108,Foul on Chris Lewis.,56,66
+5:08,24,Dorian Pickens made Free Throw.,56,67
+4:50,108,Henry Welsh missed Layup.,56,67
+4:50,108,Siyani Chambers Offensive Rebound.,56,67
+4:41,108,Bryce Aiken made Three Point Jumper. Assisted by Siyani Chambers.,59,67
+4:34,108,Harvard  Timeout,59,67
+4:20,108,Foul on Bryce Aiken.,59,67
+4:20,24,Reid Travis missed Free Throw.,59,67
+4:20,24,Stanford Deadball Team Rebound.,59,67
+4:20,24,Reid Travis missed Free Throw.,59,67
+4:20,108,Henry Welsh Defensive Rebound.,59,67
+4:12,108,Christian Juzang missed Three Point Jumper.,59,67
+4:12,108,Henry Welsh Offensive Rebound.,59,67
+4:00,108,Siyani Chambers made Layup.,61,67
+3:43,108,Foul on Seth Towns.,61,67
+3:43,24,Official TV Timeout,61,67
+3:43,24,Michael Humphrey made Free Throw.,61,68
+3:43,24,Michael Humphrey made Free Throw.,61,69
+3:39,108,Christian Juzang missed Three Point Jumper.,61,69
+3:39,24,Reid Travis Defensive Rebound.,61,69
+3:10,24,Stanford  Timeout,61,69
+3:08,108,Foul on Seth Towns.,61,69
+3:08,24,Reid Travis missed Free Throw.,61,69
+3:08,24,Stanford Deadball Team Rebound.,61,69
+3:08,24,Reid Travis made Free Throw.,61,70
+3:00,24,Foul on Reid Travis.,61,70
+3:00,108,Bryce Aiken made Free Throw.,62,70
+3:00,108,Bryce Aiken made Free Throw.,63,70
+2:52,24,Marcus Allen made Dunk. Assisted by Reid Travis.,63,72
+2:34,24,Foul on Marcus Allen.,63,72
+2:34,108,Bryce Aiken made Free Throw.,64,72
+2:34,108,Bryce Aiken made Free Throw.,65,72
+2:12,24,Michael Humphrey made Jumper. Assisted by Robert Cartwright.,65,74
+1:59,108,Christian Juzang Turnover.,65,74
+1:59,24,Dorian Pickens Steal.,65,74
+1:54,24,Marcus Allen made Layup.,65,76
+1:45,108,Henry Welsh made Layup. Assisted by Siyani Chambers.,67,76
+1:44,108,Harvard  Timeout,67,76
+1:31,24,Robert Cartwright Turnover.,67,76
+1:31,108,Siyani Chambers Steal.,67,76
+1:22,24,Foul on Reid Travis.,67,76
+1:22,108,Siyani Chambers made Free Throw.,68,76
+1:22,108,Siyani Chambers missed Free Throw.,68,76
+1:22,108,Siyani Chambers Offensive Rebound.,68,76
+1:21,108,Siyani Chambers missed Jumper.,68,76
+1:21,24,Dorian Pickens Defensive Rebound.,68,76
+1:03,108,Foul on Seth Towns.,68,76
+1:03,24,Michael Humphrey made Free Throw.,68,77
+1:03,24,Michael Humphrey made Free Throw.,68,78
+0:55,24,Foul on Marcus Sheffield.,68,78
+0:55,108,Bryce Aiken made Free Throw.,69,78
+0:55,108,Bryce Aiken made Free Throw.,70,78
+0:31,24,Robert Cartwright missed Layup.,70,78
+0:31,108,Christian Juzang Block.,70,78
+0:31,108,Christian Juzang Defensive Rebound.,70,78
+0:22,108,Siyani Chambers missed Layup.,70,78
+0:22,24,Reid Travis Defensive Rebound.,70,78
+0:18,108,Foul on Christian Juzang.,70,78
+0:18,24,Reid Travis made Free Throw.,70,79
+0:18,24,Reid Travis made Free Throw.,70,80
+0:16,108,Bryce Aiken missed Three Point Jumper.,70,80
+0:16,24,Marcus Allen Defensive Rebound.,70,80
+0:00,24,End of Game,70,80

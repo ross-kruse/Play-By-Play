@@ -1,0 +1,334 @@
+Houston,99,LSU,248
+time,team_id,description,h_score,a_score
+20:00,99,Jump Ball won by LSU,0,0
+19:31,99,Craig Victor II missed Jumper.,0,0
+19:31,99,Craig Victor II Offensive Rebound.,0,0
+19:31,99,Skylar Mays Defensive Rebound.,0,0
+19:27,99,Brandon Sampson missed Three Point Jumper.,0,0
+19:27,99,Antonio Blakeney Offensive Rebound.,0,0
+19:23,99,Antonio Blakeney made Jumper.,0,2
+19:12,248,Damyean Dotson made Dunk. Assisted by Devin Davis.,2,2
+18:54,99,Antonio Blakeney missed Jumper.,2,2
+18:54,99,Craig Victor II Offensive Rebound.,2,2
+18:52,99,Craig Victor II made Layup.,2,4
+18:52,248,Foul on Devin Davis.,2,4
+18:52,99,Craig Victor II made Free Throw.,2,5
+18:37,248,Damyean Dotson made Three Point Jumper. Assisted by Rob Gray Jr..,5,5
+18:18,99,Brandon Sampson made Three Point Jumper. Assisted by Craig Victor II.,5,8
+17:52,248,Rob Gray Jr. made Three Point Jumper.,8,8
+17:52,99,Skylar Mays Offensive Rebound.,8,8
+17:34,99,Foul on Duop Reath.,8,8
+17:34,99,Duop Reath Turnover.,8,8
+17:34,99,Brandon Sampson Block.,8,8
+17:19,248,Devin Davis missed Layup.,8,8
+17:19,99,Brandon Sampson Block.,8,8
+17:19,99,Craig Victor II Defensive Rebound.,8,8
+17:19,99,Craig Victor II missed Jumper.,8,8
+16:58,99,Antonio Blakeney missed Jumper.,8,8
+16:58,248,Devin Davis Defensive Rebound.,8,8
+16:50,248,Galen Robinson Jr. made Layup.,10,8
+16:36,99,Duop Reath missed Layup.,10,8
+16:36,99,Brandon Sampson Offensive Rebound.,10,8
+16:33,99,Antonio Blakeney made Three Point Jumper. Assisted by Brandon Sampson.,10,11
+16:16,248,Devin Davis made Layup.,12,11
+16:16,99,Foul on Duop Reath.,12,11
+16:16,248,Devin Davis missed Free Throw.,12,11
+16:16,99,Aaron Epps Defensive Rebound.,12,11
+16:06,99,Craig Victor II made Layup. Assisted by Antonio Blakeney.,12,13
+15:48,248,Danrad Knowles missed Jumper.,12,13
+15:48,99,Aaron Epps Defensive Rebound.,12,13
+15:27,99,Antonio Blakeney missed Jumper.,12,13
+15:27,99,Craig Victor II Offensive Rebound.,12,13
+15:27,99,Craig Victor II missed Layup.,12,13
+15:27,99,Aaron Epps Offensive Rebound.,12,13
+15:14,248,Foul on Danrad Knowles.,12,13
+15:14,99,Official TV Timeout,12,13
+15:14,99,Aaron Epps missed Free Throw.,12,13
+15:14,99,Aaron Epps made Free Throw.,12,14
+15:05,248,Rob Gray Jr. missed Three Point Jumper.,12,14
+15:05,99,Aaron Epps Defensive Rebound.,12,14
+14:50,99,Aaron Epps Turnover.,12,14
+14:23,248,Galen Robinson Jr. missed Jumper.,12,14
+14:23,248,Kyle Meyer Offensive Rebound.,12,14
+14:13,248,Damyean Dotson Turnover.,12,14
+13:57,99,Antonio Blakeney missed Jumper.,12,14
+13:57,248,Bertrand Nkali Block.,12,14
+13:57,248,Bertrand Nkali Defensive Rebound.,12,14
+13:50,248,Rob Gray Jr. made Layup.,14,14
+13:32,99,Brandon Sampson made Three Point Jumper. Assisted by Skylar Mays.,14,17
+13:13,248,Damyean Dotson missed Jumper.,14,17
+13:13,248,Rob Gray Jr. Offensive Rebound.,14,17
+12:51,99,Foul on Antonio Blakeney.,14,17
+12:43,248,Kyle Meyer missed Three Point Jumper.,14,17
+12:43,248,Bertrand Nkali Offensive Rebound.,14,17
+12:36,99,Foul on Aaron Epps.,14,17
+12:36,248,Bertrand Nkali missed Free Throw.,14,17
+12:36,248,Houston Deadball Team Rebound.,14,17
+12:36,248,Bertrand Nkali made Free Throw.,15,17
+12:16,99,Elbert Robinson III Turnover.,15,17
+11:56,248,Kyle Meyer missed Three Point Jumper.,15,17
+11:56,99,Brandon Sampson Defensive Rebound.,15,17
+11:41,99,Antonio Blakeney missed Three Point Jumper.,15,17
+11:41,248,Bertrand Nkali Defensive Rebound.,15,17
+11:36,99,Foul on Elbert Robinson III.,15,17
+11:35,99,Official TV Timeout,15,17
+11:27,248,Galen Robinson Jr. made Layup.,17,17
+11:19,99,Brandon Sampson made Layup. Assisted by Skylar Mays.,17,19
+10:49,248,Damyean Dotson missed Three Point Jumper.,17,19
+10:49,248,Bertrand Nkali Offensive Rebound.,17,19
+10:42,248,Bertrand Nkali missed Layup.,17,19
+10:42,248,Foul on Wes VanBeck.,17,19
+10:38,99,Craig Victor II Turnover.,17,19
+10:38,248,Rob Gray Jr. Steal.,17,19
+10:28,248,Rob Gray Jr. made Layup.,19,19
+10:28,99,Skylar Mays missed Jumper.,19,19
+10:28,99,Brandon Sampson Offensive Rebound.,19,19
+10:21,99,Brandon Sampson missed Three Point Jumper.,19,19
+10:21,248,Damyean Dotson Defensive Rebound.,19,19
+10:07,248,Danrad Knowles missed Layup.,19,19
+10:07,99,Craig Victor II Block.,19,19
+10:07,99,Aaron Epps Defensive Rebound.,19,19
+9:54,99,Craig Victor II missed Jumper.,19,19
+9:54,99,LSU Offensive Rebound.,19,19
+9:38,248,Foul on Danrad Knowles.,19,19
+9:16,99,Craig Victor II made Jumper. Assisted by Aaron Epps.,19,21
+8:45,248,Rob Gray Jr. missed Three Point Jumper.,19,21
+8:45,248,Damyean Dotson Offensive Rebound.,19,21
+8:34,248,Devin Davis missed Layup.,19,21
+8:34,99,Antonio Blakeney Defensive Rebound.,19,21
+8:25,99,Craig Victor II missed Jumper.,19,21
+8:25,248,Devin Davis Defensive Rebound.,19,21
+8:16,248,Devin Davis missed Jumper.,19,21
+8:16,248,Danrad Knowles Offensive Rebound.,19,21
+8:14,99,Foul on Aaron Epps.,19,21
+8:14,248,Danrad Knowles made Free Throw.,20,21
+8:14,248,Danrad Knowles missed Free Throw.,20,21
+8:14,99,Craig Victor II Defensive Rebound.,20,21
+8:04,99,Wayde Sims missed Three Point Jumper.,20,21
+8:04,248,Houston Defensive Rebound.,20,21
+7:57,99,Official TV Timeout,20,21
+7:57,248,Damyean Dotson missed Layup.,20,21
+7:57,99,Brandon Sampson Block.,20,21
+7:57,99,Skylar Mays Defensive Rebound.,20,21
+7:26,99,Wayde Sims made Layup. Assisted by Skylar Mays.,20,23
+7:01,99,Foul on Jalyn Patterson.,20,23
+7:01,248,Rob Gray Jr. made Free Throw.,21,23
+7:01,248,Rob Gray Jr. made Free Throw.,22,23
+6:48,99,Wayde Sims missed Jumper.,22,23
+6:48,248,Damyean Dotson Defensive Rebound.,22,23
+6:26,248,Danrad Knowles made Jumper.,24,23
+6:07,99,Skylar Mays missed Three Point Jumper.,24,23
+6:07,248,Damyean Dotson Defensive Rebound.,24,23
+5:51,248,Rob Gray Jr. made Layup.,26,23
+5:37,99,Brandon Sampson made Three Point Jumper. Assisted by Skylar Mays.,26,26
+5:37,248,Danrad Knowles Turnover.,26,26
+5:37,99,Craig Victor II Steal.,26,26
+5:23,248,Foul on Danrad Knowles.,26,26
+5:02,99,Foul on Brandon Sampson.,26,26
+5:02,99,Brandon Sampson Turnover.,26,26
+4:50,248,Rob Gray Jr. made Layup.,28,26
+4:37,99,Craig Victor II missed Jumper.,28,26
+4:31,248,Bertrand Nkali Block.,28,26
+4:31,248,Devin Davis Defensive Rebound.,28,26
+4:31,99,Foul on Jalyn Patterson.,28,26
+4:31,248,Rob Gray Jr. made Free Throw.,29,26
+4:31,248,Rob Gray Jr. made Free Throw.,30,26
+4:31,99,Brandon Sampson made Three Point Jumper. Assisted by Wayde Sims.,30,29
+4:14,248,Devin Davis made Jumper.,32,29
+3:47,99,Craig Victor II missed Jumper.,32,29
+3:47,99,Antonio Blakeney Offensive Rebound.,32,29
+3:40,99,Antonio Blakeney made Jumper.,32,31
+3:40,248,Foul on Bertrand Nkali.,32,31
+3:14,99,Official TV Timeout,32,31
+3:14,99,Antonio Blakeney missed Free Throw.,32,31
+3:14,248,Bertrand Nkali Defensive Rebound.,32,31
+3:05,248,Damyean Dotson made Three Point Jumper. Assisted by Galen Robinson Jr..,35,31
+2:47,99,Antonio Blakeney missed Layup.,35,31
+2:47,248,Bertrand Nkali Block.,35,31
+2:47,99,LSU Offensive Rebound.,35,31
+2:40,99,Antonio Blakeney missed Layup.,35,31
+2:40,99,Elbert Robinson III Offensive Rebound.,35,31
+2:40,99,Elbert Robinson III made Two Point Tip Shot.,35,33
+2:19,248,Wes VanBeck missed Three Point Jumper.,35,33
+2:19,99,Elbert Robinson III Defensive Rebound.,35,33
+2:07,99,Elbert Robinson III made Layup. Assisted by Skylar Mays.,35,35
+1:49,99,Foul on Brandon Sampson.,35,35
+1:49,248,Wes VanBeck made Free Throw.,36,35
+1:49,248,Wes VanBeck made Free Throw.,37,35
+1:32,248,Foul on Wes VanBeck.,37,35
+1:32,99,Elbert Robinson III missed Free Throw.,37,35
+1:32,99,LSU Deadball Team Rebound.,37,35
+1:32,99,Elbert Robinson III missed Free Throw.,37,35
+1:32,248,Kyle Meyer Defensive Rebound.,37,35
+1:19,248,Kyle Meyer Turnover.,37,35
+1:19,248,Foul on Kyle Meyer.,37,35
+1:12,99,Marshall Graves missed Three Point Jumper.,37,35
+1:12,248,Bertrand Nkali Defensive Rebound.,37,35
+1:09,99,Foul on Elbert Robinson III.,37,35
+1:09,248,Bertrand Nkali made Free Throw.,38,35
+1:09,248,Kyle Meyer Turnover.,38,35
+1:01,99,Wayde Sims made Jumper. Assisted by Antonio Blakeney.,38,37
+0:24,248,Rob Gray Jr. Turnover.,38,37
+0:24,99,Marshall Graves Steal.,38,37
+0:23,248,Foul on Kyle Meyer.,38,37
+0:23,99,Marshall Graves missed Free Throw.,38,37
+0:23,248,Bertrand Nkali Defensive Rebound.,38,37
+0:21,248,Houston  Timeout,38,37
+0:07,248,Galen Robinson Jr. Turnover.,38,37
+0:07,99,Brian Bridgewater Steal.,38,37
+0:07,99,Antonio Blakeney made Layup. Assisted by Skylar Mays.,38,39
+0:00,99,End of 1st half,38,39
+20:00,248,Jump Ball won by Houston,38,39
+19:56,248,Galen Robinson Jr. missed Layup.,38,39
+19:56,99,Duop Reath Defensive Rebound.,38,39
+19:36,99,Craig Victor II made Dunk. Assisted by Brandon Sampson.,38,41
+19:29,99,Foul on Brandon Sampson.,38,41
+19:20,248,Damyean Dotson missed Three Point Jumper.,38,41
+19:20,99,Craig Victor II Defensive Rebound.,38,41
+19:08,99,Jalyn Patterson made Jumper.,38,43
+18:51,248,Devin Davis made Jumper.,40,43
+18:40,99,Duop Reath made Layup.,40,45
+18:28,248,Houston  Timeout,40,45
+18:23,248,Devin Davis made Jumper.,42,45
+18:06,99,Jalyn Patterson missed Three Point Jumper.,42,45
+18:06,99,Antonio Blakeney Offensive Rebound.,42,45
+17:59,99,Antonio Blakeney missed Jumper.,42,45
+17:59,99,Jalyn Patterson Offensive Rebound.,42,45
+17:49,99,Brandon Sampson missed Three Point Jumper.,42,45
+17:49,248,Damyean Dotson Defensive Rebound.,42,45
+17:43,248,Galen Robinson Jr. missed Layup.,42,45
+17:43,99,Brandon Sampson Defensive Rebound.,42,45
+17:43,99,Antonio Blakeney missed Jumper.,42,45
+17:43,248,Houston Deadball Team Rebound.,42,45
+17:43,248,Wes VanBeck missed Jumper.,42,45
+17:43,99,Duop Reath Block.,42,45
+17:43,99,Duop Reath Defensive Rebound.,42,45
+17:26,248,Foul on Devin Davis.,42,45
+17:24,99,Antonio Blakeney made Jumper.,42,47
+17:00,248,Devin Davis missed Jumper.,42,47
+17:00,99,Duop Reath Block.,42,47
+17:00,99,Brandon Sampson Defensive Rebound.,42,47
+16:45,99,Duop Reath missed Dunk.,42,47
+16:45,99,Antonio Blakeney Offensive Rebound.,42,47
+16:43,99,Antonio Blakeney Turnover.,42,47
+16:40,248,Devin Davis Turnover.,42,47
+16:30,99,Jalyn Patterson made Layup.,42,49
+16:30,248,Foul on Devin Davis.,42,49
+16:30,99,Jalyn Patterson made Free Throw.,42,50
+16:05,248,Rob Gray Jr. missed Layup.,42,50
+16:05,99,Duop Reath Block.,42,50
+16:05,99,Duop Reath Defensive Rebound.,42,50
+15:52,99,Antonio Blakeney made Three Point Jumper. Assisted by Jalyn Patterson.,42,53
+15:44,248,Houston  Timeout,42,53
+15:24,248,Bertrand Nkali made Dunk. Assisted by Devin Davis.,44,53
+15:01,99,Antonio Blakeney missed Jumper.,44,53
+15:01,248,Wes VanBeck Defensive Rebound.,44,53
+14:39,248,Damyean Dotson missed Three Point Jumper.,44,53
+14:39,99,Antonio Blakeney Defensive Rebound.,44,53
+14:28,99,Craig Victor II missed Jumper.,44,53
+14:28,248,Wes VanBeck Defensive Rebound.,44,53
+14:24,248,Wes VanBeck Turnover.,44,53
+14:13,99,Jalyn Patterson missed Layup.,44,53
+14:13,248,Damyean Dotson Defensive Rebound.,44,53
+14:08,248,Rob Gray Jr. missed Three Point Jumper.,44,53
+14:08,99,Jalyn Patterson Defensive Rebound.,44,53
+13:58,99,Duop Reath made Layup. Assisted by Antonio Blakeney.,44,55
+13:58,248,Foul on Devin Davis.,44,55
+13:58,99,Duop Reath made Free Throw.,44,56
+13:37,248,Damyean Dotson made Three Point Jumper. Assisted by Galen Robinson Jr..,47,56
+13:21,99,Duop Reath missed Jumper.,47,56
+13:21,99,Craig Victor II Offensive Rebound.,47,56
+13:10,248,Foul on Kyle Meyer.,47,56
+13:00,99,Skylar Mays missed Three Point Jumper.,47,56
+13:00,248,Armoni Brooks Defensive Rebound.,47,56
+12:48,248,Damyean Dotson missed Three Point Jumper.,47,56
+12:48,99,Antonio Blakeney Defensive Rebound.,47,56
+12:39,99,Antonio Blakeney made Jumper.,47,58
+12:33,99,Foul on Wayde Sims.,47,58
+12:33,248,Damyean Dotson made Free Throw.,48,58
+12:33,248,Damyean Dotson made Free Throw.,49,58
+12:04,99,Wayde Sims made Three Point Jumper. Assisted by Antonio Blakeney.,49,61
+11:39,248,Damyean Dotson missed Jumper.,49,61
+11:39,248,Bertrand Nkali Offensive Rebound.,49,61
+11:32,248,Damyean Dotson missed Jumper.,49,61
+11:32,99,Craig Victor II Defensive Rebound.,49,61
+11:23,99,Foul on Duop Reath.,49,61
+11:23,99,Duop Reath Turnover.,49,61
+11:23,99,Official TV Timeout,49,61
+11:14,248,Galen Robinson Jr. Turnover.,49,61
+11:14,99,Craig Victor II Steal.,49,61
+11:07,99,Skylar Mays missed Layup.,49,61
+11:07,99,Skylar Mays Offensive Rebound.,49,61
+10:59,99,Craig Victor II made Jumper. Assisted by Skylar Mays.,49,63
+10:41,248,Galen Robinson Jr. Turnover.,49,63
+10:41,99,Craig Victor II Steal.,49,63
+10:38,99,Craig Victor II Turnover.,49,63
+10:31,99,Foul on Craig Victor II.,49,63
+10:31,248,Galen Robinson Jr. Turnover.,49,63
+10:31,99,Craig Victor II Steal.,49,63
+9:57,99,Antonio Blakeney missed Jumper.,49,63
+9:57,99,Craig Victor II Offensive Rebound.,49,63
+9:53,99,Craig Victor II Turnover.,49,63
+9:38,99,Foul on Craig Victor II.,49,63
+9:34,99,Foul on Wayde Sims.,49,63
+9:20,99,Foul on Aaron Epps.,49,63
+9:20,248,Devin Davis made Free Throw.,50,63
+9:20,248,Devin Davis made Free Throw.,51,63
+9:00,99,Antonio Blakeney missed Three Point Jumper.,51,63
+9:00,99,Wayde Sims Offensive Rebound.,51,63
+8:50,99,Craig Victor II made Dunk. Assisted by Skylar Mays.,51,65
+8:32,248,Rob Gray Jr. made Jumper.,53,65
+8:10,99,Antonio Blakeney missed Jumper.,53,65
+8:10,248,Devin Davis Block.,53,65
+8:10,99,Aaron Epps Offensive Rebound.,53,65
+8:10,99,Aaron Epps made Two Point Tip Shot.,53,67
+8:00,248,Galen Robinson Jr. made Jumper.,55,67
+7:41,99,Antonio Blakeney made Jumper.,55,69
+7:23,99,Foul on Skylar Mays.,55,69
+7:23,99,Official TV Timeout,55,69
+7:23,248,Rob Gray Jr. made Free Throw.,56,69
+7:23,248,Rob Gray Jr. made Free Throw.,57,69
+7:05,99,Aaron Epps made Layup. Assisted by Skylar Mays.,57,71
+6:43,248,Devin Davis missed Three Point Jumper.,57,71
+6:43,248,Armoni Brooks Offensive Rebound.,57,71
+6:38,248,Armoni Brooks made Jumper.,59,71
+6:15,248,Foul on Galen Robinson Jr..,59,71
+5:51,99,Aaron Epps made Jumper. Assisted by Skylar Mays.,59,73
+5:51,248,Devin Davis missed Layup.,59,73
+5:51,99,Duop Reath Block.,59,73
+5:51,99,Wayde Sims Defensive Rebound.,59,73
+5:10,99,Skylar Mays Turnover.,59,73
+5:10,248,Devin Davis Steal.,59,73
+5:03,248,Galen Robinson Jr. Turnover.,59,73
+5:03,99,Brandon Sampson Steal.,59,73
+4:40,99,Aaron Epps made Jumper. Assisted by Skylar Mays.,59,75
+4:14,248,Galen Robinson Jr. missed Jumper.,59,75
+4:14,248,Devin Davis Offensive Rebound.,59,75
+4:10,99,Foul on Duop Reath.,59,75
+4:10,248,Devin Davis made Free Throw.,60,75
+4:10,248,Devin Davis missed Free Throw.,60,75
+4:10,99,Jalyn Patterson Defensive Rebound.,60,75
+3:52,99,Aaron Epps made Layup. Assisted by Duop Reath.,60,77
+3:34,99,Foul on Aaron Epps.,60,77
+3:34,99,Official TV Timeout,60,77
+3:34,248,Devin Davis missed Free Throw.,60,77
+3:34,248,Houston Deadball Team Rebound.,60,77
+3:34,248,Devin Davis made Free Throw.,61,77
+3:23,99,Antonio Blakeney made Layup.,61,79
+3:06,248,Jump Ball won by Houston,61,79
+2:50,248,Armoni Brooks made Three Point Jumper.,64,79
+2:32,99,Brandon Sampson made Layup.,64,81
+2:16,248,Rob Gray Jr. missed Jumper.,64,81
+2:16,99,Duop Reath Block.,64,81
+2:16,99,Aaron Epps Defensive Rebound.,64,81
+1:46,99,Antonio Blakeney made Three Point Jumper. Assisted by Brandon Sampson.,64,84
+1:29,248,Bertrand Nkali Turnover.,64,84
+0:53,99,LSU  Turnover.,64,84
+0:49,99,Foul on Brian Bridgewater.,64,84
+0:49,248,Morris Dunnigan made Free Throw.,65,84
+0:49,248,Morris Dunnigan missed Free Throw.,65,84
+0:49,99,Antonio Blakeney Defensive Rebound.,65,84
+0:20,99,Antonio Blakeney Turnover.,65,84
+0:05,248,Morris Dunnigan missed Three Point Jumper.,65,84
+0:05,99,Brandon Sampson Defensive Rebound.,65,84
+0:00,99,End of Game,65,84

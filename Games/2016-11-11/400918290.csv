@@ -1,0 +1,323 @@
+Lafayette,222,Villanova,322
+time,team_id,description,h_score,a_score
+20:00,222,Jump Ball won by Villanova,0,0
+19:57,222,Josh Hart missed Three Point Jumper.,0,0
+19:57,322,Lafayette Defensive Rebound.,0,0
+19:28,322,Monty Boykins missed Three Point Jumper.,0,0
+19:28,222,Jalen Brunson Defensive Rebound.,0,0
+19:12,222,Foul on Josh Hart.,0,0
+19:12,222,Josh Hart Turnover.,0,0
+19:04,322,Paulius Zalys Turnover.,0,0
+19:04,222,Kris Jenkins Steal.,0,0
+18:58,222,Kris Jenkins made Jumper.,0,2
+18:43,322,Matt Klinewski Turnover.,0,2
+18:37,222,Jalen Brunson missed Three Point Jumper.,0,2
+18:37,322,Lafayette Defensive Rebound.,0,2
+18:09,222,Foul on Jalen Brunson.,0,2
+18:07,322,Monty Boykins missed Three Point Jumper.,0,2
+18:07,222,Villanova Defensive Rebound.,0,2
+17:52,222,Jalen Brunson made Three Point Jumper.,0,5
+17:18,322,Auston Evans made Jumper. Assisted by Myles Cherry.,2,5
+17:03,222,Phil Booth Turnover.,2,5
+17:03,222,Mikal Bridges Defensive Rebound.,2,5
+17:03,322,Monty Boykins missed Three Point Jumper.,2,5
+16:50,322,Matt Klinewski missed Jumper.,2,5
+16:50,222,Kris Jenkins Block.,2,5
+16:50,222,Donte DiVincenzo Defensive Rebound.,2,5
+16:32,222,Josh Hart made Layup. Assisted by Mikal Bridges.,2,7
+16:16,322,Auston Evans missed Jumper.,2,7
+16:16,222,Josh Hart Defensive Rebound.,2,7
+16:07,222,Kris Jenkins made Three Point Jumper. Assisted by Mikal Bridges.,2,10
+15:49,222,Foul on Mikal Bridges.,2,10
+15:49,222,Official TV Timeout,2,10
+15:46,322,Monty Boykins missed Three Point Jumper.,2,10
+15:46,222,Jalen Brunson Defensive Rebound.,2,10
+15:35,222,Kris Jenkins missed Three Point Jumper.,2,10
+15:35,222,Donte DiVincenzo Offensive Rebound.,2,10
+15:35,222,Donte DiVincenzo made Two Point Tip Shot.,2,12
+15:12,322,Matt Klinewski Turnover.,2,12
+15:12,222,Jalen Brunson Steal.,2,12
+15:06,322,Foul on Nick Lindner.,2,12
+15:02,222,Kris Jenkins made Three Point Jumper. Assisted by Jalen Brunson.,2,15
+14:47,222,Mikal Bridges Steal.,2,15
+14:42,222,Mikal Bridges made Layup.,2,17
+14:30,322,Paulius Zalys Turnover.,2,17
+14:26,222,Eric Paschall made Dunk. Assisted by Mikal Bridges.,2,19
+14:26,322,Paulius Zalys Turnover.,2,19
+14:02,322,Paulius Zalys missed Layup.,2,19
+14:02,222,Jalen Brunson Defensive Rebound.,2,19
+14:02,322,Foul on Paulius Zalys.,2,19
+13:41,222,Donte DiVincenzo missed Three Point Jumper.,2,19
+13:41,322,Lukas Jarrett Defensive Rebound.,2,19
+13:39,222,Foul on Josh Hart.,2,19
+13:22,322,Eric Stafford missed Jumper.,2,19
+13:22,222,Eric Paschall Block.,2,19
+13:22,222,Jalen Brunson Defensive Rebound.,2,19
+13:22,222,Foul on Eric Paschall.,2,19
+13:07,222,Eric Paschall missed Three Point Jumper.,2,19
+13:07,322,Lukas Jarrett Defensive Rebound.,2,19
+12:46,322,Foul on Eric Stafford.,2,19
+12:29,222,Jalen Brunson missed Free Throw.,2,19
+12:29,322,Lafayette Deadball Team Rebound.,2,19
+12:29,222,Jalen Brunson made Free Throw.,2,20
+12:25,322,Nick Lindner Turnover.,2,20
+12:25,222,Josh Hart Steal.,2,20
+12:21,222,Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.,2,23
+12:04,322,Monty Boykins missed Layup.,2,23
+12:04,222,Darryl Reynolds Offensive Rebound.,2,23
+12:00,322,Matt Klinewski Turnover.,2,23
+11:56,322,Lukas Jarrett missed Three Point Jumper.,2,23
+11:54,222,Donte DiVincenzo Defensive Rebound.,2,23
+11:49,222,Josh Hart Turnover.,2,23
+11:49,322,Monty Boykins Steal.,2,23
+11:38,322,Nick Lindner missed Three Point Jumper.,2,23
+11:38,222,Darryl Reynolds Defensive Rebound.,2,23
+11:26,222,Donte DiVincenzo made Jumper.,2,25
+11:04,322,Nick Lindner missed Three Point Jumper.,2,25
+11:04,222,Donte DiVincenzo Defensive Rebound.,2,25
+10:45,322,Foul on Monty Boykins.,2,25
+10:45,222,Official TV Timeout,2,25
+10:43,222,Mikal Bridges Turnover.,2,25
+10:43,322,Matt Klinewski Steal.,2,25
+10:43,222,Foul on Darryl Reynolds.,2,25
+10:32,322,Nick Lindner made Three Point Jumper. Assisted by Matt Klinewski.,5,25
+9:56,222,Kris Jenkins missed Jumper.,5,25
+9:56,322,Matt Klinewski Defensive Rebound.,5,25
+9:45,322,Paulius Zalys missed Jumper.,5,25
+9:45,222,Darryl Reynolds Defensive Rebound.,5,25
+9:33,222,Mikal Bridges made Three Point Jumper. Assisted by Phil Booth.,5,28
+9:18,322,Paulius Zalys missed Layup.,5,28
+9:18,322,Matt Klinewski Offensive Rebound.,5,28
+9:18,322,Matt Klinewski made Layup. Assisted by Nick Lindner.,7,28
+9:02,222,Phil Booth made Layup.,7,30
+8:53,322,Kyle Stout missed Three Point Jumper.,7,30
+8:53,222,Mikal Bridges Defensive Rebound.,7,30
+8:40,222,Kris Jenkins missed Three Point Jumper.,7,30
+8:40,222,Mikal Bridges Offensive Rebound.,7,30
+8:32,222,Josh Hart missed Three Point Jumper.,7,30
+8:32,222,Villanova Offensive Rebound.,7,30
+8:21,222,Jalen Brunson made Jumper.,7,32
+7:52,322,Nick Lindner made Jumper.,9,32
+7:32,222,Josh Hart made Layup.,9,34
+7:20,322,Monty Boykins Turnover.,9,34
+7:20,222,Eric Paschall Steal.,9,34
+7:14,222,Eric Paschall missed Layup.,9,34
+7:14,222,Mikal Bridges Offensive Rebound.,9,34
+7:14,222,Mikal Bridges made Two Point Tip Shot.,9,36
+7:08,322,Matt Klinewski made Layup.,11,36
+7:08,222,Foul on Eric Paschall.,11,36
+7:08,222,Official TV Timeout,11,36
+7:08,322,Matt Klinewski missed Free Throw.,11,36
+7:08,222,Donte DiVincenzo Defensive Rebound.,11,36
+6:53,222,Josh Hart made Dunk.,11,38
+6:52,222,Technical Foul on Josh Hart.,11,38
+6:52,222,Foul on Josh Hart.,11,38
+6:52,322,Nick Lindner made Free Throw.,12,38
+6:52,322,Nick Lindner made Free Throw.,13,38
+6:52,222,Josh Hart missed Free Throw.,13,38
+6:52,222,Mikal Bridges Offensive Rebound.,13,38
+6:52,222,Kris Jenkins missed Three Point Jumper.,13,38
+6:52,322,Lukas Jarrett Defensive Rebound.,13,38
+6:34,322,Lukas Jarrett missed Layup.,13,38
+6:23,222,Phil Booth missed Three Point Jumper.,13,38
+6:23,222,Donte DiVincenzo Offensive Rebound.,13,38
+5:59,222,Jalen Brunson made Three Point Jumper.,13,41
+5:49,322,Nick Lindner Turnover.,13,41
+5:37,222,Donte DiVincenzo Turnover.,13,41
+5:37,322,Hunter Janacek Steal.,13,41
+5:28,322,Lukas Jarrett missed Layup.,13,41
+5:28,322,Lafayette Offensive Rebound.,13,41
+5:17,322,Hunter Janacek missed Jumper.,13,41
+5:17,222,Mikal Bridges Defensive Rebound.,13,41
+4:54,222,Kris Jenkins missed Jumper.,13,41
+4:54,322,Lukas Jarrett Defensive Rebound.,13,41
+4:37,322,Hunter Janacek missed Three Point Jumper.,13,41
+4:37,222,Mikal Bridges Defensive Rebound.,13,41
+4:15,222,Mikal Bridges missed Jumper.,13,41
+4:15,322,Hunter Janacek Defensive Rebound.,13,41
+4:07,322,Auston Evans missed Three Point Jumper.,13,41
+4:07,222,Darryl Reynolds Defensive Rebound.,13,41
+4:01,322,Foul on Auston Evans.,13,41
+3:45,222,Jalen Brunson missed Three Point Jumper.,13,41
+3:45,322,Lafayette Defensive Rebound.,13,41
+3:40,222,Official TV Timeout,13,41
+3:34,322,Lukas Jarrett missed Three Point Jumper.,13,41
+3:34,222,Eric Paschall Defensive Rebound.,13,41
+3:11,222,Jalen Brunson made Layup. Assisted by Phil Booth.,13,43
+2:52,322,Matt Klinewski missed Layup.,13,43
+2:52,222,Darryl Reynolds Block.,13,43
+2:52,322,Lafayette Offensive Rebound.,13,43
+2:43,322,Matt Klinewski made Layup. Assisted by Paulius Zalys.,15,43
+2:21,222,Eric Paschall missed Jumper.,15,43
+2:21,322,Monty Boykins Defensive Rebound.,15,43
+2:10,322,Eric Stafford made Layup. Assisted by Paulius Zalys.,17,43
+1:51,222,Phil Booth missed Jumper.,17,43
+1:51,322,Monty Boykins Defensive Rebound.,17,43
+1:40,222,Foul on Donte DiVincenzo.,17,43
+1:40,322,Monty Boykins missed Free Throw.,17,43
+1:40,222,Mikal Bridges Defensive Rebound.,17,43
+1:39,322,Foul on Paulius Zalys.,17,43
+1:39,222,Mikal Bridges made Free Throw.,17,44
+1:39,222,Mikal Bridges made Free Throw.,17,45
+1:32,322,Paulius Zalys missed Jumper.,17,45
+1:32,222,Phil Booth Defensive Rebound.,17,45
+1:05,222,Kris Jenkins made Jumper.,17,47
+0:49,322,Nick Lindner missed Jumper.,17,47
+0:49,222,Donte DiVincenzo Defensive Rebound.,17,47
+0:44,222,Donte DiVincenzo Turnover.,17,47
+0:33,322,Hunter Janacek Turnover.,17,47
+0:33,222,Mikal Bridges Steal.,17,47
+0:28,222,Mikal Bridges made Layup.,17,49
+0:09,322,Nick Lindner missed Three Point Jumper.,17,49
+0:09,222,Kris Jenkins Defensive Rebound.,17,49
+0:00,222,End of 1st half,17,49
+20:00,322,Jump Ball won by Lafayette,17,49
+19:52,322,Paulius Zalys made Three Point Jumper. Assisted by Auston Evans.,20,49
+19:26,322,Foul on Monty Boykins.,20,49
+19:24,222,Jalen Brunson missed Three Point Jumper.,20,49
+19:24,222,Jalen Brunson Offensive Rebound.,20,49
+19:19,222,Josh Hart missed Three Point Jumper.,20,49
+19:19,322,Matt Klinewski Defensive Rebound.,20,49
+19:07,322,Auston Evans missed Jumper.,20,49
+19:07,222,Jalen Brunson Defensive Rebound.,20,49
+19:07,222,Darryl Reynolds Defensive Rebound.,20,49
+18:47,222,Josh Hart made Layup. Assisted by Kris Jenkins.,20,51
+18:29,322,Nick Lindner missed Three Point Jumper.,20,51
+18:05,222,Phil Booth missed Layup.,20,51
+18:05,222,Darryl Reynolds Defensive Rebound.,20,51
+17:57,322,Foul on Auston Evans.,20,51
+17:50,322,Foul on Matt Klinewski.,20,51
+17:50,222,Phil Booth made Free Throw.,20,52
+17:50,222,Phil Booth made Free Throw.,20,53
+17:38,322,Monty Boykins missed Three Point Jumper.,20,53
+17:38,322,Lukas Jarrett Offensive Rebound.,20,53
+17:29,322,Lukas Jarrett Turnover.,20,53
+17:29,222,Josh Hart Steal.,20,53
+17:29,222,Jump Ball won by Villanova,20,53
+17:26,222,Phil Booth missed Three Point Jumper.,20,53
+17:26,322,Nick Lindner Defensive Rebound.,20,53
+17:10,322,Lukas Jarrett made Layup. Assisted by Nick Lindner.,22,53
+17:00,222,Kris Jenkins made Three Point Jumper. Assisted by Jalen Brunson.,22,56
+16:47,322,Lukas Jarrett missed Three Point Jumper.,22,56
+16:47,222,Jalen Brunson Defensive Rebound.,22,56
+16:38,222,Josh Hart made Layup.,22,58
+16:24,322,Monty Boykins missed Three Point Jumper.,22,58
+16:24,322,Nick Lindner Offensive Rebound.,22,58
+16:18,322,Nick Lindner missed Jumper.,22,58
+16:18,222,Kris Jenkins Defensive Rebound.,22,58
+16:10,322,Foul on Myles Cherry.,22,58
+16:06,322,Foul on Kyle Stout.,22,58
+16:06,222,Josh Hart missed Free Throw.,22,58
+16:06,222,Villanova Deadball Team Rebound.,22,58
+16:06,222,Josh Hart missed Free Throw.,22,58
+16:06,322,Foul on Myles Cherry.,22,58
+16:06,322,Myles Cherry Defensive Rebound.,22,58
+16:02,322,Monty Boykins missed Three Point Jumper.,22,58
+16:02,222,Eric Paschall Defensive Rebound.,22,58
+15:52,222,Josh Hart made Three Point Jumper.,22,61
+15:47,222,Official TV Timeout,22,61
+15:32,322,Hunter Janacek made Three Point Jumper.,25,61
+14:58,222,Phil Booth missed Three Point Jumper.,25,61
+14:58,222,Josh Hart Offensive Rebound.,25,61
+14:51,322,Foul on Nick Lindner.,25,61
+14:47,222,Jalen Brunson made Three Point Jumper. Assisted by Josh Hart.,25,64
+14:32,322,Kyle Stout missed Three Point Jumper.,25,64
+14:32,222,Eric Paschall Defensive Rebound.,25,64
+14:10,222,Phil Booth Turnover.,25,64
+14:04,322,Monty Boykins made Three Point Jumper.,28,64
+14:04,222,Josh Hart Defensive Rebound.,28,64
+13:35,222,Mikal Bridges made Layup.,28,66
+13:27,322,Lafayette  Timeout,28,66
+13:07,322,Matt Klinewski missed Jumper.,28,66
+13:07,222,Josh Hart Defensive Rebound.,28,66
+13:01,222,Jalen Brunson made Three Point Jumper. Assisted by Josh Hart.,28,69
+12:48,322,Matt Klinewski made Jumper.,30,69
+12:16,222,Josh Hart missed Three Point Jumper.,30,69
+12:16,322,Eric Stafford Defensive Rebound.,30,69
+11:57,222,Official TV Timeout,30,69
+11:31,322,Nick Lindner Turnover.,30,69
+11:31,222,Eric Paschall Steal.,30,69
+11:10,222,Kris Jenkins missed Three Point Jumper.,30,69
+11:10,322,Matt Klinewski Defensive Rebound.,30,69
+10:58,322,Eric Stafford made Jumper.,32,69
+10:36,222,Eric Paschall missed Three Point Jumper.,32,69
+10:36,322,Nick Lindner Defensive Rebound.,32,69
+10:27,222,Foul on Eric Paschall.,32,69
+10:27,322,Eric Stafford made Free Throw.,33,69
+10:27,322,Eric Stafford missed Free Throw.,33,69
+10:27,222,Kris Jenkins Defensive Rebound.,33,69
+10:12,222,Mikal Bridges missed Three Point Jumper.,33,69
+10:12,322,Myles Cherry Defensive Rebound.,33,69
+9:53,322,Myles Cherry missed Layup.,33,69
+9:53,222,Kris Jenkins Block.,33,69
+9:53,222,Darryl Reynolds Defensive Rebound.,33,69
+9:36,222,Josh Hart missed Three Point Jumper.,33,69
+9:36,322,Lafayette Defensive Rebound.,33,69
+9:30,222,Foul on Mikal Bridges.,33,69
+9:16,322,Nick Lindner made Three Point Jumper. Assisted by Kyle Stout.,36,69
+8:41,222,Jump Ball won by Villanova,36,69
+8:40,222,Phil Booth made Three Point Jumper. Assisted by Donte DiVincenzo.,36,72
+8:17,322,Myles Cherry made Layup. Assisted by Nick Lindner.,38,72
+8:17,222,Foul on Darryl Reynolds.,38,72
+8:17,322,Myles Cherry made Free Throw.,39,72
+7:55,222,Kris Jenkins missed Three Point Jumper.,39,72
+7:55,322,Myles Cherry Defensive Rebound.,39,72
+7:47,322,Kyle Stout missed Three Point Jumper.,39,72
+7:47,222,Kris Jenkins Defensive Rebound.,39,72
+7:23,222,Kris Jenkins missed Three Point Jumper.,39,72
+7:23,222,Eric Paschall Offensive Rebound.,39,72
+7:23,222,Eric Paschall made Two Point Tip Shot.,39,74
+7:12,322,Kyle Stout made Three Point Jumper.,42,74
+6:49,222,Donte DiVincenzo made Three Point Jumper.,42,77
+6:39,322,Kyle Stout missed Three Point Jumper.,42,77
+6:39,222,Kris Jenkins Defensive Rebound.,42,77
+6:15,222,Phil Booth missed Jumper.,42,77
+6:15,322,Myles Cherry Defensive Rebound.,42,77
+6:07,322,Eric Stafford made Jumper.,44,77
+5:47,222,Phil Booth missed Three Point Jumper.,44,77
+5:47,322,Auston Evans Defensive Rebound.,44,77
+5:38,222,Official TV Timeout,44,77
+5:32,322,Nick Lindner missed Layup.,44,77
+5:32,222,Eric Paschall Defensive Rebound.,44,77
+5:00,222,Donte DiVincenzo missed Three Point Jumper.,44,77
+5:00,322,Hunter Janacek Defensive Rebound.,44,77
+4:46,322,Nick Lindner missed Three Point Jumper.,44,77
+4:46,222,Villanova Defensive Rebound.,44,77
+4:29,222,Mikal Bridges missed Three Point Jumper.,44,77
+4:29,322,Paulius Zalys Defensive Rebound.,44,77
+4:17,322,Matt Klinewski made Layup. Assisted by Eric Stafford.,46,77
+4:00,222,Eric Paschall made Three Point Jumper. Assisted by Donte DiVincenzo.,46,80
+3:49,222,Foul on Donte DiVincenzo.,46,80
+3:49,222,Official TV Timeout,46,80
+3:46,222,Foul on Donte DiVincenzo.,46,80
+3:37,322,Matt Klinewski made Jumper. Assisted by Hunter Janacek.,48,80
+3:19,222,Dylan Painter missed Three Point Jumper.,48,80
+3:19,322,Nick Lindner Defensive Rebound.,48,80
+3:11,322,Nick Lindner Turnover.,48,80
+3:06,222,Tim Delaney made Three Point Jumper. Assisted by Mikal Bridges.,48,83
+2:56,322,Eric Stafford missed Three Point Jumper.,48,83
+2:56,222,Eric Paschall Defensive Rebound.,48,83
+2:32,222,Mikal Bridges made Three Point Jumper. Assisted by Eric Paschall.,48,86
+2:17,322,Hunter Janacek missed Three Point Jumper.,48,86
+2:17,222,Dylan Painter Defensive Rebound.,48,86
+1:56,322,Foul on Matt Klinewski.,48,86
+1:56,222,Dylan Painter made Free Throw.,48,87
+1:56,222,Dylan Painter made Free Throw.,48,88
+1:42,322,Hunter Janacek missed Three Point Jumper.,48,88
+1:42,322,Kyle Stout Offensive Rebound.,48,88
+1:30,322,Kyle Stout missed Three Point Jumper.,48,88
+1:30,222,Eric Paschall Defensive Rebound.,48,88
+1:09,222,Tim Delaney missed Three Point Jumper.,48,88
+1:09,322,Lafayette Defensive Rebound.,48,88
+0:48,322,Jump Ball won by Lafayette,48,88
+0:47,322,Kyle Stout missed Three Point Jumper.,48,88
+0:47,222,Denny Grace Defensive Rebound.,48,88
+0:41,322,Foul on Hunter Janacek.,48,88
+0:41,222,Tom Leibig missed Free Throw.,48,88
+0:41,322,Myles Cherry Defensive Rebound.,48,88
+0:31,322,Hunter Janacek missed Jumper.,48,88
+0:31,222,Tim Delaney Defensive Rebound.,48,88
+0:22,222,Tim Delaney Turnover.,48,88
+0:15,322,Myles Cherry missed Layup.,48,88
+0:15,222,Tom Leibig Defensive Rebound.,48,88
+0:00,222,End of Game,48,88

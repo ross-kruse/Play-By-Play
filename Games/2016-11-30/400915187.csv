@@ -1,0 +1,332 @@
+Purdue,97,Louisville,2509
+time,team_id,description,h_score,a_score
+20:00,2509,Jump Ball won by Purdue,0,0
+19:45,2509,Vince Edwards Turnover.,0,0
+19:45,97,Deng Adel Steal.,0,0
+19:42,97,Jump Ball won by Louisville,0,0
+19:27,97,Jaylen Johnson made Jumper.,0,2
+18:59,2509,Dakota Mathias missed Three Point Jumper.,0,2
+18:59,97,Mangok Mathiang Defensive Rebound.,0,2
+18:50,97,Deng Adel missed Layup.,0,2
+18:50,2509,Dakota Mathias Defensive Rebound.,0,2
+18:32,97,Foul on Mangok Mathiang.,0,2
+18:32,2509,Isaac Haas made Free Throw.,1,2
+18:32,2509,Isaac Haas missed Free Throw.,1,2
+18:32,97,Mangok Mathiang Defensive Rebound.,1,2
+18:09,2509,Foul on Isaac Haas.,1,2
+18:09,97,Mangok Mathiang missed Free Throw.,1,2
+18:09,97,Louisville Deadball Team Rebound.,1,2
+18:09,97,Mangok Mathiang made Free Throw.,1,3
+17:53,2509,Isaac Haas missed Layup.,1,3
+17:53,97,Donovan Mitchell Defensive Rebound.,1,3
+17:45,97,Quentin Snider missed Three Point Jumper.,1,3
+17:45,2509,Dakota Mathias Defensive Rebound.,1,3
+17:41,97,Foul on Donovan Mitchell.,1,3
+17:24,2509,P.J. Thompson made Three Point Jumper. Assisted by Vince Edwards.,4,3
+17:02,97,Quentin Snider made Jumper.,4,5
+16:38,2509,Vince Edwards missed Three Point Jumper.,4,5
+16:38,97,Mangok Mathiang Defensive Rebound.,4,5
+16:21,97,Mangok Mathiang missed Dunk.,4,5
+16:21,2509,Caleb Swanigan Defensive Rebound.,4,5
+16:00,2509,Isaac Haas Turnover.,4,5
+15:48,97,Ray Spalding made Jumper. Assisted by Donovan Mitchell.,4,7
+15:32,2509,Carsen Edwards missed Three Point Jumper.,4,7
+15:32,97,Ray Spalding Defensive Rebound.,4,7
+15:18,97,Mangok Mathiang missed Jumper.,4,7
+15:18,97,Ray Spalding Offensive Rebound.,4,7
+15:13,97,Mangok Mathiang made Layup.,4,9
+14:52,2509,Vince Edwards missed Three Point Jumper.,4,9
+14:52,97,V.J. King Defensive Rebound.,4,9
+14:43,97,Donovan Mitchell missed Jumper.,4,9
+14:43,97,Mangok Mathiang Offensive Rebound.,4,9
+14:35,97,Mangok Mathiang Turnover.,4,9
+14:35,2509,Caleb Swanigan Steal.,4,9
+14:35,97,Official TV Timeout,4,9
+14:25,2509,Foul on Carsen Edwards.,4,9
+14:25,2509,Carsen Edwards Turnover.,4,9
+14:03,97,Quentin Snider made Jumper.,4,11
+13:38,2509,Caleb Swanigan Turnover.,4,11
+13:18,97,Tony Hicks Turnover.,4,11
+13:06,2509,Spike Albrecht missed Three Point Jumper.,4,11
+13:06,97,V.J. King Defensive Rebound.,4,11
+12:54,97,V.J. King missed Jumper.,4,11
+12:54,2509,Caleb Swanigan Defensive Rebound.,4,11
+12:42,2509,Basil Smotherman made Three Point Jumper. Assisted by Ryan Cline.,7,11
+12:17,97,Ray Spalding made Dunk. Assisted by Anas Mahmoud.,7,13
+12:02,2509,Carsen Edwards missed Three Point Jumper.,7,13
+12:02,2509,Spike Albrecht Offensive Rebound.,7,13
+11:54,2509,Caleb Swanigan missed Jumper.,7,13
+11:54,97,Ray Spalding Defensive Rebound.,7,13
+11:46,97,V.J. King missed Jumper.,7,13
+11:46,2509,Ryan Cline Defensive Rebound.,7,13
+11:18,2509,Carsen Edwards missed Jumper.,7,13
+11:18,97,Ray Spalding Defensive Rebound.,7,13
+11:09,97,V.J. King missed Layup.,7,13
+11:09,2509,Spike Albrecht Defensive Rebound.,7,13
+10:48,2509,Carsen Edwards made Layup.,9,13
+10:23,97,Anas Mahmoud made Layup. Assisted by Tony Hicks.,9,15
+10:15,2509,Foul on Spike Albrecht.,9,15
+10:15,2509,Spike Albrecht Turnover.,9,15
+10:15,97,Official TV Timeout,9,15
+10:13,97,Quentin Snider missed Three Point Jumper.,9,15
+10:13,2509,Dakota Mathias Defensive Rebound.,9,15
+9:43,2509,Vince Edwards missed Jumper.,9,15
+9:43,97,Ray Spalding Defensive Rebound.,9,15
+9:31,97,Ray Spalding made Dunk. Assisted by Quentin Snider.,9,17
+9:01,2509,Isaac Haas missed Jumper.,9,17
+9:01,97,Anas Mahmoud Defensive Rebound.,9,17
+8:53,97,Quentin Snider Turnover.,9,17
+8:24,2509,Isaac Haas missed Layup.,9,17
+8:24,97,Donovan Mitchell Block.,9,17
+8:24,97,Quentin Snider Defensive Rebound.,9,17
+8:07,97,Jaylen Johnson made Jumper.,9,19
+7:48,2509,Isaac Haas missed Jumper.,9,19
+7:48,97,Anas Mahmoud Block.,9,19
+7:48,97,Deng Adel Defensive Rebound.,9,19
+7:36,97,Deng Adel missed Three Point Jumper.,9,19
+7:36,2509,Isaac Haas Defensive Rebound.,9,19
+7:25,2509,Caleb Swanigan Turnover.,9,19
+7:25,97,Anas Mahmoud Steal.,9,19
+7:19,97,Donovan Mitchell missed Three Point Jumper.,9,19
+7:19,97,Donovan Mitchell Offensive Rebound.,9,19
+7:15,97,Donovan Mitchell Turnover.,9,19
+7:04,2509,P.J. Thompson missed Three Point Jumper.,9,19
+7:04,2509,Caleb Swanigan Offensive Rebound.,9,19
+7:04,2509,Caleb Swanigan missed Two Point Tip Shot.,9,19
+7:04,2509,Caleb Swanigan Offensive Rebound.,9,19
+6:58,97,Foul on Anas Mahmoud.,9,19
+6:58,97,Official TV Timeout,9,19
+6:48,2509,Caleb Swanigan Turnover.,9,19
+6:37,97,Mangok Mathiang missed Jumper.,9,19
+6:37,2509,Vince Edwards Defensive Rebound.,9,19
+6:25,2509,P.J. Thompson missed Jumper.,9,19
+6:25,97,Donovan Mitchell Defensive Rebound.,9,19
+6:01,97,Donovan Mitchell missed Three Point Jumper.,9,19
+6:01,2509,Isaac Haas Defensive Rebound.,9,19
+5:49,2509,Dakota Mathias made Jumper. Assisted by Vince Edwards.,11,19
+5:27,97,Donovan Mitchell made Layup.,11,21
+5:10,2509,Vince Edwards Turnover.,11,21
+5:10,97,Donovan Mitchell Steal.,11,21
+5:05,97,Donovan Mitchell missed Dunk.,11,21
+5:05,2509,Vince Edwards Defensive Rebound.,11,21
+5:00,97,Foul on Donovan Mitchell.,11,21
+4:38,2509,Ryan Cline Turnover.,11,21
+4:38,97,Jaylen Johnson Steal.,11,21
+4:31,97,Quentin Snider missed Layup.,11,21
+4:31,2509,Vince Edwards Block.,11,21
+4:31,2509,Ryan Cline Defensive Rebound.,11,21
+4:28,97,Foul on Jaylen Johnson.,11,21
+4:20,2509,Foul on Caleb Swanigan.,11,21
+4:20,2509,Caleb Swanigan Turnover.,11,21
+4:05,97,Quentin Snider Turnover.,11,21
+4:05,2509,Carsen Edwards Steal.,11,21
+3:59,2509,Ryan Cline made Three Point Jumper. Assisted by Dakota Mathias.,14,21
+3:42,97,Foul on Ray Spalding.,14,21
+3:42,97,Ray Spalding Turnover.,14,21
+3:42,97,Official TV Timeout,14,21
+3:25,2509,Vince Edwards missed Layup.,14,21
+3:25,97,Ray Spalding Defensive Rebound.,14,21
+3:20,2509,Foul on Caleb Swanigan.,14,21
+3:05,97,Mangok Mathiang made Jumper.,14,23
+2:53,2509,Carsen Edwards made Layup.,16,23
+2:43,97,Mangok Mathiang made Jumper. Assisted by Quentin Snider.,16,25
+2:22,2509,Ryan Cline made Three Point Jumper. Assisted by Dakota Mathias.,19,25
+1:59,97,Mangok Mathiang missed Jumper.,19,25
+1:59,2509,Vince Edwards Defensive Rebound.,19,25
+1:52,2509,Carsen Edwards missed Layup.,19,25
+1:52,97,Ray Spalding Block.,19,25
+1:52,97,Deng Adel Defensive Rebound.,19,25
+1:45,97,Quentin Snider missed Three Point Jumper.,19,25
+1:45,97,Mangok Mathiang Offensive Rebound.,19,25
+1:41,97,Deng Adel made Three Point Jumper. Assisted by Mangok Mathiang.,19,28
+1:08,2509,Isaac Haas missed Jumper.,19,28
+1:08,97,Mangok Mathiang Defensive Rebound.,19,28
+0:58,97,Louisville  Timeout,19,28
+0:45,97,Ray Spalding made Jumper.,19,30
+0:45,2509,Foul on Vince Edwards.,19,30
+0:45,97,Ray Spalding made Free Throw.,19,31
+0:26,2509,Dakota Mathias missed Three Point Jumper.,19,31
+0:26,2509,Isaac Haas Offensive Rebound.,19,31
+0:22,2509,Isaac Haas missed Dunk.,19,31
+0:22,97,Deng Adel Defensive Rebound.,19,31
+0:01,97,David Levitch made Jumper.,19,33
+0:00,97,End of 1st half,19,33
+20:00,2509,Jump Ball won by Purdue,19,33
+19:51,97,Foul on Donovan Mitchell.,19,33
+19:43,2509,P.J. Thompson made Three Point Jumper. Assisted by Vince Edwards.,22,33
+19:18,97,Mangok Mathiang missed Jumper.,22,33
+19:18,2509,Caleb Swanigan Defensive Rebound.,22,33
+19:08,97,Foul on Mangok Mathiang.,22,33
+19:05,2509,Dakota Mathias missed Jumper.,22,33
+19:05,97,Mangok Mathiang Defensive Rebound.,22,33
+18:56,97,Deng Adel Turnover.,22,33
+18:56,2509,Dakota Mathias Steal.,22,33
+18:50,2509,P.J. Thompson made Layup. Assisted by Dakota Mathias.,24,33
+18:21,2509,Foul on Isaac Haas.,24,33
+18:19,97,Quentin Snider missed Jumper.,24,33
+18:19,97,Quentin Snider Offensive Rebound.,24,33
+18:17,2509,Foul on P.J. Thompson.,24,33
+18:17,97,Quentin Snider made Free Throw.,24,34
+18:17,97,Quentin Snider made Free Throw.,24,35
+17:58,97,Foul on Ray Spalding.,24,35
+17:58,2509,Caleb Swanigan made Free Throw.,25,35
+17:58,2509,Caleb Swanigan made Free Throw.,26,35
+17:39,97,Mangok Mathiang Turnover.,26,35
+17:23,2509,Caleb Swanigan missed Three Point Jumper.,26,35
+17:23,97,Tony Hicks Defensive Rebound.,26,35
+17:14,97,Quentin Snider missed Three Point Jumper.,26,35
+17:14,2509,Caleb Swanigan Defensive Rebound.,26,35
+16:59,97,Foul on Anas Mahmoud.,26,35
+16:59,2509,Isaac Haas missed Free Throw.,26,35
+16:59,2509,Purdue Deadball Team Rebound.,26,35
+16:59,2509,Isaac Haas made Free Throw.,27,35
+16:39,97,Anas Mahmoud made Jumper. Assisted by Ray Spalding.,27,37
+16:23,2509,Vince Edwards Turnover.,27,37
+16:00,2509,Foul on Dakota Mathias.,27,37
+15:58,97,Ryan McMahon made Three Point Jumper. Assisted by Deng Adel.,27,40
+15:38,97,Official TV Timeout,27,40
+15:28,2509,Spike Albrecht missed Three Point Jumper.,27,40
+15:28,97,Deng Adel Defensive Rebound.,27,40
+15:03,97,Anas Mahmoud made Layup.,27,42
+14:48,2509,Caleb Swanigan missed Jumper.,27,42
+14:48,2509,Isaac Haas Offensive Rebound.,27,42
+14:33,2509,Carsen Edwards made Three Point Jumper.,30,42
+14:11,97,Deng Adel made Three Point Jumper. Assisted by Anas Mahmoud.,30,45
+13:48,2509,Carsen Edwards Turnover.,30,45
+13:48,97,Ryan McMahon Steal.,30,45
+13:42,97,Ray Spalding made Layup. Assisted by Ryan McMahon.,30,47
+13:34,97,Foul on Anas Mahmoud.,30,47
+13:34,2509,Caleb Swanigan made Free Throw.,31,47
+13:34,2509,Caleb Swanigan made Free Throw.,32,47
+13:17,97,Deng Adel made Jumper.,32,49
+13:04,2509,Foul on Caleb Swanigan.,32,49
+13:04,2509,Caleb Swanigan Turnover.,32,49
+12:52,2509,Foul on Ryan Cline.,32,49
+12:43,97,Ray Spalding Turnover.,32,49
+12:32,97,Foul on Deng Adel.,32,49
+12:24,2509,Carsen Edwards missed Three Point Jumper.,32,49
+12:24,2509,Basil Smotherman Offensive Rebound.,32,49
+12:15,97,Foul on Mangok Mathiang.,32,49
+12:15,2509,Caleb Swanigan missed Free Throw.,32,49
+12:15,2509,Purdue Deadball Team Rebound.,32,49
+12:15,2509,Caleb Swanigan made Free Throw.,33,49
+11:59,97,Jaylen Johnson missed Layup.,33,49
+11:59,97,Jaylen Johnson Offensive Rebound.,33,49
+11:54,2509,Foul on Basil Smotherman.,33,49
+11:54,97,Official TV Timeout,33,49
+11:46,97,Mangok Mathiang made Jumper.,33,51
+11:23,2509,Carsen Edwards missed Jumper.,33,51
+11:23,2509,Caleb Swanigan Offensive Rebound.,33,51
+11:10,2509,P.J. Thompson made Three Point Jumper. Assisted by Basil Smotherman.,36,51
+10:53,2509,Foul on P.J. Thompson.,36,51
+10:53,97,Quentin Snider missed Free Throw.,36,51
+10:53,2509,Carsen Edwards Defensive Rebound.,36,51
+10:44,97,Foul on Jaylen Johnson.,36,51
+10:44,2509,P.J. Thompson made Free Throw.,37,51
+10:44,2509,P.J. Thompson made Free Throw.,38,51
+10:19,97,Deng Adel missed Three Point Jumper.,38,51
+10:19,2509,Ryan Cline Defensive Rebound.,38,51
+9:50,2509,Caleb Swanigan made Three Point Jumper. Assisted by P.J. Thompson.,41,51
+9:40,97,Louisville  Timeout,41,51
+9:22,97,Quentin Snider missed Layup.,41,51
+9:22,97,Jaylen Johnson Offensive Rebound.,41,51
+9:22,97,Jaylen Johnson made Two Point Tip Shot.,41,53
+8:56,2509,Carsen Edwards Turnover.,41,53
+8:38,97,Mangok Mathiang missed Layup.,41,53
+8:38,2509,Basil Smotherman Defensive Rebound.,41,53
+8:31,2509,Basil Smotherman Turnover.,41,53
+8:16,97,Jaylen Johnson missed Jumper.,41,53
+8:16,2509,Caleb Swanigan Defensive Rebound.,41,53
+7:59,2509,Caleb Swanigan Turnover.,41,53
+7:59,97,Official TV Timeout,41,53
+7:48,97,Donovan Mitchell Turnover.,41,53
+7:48,2509,Caleb Swanigan Steal.,41,53
+7:34,2509,Carsen Edwards missed Jumper.,41,53
+7:34,2509,Basil Smotherman Offensive Rebound.,41,53
+7:34,2509,Basil Smotherman made Two Point Tip Shot.,43,53
+7:18,97,Anas Mahmoud made Jumper.,43,55
+6:49,2509,Carsen Edwards missed Layup.,43,55
+6:49,97,Ray Spalding Defensive Rebound.,43,55
+6:31,2509,Foul on P.J. Thompson.,43,55
+6:31,97,Anas Mahmoud made Free Throw.,43,56
+6:31,97,Anas Mahmoud missed Free Throw.,43,56
+6:31,2509,Caleb Swanigan Defensive Rebound.,43,56
+6:19,97,Foul on Anas Mahmoud.,43,56
+6:19,2509,Isaac Haas made Free Throw.,44,56
+6:19,2509,Isaac Haas made Free Throw.,45,56
+6:08,97,Quentin Snider missed Jumper.,45,56
+6:08,2509,Caleb Swanigan Defensive Rebound.,45,56
+5:48,97,Foul on Ray Spalding.,45,56
+5:48,2509,Caleb Swanigan made Free Throw.,46,56
+5:48,2509,Caleb Swanigan missed Free Throw.,46,56
+5:48,97,Mangok Mathiang Defensive Rebound.,46,56
+5:34,97,Donovan Mitchell missed Three Point Jumper.,46,56
+5:34,2509,Caleb Swanigan Defensive Rebound.,46,56
+5:16,2509,Caleb Swanigan made Dunk. Assisted by Dakota Mathias.,48,56
+5:13,97,Louisville  Timeout,48,56
+4:58,97,Quentin Snider missed Jumper.,48,56
+4:58,2509,Dakota Mathias Defensive Rebound.,48,56
+4:41,2509,Isaac Haas missed Jumper.,48,56
+4:41,97,Ray Spalding Defensive Rebound.,48,56
+4:30,97,Donovan Mitchell missed Layup.,48,56
+4:30,2509,Ryan Cline Defensive Rebound.,48,56
+4:10,2509,P.J. Thompson missed Jumper.,48,56
+4:10,97,Ray Spalding Defensive Rebound.,48,56
+4:04,2509,Foul on P.J. Thompson.,48,56
+4:04,97,Ray Spalding missed Free Throw.,48,56
+4:04,97,Deng Adel Offensive Rebound.,48,56
+3:59,97,Ryan McMahon made Three Point Jumper. Assisted by Deng Adel.,48,59
+3:35,97,Jump Ball won by Louisville,48,59
+3:35,2509,Dakota Mathias Turnover.,48,59
+3:35,97,Mangok Mathiang Steal.,48,59
+3:35,97,Official TV Timeout,48,59
+3:19,97,Deng Adel missed Jumper.,48,59
+3:19,2509,Dakota Mathias Defensive Rebound.,48,59
+3:00,2509,Isaac Haas made Layup. Assisted by Caleb Swanigan.,50,59
+2:31,97,Mangok Mathiang made Layup.,50,61
+2:17,2509,Carsen Edwards missed Three Point Jumper.,50,61
+2:17,2509,Isaac Haas Offensive Rebound.,50,61
+2:10,2509,Isaac Haas made Dunk. Assisted by Caleb Swanigan.,52,61
+2:06,2509,Purdue  Timeout,52,61
+2:02,2509,Jump Ball won by Purdue,52,61
+2:02,97,Deng Adel Turnover.,52,61
+2:02,2509,Ryan Cline Steal.,52,61
+1:48,97,Foul on Ryan McMahon.,52,61
+1:48,2509,Dakota Mathias made Free Throw.,53,61
+1:48,2509,Dakota Mathias made Free Throw.,54,61
+1:48,2509,Foul on Carsen Edwards.,54,61
+1:48,97,Quentin Snider missed Free Throw.,54,61
+1:48,97,Louisville Deadball Team Rebound.,54,61
+1:48,97,Quentin Snider made Free Throw.,54,62
+1:41,97,Foul on Anas Mahmoud.,54,62
+1:41,2509,Vince Edwards missed Free Throw.,54,62
+1:41,2509,Purdue Deadball Team Rebound.,54,62
+1:41,2509,Vince Edwards made Free Throw.,55,62
+1:41,97,Deng Adel Turnover.,55,62
+1:41,2509,Carsen Edwards Steal.,55,62
+1:41,2509,Ryan Cline made Three Point Jumper. Assisted by Caleb Swanigan.,58,62
+1:41,97,Donovan Mitchell made Layup.,58,64
+1:08,97,Foul on Donovan Mitchell.,58,64
+1:08,2509,Dakota Mathias made Free Throw.,59,64
+1:08,2509,Dakota Mathias missed Free Throw.,59,64
+1:08,97,Donovan Mitchell Defensive Rebound.,59,64
+0:48,97,Donovan Mitchell made Jumper.,59,66
+0:39,2509,Carsen Edwards made Layup.,61,66
+0:37,2509,Purdue  Timeout,61,66
+0:28,2509,Foul on Vince Edwards.,61,66
+0:28,97,Quentin Snider made Free Throw.,61,67
+0:28,97,Quentin Snider made Free Throw.,61,68
+0:19,2509,Caleb Swanigan made Three Point Jumper.,64,68
+0:15,2509,Purdue  Timeout,64,68
+0:11,2509,Foul on Caleb Swanigan.,64,68
+0:11,97,Deng Adel missed Free Throw.,64,68
+0:11,97,Louisville Deadball Team Rebound.,64,68
+0:11,97,Deng Adel made Free Throw.,64,69
+0:07,2509,Carsen Edwards missed Jumper.,64,69
+0:07,97,Donovan Mitchell Defensive Rebound.,64,69
+0:03,2509,Foul on Vince Edwards.,64,69
+0:03,97,Donovan Mitchell made Free Throw.,64,70
+0:03,97,Donovan Mitchell made Free Throw.,64,71
+0:01,2509,Carsen Edwards missed Three Point Jumper.,64,71
+0:01,97,Louisville Defensive Rebound.,64,71
+0:00,97,End of Game,64,71

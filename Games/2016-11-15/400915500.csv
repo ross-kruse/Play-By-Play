@@ -1,0 +1,378 @@
+CSU Northridge,24,Stanford,2463
+time,team_id,description,h_score,a_score
+19:43,24,Michael Humphrey missed Jumper.,0,0
+19:43,2463,Rakim Lubin Defensive Rebound.,0,0
+19:20,24,Foul on Michael Humphrey.,0,0
+19:19,2463,Aaron Parks made Layup. Assisted by Darin Johnson.,2,0
+19:06,24,Dorian Pickens missed Three Point Jumper.,2,0
+19:06,2463,Kendall Smith Defensive Rebound.,2,0
+18:55,24,Foul on Michael Humphrey.,2,0
+18:55,2463,Darin Johnson made Free Throw.,3,0
+18:55,2463,Darin Johnson missed Free Throw.,3,0
+18:55,24,Josh Sharma Defensive Rebound.,3,0
+18:48,2463,Foul on Rakim Lubin.,3,0
+18:44,24,Christian Sanders Turnover.,3,0
+18:40,2463,Kendall Smith Steal.,3,0
+18:38,2463,Darin Johnson made Layup.,5,0
+18:30,24,Josh Sharma made Three Point Jumper. Assisted by Dorian Pickens.,5,3
+18:10,2463,Rakim Lubin made Jumper.,7,3
+17:52,24,Christian Sanders made Jumper.,7,5
+17:36,2463,Darin Johnson Turnover.,7,5
+17:16,24,Marcus Allen missed Jumper.,7,5
+17:16,2463,Rakim Lubin Defensive Rebound.,7,5
+16:58,2463,Dylan Johns missed Layup.,7,5
+16:58,24,Josh Sharma Block.,7,5
+16:56,24,Josh Sharma Defensive Rebound.,7,5
+16:45,2463,Foul on Aaron Parks.,7,5
+16:33,24,Reid Travis made Jumper.,7,7
+16:23,2463,Rakim Lubin missed Jumper.,7,7
+16:23,24,Dorian Pickens Defensive Rebound.,7,7
+16:16,24,Dorian Pickens missed Layup.,7,7
+16:16,24,Dorian Pickens Offensive Rebound.,7,7
+16:12,24,Dorian Pickens Turnover.,7,7
+15:54,2463,Rakim Lubin Turnover.,7,7
+15:53,24,Josh Sharma Steal.,7,7
+15:49,2463,Foul on Aaron Parks.,7,7
+15:49,24,Official TV Timeout,7,7
+15:49,24,Reid Travis missed Free Throw.,7,7
+15:49,24,Stanford Deadball Team Rebound.,7,7
+15:49,24,Reid Travis made Free Throw.,7,8
+15:35,2463,Kendall Smith missed Layup.,7,8
+15:35,24,Robert Cartwright Defensive Rebound.,7,8
+15:31,2463,Foul on Dylan Johns.,7,8
+15:31,24,Marcus Sheffield made Free Throw.,7,9
+15:31,24,Marcus Sheffield made Free Throw.,7,10
+15:02,24,Foul on Josh Sharma.,7,10
+15:02,2463,Dylan Johns made Free Throw.,8,10
+15:02,2463,Dylan Johns made Free Throw.,9,10
+14:46,24,Marcus Allen made Three Point Jumper. Assisted by Marcus Sheffield.,9,13
+14:22,2463,Rakim Lubin Turnover.,9,13
+14:07,24,Marcus Sheffield missed Layup.,9,13
+14:07,2463,CSU Northridge Deadball Team Rebound.,9,13
+13:57,2463,Micheal Warren Turnover.,9,13
+13:56,24,Robert Cartwright Steal.,9,13
+13:54,24,Robert Cartwright made Layup.,9,15
+13:42,2463,Tavrion Dawson missed Layup.,9,15
+13:42,24,Marcus Allen Defensive Rebound.,9,15
+13:35,24,Marcus Allen missed Layup.,9,15
+13:35,24,Josh Sharma Offensive Rebound.,9,15
+13:33,24,Josh Sharma missed Layup.,9,15
+13:33,2463,Darin Johnson Defensive Rebound.,9,15
+13:26,2463,Micheal Warren missed Layup.,9,15
+13:26,2463,Tavrion Dawson Offensive Rebound.,9,15
+13:17,24,Foul on Grant Verhoeven.,9,15
+13:11,2463,Kendall Smith made Jumper.,11,15
+12:49,24,Robert Cartwright missed Jumper.,11,15
+12:49,24,Grant Verhoeven Offensive Rebound.,11,15
+12:41,2463,Foul on Micheal Warren.,11,15
+12:41,24,Trevor Stanback missed Free Throw.,11,15
+12:41,24,Stanford Deadball Team Rebound.,11,15
+12:41,24,Trevor Stanback missed Free Throw.,11,15
+12:41,24,Dorian Pickens Offensive Rebound.,11,15
+12:20,24,Trevor Stanback missed Layup.,11,15
+12:20,2463,Mahamadou Kaba-Camara Defensive Rebound.,11,15
+12:01,2463,Kendall Smith missed Layup.,11,15
+12:01,24,Marcus Sheffield Defensive Rebound.,11,15
+11:55,24,Dorian Pickens made Layup. Assisted by Marcus Sheffield.,11,17
+11:48,24,Foul on Grant Verhoeven.,11,17
+11:48,24,Official TV Timeout,11,17
+11:48,2463,Kendall Smith missed Free Throw.,11,17
+11:48,2463,CSU Northridge Deadball Team Rebound.,11,17
+11:48,2463,Kendall Smith made Free Throw.,12,17
+11:34,24,Marcus Sheffield missed Jumper.,12,17
+11:34,2463,Kendall Smith Defensive Rebound.,12,17
+11:20,2463,Rakim Lubin Turnover.,12,17
+10:55,24,Reid Travis missed Layup.,12,17
+10:55,24,Dorian Pickens Offensive Rebound.,12,17
+10:53,24,Dorian Pickens made Layup.,12,19
+10:38,2463,Kendall Smith made Jumper.,14,19
+10:12,2463,Foul on Rakim Lubin.,14,19
+10:12,24,Reid Travis made Free Throw.,14,20
+10:12,24,Reid Travis made Free Throw.,14,21
+9:59,2463,Tavrion Dawson Turnover.,14,21
+9:52,24,Dorian Pickens made Jumper.,14,23
+9:28,2463,Tavrion Dawson missed Layup.,14,23
+9:28,24,Josh Sharma Block.,14,23
+9:27,24,Marcus Sheffield Defensive Rebound.,14,23
+9:23,24,Marcus Sheffield made Layup.,14,25
+9:16,2463,CSU Northridge  Timeout,14,25
+9:11,2463,Micheal Warren missed Jumper.,14,25
+9:11,24,Stanford Deadball Team Rebound.,14,25
+9:10,2463,Foul on Dylan Johns.,14,25
+9:05,24,Marcus Sheffield made Free Throw.,14,26
+9:05,24,Marcus Sheffield made Free Throw.,14,27
+8:51,2463,Reggie Theus Jr. missed Jumper.,14,27
+8:51,24,Reid Travis Defensive Rebound.,14,27
+8:41,24,Reid Travis made Dunk. Assisted by Christian Sanders.,14,29
+8:26,2463,Jason Richardson missed Layup.,14,29
+8:26,2463,Dylan Johns Offensive Rebound.,14,29
+8:24,2463,Dylan Johns made Layup.,16,29
+8:17,24,Dorian Pickens missed Three Point Jumper.,16,29
+8:17,2463,Reggie Theus Jr. Defensive Rebound.,16,29
+7:58,24,Foul on Josh Sharma.,16,29
+7:58,24,Official TV Timeout,16,29
+7:54,2463,Tavrion Dawson missed Jumper.,16,29
+7:54,24,Grant Verhoeven Defensive Rebound.,16,29
+7:41,2463,Foul on Tavrion Dawson.,16,29
+7:41,24,Reid Travis made Free Throw.,16,30
+7:41,24,Reid Travis made Free Throw.,16,31
+7:31,24,Foul on Grant Verhoeven.,16,31
+7:31,2463,Tavrion Dawson made Free Throw.,17,31
+7:31,2463,Tavrion Dawson made Free Throw.,18,31
+7:09,24,Reid Travis made Jumper.,18,33
+6:52,2463,Foul on Tavrion Dawson.,18,33
+6:52,2463,Tavrion Dawson Turnover.,18,33
+6:33,24,Reid Travis made Jumper. Assisted by Trevor Stanback.,18,35
+6:19,2463,Dylan Johns missed Jumper.,18,35
+6:19,2463,Dylan Johns Offensive Rebound.,18,35
+6:14,2463,Dylan Johns made Dunk.,20,35
+6:01,24,Marcus Sheffield missed Layup.,20,35
+6:01,2463,Dylan Johns Block.,20,35
+6:00,24,Marcus Allen Offensive Rebound.,20,35
+5:51,24,Reid Travis missed Layup.,20,35
+5:51,2463,Dylan Johns Block.,20,35
+5:49,2463,Dylan Johns Defensive Rebound.,20,35
+5:42,2463,Jason Richardson Turnover.,20,35
+5:41,24,Trevor Stanback Steal.,20,35
+5:37,2463,Foul on Jason Richardson.,20,35
+5:37,24,Marcus Allen made Free Throw.,20,36
+5:37,24,Marcus Allen missed Free Throw.,20,36
+5:37,24,Cameron Walker Offensive Rebound.,20,36
+5:29,24,Reid Travis Turnover.,20,36
+5:21,2463,Kendall Smith missed Jumper.,20,36
+5:21,24,Robert Cartwright Defensive Rebound.,20,36
+4:57,24,Marcus Allen made Layup.,20,38
+4:44,2463,Foul on Jerron Wilbut.,20,38
+4:44,2463,Jerron Wilbut Turnover.,20,38
+4:23,24,Marcus Sheffield missed Three Point Jumper.,20,38
+4:23,2463,Kendall Smith Defensive Rebound.,20,38
+4:13,24,Foul on Robert Cartwright.,20,38
+4:12,2463,Kendall Smith made Free Throw.,21,38
+4:12,2463,Kendall Smith made Free Throw.,22,38
+3:55,24,Robert Cartwright missed Jumper.,22,38
+3:55,2463,CSU Northridge Deadball Team Rebound.,22,38
+3:51,24,Foul on Reid Travis.,22,38
+3:51,24,Official TV Timeout,22,38
+3:51,2463,Kendall Smith made Free Throw.,23,38
+3:51,2463,Kendall Smith made Free Throw.,24,38
+3:42,24,Marcus Sheffield missed Jumper.,24,38
+3:42,24,Reid Travis Offensive Rebound.,24,38
+3:38,24,Reid Travis made Layup.,24,40
+3:31,2463,Jerron Wilbut made Three Point Jumper. Assisted by Kendall Smith.,27,40
+3:14,24,Marcus Allen made Layup. Assisted by Cameron Walker.,27,42
+2:54,24,Foul on Reid Travis.,27,42
+2:54,2463,Rakim Lubin missed Free Throw.,27,42
+2:54,2463,CSU Northridge Deadball Team Rebound.,27,42
+2:54,2463,Rakim Lubin made Free Throw.,28,42
+2:38,24,Marcus Allen missed Layup.,28,42
+2:38,24,Marcus Allen Offensive Rebound.,28,42
+2:35,24,Marcus Allen missed Layup.,28,42
+2:35,2463,Jerron Wilbut Defensive Rebound.,28,42
+2:29,2463,Darin Johnson missed Layup.,28,42
+2:29,24,Michael Humphrey Defensive Rebound.,28,42
+2:22,24,Marcus Sheffield missed Layup.,28,42
+2:22,24,Michael Humphrey Offensive Rebound.,28,42
+2:19,24,Michael Humphrey made Dunk.,28,44
+2:05,2463,Darin Johnson missed Three Point Jumper.,28,44
+2:05,24,Stanford Deadball Team Rebound.,28,44
+2:03,2463,Foul on Aaron Parks.,28,44
+2:03,24,Dorian Pickens made Free Throw.,28,45
+2:03,24,Dorian Pickens made Free Throw.,28,46
+1:47,2463,Micheal Warren missed Layup.,28,46
+1:47,2463,Micheal Warren Offensive Rebound.,28,46
+1:42,2463,Micheal Warren Turnover.,28,46
+1:27,24,Dorian Pickens missed Jumper.,28,46
+1:27,2463,CSU Northridge Defensive Rebound.,28,46
+1:20,2463,Jerron Wilbut missed Three Point Jumper.,28,46
+1:20,2463,Micheal Warren Offensive Rebound.,28,46
+1:15,2463,Darin Johnson made Jumper. Assisted by Micheal Warren.,30,46
+1:01,24,Marcus Allen missed Layup.,30,46
+1:01,24,Trevor Stanback Offensive Rebound.,30,46
+0:59,24,Trevor Stanback missed Layup.,30,46
+0:59,2463,Kendall Smith Defensive Rebound.,30,46
+0:55,24,Foul on Marcus Sheffield.,30,46
+0:52,2463,Kendall Smith made Free Throw.,31,46
+0:52,2463,Kendall Smith missed Free Throw.,31,46
+0:52,2463,CSU Northridge Offensive Rebound.,31,46
+0:46,2463,Mahamadou Kaba-Camara Turnover.,31,46
+0:28,2463,Foul on Mahamadou Kaba-Camara.,31,46
+0:28,24,Trevor Stanback missed Free Throw.,31,46
+0:28,24,Stanford Deadball Team Rebound.,31,46
+0:28,24,Trevor Stanback made Free Throw.,31,47
+0:04,2463,Kendall Smith made Three Point Jumper. Assisted by Darin Johnson.,34,47
+0:00,24,End of 1st half,34,47
+19:52,2463,Rakim Lubin Turnover.,34,47
+19:48,24,Reid Travis Steal.,34,47
+19:33,24,Christian Sanders Turnover.,34,47
+19:18,2463,Aaron Parks Turnover.,34,47
+19:15,24,Dorian Pickens made Three Point Jumper. Assisted by Christian Sanders.,34,50
+18:55,2463,Rakim Lubin Turnover.,34,50
+18:54,24,Christian Sanders Steal.,34,50
+18:49,24,Dorian Pickens made Three Point Jumper. Assisted by Christian Sanders.,34,53
+18:30,2463,Aaron Parks missed Layup.,34,53
+18:30,24,Marcus Allen Defensive Rebound.,34,53
+18:23,2463,Foul on Rakim Lubin.,34,53
+18:23,24,Reid Travis made Free Throw.,34,54
+18:23,24,Reid Travis made Free Throw.,34,55
+18:13,2463,Darin Johnson missed Jumper.,34,55
+18:13,24,Michael Humphrey Defensive Rebound.,34,55
+18:08,24,Dorian Pickens missed Jumper.,34,55
+18:08,2463,Dylan Johns Defensive Rebound.,34,55
+17:57,2463,Kendall Smith made Layup.,36,55
+17:49,24,Dorian Pickens Turnover.,36,55
+17:48,2463,Darin Johnson Steal.,36,55
+17:44,24,Foul on Christian Sanders.,36,55
+17:44,2463,Darin Johnson missed Free Throw.,36,55
+17:44,2463,CSU Northridge Deadball Team Rebound.,36,55
+17:44,2463,Darin Johnson made Free Throw.,37,55
+17:27,24,Michael Humphrey made Three Point Jumper. Assisted by Christian Sanders.,37,58
+17:06,2463,Dylan Johns made Layup. Assisted by Kendall Smith.,39,58
+16:51,24,Marcus Allen missed Layup.,39,58
+16:51,2463,Dylan Johns Defensive Rebound.,39,58
+16:46,2463,Aaron Parks made Layup. Assisted by Darin Johnson.,41,58
+16:31,24,Marcus Allen made Layup.,41,60
+16:19,2463,Kendall Smith missed Three Point Jumper.,41,60
+16:19,24,Stanford Defensive Rebound.,41,60
+16:00,24,Josh Sharma missed Three Point Jumper.,41,60
+16:00,24,Dorian Pickens Offensive Rebound.,41,60
+15:52,24,Josh Sharma made Layup. Assisted by Dorian Pickens.,41,62
+15:52,2463,Foul on Mahamadou Kaba-Camara.,41,62
+15:52,24,Official TV Timeout,41,62
+15:52,24,Josh Sharma missed Free Throw.,41,62
+15:52,2463,Rakim Lubin Defensive Rebound.,41,62
+15:39,2463,Aaron Parks missed Three Point Jumper.,41,62
+15:39,24,Reid Travis Defensive Rebound.,41,62
+15:27,24,Marcus Sheffield Turnover.,41,62
+15:25,2463,Jason Richardson Steal.,41,62
+15:21,2463,Aaron Parks missed Layup.,41,62
+15:21,2463,Aaron Parks Offensive Rebound.,41,62
+15:18,2463,Aaron Parks missed Jumper.,41,62
+15:18,2463,Rakim Lubin Offensive Rebound.,41,62
+15:15,2463,Rakim Lubin Turnover.,41,62
+15:14,24,Reid Travis Steal.,41,62
+14:58,24,Josh Sharma made Jumper.,41,64
+14:32,2463,Rakim Lubin missed Jumper.,41,64
+14:32,24,Dorian Pickens Defensive Rebound.,41,64
+14:22,24,Josh Sharma made Dunk. Assisted by Robert Cartwright.,41,66
+14:03,2463,Foul on Jason Richardson.,41,66
+14:03,2463,Jason Richardson Turnover.,41,66
+13:52,24,Marcus Sheffield made Three Point Jumper. Assisted by Marcus Allen.,41,69
+13:30,2463,Jason Richardson made Jumper.,43,69
+13:21,24,Robert Cartwright Turnover.,43,69
+13:08,2463,Tavrion Dawson missed Jumper.,43,69
+13:08,24,Josh Sharma Block.,43,69
+13:05,24,Josh Sharma Defensive Rebound.,43,69
+12:41,24,Marcus Sheffield made Three Point Jumper. Assisted by Marcus Allen.,43,72
+12:24,2463,Jason Richardson made Layup. Assisted by Dylan Johns.,45,72
+12:15,24,Christian Sanders Turnover.,45,72
+12:14,2463,Tavrion Dawson Steal.,45,72
+12:13,2463,Tavrion Dawson Turnover.,45,72
+12:12,24,Christian Sanders Steal.,45,72
+12:06,2463,Foul on Dylan Johns.,45,72
+12:06,24,Grant Verhoeven missed Free Throw.,45,72
+12:06,24,Stanford Deadball Team Rebound.,45,72
+12:06,24,Grant Verhoeven made Free Throw.,45,73
+11:56,2463,Reggie Theus Jr. made Jumper. Assisted by Tavrion Dawson.,47,73
+11:41,24,Michael Humphrey Turnover.,47,73
+11:40,2463,Tavrion Dawson Steal.,47,73
+11:38,2463,Tavrion Dawson made Layup.,49,73
+11:04,24,Robert Cartwright made Three Point Jumper.,49,76
+10:48,2463,Jason Richardson made Layup.,51,76
+10:36,24,Michael Humphrey made Layup. Assisted by Robert Cartwright.,51,78
+10:17,2463,Tavrion Dawson made Three Point Jumper.,54,78
+9:57,24,Marcus Sheffield made Jumper.,54,80
+9:39,2463,Jason Richardson missed Jumper.,54,80
+9:39,24,Reid Travis Defensive Rebound.,54,80
+9:23,24,Robert Cartwright missed Layup.,54,80
+9:23,24,Reid Travis Offensive Rebound.,54,80
+9:18,24,Reid Travis made Layup.,54,82
+9:06,2463,Micheal Warren Turnover.,54,82
+9:05,24,Official TV Timeout,54,82
+8:48,2463,Foul on Rakim Lubin.,54,82
+8:48,24,Reid Travis missed Free Throw.,54,82
+8:48,24,Stanford Deadball Team Rebound.,54,82
+8:48,24,Reid Travis missed Free Throw.,54,82
+8:48,24,Dorian Pickens Offensive Rebound.,54,82
+8:22,24,Marcus Sheffield made Three Point Jumper. Assisted by Reid Travis.,54,85
+7:59,2463,Darin Johnson missed Three Point Jumper.,54,85
+7:59,24,Christian Sanders Defensive Rebound.,54,85
+7:48,24,Reid Travis missed Jumper.,54,85
+7:48,2463,CSU Northridge Defensive Rebound.,54,85
+7:48,24,Official TV Timeout,54,85
+7:33,2463,Micheal Warren Turnover.,54,85
+7:14,24,Josh Sharma Turnover.,54,85
+7:02,2463,Micheal Warren missed Layup.,54,85
+7:02,2463,Dylan Johns Offensive Rebound.,54,85
+6:54,2463,Kendall Smith missed Layup.,54,85
+6:54,24,Stanford Defensive Rebound.,54,85
+6:37,24,Marcus Allen missed Three Point Jumper.,54,85
+6:37,2463,Tavrion Dawson Defensive Rebound.,54,85
+6:34,24,Foul on Marcus Allen.,54,85
+6:26,24,Foul on Cameron Walker.,54,85
+6:26,2463,Jerron Wilbut made Free Throw.,55,85
+6:26,2463,Jerron Wilbut missed Free Throw.,55,85
+6:26,2463,CSU Northridge Offensive Rebound.,55,85
+6:23,2463,Tavrion Dawson missed Jumper.,55,85
+6:23,24,Josh Sharma Defensive Rebound.,55,85
+6:03,24,Michael Humphrey missed Dunk.,55,85
+6:03,2463,Kendall Smith Defensive Rebound.,55,85
+5:57,24,Foul on Josh Sharma.,55,85
+5:57,2463,Tavrion Dawson made Free Throw.,56,85
+5:57,2463,Tavrion Dawson made Free Throw.,57,85
+5:36,24,Christian Sanders missed Jumper.,57,85
+5:36,2463,Tavrion Dawson Defensive Rebound.,57,85
+5:27,24,Foul on Josh Sharma.,57,85
+5:27,2463,Kendall Smith made Free Throw.,58,85
+5:27,2463,Kendall Smith made Free Throw.,59,85
+5:17,24,Josh Sharma made Dunk. Assisted by Robert Cartwright.,59,87
+5:09,2463,Jerron Wilbut made Jumper.,61,87
+4:48,24,Robert Cartwright missed Three Point Jumper.,61,87
+4:48,2463,CSU Northridge Deadball Team Rebound.,61,87
+4:45,24,Foul on Trevor Stanback.,61,87
+4:35,2463,Tavrion Dawson Turnover.,61,87
+4:18,24,Josh Sharma made Jumper.,61,89
+3:57,24,Foul on Trevor Stanback.,61,89
+3:57,24,Official TV Timeout,61,89
+3:57,2463,Dylan Johns missed Free Throw.,61,89
+3:57,2463,CSU Northridge Deadball Team Rebound.,61,89
+3:57,2463,Dylan Johns made Free Throw.,62,89
+3:41,24,Malcolm Allen made Layup.,62,91
+3:27,2463,Jerron Wilbut made Layup.,64,91
+3:05,24,Trevor Stanback Turnover.,64,91
+3:03,2463,Aaron Parks Steal.,64,91
+2:59,2463,Jerron Wilbut made Jumper.,66,91
+2:33,24,Josh Sharma missed Jumper.,66,91
+2:33,2463,Kendall Smith Defensive Rebound.,66,91
+2:24,2463,Jerron Wilbut missed Three Point Jumper.,66,91
+2:24,24,Malcolm Allen Defensive Rebound.,66,91
+2:18,2463,Foul on Reggie Theus Jr..,66,91
+2:18,24,Trevor Stanback missed Free Throw.,66,91
+2:18,24,Stanford Deadball Team Rebound.,66,91
+2:18,24,Trevor Stanback made Free Throw.,66,92
+2:06,2463,Kendall Smith missed Three Point Jumper.,66,92
+2:06,24,Cameron Walker Defensive Rebound.,66,92
+1:59,24,Josh Sharma made Dunk. Assisted by Cameron Walker.,66,94
+1:50,2463,Aaron Parks missed Jumper.,66,94
+1:50,24,Marcus Sheffield Defensive Rebound.,66,94
+1:46,2463,Jerron Wilbut missed Jumper.,66,94
+1:46,24,Marcus Sheffield missed Free Throw.,66,94
+1:46,2463,Foul on Jerron Wilbut.,66,94
+1:46,24,Stanford Deadball Team Rebound.,66,94
+1:46,24,Marcus Sheffield missed Free Throw.,66,94
+1:46,2463,Reggie Theus Jr. Offensive Rebound.,66,94
+1:46,2463,Mahamadou Kaba-Camara Defensive Rebound.,66,94
+1:46,2463,Reggie Theus Jr. missed Free Throw.,66,94
+1:46,24,Cameron Walker Defensive Rebound.,66,94
+1:06,24,Josh Hanson missed Three Point Jumper.,66,94
+1:06,2463,CSU Northridge Defensive Rebound.,66,94
+0:55,2463,Jason Richardson missed Jumper.,66,94
+0:55,2463,Jason Richardson Offensive Rebound.,66,94
+0:52,2463,Jason Richardson made Layup.,68,94
+0:50,24,Foul on Trevor Stanback.,68,94
+0:32,2463,Jason Richardson made Free Throw.,69,94
+0:28,24,Rodney Herenton missed Jumper.,69,94
+0:28,2463,Julian Richardson Defensive Rebound.,69,94
+0:24,2463,Jason Richardson missed Layup.,69,94
+0:24,24,Cameron Walker Defensive Rebound.,69,94
+0:23,24,Rodney Herenton made Layup. Assisted by Cameron Walker.,69,96
+0:00,24,End of Game,69,96

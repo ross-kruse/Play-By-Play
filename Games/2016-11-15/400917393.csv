@@ -1,0 +1,385 @@
+Niagara,42,Hartford,315
+time,team_id,description,h_score,a_score
+20:00,42,Jump Ball won by Hartford,0,0
+19:45,42,George Blagojevic made Jumper.,0,2
+19:21,315,Dwayne Pow Turnover.,0,2
+19:00,42,Jalen Ross missed Three Point Jumper.,0,2
+19:00,42,Hartford Offensive Rebound.,0,2
+18:45,42,J.R. Lynch missed Three Point Jumper.,0,2
+18:45,315,Matt Scott Defensive Rebound.,0,2
+18:27,315,Dominic Robb made Jumper. Assisted by Marvin Prochet.,2,2
+18:09,42,John Carroll missed Three Point Jumper.,2,2
+18:09,315,Matt Scott Defensive Rebound.,2,2
+17:56,315,Dwayne Pow Turnover.,2,2
+17:56,42,George Blagojevic Steal.,2,2
+17:53,315,Foul on Dwayne Pow.,2,2
+17:46,42,Jalen Ross made Jumper. Assisted by J.R. Lynch.,2,4
+17:31,315,Matt Scott missed Three Point Jumper.,2,4
+17:31,42,J.R. Lynch Defensive Rebound.,2,4
+17:20,42,George Blagojevic made Three Point Jumper. Assisted by J.R. Lynch.,2,7
+16:48,42,Foul on TreVaughn Wilkerson.,2,7
+16:48,315,Matt Scott missed Free Throw.,2,7
+16:48,315,Niagara Deadball Team Rebound.,2,7
+16:48,315,Matt Scott made Free Throw.,3,7
+16:30,42,Jalen Ross made Three Point Jumper.,3,10
+16:12,315,Kahlil Dukes missed Three Point Jumper.,3,10
+16:12,42,Hartford Defensive Rebound.,3,10
+15:54,42,George Blagojevic Turnover.,3,10
+15:54,315,Dwayne Pow Steal.,3,10
+15:45,42,Foul on J.R. Lynch.,3,10
+15:45,42,Official TV Timeout,3,10
+15:45,315,Dwayne Pow missed Free Throw.,3,10
+15:45,315,Niagara Deadball Team Rebound.,3,10
+15:45,315,Dwayne Pow made Free Throw.,4,10
+15:28,42,Jalen Ross missed Jumper.,4,10
+15:28,315,Niagara Defensive Rebound.,4,10
+15:10,315,Kahlil Dukes missed Three Point Jumper.,4,10
+15:10,42,TreVaughn Wilkerson Defensive Rebound.,4,10
+14:53,42,George Blagojevic missed Jumper.,4,10
+14:53,315,Dominic Robb Defensive Rebound.,4,10
+14:46,315,Matt Scott made Three Point Jumper. Assisted by Dwayne Pow.,7,10
+14:30,42,George Blagojevic Turnover.,7,10
+14:30,315,Dwayne Pow Steal.,7,10
+14:25,315,Marvin Prochet made Layup. Assisted by Kahlil Dukes.,9,10
+14:01,42,Jalen Ross made Layup.,9,12
+13:48,315,Kahlil Dukes missed Jumper.,9,12
+13:48,42,TreVaughn Wilkerson Defensive Rebound.,9,12
+13:39,42,George Blagojevic missed Three Point Jumper.,9,12
+13:39,315,Matt Scott Defensive Rebound.,9,12
+13:30,42,Foul on Jason Dunne.,9,12
+13:26,315,Marvin Prochet missed Three Point Jumper.,9,12
+13:26,42,Jason Dunne Defensive Rebound.,9,12
+13:19,315,Foul on Marvin Prochet.,9,12
+12:56,42,Jack Hobbs missed Layup.,9,12
+12:56,315,Matt Scott Block.,9,12
+12:56,315,Dominic Robb Defensive Rebound.,9,12
+12:46,315,Matt Scott made Three Point Jumper. Assisted by Dominic Robb.,12,12
+12:46,42,Hartford  Timeout,12,12
+12:18,42,Jack Hobbs Turnover.,12,12
+12:12,315,Matt Scott missed Three Point Jumper.,12,12
+12:12,315,Maurice Taylor Jr. Offensive Rebound.,12,12
+12:05,315,Maurice Taylor Jr. made Layup.,14,12
+11:46,42,Jack Hobbs missed Three Point Jumper.,14,12
+11:46,315,Chris Barton Defensive Rebound.,14,12
+11:36,42,Official TV Timeout,14,12
+11:26,315,Dominic Robb made Jumper. Assisted by Matt Scott.,16,12
+11:04,42,Jalen Ross made Jumper.,16,14
+10:54,315,Matt Scott missed Layup.,16,14
+10:54,315,Dominic Robb Offensive Rebound.,16,14
+10:49,315,Dominic Robb Turnover.,16,14
+10:49,42,Jalen Ross Steal.,16,14
+10:45,42,Jalen Ross made Layup.,16,16
+10:25,315,Dominic Robb missed Layup.,16,16
+10:25,42,John Carroll Block.,16,16
+10:25,42,Hartford Defensive Rebound.,16,16
+10:08,42,Jalen Ross missed Three Point Jumper.,16,16
+10:08,315,Kevin Larkin Defensive Rebound.,16,16
+10:04,42,Foul on Andrew Ramirez.,16,16
+9:50,315,Kevin Larkin missed Three Point Jumper.,16,16
+9:50,42,Jason Dunne Defensive Rebound.,16,16
+9:18,42,Andrew Ramirez missed Layup.,16,16
+9:18,315,Ali Tew Defensive Rebound.,16,16
+9:09,315,Kevin Larkin missed Jumper.,16,16
+9:09,42,Andrew Ramirez Defensive Rebound.,16,16
+9:06,315,Foul on Ali Tew.,16,16
+8:56,42,Jason Dunne missed Three Point Jumper.,16,16
+8:56,315,Kevin Larkin Defensive Rebound.,16,16
+8:33,315,Ali Tew missed Jumper.,16,16
+8:33,42,Hartford Defensive Rebound.,16,16
+8:30,42,Max Twyman missed Three Point Jumper.,16,16
+8:30,315,James Towns Defensive Rebound.,16,16
+8:28,42,Foul on Nikola Colovic.,16,16
+8:15,315,Kevin Larkin Turnover.,16,16
+8:15,42,Andrew Ramirez Steal.,16,16
+8:03,42,Foul on Andrew Ramirez.,16,16
+8:03,42,Andrew Ramirez Turnover.,16,16
+7:42,315,Chris Barton Turnover.,16,16
+7:42,42,Official TV Timeout,16,16
+7:19,42,Jalen Ross made Jumper.,16,18
+7:02,315,Shane Gatling made Three Point Jumper. Assisted by Kahlil Dukes.,19,18
+6:44,42,George Blagojevic made Layup. Assisted by John Carroll.,19,20
+6:29,315,James Towns missed Jumper.,19,20
+6:29,315,Ali Tew Offensive Rebound.,19,20
+6:08,315,James Towns missed Three Point Jumper.,19,20
+6:08,42,Hartford Defensive Rebound.,19,20
+5:50,42,Jalen Ross made Three Point Jumper. Assisted by J.R. Lynch.,19,23
+5:39,315,James Towns Turnover.,19,23
+5:39,42,George Blagojevic Steal.,19,23
+5:31,42,Jalen Ross made Layup. Assisted by George Blagojevic.,19,25
+5:12,315,Marvin Prochet missed Jumper.,19,25
+5:12,42,Jason Dunne Defensive Rebound.,19,25
+4:47,42,John Carroll missed Three Point Jumper.,19,25
+4:47,315,Marvin Prochet Defensive Rebound.,19,25
+4:40,315,Shane Gatling made Three Point Jumper. Assisted by Kahlil Dukes.,22,25
+4:19,42,Jason Dunne made Layup. Assisted by John Carroll.,22,27
+4:06,315,Kahlil Dukes missed Three Point Jumper.,22,27
+4:06,42,Jalen Ross Defensive Rebound.,22,27
+3:55,315,Foul on Shane Gatling.,22,27
+3:55,42,Official TV Timeout,22,27
+3:55,42,John Carroll made Free Throw.,22,28
+3:55,42,John Carroll made Free Throw.,22,29
+3:43,42,Foul on TreVaughn Wilkerson.,22,29
+3:43,315,Dominic Robb missed Free Throw.,22,29
+3:43,42,Jason Dunne Defensive Rebound.,22,29
+3:19,42,TreVaughn Wilkerson Turnover.,22,29
+3:02,315,Marvin Prochet missed Jumper.,22,29
+3:02,42,George Blagojevic Defensive Rebound.,22,29
+2:56,42,George Blagojevic Turnover.,22,29
+2:56,315,Shane Gatling Steal.,22,29
+2:47,315,Foul on Matt Scott.,22,29
+2:47,315,Matt Scott Turnover.,22,29
+2:33,42,Jason Dunne missed Three Point Jumper.,22,29
+2:33,315,Dominic Robb Defensive Rebound.,22,29
+2:21,315,Shane Gatling made Layup.,24,29
+2:21,42,Foul on Nikola Colovic.,24,29
+2:21,315,Shane Gatling missed Free Throw.,24,29
+2:21,315,Marvin Prochet Offensive Rebound.,24,29
+2:05,315,Dominic Robb missed Jumper.,24,29
+2:05,42,Jason Dunne Block.,24,29
+2:05,42,George Blagojevic Defensive Rebound.,24,29
+1:57,42,Jason Dunne made Three Point Jumper. Assisted by Jalen Ross.,24,32
+1:42,315,Matt Scott missed Jumper.,24,32
+1:42,42,Nikola Colovic Defensive Rebound.,24,32
+1:39,315,Foul on Matt Scott.,24,32
+1:23,315,Foul on Shane Gatling.,24,32
+1:23,42,Jason Dunne missed Free Throw.,24,32
+1:23,315,Shane Gatling Defensive Rebound.,24,32
+1:06,315,Marvin Prochet missed Jumper.,24,32
+1:06,315,Dominic Robb Offensive Rebound.,24,32
+0:58,42,Foul on Jason Dunne.,24,32
+0:58,315,Dominic Robb made Free Throw.,25,32
+0:58,315,Dominic Robb made Free Throw.,26,32
+0:41,42,John Carroll missed Layup.,26,32
+0:41,315,Kahlil Dukes Defensive Rebound.,26,32
+0:36,315,Chris Barton missed Layup.,26,32
+0:36,42,Hartford Defensive Rebound.,26,32
+0:31,315,Foul on Dominic Robb.,26,32
+0:31,42,J.R. Lynch made Free Throw.,26,33
+0:31,42,J.R. Lynch missed Free Throw.,26,33
+0:31,315,Marvin Prochet Defensive Rebound.,26,33
+0:06,315,Dominic Robb missed Jumper.,26,33
+0:06,42,Jack Hobbs Defensive Rebound.,26,33
+0:00,42,End of 1st half,26,33
+20:00,315,Jump Ball won by Niagara,26,33
+19:44,315,Matt Scott made Jumper. Assisted by Marvin Prochet.,28,33
+19:19,42,Foul on John Carroll.,28,33
+19:19,42,John Carroll Turnover.,28,33
+19:02,315,Marvin Prochet missed Three Point Jumper.,28,33
+19:02,42,Jason Dunne Defensive Rebound.,28,33
+18:48,315,Foul on Matt Scott.,28,33
+18:42,42,John Carroll Turnover.,28,33
+18:37,315,Kahlil Dukes missed Three Point Jumper.,28,33
+18:37,42,George Blagojevic Defensive Rebound.,28,33
+18:28,42,George Blagojevic missed Three Point Jumper.,28,33
+18:28,42,John Carroll Offensive Rebound.,28,33
+18:07,42,George Blagojevic missed Layup.,28,33
+18:07,315,Marvin Prochet Block.,28,33
+18:07,315,Matt Scott Defensive Rebound.,28,33
+17:52,315,Marvin Prochet missed Layup.,28,33
+17:52,42,Hartford Defensive Rebound.,28,33
+17:45,315,Foul on Kahlil Dukes.,28,33
+17:37,42,J.R. Lynch made Three Point Jumper. Assisted by John Carroll.,28,36
+17:21,315,Dwayne Pow missed Jumper.,28,36
+17:21,42,George Blagojevic Defensive Rebound.,28,36
+17:13,42,John Carroll made Layup. Assisted by J.R. Lynch.,28,38
+17:08,315,Niagara  Timeout,28,38
+16:55,315,Shane Gatling missed Three Point Jumper.,28,38
+16:55,315,Matt Scott Offensive Rebound.,28,38
+16:43,315,Matt Scott made Three Point Jumper.,31,38
+16:15,315,Foul on Dominic Robb.,31,38
+15:57,315,Foul on Dwayne Pow.,31,38
+15:57,42,Official TV Timeout,31,38
+15:55,42,Jason Dunne made Three Point Jumper. Assisted by J.R. Lynch.,31,41
+15:36,315,Dwayne Pow missed Three Point Jumper.,31,41
+15:36,315,Matt Scott Offensive Rebound.,31,41
+15:28,315,Matt Scott made Layup.,33,41
+15:12,42,Jalen Ross made Jumper.,33,43
+14:47,315,Marvin Prochet made Jumper. Assisted by Shane Gatling.,35,43
+14:33,42,Jalen Ross missed Three Point Jumper.,35,43
+14:33,315,Marvin Prochet Defensive Rebound.,35,43
+14:19,315,Dominic Robb made Jumper. Assisted by Dwayne Pow.,37,43
+14:04,42,George Blagojevic made Layup.,37,45
+13:49,315,Marvin Prochet made Jumper. Assisted by Dwayne Pow.,39,45
+13:32,315,Foul on Matt Scott.,39,45
+13:12,42,Jalen Ross missed Layup.,39,45
+13:12,315,Dominic Robb Block.,39,45
+13:12,42,Hartford Offensive Rebound.,39,45
+13:08,42,Jack Hobbs missed Three Point Jumper.,39,45
+13:08,315,Dominic Robb Defensive Rebound.,39,45
+13:05,42,Foul on TreVaughn Wilkerson.,39,45
+12:48,315,Shane Gatling missed Three Point Jumper.,39,45
+12:48,42,Jack Hobbs Defensive Rebound.,39,45
+12:29,315,Foul on Dominic Robb.,39,45
+12:17,315,Foul on Chris Barton.,39,45
+12:17,42,Jalen Ross made Free Throw.,39,46
+12:17,42,Jalen Ross made Free Throw.,39,47
+11:50,315,James Towns missed Layup.,39,47
+11:49,42,TreVaughn Wilkerson Block.,39,47
+11:48,42,Jack Hobbs Defensive Rebound.,39,47
+11:40,315,Foul on Maurice Taylor Jr..,39,47
+11:40,42,Official TV Timeout,39,47
+11:40,42,TreVaughn Wilkerson made Free Throw.,39,48
+11:40,42,TreVaughn Wilkerson missed Free Throw.,39,48
+11:40,42,Jack Hobbs Offensive Rebound.,39,48
+11:38,42,Jack Hobbs Turnover.,39,48
+11:23,315,Matt Scott made Three Point Jumper. Assisted by Chris Barton.,42,48
+11:07,42,Jalen Ross missed Jumper.,42,48
+11:07,315,Matt Scott Defensive Rebound.,42,48
+11:02,42,Foul on John Carroll.,42,48
+10:46,315,James Towns missed Jumper.,42,48
+10:46,315,Matt Scott Offensive Rebound.,42,48
+10:39,42,Foul on Jack Hobbs.,42,48
+10:39,315,Matt Scott missed Free Throw.,42,48
+10:39,315,Niagara Deadball Team Rebound.,42,48
+10:39,315,Matt Scott missed Free Throw.,42,48
+10:39,42,John Carroll Defensive Rebound.,42,48
+10:33,42,Jason Dunne missed Three Point Jumper.,42,48
+10:33,315,James Towns Defensive Rebound.,42,48
+10:17,42,Foul on TreVaughn Wilkerson.,42,48
+10:17,315,Matt Scott made Free Throw.,43,48
+10:17,315,Matt Scott made Free Throw.,44,48
+10:17,315,Foul on James Towns.,44,48
+10:17,42,J.R. Lynch made Free Throw.,44,49
+10:17,42,J.R. Lynch made Free Throw.,44,50
+10:07,315,Matt Scott missed Layup.,44,50
+10:07,315,Marvin Prochet Offensive Rebound.,44,50
+10:01,315,Marvin Prochet Turnover.,44,50
+9:48,42,George Blagojevic made Layup. Assisted by John Carroll.,44,52
+9:39,315,James Towns missed Jumper.,44,52
+9:39,42,Jalen Ross Defensive Rebound.,44,52
+9:23,42,Jason Dunne Turnover.,44,52
+9:10,42,Foul on John Carroll.,44,52
+8:52,315,Dominic Robb missed Jumper.,44,52
+8:52,42,John Carroll Defensive Rebound.,44,52
+8:50,315,Foul on Dominic Robb.,44,52
+8:50,42,John Carroll made Free Throw.,44,53
+8:50,42,John Carroll missed Free Throw.,44,53
+8:50,315,Maurice Taylor Jr. Defensive Rebound.,44,53
+8:39,315,Matt Scott missed Three Point Jumper.,44,53
+8:39,42,Hartford Defensive Rebound.,44,53
+8:16,42,George Blagojevic made Layup. Assisted by John Carroll.,44,55
+8:16,315,Foul on Marvin Prochet.,44,55
+8:16,42,George Blagojevic made Free Throw.,44,56
+8:04,315,Kahlil Dukes missed Three Point Jumper.,44,56
+8:04,315,Matt Scott Offensive Rebound.,44,56
+7:54,315,Marvin Prochet missed Three Point Jumper.,44,56
+7:54,315,Chris Barton Offensive Rebound.,44,56
+7:49,42,Foul on Nikola Colovic.,44,56
+7:49,42,Official TV Timeout,44,56
+7:49,315,Chris Barton made Free Throw.,45,56
+7:49,315,Chris Barton made Free Throw.,46,56
+7:45,315,Foul on Chris Barton.,46,56
+7:45,42,Jalen Ross made Free Throw.,46,57
+7:45,42,Jalen Ross made Free Throw.,46,58
+7:29,42,Foul on Nikola Colovic.,46,58
+7:29,315,Matt Scott made Free Throw.,47,58
+7:29,315,Matt Scott made Free Throw.,48,58
+7:05,42,Jalen Ross Turnover.,48,58
+7:05,315,Chris Barton Steal.,48,58
+7:04,42,Foul on John Carroll.,48,58
+7:04,315,Maurice Taylor Jr. missed Free Throw.,48,58
+7:04,42,Jason Dunne Defensive Rebound.,48,58
+6:48,42,George Blagojevic Turnover.,48,58
+6:48,315,Maurice Taylor Jr. Steal.,48,58
+6:44,315,Maurice Taylor Jr. made Layup.,50,58
+6:16,42,Jalen Ross made Jumper.,50,60
+6:07,315,Chris Barton Turnover.,50,60
+6:07,42,George Blagojevic Steal.,50,60
+6:01,42,Jason Dunne made Layup. Assisted by J.R. Lynch.,50,62
+5:38,315,Marvin Prochet missed Jumper.,50,62
+5:38,42,TreVaughn Wilkerson Block.,50,62
+5:38,42,Jason Dunne Defensive Rebound.,50,62
+5:38,315,Foul on Marvin Prochet.,50,62
+5:38,42,Jason Dunne made Free Throw.,50,63
+5:38,42,Jason Dunne made Free Throw.,50,64
+5:21,42,Foul on TreVaughn Wilkerson.,50,64
+5:21,315,Dominic Robb missed Free Throw.,50,64
+5:21,315,Niagara Deadball Team Rebound.,50,64
+5:21,315,Dominic Robb made Free Throw.,51,64
+5:01,42,John Carroll Turnover.,51,64
+5:01,315,Dominic Robb Steal.,51,64
+4:52,315,Shane Gatling missed Three Point Jumper.,51,64
+4:52,315,Dominic Robb Offensive Rebound.,51,64
+4:47,42,Foul on Jason Dunne.,51,64
+4:47,315,Dominic Robb missed Free Throw.,51,64
+4:47,315,Niagara Deadball Team Rebound.,51,64
+4:47,315,Dominic Robb made Free Throw.,52,64
+4:36,315,Foul on Maurice Taylor Jr..,52,64
+4:36,42,Jalen Ross made Free Throw.,52,65
+4:36,42,Jalen Ross made Free Throw.,52,66
+4:21,315,Kahlil Dukes made Three Point Jumper.,55,66
+3:48,315,Foul on Kahlil Dukes.,55,66
+3:48,42,Official TV Timeout,55,66
+3:48,42,Jalen Ross missed Free Throw.,55,66
+3:48,42,Hartford Deadball Team Rebound.,55,66
+3:48,42,Jalen Ross made Free Throw.,55,67
+3:42,315,Matt Scott made Three Point Jumper. Assisted by Shane Gatling.,58,67
+3:10,42,John Carroll Turnover.,58,67
+3:06,315,Dominic Robb made Jumper.,60,67
+2:43,42,John Carroll missed Layup.,60,67
+2:43,315,Dominic Robb Block.,60,67
+2:43,315,Maurice Taylor Jr. Defensive Rebound.,60,67
+2:29,315,Kahlil Dukes made Three Point Jumper. Assisted by Matt Scott.,63,67
+2:12,42,Hartford  Timeout,63,67
+2:01,315,Foul on Shane Gatling.,63,67
+2:01,42,George Blagojevic missed Free Throw.,63,67
+2:01,42,Hartford Deadball Team Rebound.,63,67
+2:01,42,George Blagojevic made Free Throw.,63,68
+1:48,315,Kahlil Dukes made Three Point Jumper.,66,68
+1:25,42,George Blagojevic missed Layup.,66,68
+1:25,42,Jason Dunne Offensive Rebound.,66,68
+1:25,42,Jason Dunne missed Two Point Tip Shot.,66,68
+1:25,315,Dominic Robb Defensive Rebound.,66,68
+1:22,42,Foul on George Blagojevic.,66,68
+1:22,315,Dominic Robb made Free Throw.,67,68
+1:22,315,Dominic Robb made Free Throw.,68,68
+1:13,42,Jalen Ross missed Three Point Jumper.,68,68
+1:13,315,Shane Gatling Defensive Rebound.,68,68
+1:00,315,Niagara  Timeout,68,68
+0:56,315,Dominic Robb made Layup. Assisted by Matt Scott.,70,68
+0:39,315,Foul on Kahlil Dukes.,70,68
+0:39,42,Jalen Ross made Free Throw.,70,69
+0:39,42,Jalen Ross made Free Throw.,70,70
+0:39,42,Hartford  Timeout,70,70
+0:19,315,Matt Scott missed Three Point Jumper.,70,70
+0:19,315,Kahlil Dukes Offensive Rebound.,70,70
+0:04,315,Kahlil Dukes missed Three Point Jumper.,70,70
+0:04,315,Niagara Offensive Rebound.,70,70
+0:00,42,End of 2nd half,70,70
+5:00,315,Jump Ball won by Niagara,70,70
+4:47,315,Matt Scott made Jumper. Assisted by Maurice Taylor Jr..,72,70
+4:34,42,Jalen Ross missed Three Point Jumper.,72,70
+4:34,315,Maurice Taylor Jr. Defensive Rebound.,72,70
+4:01,315,Dominic Robb Turnover.,72,70
+3:43,42,Jason Dunne made Three Point Jumper. Assisted by George Blagojevic.,72,73
+3:21,315,Kahlil Dukes missed Three Point Jumper.,72,73
+3:21,315,Maurice Taylor Jr. Offensive Rebound.,72,73
+3:15,315,Maurice Taylor Jr. Turnover.,72,73
+3:15,42,Jalen Ross Steal.,72,73
+3:08,315,Foul on Kahlil Dukes.,72,73
+3:08,42,Jalen Ross made Free Throw.,72,74
+3:08,42,Jalen Ross made Free Throw.,72,75
+2:54,315,Kahlil Dukes made Jumper.,74,75
+2:31,315,Foul on Kahlil Dukes.,74,75
+2:31,42,Jalen Ross made Free Throw.,74,76
+2:31,42,Jalen Ross made Free Throw.,74,77
+2:15,315,Shane Gatling made Three Point Jumper. Assisted by James Towns.,77,77
+1:49,42,Jalen Ross missed Jumper.,77,77
+1:49,42,Jack Hobbs Offensive Rebound.,77,77
+1:24,42,Jason Dunne missed Three Point Jumper.,77,77
+1:24,315,Maurice Taylor Jr. Defensive Rebound.,77,77
+1:00,42,Foul on Jack Hobbs.,77,77
+1:00,315,Dominic Robb made Free Throw.,78,77
+1:00,315,Dominic Robb missed Free Throw.,78,77
+1:00,42,John Carroll Defensive Rebound.,78,77
+0:43,42,Jason Dunne made Three Point Jumper. Assisted by Jalen Ross.,78,80
+0:33,315,Niagara  Timeout,78,80
+0:18,315,James Towns missed Three Point Jumper.,78,80
+0:18,42,Jason Dunne Defensive Rebound.,78,80
+0:07,315,Foul on Shane Gatling.,78,80
+0:07,42,Jason Dunne made Free Throw.,78,81
+0:07,42,Jason Dunne made Free Throw.,78,82
+0:07,315,Niagara  Timeout,78,82
+0:05,315,Matt Scott missed Three Point Jumper.,78,82
+0:05,42,Jack Hobbs Defensive Rebound.,78,82
+0:00,42,End of Game,78,82

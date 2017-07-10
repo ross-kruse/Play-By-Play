@@ -1,0 +1,350 @@
+Monmouth,183,Syracuse,2405
+time,team_id,description,h_score,a_score
+20:00,183,Jump Ball won by Syracuse,0,0
+19:35,183,Tyler Roberson made Jumper. Assisted by Frank Howard.,0,2
+19:10,2405,Chris Brady made Layup. Assisted by Justin Robinson.,2,2
+18:50,183,Frank Howard missed Three Point Jumper.,2,2
+18:50,2405,Chris Brady Defensive Rebound.,2,2
+18:23,2405,Je'lon Hornbeak Turnover.,2,2
+18:16,183,Andrew White III missed Three Point Jumper.,2,2
+18:16,183,DaJuan Coleman Offensive Rebound.,2,2
+18:11,2405,Foul on Je'lon Hornbeak.,2,2
+18:11,183,DaJuan Coleman missed Free Throw.,2,2
+18:11,183,Syracuse Deadball Team Rebound.,2,2
+18:11,183,DaJuan Coleman made Free Throw.,2,3
+17:51,2405,Collin Stewart missed Three Point Jumper.,2,3
+17:51,183,Syracuse Defensive Rebound.,2,3
+17:30,183,Tyler Lydon missed Jumper.,2,3
+17:30,2405,Josh James Defensive Rebound.,2,3
+17:19,2405,Collin Stewart missed Jumper.,2,3
+17:19,183,Tyler Lydon Defensive Rebound.,2,3
+17:05,183,DaJuan Coleman made Jumper. Assisted by Andrew White III.,2,5
+16:44,2405,Collin Stewart made Three Point Jumper. Assisted by Justin Robinson.,5,5
+16:26,183,DaJuan Coleman missed Jumper.,5,5
+16:26,183,Syracuse Offensive Rebound.,5,5
+16:12,2405,Foul on Chris Brady.,5,5
+16:12,183,Andrew White III missed Free Throw.,5,5
+16:12,183,Syracuse Deadball Team Rebound.,5,5
+16:12,183,Andrew White III made Free Throw.,5,6
+16:06,2405,Je'lon Hornbeak missed Three Point Jumper.,5,6
+16:06,183,Syracuse Defensive Rebound.,5,6
+15:51,183,Andrew White III missed Three Point Jumper.,5,6
+15:51,2405,Monmouth Defensive Rebound.,5,6
+15:47,183,Foul on Tyler Roberson.,5,6
+15:47,183,Official TV Timeout,5,6
+15:17,2405,Monmouth  Turnover.,5,6
+14:54,183,Andrew White III made Jumper.,5,8
+14:40,2405,Jump Ball won by Monmouth,5,8
+14:34,2405,Justin Robinson made Jumper.,7,8
+14:20,183,Andrew White III made Three Point Jumper.,7,11
+13:51,183,Foul on John Gillon.,7,11
+13:51,2405,Justin Robinson made Free Throw.,8,11
+13:51,2405,Justin Robinson made Free Throw.,9,11
+13:31,183,Paschal Chukwu Turnover.,9,11
+13:31,2405,Micah Seaborn Steal.,9,11
+13:25,2405,Micah Seaborn made Layup.,11,11
+13:01,2405,Foul on Diago Quinn.,11,11
+12:48,183,Taurean Thompson Turnover.,11,11
+12:31,2405,Collin Stewart missed Three Point Jumper.,11,11
+12:31,183,Tyus Battle Defensive Rebound.,11,11
+12:23,183,John Gillon missed Jumper.,11,11
+12:23,2405,Diago Quinn Defensive Rebound.,11,11
+12:16,2405,Justin Robinson missed Three Point Jumper.,11,11
+12:16,183,Tyus Battle Defensive Rebound.,11,11
+12:06,183,Taurean Thompson made Jumper. Assisted by Tyus Battle.,11,13
+11:39,2405,Diago Quinn Turnover.,11,13
+11:39,183,Official TV Timeout,11,13
+11:27,183,Tyler Lydon made Layup. Assisted by Andrew White III.,11,15
+11:07,2405,Sam Ibiezugbe missed Layup.,11,15
+11:07,183,Tyus Battle Defensive Rebound.,11,15
+10:55,183,Andrew White III missed Three Point Jumper.,11,15
+10:55,183,Tyler Lydon Offensive Rebound.,11,15
+10:49,183,Taurean Thompson made Jumper. Assisted by Andrew White III.,11,17
+10:32,2405,Je'lon Hornbeak Turnover.,11,17
+10:32,183,Taurean Thompson Steal.,11,17
+9:56,183,Syracuse  Turnover.,11,17
+9:43,2405,Josh James missed Three Point Jumper.,11,17
+9:43,2405,Je'lon Hornbeak Offensive Rebound.,11,17
+9:43,2405,Je'lon Hornbeak made Two Point Tip Shot.,13,17
+9:29,183,Tyler Lydon missed Layup.,13,17
+9:29,2405,Micah Seaborn Block.,13,17
+9:29,183,John Gillon Offensive Rebound.,13,17
+9:23,183,John Gillon made Three Point Jumper.,13,20
+8:55,2405,Micah Seaborn missed Jumper.,13,20
+8:55,2405,Sam Ibiezugbe Offensive Rebound.,13,20
+8:29,2405,Sam Ibiezugbe made Layup. Assisted by Micah Seaborn.,15,20
+7:59,183,John Gillon missed Three Point Jumper.,15,20
+7:59,2405,Sam Ibiezugbe Defensive Rebound.,15,20
+7:45,2405,Sam Ibiezugbe made Layup. Assisted by Micah Seaborn.,17,20
+7:19,183,Foul on Andrew White III.,17,20
+7:19,183,Andrew White III Turnover.,17,20
+7:19,183,Official TV Timeout,17,20
+6:50,2405,Micah Seaborn missed Jumper.,17,20
+6:50,183,Tyler Lydon Block.,17,20
+6:50,183,Tyler Roberson Defensive Rebound.,17,20
+6:37,183,Tyler Roberson Turnover.,17,20
+6:37,2405,Je'lon Hornbeak Steal.,17,20
+6:27,2405,Micah Seaborn made Three Point Jumper. Assisted by Josh James.,20,20
+5:57,183,John Gillon missed Three Point Jumper.,20,20
+5:57,2405,Je'lon Hornbeak Defensive Rebound.,20,20
+5:46,2405,Justin Robinson missed Three Point Jumper.,20,20
+5:46,183,Frank Howard Defensive Rebound.,20,20
+5:39,183,Tyler Lydon missed Three Point Jumper.,20,20
+5:39,183,Andrew White III Offensive Rebound.,20,20
+5:33,183,Andrew White III made Three Point Jumper.,20,23
+5:03,2405,Justin Robinson Turnover.,20,23
+5:03,183,Frank Howard Steal.,20,23
+4:54,2405,Foul on Je'lon Hornbeak.,20,23
+4:50,183,Andrew White III made Three Point Jumper. Assisted by Frank Howard.,20,26
+4:23,2405,Pierre Sarr made Layup. Assisted by Josh James.,22,26
+4:15,183,Frank Howard made Layup.,22,28
+3:55,183,Foul on Frank Howard.,22,28
+3:55,183,Official TV Timeout,22,28
+3:53,2405,Collin Stewart made Three Point Jumper. Assisted by Justin Robinson.,25,28
+3:30,183,Andrew White III made Jumper.,25,30
+3:09,2405,Josh James made Layup.,27,30
+2:54,183,Andrew White III made Jumper.,27,32
+2:37,2405,Collin Stewart missed Three Point Jumper.,27,32
+2:37,183,Andrew White III Defensive Rebound.,27,32
+2:27,183,Tyus Battle made Three Point Jumper. Assisted by Frank Howard.,27,35
+1:59,2405,Chris Brady missed Layup.,27,35
+1:59,183,Tyler Roberson Block.,27,35
+1:59,183,Paschal Chukwu Defensive Rebound.,27,35
+1:40,183,Tyler Roberson missed Jumper.,27,35
+1:40,2405,Collin Stewart Defensive Rebound.,27,35
+1:34,2405,Justin Robinson Turnover.,27,35
+1:34,183,Paschal Chukwu Steal.,27,35
+1:25,183,Andrew White III missed Three Point Jumper.,27,35
+1:25,183,Frank Howard Offensive Rebound.,27,35
+1:23,2405,Foul on Collin Stewart.,27,35
+1:14,2405,Foul on Louie Pillari.,27,35
+1:02,183,Tyler Lydon missed Jumper.,27,35
+1:02,2405,Chris Brady Defensive Rebound.,27,35
+0:56,2405,Collin Stewart made Layup. Assisted by Chris Brady.,29,35
+0:46,2405,Foul on Josh James.,29,35
+0:46,183,Andrew White III made Free Throw.,29,36
+0:46,183,Andrew White III made Free Throw.,29,37
+0:41,2405,Justin Robinson missed Three Point Jumper.,29,37
+0:41,183,Andrew White III Defensive Rebound.,29,37
+0:32,183,Syracuse  Timeout,29,37
+0:14,183,Frank Howard Turnover.,29,37
+0:05,183,Foul on Tyus Battle.,29,37
+0:03,183,Foul on Tyus Battle.,29,37
+0:03,2405,Monmouth  Timeout,29,37
+0:01,2405,Micah Seaborn missed Jumper.,29,37
+0:01,183,Tyler Lydon Block.,29,37
+0:01,183,Tyler Roberson Defensive Rebound.,29,37
+0:00,183,End of 1st half,29,37
+20:00,183,Jump Ball won by Syracuse,29,37
+19:52,2405,Foul on Je'lon Hornbeak.,29,37
+19:42,183,Tyler Roberson missed Layup.,29,37
+19:42,183,DaJuan Coleman Offensive Rebound.,29,37
+19:32,183,DaJuan Coleman missed Layup.,29,37
+19:32,183,DaJuan Coleman Offensive Rebound.,29,37
+19:23,183,DaJuan Coleman missed Layup.,29,37
+19:23,183,Tyler Roberson Offensive Rebound.,29,37
+19:23,183,Tyler Roberson made Two Point Tip Shot.,29,39
+19:10,2405,Josh James missed Three Point Jumper.,29,39
+19:10,183,Tyler Roberson Defensive Rebound.,29,39
+19:02,183,Frank Howard missed Three Point Jumper.,29,39
+19:02,183,Tyler Lydon Offensive Rebound.,29,39
+18:49,183,DaJuan Coleman made Jumper. Assisted by Frank Howard.,29,41
+18:21,2405,Justin Robinson missed Three Point Jumper.,29,41
+18:21,183,DaJuan Coleman Defensive Rebound.,29,41
+18:08,183,Foul on DaJuan Coleman.,29,41
+18:08,183,DaJuan Coleman Turnover.,29,41
+17:52,2405,Foul on Josh James.,29,41
+17:52,2405,Josh James Turnover.,29,41
+17:36,2405,Foul on Justin Robinson.,29,41
+17:30,183,Tyler Lydon made Layup. Assisted by Frank Howard.,29,43
+17:21,2405,Monmouth  Timeout,29,43
+17:13,183,Foul on Frank Howard.,29,43
+17:05,2405,Justin Robinson missed Three Point Jumper.,29,43
+17:05,183,Tyler Lydon Defensive Rebound.,29,43
+16:59,183,Frank Howard Turnover.,29,43
+16:59,2405,Micah Seaborn Steal.,29,43
+16:53,2405,Josh James missed Layup.,29,43
+16:53,183,Frank Howard Block.,29,43
+16:53,2405,Monmouth Offensive Rebound.,29,43
+16:37,2405,Chris Brady missed Jumper.,29,43
+16:37,183,Tyler Lydon Defensive Rebound.,29,43
+16:28,183,John Gillon Turnover.,29,43
+16:10,2405,Micah Seaborn missed Three Point Jumper.,29,43
+16:10,2405,Monmouth Offensive Rebound.,29,43
+16:03,2405,Justin Robinson made Jumper. Assisted by Chris Brady.,31,43
+15:45,183,Andrew White III Turnover.,31,43
+15:45,2405,Micah Seaborn Steal.,31,43
+15:40,2405,Micah Seaborn missed Layup.,31,43
+15:40,183,Tyler Roberson Block.,31,43
+15:40,2405,Josh James Offensive Rebound.,31,43
+15:37,183,Foul on DaJuan Coleman.,31,43
+15:37,183,Official TV Timeout,31,43
+15:37,2405,Josh James made Free Throw.,32,43
+15:37,2405,Josh James made Free Throw.,33,43
+15:23,183,Andrew White III missed Three Point Jumper.,33,43
+15:23,2405,Austin Tilghman Defensive Rebound.,33,43
+15:11,2405,Micah Seaborn missed Jumper.,33,43
+15:11,183,Paschal Chukwu Block.,33,43
+15:11,183,Frank Howard Defensive Rebound.,33,43
+15:01,183,Frank Howard made Layup.,33,45
+14:33,2405,Justin Robinson missed Three Point Jumper.,33,45
+14:33,183,Paschal Chukwu Defensive Rebound.,33,45
+14:22,183,Andrew White III Turnover.,33,45
+14:22,2405,Chris Brady Steal.,33,45
+14:17,2405,Micah Seaborn Turnover.,33,45
+14:17,183,Andrew White III Steal.,33,45
+13:56,183,Andrew White III missed Jumper.,33,45
+13:56,183,Paschal Chukwu Offensive Rebound.,33,45
+13:50,183,Frank Howard made Three Point Jumper. Assisted by Tyler Lydon.,33,48
+13:27,2405,Micah Seaborn missed Three Point Jumper.,33,48
+13:27,2405,Austin Tilghman Offensive Rebound.,33,48
+13:15,2405,Micah Seaborn made Layup. Assisted by Justin Robinson.,35,48
+13:05,2405,Foul on Chris Brady.,35,48
+13:05,183,Frank Howard missed Free Throw.,35,48
+13:05,183,Syracuse Deadball Team Rebound.,35,48
+13:05,183,Frank Howard made Free Throw.,35,49
+12:47,2405,Louie Pillari missed Three Point Jumper.,35,49
+12:47,2405,Monmouth Offensive Rebound.,35,49
+12:37,2405,Justin Robinson missed Layup.,35,49
+12:37,183,DaJuan Coleman Defensive Rebound.,35,49
+12:27,2405,Foul on Diago Quinn.,35,49
+12:27,183,Tyler Roberson made Free Throw.,35,50
+12:27,183,Tyler Roberson made Free Throw.,35,51
+12:17,2405,Louie Pillari Turnover.,35,51
+12:17,183,Tyler Lydon Steal.,35,51
+12:06,183,DaJuan Coleman missed Jumper.,35,51
+12:06,2405,Monmouth Defensive Rebound.,35,51
+12:02,183,Foul on Tyler Roberson.,35,51
+11:55,2405,Justin Robinson missed Three Point Jumper.,35,51
+11:55,183,Tyler Lydon Defensive Rebound.,35,51
+11:46,2405,Foul on Austin Tilghman.,35,51
+11:46,183,Official TV Timeout,35,51
+11:28,183,Frank Howard missed Jumper.,35,51
+11:28,2405,Monmouth Defensive Rebound.,35,51
+10:56,2405,Diago Quinn missed Layup.,35,51
+10:56,183,Tyler Lydon Block.,35,51
+10:56,183,DaJuan Coleman Defensive Rebound.,35,51
+10:48,183,Tyus Battle made Three Point Jumper. Assisted by Frank Howard.,35,54
+10:33,2405,Justin Robinson missed Jumper.,35,54
+10:33,2405,Diago Quinn Offensive Rebound.,35,54
+10:33,183,Foul on DaJuan Coleman.,35,54
+10:13,2405,Je'lon Hornbeak missed Three Point Jumper.,35,54
+10:13,183,DaJuan Coleman Defensive Rebound.,35,54
+10:06,183,Tyler Lydon missed Three Point Jumper.,35,54
+10:06,2405,Josh James Defensive Rebound.,35,54
+10:02,2405,Foul on Diago Quinn.,35,54
+10:02,183,Foul on Tyler Roberson.,35,54
+9:48,183,Foul on Frank Howard.,35,54
+9:48,2405,Je'lon Hornbeak missed Free Throw.,35,54
+9:48,183,Tyler Lydon Defensive Rebound.,35,54
+9:32,2405,Foul on Je'lon Hornbeak.,35,54
+9:11,183,Foul on Tyler Lydon.,35,54
+9:11,183,Tyler Lydon Turnover.,35,54
+9:03,2405,Justin Robinson missed Three Point Jumper.,35,54
+9:03,2405,Josh James Offensive Rebound.,35,54
+8:59,2405,Josh James Turnover.,35,54
+8:59,183,Tyus Battle Steal.,35,54
+8:56,2405,Foul on Micah Seaborn.,35,54
+8:56,183,Tyus Battle missed Free Throw.,35,54
+8:56,2405,Josh James Defensive Rebound.,35,54
+8:45,2405,Justin Robinson made Jumper.,37,54
+8:31,183,Taurean Thompson made Jumper. Assisted by John Gillon.,37,56
+8:05,183,Foul on Tyler Lydon.,37,56
+8:05,2405,Micah Seaborn missed Free Throw.,37,56
+8:05,2405,Monmouth Deadball Team Rebound.,37,56
+8:05,2405,Micah Seaborn missed Free Throw.,37,56
+8:05,183,Andrew White III Defensive Rebound.,37,56
+7:58,183,Tyler Lydon Turnover.,37,56
+7:58,183,Official TV Timeout,37,56
+7:43,2405,Micah Seaborn missed Three Point Jumper.,37,56
+7:43,2405,Mustapha Traore Offensive Rebound.,37,56
+7:37,2405,Mustapha Traore made Layup.,39,56
+7:23,183,Tyler Lydon missed Jumper.,39,56
+7:23,2405,Micah Seaborn Defensive Rebound.,39,56
+7:18,2405,Mustapha Traore missed Layup.,39,56
+7:18,183,Andrew White III Defensive Rebound.,39,56
+7:05,183,John Gillon missed Three Point Jumper.,39,56
+7:05,183,Taurean Thompson Offensive Rebound.,39,56
+7:02,2405,Foul on Sam Ibiezugbe.,39,56
+7:02,183,Taurean Thompson made Free Throw.,39,57
+7:02,183,Taurean Thompson missed Free Throw.,39,57
+7:02,2405,Sam Ibiezugbe Defensive Rebound.,39,57
+6:49,2405,Micah Seaborn missed Jumper.,39,57
+6:49,183,Tyler Lydon Block.,39,57
+6:49,2405,Mustapha Traore Offensive Rebound.,39,57
+6:41,2405,Mustapha Traore made Layup.,41,57
+6:28,183,Taurean Thompson missed Jumper.,41,57
+6:28,2405,Josh James Defensive Rebound.,41,57
+6:21,2405,Micah Seaborn Turnover.,41,57
+6:21,183,Taurean Thompson Steal.,41,57
+6:12,183,John Gillon missed Three Point Jumper.,41,57
+6:12,2405,Sam Ibiezugbe Defensive Rebound.,41,57
+6:08,2405,Sam Ibiezugbe Turnover.,41,57
+6:08,183,Tyler Lydon Steal.,41,57
+6:08,183,Taurean Thompson made Layup. Assisted by Tyler Lydon.,41,59
+6:08,2405,Foul on Micah Seaborn.,41,59
+6:08,183,Taurean Thompson made Free Throw.,41,60
+5:59,2405,Micah Seaborn missed Three Point Jumper.,41,60
+5:59,183,Syracuse Defensive Rebound.,41,60
+5:57,2405,Foul on Josh James.,41,60
+5:57,183,Tyler Lydon made Free Throw.,41,61
+5:57,183,Tyler Lydon made Free Throw.,41,62
+5:45,2405,Justin Robinson missed Jumper.,41,62
+5:45,183,Syracuse Defensive Rebound.,41,62
+5:35,183,Tyus Battle made Three Point Jumper. Assisted by Tyler Lydon.,41,65
+5:06,2405,Justin Robinson Turnover.,41,65
+5:06,183,Andrew White III Steal.,41,65
+5:00,183,Tyler Lydon missed Layup.,41,65
+5:00,2405,Chris Brady Block.,41,65
+5:00,183,DaJuan Coleman Offensive Rebound.,41,65
+4:55,183,DaJuan Coleman missed Layup.,41,65
+4:55,2405,Collin Stewart Block.,41,65
+4:55,2405,Mustapha Traore Defensive Rebound.,41,65
+4:36,2405,Justin Robinson made Three Point Jumper. Assisted by Josh James.,44,65
+4:24,183,Andrew White III missed Jumper.,44,65
+4:24,2405,Justin Robinson Defensive Rebound.,44,65
+4:16,2405,Justin Robinson missed Three Point Jumper.,44,65
+4:16,2405,Chris Brady Offensive Rebound.,44,65
+4:11,2405,Chris Brady made Jumper.,46,65
+3:52,2405,Foul on Chris Brady.,46,65
+3:52,183,DaJuan Coleman made Free Throw.,46,66
+3:52,183,Official TV Timeout,46,65
+3:52,183,DaJuan Coleman made Free Throw.,46,67
+3:35,2405,Chris Brady Turnover.,46,67
+3:27,183,Andrew White III missed Jumper.,46,67
+3:27,2405,Je'lon Hornbeak Defensive Rebound.,46,67
+3:18,2405,Je'lon Hornbeak missed Layup.,46,67
+3:18,183,Paschal Chukwu Block.,46,67
+3:18,183,Taurean Thompson Defensive Rebound.,46,67
+3:13,183,John Gillon made Layup.,46,69
+3:01,2405,Collin Stewart missed Three Point Jumper.,46,69
+3:01,183,Paschal Chukwu Defensive Rebound.,46,69
+2:39,183,John Gillon Turnover.,46,69
+2:19,2405,Chris Brady missed Jumper.,46,69
+2:19,183,Andrew White III Defensive Rebound.,46,69
+2:04,183,Taurean Thompson made Jumper. Assisted by Andrew White III.,46,71
+1:54,2405,Justin Robinson Turnover.,46,71
+1:54,183,Tyus Battle Steal.,46,71
+1:25,183,Tyus Battle missed Three Point Jumper.,46,71
+1:25,183,John Gillon Offensive Rebound.,46,71
+1:21,183,Andrew White III missed Three Point Jumper.,46,71
+1:21,2405,Je'lon Hornbeak Defensive Rebound.,46,71
+1:19,183,Foul on Paschal Chukwu.,46,71
+1:19,2405,Je'lon Hornbeak made Free Throw.,47,71
+1:19,2405,Je'lon Hornbeak made Free Throw.,48,71
+1:01,183,Paschal Chukwu Turnover.,48,71
+0:56,2405,Daniel Pillari missed Three Point Jumper.,48,71
+0:56,183,Syracuse Defensive Rebound.,48,71
+0:40,183,Doyin Akintobi-Adeyeye Turnover.,48,71
+0:40,2405,Daniel Pillari Steal.,48,71
+0:34,2405,Daniel Pillari made Layup. Assisted by Louie Pillari.,50,71
+0:23,183,Doyin Akintobi-Adeyeye missed Jumper.,50,71
+0:23,2405,Daniel Pillari Defensive Rebound.,50,71
+0:11,2405,Chris Brady missed Three Point Jumper.,50,71
+0:08,2405,Je'lon Hornbeak Offensive Rebound.,50,71
+0:08,2405,Je'lon Hornbeak missed Layup.,50,71
+0:08,183,Doyin Akintobi-Adeyeye Block.,50,71
+0:08,2405,Monmouth Offensive Rebound.,50,71
+0:02,2405,Daniel Pillari missed Three Point Jumper.,50,71
+0:02,183,Jonathan Radner Defensive Rebound.,50,71
+0:00,183,End of Game,50,71

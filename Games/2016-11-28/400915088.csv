@@ -1,0 +1,411 @@
+Minnesota,52,Florida State,135
+time,team_id,description,h_score,a_score
+20:00,135,Jump Ball won by Minnesota,0,0
+19:44,135,Amir Coffey missed Jumper.,0,0
+19:44,52,Michael Ojo Block.,0,0
+19:44,52,Xavier Rathan-Mayes Defensive Rebound.,0,0
+19:33,52,Jonathan Isaac missed Layup.,0,0
+19:33,135,Jordan Murphy Block.,0,0
+19:33,52,Florida St Offensive Rebound.,0,0
+19:29,52,Terance Mann missed Jumper.,0,0
+19:29,135,Reggie Lynch Block.,0,0
+19:29,52,Jonathan Isaac Offensive Rebound.,0,0
+19:10,135,Foul on Jordan Murphy.,0,0
+19:10,52,Michael Ojo missed Free Throw.,0,0
+19:10,52,Florida St Deadball Team Rebound.,0,0
+19:10,52,Michael Ojo made Free Throw.,0,1
+18:55,135,Jordan Murphy missed Three Point Jumper.,0,1
+18:55,52,Dwayne Bacon Defensive Rebound.,0,1
+18:47,52,Dwayne Bacon Turnover.,0,1
+18:24,52,Foul on Xavier Rathan-Mayes.,0,1
+18:22,135,Dupree McBrayer missed Jumper.,0,1
+18:22,52,Xavier Rathan-Mayes Defensive Rebound.,0,1
+18:13,52,Jump Ball won by Florida St,0,1
+18:06,52,Michael Ojo made Jumper. Assisted by Xavier Rathan-Mayes.,0,3
+17:46,135,Dupree McBrayer Turnover.,0,3
+17:46,52,Jonathan Isaac Steal.,0,3
+17:31,52,Terance Mann Turnover.,0,3
+17:19,135,Dupree McBrayer missed Three Point Jumper.,0,3
+17:19,52,Jonathan Isaac Defensive Rebound.,0,3
+17:08,135,Foul on Reggie Lynch.,0,3
+17:08,52,Michael Ojo made Free Throw.,0,4
+17:08,52,Michael Ojo made Free Throw.,0,5
+16:45,52,Foul on Dwayne Bacon.,0,5
+16:45,135,Jordan Murphy made Free Throw.,1,5
+16:45,135,Jordan Murphy made Free Throw.,2,5
+16:23,52,Jarquez Smith made Jumper.,2,7
+16:10,135,Nate Mason made Layup.,4,7
+15:42,52,Phil Cofer Turnover.,4,7
+15:42,52,Official TV Timeout,4,7
+15:25,135,Amir Coffey made Jumper.,6,7
+15:24,52,Foul on Terance Mann.,6,7
+15:24,135,Amir Coffey made Free Throw.,7,7
+15:14,135,Foul on Akeem Springs.,7,7
+14:56,52,Jarquez Smith missed Layup.,7,7
+14:56,135,Jordan Murphy Defensive Rebound.,7,7
+14:50,52,Foul on Jarquez Smith.,7,7
+14:50,135,Jordan Murphy made Free Throw.,8,7
+14:50,135,Jordan Murphy made Free Throw.,9,7
+14:32,52,Jonathan Isaac missed Three Point Jumper.,9,7
+14:32,52,Trent Forrest Offensive Rebound.,9,7
+14:29,52,Christ Koumadje made Dunk. Assisted by Trent Forrest.,9,9
+14:28,135,Foul on Amir Coffey.,9,9
+14:28,52,Christ Koumadje made Free Throw.,9,10
+14:16,135,Akeem Springs missed Three Point Jumper.,9,10
+14:16,52,Braian Angola-Rodas Defensive Rebound.,9,10
+14:12,52,Braian Angola-Rodas Turnover.,9,10
+14:12,135,Amir Coffey Steal.,9,10
+14:10,135,Amir Coffey Turnover.,9,10
+14:10,52,Braian Angola-Rodas Steal.,9,10
+14:00,52,CJ Walker missed Layup.,9,10
+14:00,135,Eric Curry Defensive Rebound.,9,10
+13:55,135,Amir Coffey missed Layup.,9,10
+13:55,135,Akeem Springs Offensive Rebound.,9,10
+13:46,135,Amir Coffey missed Three Point Jumper.,9,10
+13:46,52,Christ Koumadje Defensive Rebound.,9,10
+13:31,52,Jonathan Isaac made Jumper.,9,12
+13:14,135,Reggie Lynch Turnover.,9,12
+13:10,52,Braian Angola-Rodas Turnover.,9,12
+12:54,135,Ahmad Gilbert made Three Point Jumper. Assisted by Dupree McBrayer.,12,12
+12:32,135,Foul on Ahmad Gilbert.,12,12
+12:32,52,Braian Angola-Rodas missed Free Throw.,12,12
+12:32,52,Florida St Deadball Team Rebound.,12,12
+12:32,52,Braian Angola-Rodas made Free Throw.,12,13
+12:19,52,Foul on Braian Angola-Rodas.,12,13
+11:59,135,Foul on Reggie Lynch.,12,13
+11:59,135,Reggie Lynch Turnover.,12,13
+11:59,52,Official TV Timeout,12,13
+11:45,52,CJ Walker missed Three Point Jumper.,12,13
+11:45,52,Florida St Offensive Rebound.,12,13
+11:35,52,CJ Walker made Layup. Assisted by Braian Angola-Rodas.,12,15
+11:18,135,Jordan Murphy Turnover.,12,15
+10:59,135,Foul on Amir Coffey.,12,15
+10:59,52,Jonathan Isaac made Free Throw.,12,16
+10:59,52,Jonathan Isaac made Free Throw.,12,17
+10:43,52,Foul on Xavier Rathan-Mayes.,12,17
+10:24,135,Nate Mason made Three Point Jumper.,15,17
+10:18,135,Foul on Eric Curry.,15,17
+10:18,52,Michael Ojo missed Free Throw.,15,17
+10:18,135,Eric Curry Defensive Rebound.,15,17
+9:58,135,Nate Mason missed Jumper.,15,17
+9:58,135,Minnesota Offensive Rebound.,15,17
+9:50,52,Foul on Trent Forrest.,15,17
+9:50,135,Nate Mason missed Free Throw.,15,17
+9:50,52,Jonathan Isaac Defensive Rebound.,15,17
+9:38,52,Michael Ojo made Dunk. Assisted by Jonathan Isaac.,15,19
+9:30,135,Ahmad Gilbert Turnover.,15,19
+9:15,52,Jonathan Isaac Turnover.,15,19
+9:03,135,Akeem Springs made Three Point Jumper. Assisted by Dupree McBrayer.,18,19
+8:43,52,Michael Ojo missed Dunk.,18,19
+8:43,52,Jonathan Isaac Offensive Rebound.,18,19
+8:40,52,Jonathan Isaac made Dunk.,18,21
+8:21,135,Dupree McBrayer made Jumper.,20,21
+8:08,52,Jonathan Isaac missed Three Point Jumper.,20,21
+8:08,135,Dupree McBrayer Defensive Rebound.,20,21
+7:56,135,Dupree McBrayer missed Three Point Jumper.,20,21
+7:56,135,Minnesota Deadball Team Rebound.,20,21
+7:54,52,Foul on Michael Ojo.,20,21
+7:54,52,Official TV Timeout,20,21
+7:54,135,Eric Curry made Free Throw.,21,21
+7:54,135,Eric Curry made Free Throw.,22,21
+7:40,135,Foul on Bakary Konate.,22,21
+7:40,52,Terance Mann made Free Throw.,22,22
+7:40,52,Terance Mann made Free Throw.,22,23
+7:19,135,Dupree McBrayer missed Three Point Jumper.,22,23
+7:19,52,Dwayne Bacon Defensive Rebound.,22,23
+7:09,52,Dwayne Bacon missed Three Point Jumper.,22,23
+7:09,52,Dwayne Bacon Offensive Rebound.,22,23
+7:02,52,Terance Mann missed Jumper.,22,23
+7:02,135,Bakary Konate Defensive Rebound.,22,23
+6:55,135,Foul on Jordan Murphy.,22,23
+6:55,135,Jordan Murphy Turnover.,22,23
+6:41,52,CJ Walker Turnover.,22,23
+6:30,135,Foul on Bakary Konate.,22,23
+6:30,135,Bakary Konate Turnover.,22,23
+6:20,135,Foul on Dupree McBrayer.,22,23
+6:20,52,Dwayne Bacon missed Free Throw.,22,23
+6:20,52,Florida St Deadball Team Rebound.,22,23
+6:20,52,Dwayne Bacon made Free Throw.,22,24
+6:05,52,Foul on Jarquez Smith.,22,24
+6:05,135,Bakary Konate made Free Throw.,23,24
+6:05,135,Bakary Konate made Free Throw.,24,24
+5:51,52,Dwayne Bacon made Three Point Jumper. Assisted by CJ Walker.,24,27
+5:19,135,Ahmad Gilbert missed Three Point Jumper.,24,27
+5:19,135,Minnesota Deadball Team Rebound.,24,27
+5:17,52,Foul on Terance Mann.,24,27
+5:17,135,Bakary Konate missed Free Throw.,24,27
+5:17,135,Minnesota Deadball Team Rebound.,24,27
+5:17,135,Bakary Konate made Free Throw.,25,27
+5:08,52,CJ Walker Turnover.,25,27
+5:08,135,Bakary Konate Steal.,25,27
+5:01,135,Nate Mason missed Jumper.,25,27
+5:01,52,Christ Koumadje Defensive Rebound.,25,27
+4:36,52,Christ Koumadje made Dunk. Assisted by Dwayne Bacon.,25,29
+4:24,52,Foul on CJ Walker.,25,29
+4:24,135,Nate Mason made Free Throw.,26,29
+4:24,135,Nate Mason missed Free Throw.,26,29
+4:24,52,Christ Koumadje Defensive Rebound.,26,29
+4:07,52,Dwayne Bacon missed Layup.,26,29
+4:07,52,Jonathan Isaac Offensive Rebound.,26,29
+4:05,52,Jonathan Isaac Turnover.,26,29
+4:05,135,Stephon Sharp Steal.,26,29
+3:55,135,Ahmad Gilbert Turnover.,26,29
+3:55,52,Official TV Timeout,26,29
+3:31,135,Foul on Ahmad Gilbert.,26,29
+3:31,52,Christ Koumadje missed Free Throw.,26,29
+3:31,52,Florida St Deadball Team Rebound.,26,29
+3:31,52,Christ Koumadje missed Free Throw.,26,29
+3:31,135,Bakary Konate Defensive Rebound.,26,29
+3:15,135,Dupree McBrayer missed Jumper.,26,29
+3:15,135,Eric Curry Offensive Rebound.,26,29
+2:56,52,Foul on Trent Forrest.,26,29
+2:56,135,Nate Mason missed Free Throw.,26,29
+2:56,135,Minnesota Deadball Team Rebound.,26,29
+2:56,135,Nate Mason made Free Throw.,27,29
+2:40,52,Phil Cofer missed Three Point Jumper.,27,29
+2:40,135,Bakary Konate Defensive Rebound.,27,29
+2:31,135,Dupree McBrayer made Three Point Jumper. Assisted by Nate Mason.,30,29
+2:22,52,Florida St  Timeout,30,29
+2:15,52,Dwayne Bacon missed Jumper.,30,29
+2:15,135,Minnesota Deadball Team Rebound.,30,29
+2:13,52,Foul on Christ Koumadje.,30,29
+2:13,135,Bakary Konate made Free Throw.,31,29
+2:13,135,Bakary Konate made Free Throw.,32,29
+2:02,52,CJ Walker missed Three Point Jumper.,32,29
+2:02,135,Eric Curry Defensive Rebound.,32,29
+1:39,135,Dupree McBrayer Turnover.,32,29
+1:39,135,Minnesota  Timeout,32,29
+1:22,52,Phil Cofer missed Layup.,32,29
+1:22,135,Bakary Konate Block.,32,29
+1:22,135,Bakary Konate Defensive Rebound.,32,29
+1:16,135,Dupree McBrayer missed Three Point Jumper.,32,29
+1:16,52,Michael Ojo Defensive Rebound.,32,29
+1:08,135,Foul on Nate Mason.,32,29
+1:08,52,CJ Walker made Free Throw.,32,30
+1:08,52,CJ Walker made Free Throw.,32,31
+1:01,135,Nate Mason missed Layup.,32,31
+1:01,135,Minnesota Offensive Rebound.,32,31
+0:50,135,Nate Mason missed Jumper.,32,31
+0:50,135,Nate Mason Offensive Rebound.,32,31
+0:47,135,Jump Ball won by Minnesota,32,31
+0:39,135,Dupree McBrayer missed Jumper.,32,31
+0:39,52,Jonathan Isaac Defensive Rebound.,32,31
+0:14,52,Phil Cofer missed Three Point Jumper.,32,31
+0:14,135,Minnesota Deadball Team Rebound.,32,31
+0:13,52,Foul on Michael Ojo.,32,31
+0:13,135,Ahmad Gilbert missed Free Throw.,32,31
+0:13,135,Minnesota Deadball Team Rebound.,32,31
+0:13,135,Ahmad Gilbert made Free Throw.,33,31
+0:01,52,PJ Savoy missed Three Point Jumper.,33,31
+0:01,135,Eric Curry Defensive Rebound.,33,31
+0:00,52,End of 1st half,33,31
+20:00,52,Jump Ball won by Florida St,33,31
+19:50,52,Dwayne Bacon made Layup.,33,33
+19:26,135,Reggie Lynch missed Jumper.,33,33
+19:26,52,Jonathan Isaac Block.,33,33
+19:26,52,Michael Ojo Defensive Rebound.,33,33
+19:19,52,Xavier Rathan-Mayes made Layup.,33,35
+19:02,135,Nate Mason made Jumper.,35,35
+18:51,135,Foul on Nate Mason.,35,35
+18:49,52,Dwayne Bacon missed Jumper.,35,35
+18:49,52,Michael Ojo Offensive Rebound.,35,35
+18:46,52,Michael Ojo made Dunk.,35,37
+18:21,135,Jordan Murphy Turnover.,35,37
+18:03,135,Foul on Amir Coffey.,35,37
+18:03,52,Michael Ojo missed Free Throw.,35,37
+18:03,52,Florida St Deadball Team Rebound.,35,37
+18:03,52,Michael Ojo made Free Throw.,35,38
+17:47,135,Amir Coffey missed Layup.,35,38
+17:47,135,Jordan Murphy Offensive Rebound.,35,38
+17:43,52,Foul on Michael Ojo.,35,38
+17:43,135,Jordan Murphy missed Free Throw.,35,38
+17:43,135,Minnesota Deadball Team Rebound.,35,38
+17:43,135,Jordan Murphy made Free Throw.,36,38
+17:24,52,Jonathan Isaac made Jumper.,36,40
+16:53,135,Eric Curry missed Jumper.,36,40
+16:53,52,Jonathan Isaac Defensive Rebound.,36,40
+16:43,52,Xavier Rathan-Mayes missed Layup.,36,40
+16:43,135,Jordan Murphy Block.,36,40
+16:43,52,Florida St Offensive Rebound.,36,40
+16:39,52,Dwayne Bacon made Jumper.,36,42
+16:30,135,Eric Curry made Layup. Assisted by Nate Mason.,38,42
+16:04,135,Foul on Amir Coffey.,38,42
+16:04,52,Jarquez Smith missed Free Throw.,38,42
+16:04,52,Florida St Deadball Team Rebound.,38,42
+16:04,52,Jarquez Smith made Free Throw.,38,43
+15:48,135,Jordan Murphy missed Layup.,38,43
+15:48,52,Jonathan Isaac Defensive Rebound.,38,43
+15:46,52,Jonathan Isaac Turnover.,38,43
+15:45,52,Official TV Timeout,38,43
+15:44,52,Foul on Jarquez Smith.,38,43
+15:20,135,Jordan Murphy missed Jumper.,38,43
+15:20,52,Jonathan Isaac Defensive Rebound.,38,43
+15:11,135,Foul on Dupree McBrayer.,38,43
+15:04,52,Dwayne Bacon made Three Point Jumper. Assisted by Terance Mann.,38,46
+14:49,135,Minnesota  Timeout,38,46
+14:41,135,Minnesota  Timeout,38,46
+14:31,135,Reggie Lynch missed Jumper.,38,46
+14:31,52,Jonathan Isaac Block.,38,46
+14:31,52,Terance Mann Defensive Rebound.,38,46
+14:26,52,Xavier Rathan-Mayes missed Three Point Jumper.,38,46
+14:26,52,Dwayne Bacon Offensive Rebound.,38,46
+14:25,135,Foul on Eric Curry.,38,46
+14:15,52,Dwayne Bacon missed Three Point Jumper.,38,46
+14:15,135,Reggie Lynch Defensive Rebound.,38,46
+14:03,52,Foul on Christ Koumadje.,38,46
+14:03,135,Eric Curry missed Free Throw.,38,46
+14:03,135,Minnesota Deadball Team Rebound.,38,46
+14:03,135,Eric Curry made Free Throw.,39,46
+13:49,52,Terance Mann made Layup.,39,48
+13:35,135,Ahmad Gilbert Turnover.,39,48
+13:35,52,Jonathan Isaac Steal.,39,48
+13:30,52,Jonathan Isaac missed Layup.,39,48
+13:30,135,Dupree McBrayer Defensive Rebound.,39,48
+13:22,135,Reggie Lynch missed Jumper.,39,48
+13:22,52,Terance Mann Defensive Rebound.,39,48
+13:13,52,Xavier Rathan-Mayes Turnover.,39,48
+13:00,135,Dupree McBrayer Turnover.,39,48
+12:55,52,Xavier Rathan-Mayes made Layup. Assisted by Dwayne Bacon.,39,50
+12:44,135,Dupree McBrayer missed Jumper.,39,50
+12:44,52,Christ Koumadje Block.,39,50
+12:44,52,Dwayne Bacon Defensive Rebound.,39,50
+12:39,52,Dwayne Bacon made Dunk. Assisted by Christ Koumadje.,39,52
+12:26,135,Nate Mason Turnover.,39,52
+12:22,52,Christ Koumadje missed Layup.,39,52
+12:22,135,Jordan Murphy Defensive Rebound.,39,52
+11:54,135,Akeem Springs made Three Point Jumper. Assisted by Jordan Murphy.,42,52
+11:29,52,Christ Koumadje made Jumper.,42,54
+11:18,135,Akeem Springs missed Three Point Jumper.,42,54
+11:18,135,Minnesota Offensive Rebound.,42,54
+11:16,52,Official TV Timeout,42,54
+11:00,135,Nate Mason made Jumper.,44,54
+10:59,52,Foul on Trent Forrest.,44,54
+10:59,135,Nate Mason missed Free Throw.,44,54
+10:59,52,Terance Mann Defensive Rebound.,44,54
+10:43,52,Xavier Rathan-Mayes made Layup.,44,56
+10:22,135,Akeem Springs missed Dunk.,44,56
+10:22,135,Minnesota Offensive Rebound.,44,56
+10:13,135,Nate Mason missed Layup.,44,56
+10:13,52,Trent Forrest Defensive Rebound.,44,56
+10:05,52,Trent Forrest missed Layup.,44,56
+10:05,135,Bakary Konate Defensive Rebound.,44,56
+9:54,52,Foul on Christ Koumadje.,44,56
+9:54,135,Dupree McBrayer missed Free Throw.,44,56
+9:54,135,Minnesota Deadball Team Rebound.,44,56
+9:54,135,Dupree McBrayer missed Free Throw.,44,56
+9:54,52,Terance Mann Defensive Rebound.,44,56
+9:23,52,Trent Forrest missed Three Point Jumper.,44,56
+9:23,135,Jordan Murphy Defensive Rebound.,44,56
+9:11,135,Ahmad Gilbert made Three Point Jumper. Assisted by Jordan Murphy.,47,56
+8:47,52,Xavier Rathan-Mayes missed Jumper.,47,56
+8:47,135,Jordan Murphy Defensive Rebound.,47,56
+8:41,52,Foul on Xavier Rathan-Mayes.,47,56
+8:39,135,Eric Curry Turnover.,47,56
+8:39,52,Terance Mann Steal.,47,56
+8:33,52,Jonathan Isaac made Dunk. Assisted by Trent Forrest.,47,58
+8:07,52,Foul on Terance Mann.,47,58
+8:07,135,Dupree McBrayer made Free Throw.,48,58
+8:07,135,Dupree McBrayer made Free Throw.,49,58
+7:52,135,Foul on Eric Curry.,49,58
+7:52,52,Official TV Timeout,49,58
+7:52,52,Trent Forrest made Free Throw.,49,59
+7:52,52,Trent Forrest made Free Throw.,49,60
+7:40,135,Eric Curry Turnover.,49,60
+7:30,135,Foul on Nate Mason.,49,60
+7:30,52,Trent Forrest made Free Throw.,49,61
+7:30,52,Trent Forrest missed Free Throw.,49,61
+7:30,135,Jordan Murphy Defensive Rebound.,49,61
+7:13,135,Amir Coffey missed Three Point Jumper.,49,61
+7:13,52,Trent Forrest Defensive Rebound.,49,61
+7:11,135,Foul on Eric Curry.,49,61
+7:11,52,Trent Forrest made Free Throw.,49,62
+7:11,52,Trent Forrest made Free Throw.,49,63
+7:00,135,Bakary Konate made Dunk. Assisted by Jordan Murphy.,51,63
+6:42,52,Jonathan Isaac made Jumper.,51,65
+6:30,135,Dupree McBrayer missed Three Point Jumper.,51,65
+6:30,52,Jonathan Isaac Defensive Rebound.,51,65
+6:22,135,Foul on Nate Mason.,51,65
+6:22,52,Dwayne Bacon made Free Throw.,51,66
+6:22,52,Dwayne Bacon made Free Throw.,51,67
+6:10,135,Jordan Murphy missed Layup.,51,67
+6:10,135,Minnesota Deadball Team Rebound.,51,67
+6:09,52,Foul on Jonathan Isaac.,51,67
+6:09,135,Bakary Konate missed Free Throw.,51,67
+6:09,52,Jonathan Isaac Defensive Rebound.,51,67
+6:00,52,Trent Forrest missed Layup.,51,67
+6:00,52,Michael Ojo Offensive Rebound.,51,67
+5:41,52,CJ Walker missed Jumper.,51,67
+5:41,52,Michael Ojo Offensive Rebound.,51,67
+5:38,135,Foul on Jordan Murphy.,51,67
+5:38,52,Michael Ojo made Free Throw.,51,68
+5:38,52,Michael Ojo made Free Throw.,51,69
+5:27,135,Jordan Murphy missed Layup.,51,69
+5:27,135,Bakary Konate Offensive Rebound.,51,69
+5:24,135,Jordan Murphy missed Dunk.,51,69
+5:24,52,Jonathan Isaac Defensive Rebound.,51,69
+5:09,135,Foul on Jordan Murphy.,51,69
+5:09,52,Jonathan Isaac made Free Throw.,51,70
+5:09,52,Jonathan Isaac missed Free Throw.,51,70
+5:09,135,Eric Curry Defensive Rebound.,51,70
+4:58,52,Foul on CJ Walker.,51,70
+4:58,135,Reggie Lynch missed Free Throw.,51,70
+4:58,135,Minnesota Deadball Team Rebound.,51,70
+4:58,135,Reggie Lynch missed Free Throw.,51,70
+4:58,52,Terance Mann Defensive Rebound.,51,70
+4:26,52,Michael Ojo Turnover.,51,70
+4:12,135,Amir Coffey missed Jumper.,51,70
+4:12,135,Amir Coffey Offensive Rebound.,51,70
+4:09,135,Amir Coffey made Layup.,53,70
+3:52,52,Dwayne Bacon made Jumper.,53,72
+3:41,52,Foul on Michael Ojo.,53,72
+3:41,52,Official TV Timeout,53,72
+3:41,135,Reggie Lynch made Free Throw.,54,72
+3:41,135,Reggie Lynch made Free Throw.,55,72
+3:20,52,Xavier Rathan-Mayes Turnover.,55,72
+3:20,135,Akeem Springs Steal.,55,72
+3:15,135,Akeem Springs Turnover.,55,72
+3:15,52,Terance Mann Steal.,55,72
+3:09,52,Terance Mann Turnover.,55,72
+3:09,135,Eric Curry Steal.,55,72
+3:02,135,Reggie Lynch made Layup.,57,72
+2:34,52,Terance Mann missed Three Point Jumper.,57,72
+2:34,135,Akeem Springs Defensive Rebound.,57,72
+2:26,135,Nate Mason missed Jumper.,57,72
+2:26,52,Jonathan Isaac Defensive Rebound.,57,72
+1:54,52,Xavier Rathan-Mayes missed Three Point Jumper.,57,72
+1:54,135,Eric Curry Defensive Rebound.,57,72
+1:43,135,Akeem Springs made Layup.,59,72
+1:42,135,Minnesota  Timeout,59,72
+1:38,52,Dwayne Bacon Turnover.,59,72
+1:33,135,Amir Coffey missed Three Point Jumper.,59,72
+1:33,135,Eric Curry Offensive Rebound.,59,72
+1:28,135,Eric Curry missed Layup.,59,72
+1:28,135,Reggie Lynch Offensive Rebound.,59,72
+1:28,135,Reggie Lynch made Two Point Tip Shot.,61,72
+0:48,52,Jonathan Isaac missed Three Point Jumper.,61,72
+0:48,135,Reggie Lynch Defensive Rebound.,61,72
+0:39,135,Reggie Lynch missed Dunk.,61,72
+0:39,135,Amir Coffey Offensive Rebound.,61,72
+0:39,135,Amir Coffey made Two Point Tip Shot.,63,72
+0:30,135,Foul on Akeem Springs.,63,72
+0:30,52,Jonathan Isaac missed Free Throw.,63,72
+0:30,52,Florida St Deadball Team Rebound.,63,72
+0:30,52,Jonathan Isaac made Free Throw.,63,73
+0:19,135,Akeem Springs made Three Point Jumper. Assisted by Nate Mason.,66,73
+0:16,135,Foul on Akeem Springs.,66,73
+0:16,52,Dwayne Bacon missed Free Throw.,66,73
+0:16,52,Florida St Deadball Team Rebound.,66,73
+0:16,52,Dwayne Bacon made Free Throw.,66,74
+0:12,135,Nate Mason missed Three Point Jumper.,66,74
+0:12,135,Reggie Lynch Offensive Rebound.,66,74
+0:08,52,Foul on Jonathan Isaac.,66,74
+0:08,135,Reggie Lynch missed Free Throw.,66,74
+0:08,135,Minnesota Deadball Team Rebound.,66,74
+0:08,135,Reggie Lynch made Free Throw.,67,74
+0:08,135,Foul on Nate Mason.,67,74
+0:08,52,Xavier Rathan-Mayes missed Free Throw.,67,74
+0:08,52,Florida St Deadball Team Rebound.,67,74
+0:08,52,Xavier Rathan-Mayes made Free Throw.,67,75
+0:03,135,Ahmad Gilbert missed Three Point Jumper.,67,75
+0:03,52,Xavier Rathan-Mayes Defensive Rebound.,67,75
+0:00,52,End of Game,67,75

@@ -1,0 +1,356 @@
+George Washington,108,Harvard,45
+time,team_id,description,h_score,a_score
+19:40,108,Henry Welsh made Jumper.,0,2
+19:22,45,Arnaldo Toro Turnover.,0,2
+19:22,45,Foul on Arnaldo Toro.,0,2
+19:07,108,Seth Towns made Jumper. Assisted by Siyani Chambers.,0,4
+18:47,108,Foul on Chris Lewis.,0,4
+18:33,45,Tyler Cavanaugh Turnover.,0,4
+18:31,108,Seth Towns Steal.,0,4
+18:21,108,Seth Towns Turnover.,0,4
+18:06,45,Tyler Cavanaugh made Layup.,2,4
+17:52,108,Justin Bassey missed Three Point Jumper.,2,4
+17:52,45,Collin Smith Defensive Rebound.,2,4
+17:37,45,Arnaldo Toro missed Layup.,2,4
+17:37,45,Collin Smith Offensive Rebound.,2,4
+17:14,45,Jordan Roland missed Jumper.,2,4
+17:14,108,Seth Towns Defensive Rebound.,2,4
+16:55,108,Henry Welsh Turnover.,2,4
+16:32,45,Arnaldo Toro made Three Point Jumper. Assisted by Jordan Roland.,5,4
+16:17,108,Siyani Chambers Turnover.,5,4
+16:16,45,Arnaldo Toro Steal.,5,4
+15:56,45,Tyler Cavanaugh missed Layup.,5,4
+15:56,108,Harvard Defensive Rebound.,5,4
+15:53,108,Official TV Timeout,5,4
+15:45,108,Seth Towns Turnover.,5,4
+15:21,45,Collin Smith missed Layup.,5,4
+15:17,45,Collin Smith Offensive Rebound.,5,4
+15:15,45,Collin Smith missed Layup.,5,4
+15:15,108,Zena Edosomwan Block.,5,4
+15:13,108,Seth Towns Defensive Rebound.,5,4
+15:11,108,Siyani Chambers made Three Point Jumper.,5,7
+14:54,45,Arnaldo Toro Turnover.,5,7
+14:52,108,Zena Edosomwan Steal.,5,7
+14:44,45,Foul on Collin Smith.,5,7
+14:44,108,Zena Edosomwan made Free Throw.,5,8
+14:44,108,Zena Edosomwan made Free Throw.,5,9
+14:31,45,Tyler Cavanaugh Turnover.,5,9
+14:29,108,Robert Baker Steal.,5,9
+14:13,108,Seth Towns Turnover.,5,9
+14:12,45,Tyler Cavanaugh Steal.,5,9
+14:10,45,Tyler Cavanaugh made Layup.,7,9
+14:10,108,Harvard  Timeout,7,9
+13:53,45,Foul on Tyler Cavanaugh.,7,9
+13:53,108,Seth Towns made Free Throw.,7,10
+13:53,108,Seth Towns made Free Throw.,7,11
+13:53,108,Seth Towns missed Free Throw.,7,11
+13:53,45,Collin Goss Defensive Rebound.,7,11
+13:34,45,Collin Goss missed Jumper.,7,11
+13:34,108,Zena Edosomwan Defensive Rebound.,7,11
+13:26,45,Foul on Collin Goss.,7,11
+13:26,108,Zena Edosomwan made Free Throw.,7,12
+13:26,108,Zena Edosomwan made Free Throw.,7,13
+13:06,108,Foul on Bryce Aiken.,7,13
+13:03,108,Foul on Robert Baker.,7,13
+13:00,108,Foul on Justin Bassey.,7,13
+12:53,45,Tyler Cavanaugh missed Layup.,7,13
+12:53,108,Harvard Defensive Rebound.,7,13
+12:29,108,Bryce Aiken missed Three Point Jumper.,7,13
+12:29,45,Tyler Cavanaugh Defensive Rebound.,7,13
+12:02,45,Jair Bolden Turnover.,7,13
+12:01,108,Zena Edosomwan Steal.,7,13
+11:50,108,Corey Johnson missed Three Point Jumper.,7,13
+11:50,45,Patrick Steeves Defensive Rebound.,7,13
+11:26,45,Collin Smith made Layup.,9,13
+11:08,108,Bryce Aiken missed Three Point Jumper.,9,13
+11:08,108,Chris Egi Offensive Rebound.,9,13
+11:00,108,Zena Edosomwan missed Layup.,9,13
+11:00,45,Collin Smith Block.,9,13
+10:57,45,Kevin Marfo Defensive Rebound.,9,13
+10:50,45,Patrick Steeves missed Layup.,9,13
+10:50,45,Kevin Marfo Offensive Rebound.,9,13
+10:47,45,Kevin Marfo made Dunk.,11,13
+10:35,45,Foul on Collin Smith.,11,13
+10:35,108,Official TV Timeout,11,13
+10:32,108,Chris Lewis made Layup. Assisted by Justin Bassey.,11,15
+10:16,45,Matt Hart missed Jumper.,11,15
+10:16,108,Corey Johnson Defensive Rebound.,11,15
+9:45,108,Justin Bassey missed Layup.,11,15
+9:45,45,Tyler Cavanaugh Block.,11,15
+9:42,45,Tyler Cavanaugh Defensive Rebound.,11,15
+9:29,45,Jair Bolden Turnover.,11,15
+9:28,108,Tommy McCarthy Steal.,11,15
+9:22,108,Tommy McCarthy Turnover.,11,15
+9:21,45,Matt Hart Steal.,11,15
+9:05,45,Tyler Cavanaugh missed Layup.,11,15
+9:05,45,Kevin Marfo Offensive Rebound.,11,15
+8:52,45,Arnaldo Toro missed Three Point Jumper.,11,15
+8:52,108,Chris Lewis Defensive Rebound.,11,15
+8:30,108,Chris Lewis Turnover.,11,15
+8:29,45,Matt Hart Steal.,11,15
+8:23,45,Jair Bolden missed Jumper.,11,15
+8:23,45,Tyler Cavanaugh Offensive Rebound.,11,15
+8:20,45,Tyler Cavanaugh missed Layup.,11,15
+8:20,108,Chris Lewis Block.,11,15
+8:18,45,Tyler Cavanaugh Offensive Rebound.,11,15
+8:15,45,Tyler Cavanaugh made Layup.,13,15
+8:00,45,Foul on Kevin Marfo.,13,15
+8:00,108,Chris Lewis made Free Throw.,13,16
+8:00,108,Chris Lewis missed Free Throw.,13,16
+8:00,45,Arnaldo Toro Defensive Rebound.,13,16
+7:50,45,Tyler Cavanaugh missed Jumper.,13,16
+7:50,108,Henry Welsh Defensive Rebound.,13,16
+7:38,108,Seth Towns Turnover.,13,16
+7:38,108,Official TV Timeout,13,16
+7:29,45,Jair Bolden Turnover.,13,16
+7:27,108,Siyani Chambers Steal.,13,16
+7:25,108,Siyani Chambers missed Layup.,13,16
+7:25,45,Jordan Roland Defensive Rebound.,13,16
+7:01,45,Jordan Roland Turnover.,13,16
+7:00,108,Siyani Chambers Steal.,13,16
+6:56,108,Bryce Aiken made Layup. Assisted by Siyani Chambers.,13,18
+6:52,45,George Washington  Timeout,13,18
+6:41,45,Arnaldo Toro made Layup.,15,18
+6:41,108,Foul on Henry Welsh.,15,18
+6:41,45,Arnaldo Toro made Free Throw.,16,18
+6:31,108,Chris Lewis made Layup. Assisted by Seth Towns.,16,20
+6:02,45,Collin Goss made Layup.,18,20
+5:49,108,Chris Lewis made Dunk. Assisted by Seth Towns.,18,22
+5:49,45,Foul on Collin Goss.,18,22
+5:49,108,Chris Lewis missed Free Throw.,18,22
+5:49,45,Jordan Roland Defensive Rebound.,18,22
+5:26,45,Collin Goss made Jumper. Assisted by Arnaldo Toro.,20,22
+5:08,108,Henry Welsh missed Jumper.,20,22
+5:08,108,Chris Lewis Offensive Rebound.,20,22
+5:05,108,Chris Lewis missed Layup.,20,22
+5:05,108,Bryce Aiken Offensive Rebound.,20,22
+5:03,108,Bryce Aiken missed Layup.,20,22
+5:03,45,Arnaldo Toro Defensive Rebound.,20,22
+4:47,108,Foul on Seth Towns.,20,22
+4:47,45,Tyler Cavanaugh made Free Throw.,21,22
+4:47,45,Tyler Cavanaugh made Free Throw.,22,22
+4:38,108,Seth Towns made Three Point Jumper. Assisted by Bryce Aiken.,22,25
+4:20,45,Jaren Sina made Jumper. Assisted by Arnaldo Toro.,24,25
+4:12,108,Seth Towns missed Layup.,24,25
+4:12,108,Robert Baker Offensive Rebound.,24,25
+4:09,108,Robert Baker missed Jumper.,24,25
+4:09,45,Arnaldo Toro Defensive Rebound.,24,25
+4:01,108,Foul on Robert Baker.,24,25
+4:01,45,Kevin Marfo made Free Throw.,25,25
+4:01,45,Kevin Marfo made Free Throw.,26,25
+3:46,108,Seth Towns made Layup. Assisted by Siyani Chambers.,26,27
+3:29,45,Jordan Roland missed Layup.,26,27
+3:29,108,Zena Edosomwan Block.,26,27
+3:29,45,George Washington Offensive Rebound.,26,27
+3:29,108,Official TV Timeout,26,27
+3:12,45,Tyler Cavanaugh made Three Point Jumper.,29,27
+3:05,45,Foul on Tyler Cavanaugh.,29,27
+3:05,108,Seth Towns made Free Throw.,29,28
+3:05,108,Seth Towns made Free Throw.,29,29
+2:53,45,Jaren Sina Turnover.,29,29
+2:52,108,Seth Towns Steal.,29,29
+2:50,45,Foul on Patrick Steeves.,29,29
+2:50,108,Seth Towns made Free Throw.,29,30
+2:50,108,Seth Towns made Free Throw.,29,31
+2:40,45,Jaren Sina missed Three Point Jumper.,29,31
+2:40,45,Arnaldo Toro Offensive Rebound.,29,31
+2:35,45,Matt Hart made Three Point Jumper. Assisted by Jaren Sina.,32,31
+2:21,108,Bryce Aiken Turnover.,32,31
+2:05,108,Foul on Chris Egi.,32,31
+2:05,45,Kevin Marfo made Free Throw.,33,31
+2:05,45,Kevin Marfo made Free Throw.,34,31
+1:31,108,Bryce Aiken missed Three Point Jumper.,34,31
+1:31,45,Patrick Steeves Defensive Rebound.,34,31
+1:13,45,Kevin Marfo missed Layup.,34,31
+1:12,108,Zena Edosomwan Block.,34,31
+1:11,45,Kevin Marfo missed Free Throw.,35,31
+1:11,45,Kevin Marfo Offensive Rebound.,34,31
+1:11,108,Foul on Zena Edosomwan.,34,31
+1:11,45,Kevin Marfo made Free Throw.,35,31
+1:11,108,Zena Edosomwan Defensive Rebound.,35,31
+0:48,108,Zena Edosomwan Turnover.,35,31
+0:47,45,Jaren Sina Steal.,35,31
+0:34,45,Kevin Marfo made Layup. Assisted by Patrick Steeves.,37,31
+0:02,108,Seth Towns missed Three Point Jumper.,37,31
+0:02,108,Bryce Aiken Offensive Rebound.,37,31
+0:02,45,Foul on Matt Hart.,37,31
+0:02,108,Bryce Aiken made Free Throw.,37,32
+0:02,108,Bryce Aiken made Free Throw.,37,33
+0:00,108,End of 1st half,37,33
+19:47,45,Tyler Cavanaugh made Jumper. Assisted by Jordan Roland.,39,33
+19:29,108,Seth Towns missed Jumper.,39,33
+19:29,45,Jaren Sina Defensive Rebound.,39,33
+19:27,108,Foul on Siyani Chambers.,39,33
+19:13,45,Arnaldo Toro Turnover.,39,33
+19:01,108,Justin Bassey Turnover.,39,33
+18:53,45,Jaren Sina made Jumper.,41,33
+18:33,108,Siyani Chambers missed Three Point Jumper.,41,33
+18:33,45,Tyler Cavanaugh Defensive Rebound.,41,33
+18:22,45,Jaren Sina missed Layup.,41,33
+18:22,108,Chris Lewis Defensive Rebound.,41,33
+18:10,108,Seth Towns Turnover.,41,33
+17:54,45,Jaren Sina made Three Point Jumper. Assisted by Jordan Roland.,44,33
+17:29,108,Henry Welsh Turnover.,44,33
+17:28,45,Jaren Sina Steal.,44,33
+17:22,45,Jordan Roland missed Three Point Jumper.,44,33
+17:22,45,Arnaldo Toro Offensive Rebound.,44,33
+17:17,45,Arnaldo Toro missed Layup.,44,33
+17:17,108,Chris Lewis Block.,44,33
+17:15,45,Jordan Roland Offensive Rebound.,44,33
+17:13,45,Jordan Roland made Layup.,46,33
+16:59,108,Seth Towns made Jumper. Assisted by Siyani Chambers.,46,35
+16:46,45,Tyler Cavanaugh missed Three Point Jumper.,46,35
+16:46,45,Arnaldo Toro Offensive Rebound.,46,35
+16:43,45,Arnaldo Toro made Layup.,48,35
+16:42,108,Harvard  Timeout,48,35
+16:31,108,Bryce Aiken Turnover.,48,35
+16:29,45,Jordan Roland Steal.,48,35
+16:12,45,Jaren Sina Turnover.,48,35
+16:12,108,Bryce Aiken Steal.,48,35
+15:56,108,Bryce Aiken missed Three Point Jumper.,48,35
+15:56,45,Tyler Cavanaugh Defensive Rebound.,48,35
+15:36,108,Foul on Robert Baker.,48,35
+15:36,108,Official TV Timeout,48,35
+15:23,45,Arnaldo Toro missed Layup.,48,35
+15:23,45,Arnaldo Toro Offensive Rebound.,48,35
+15:22,108,Foul on Zena Edosomwan.,48,35
+15:22,45,Arnaldo Toro missed Free Throw.,48,35
+15:22,45,George Washington Deadball Team Rebound.,48,35
+15:22,45,Arnaldo Toro missed Free Throw.,48,35
+15:22,108,Bryce Aiken Defensive Rebound.,48,35
+15:07,108,Seth Towns missed Jumper.,48,35
+15:07,108,Robert Baker Offensive Rebound.,48,35
+14:48,108,Robert Baker missed Three Point Jumper.,48,35
+14:48,45,Jaren Sina Defensive Rebound.,48,35
+14:47,108,Foul on Seth Towns.,48,35
+14:20,108,Foul on Corey Johnson.,48,35
+14:12,45,Tyler Cavanaugh Turnover.,48,35
+14:11,108,Corey Johnson Steal.,48,35
+14:05,108,Bryce Aiken missed Layup.,48,35
+14:05,108,Zena Edosomwan Offensive Rebound.,48,35
+14:02,108,Zena Edosomwan missed Layup.,48,35
+14:02,108,Robert Baker Offensive Rebound.,48,35
+13:58,108,Zena Edosomwan made Dunk. Assisted by Bryce Aiken.,48,37
+13:32,45,Tyler Cavanaugh missed Layup.,48,37
+13:32,108,Zena Edosomwan Block.,48,37
+13:30,108,Seth Towns Defensive Rebound.,48,37
+13:22,108,Seth Towns Turnover.,48,37
+13:06,45,Matt Hart made Jumper. Assisted by Tyler Cavanaugh.,50,37
+12:52,108,Seth Towns missed Jumper.,50,37
+12:52,45,Tyler Cavanaugh Block.,50,37
+12:52,45,Matt Hart Defensive Rebound.,50,37
+12:52,108,Foul on Seth Towns.,50,37
+12:30,45,Kevin Marfo Turnover.,50,37
+12:09,45,Foul on Matt Hart.,50,37
+12:01,45,Foul on Collin Goss.,50,37
+11:55,108,Bryce Aiken Turnover.,50,37
+11:54,45,Kevin Marfo Steal.,50,37
+11:27,45,Collin Goss Turnover.,50,37
+11:27,108,Official TV Timeout,50,37
+11:13,108,Corey Johnson made Three Point Jumper. Assisted by Siyani Chambers.,50,40
+10:52,108,Foul on Siyani Chambers.,50,40
+10:52,45,Kevin Marfo missed Free Throw.,50,40
+10:52,45,George Washington Deadball Team Rebound.,50,40
+10:52,45,Kevin Marfo missed Free Throw.,50,40
+10:52,108,Zena Edosomwan Defensive Rebound.,50,40
+10:45,108,Siyani Chambers missed Three Point Jumper.,50,40
+10:45,45,Jair Bolden Defensive Rebound.,50,40
+10:17,45,Kevin Marfo missed Layup.,50,40
+10:17,108,Robert Baker Block.,50,40
+10:15,108,Zena Edosomwan Defensive Rebound.,50,40
+10:01,108,Robert Baker made Jumper. Assisted by Bryce Aiken.,50,42
+9:41,45,Jordan Roland made Three Point Jumper. Assisted by Tyler Cavanaugh.,53,42
+9:41,108,Foul on Bryce Aiken.,53,42
+9:40,45,Jordan Roland made Free Throw.,54,42
+9:21,108,Zena Edosomwan made Layup. Assisted by Siyani Chambers.,54,44
+8:59,45,Tyler Cavanaugh Turnover.,54,44
+8:59,45,Foul on Tyler Cavanaugh.,54,44
+8:48,108,Corey Johnson made Three Point Jumper.,54,47
+8:41,45,George Washington  Timeout,54,47
+8:29,45,Tyler Cavanaugh made Layup.,56,47
+8:08,108,Bryce Aiken made Three Point Jumper. Assisted by Siyani Chambers.,56,50
+7:49,45,Jordan Roland made Jumper. Assisted by Tyler Cavanaugh.,58,50
+7:27,108,Seth Towns missed Jumper.,58,50
+7:27,45,Collin Smith Defensive Rebound.,58,50
+7:03,45,Tyler Cavanaugh missed Three Point Jumper.,58,50
+7:03,45,George Washington Offensive Rebound.,58,50
+6:59,108,Official TV Timeout,58,50
+6:43,45,Collin Smith missed Jumper.,58,50
+6:43,108,Zena Edosomwan Defensive Rebound.,58,50
+6:34,108,Corey Johnson made Three Point Jumper. Assisted by Siyani Chambers.,58,53
+6:15,108,Foul on Seth Towns.,58,53
+6:15,45,Arnaldo Toro missed Free Throw.,58,53
+6:15,108,Robert Baker Defensive Rebound.,58,53
+6:08,108,Siyani Chambers made Layup.,58,55
+5:48,45,Collin Smith missed Layup.,58,55
+5:48,108,Henry Welsh Defensive Rebound.,58,55
+5:37,108,Robert Baker made Layup. Assisted by Bryce Aiken.,58,57
+5:22,108,Foul on Corey Johnson.,58,57
+5:22,45,Jaren Sina made Free Throw.,59,57
+5:22,45,Jaren Sina made Free Throw.,60,57
+5:11,108,Bryce Aiken made Three Point Jumper.,60,60
+4:46,45,Collin Goss missed Layup.,60,60
+4:46,45,Tyler Cavanaugh Offensive Rebound.,60,60
+4:45,108,Foul on Corey Johnson.,60,60
+4:45,45,Tyler Cavanaugh missed Free Throw.,60,60
+4:45,45,George Washington Deadball Team Rebound.,60,60
+4:45,45,Tyler Cavanaugh made Free Throw.,61,60
+4:34,108,Robert Baker missed Three Point Jumper.,61,60
+4:34,45,Collin Smith Defensive Rebound.,61,60
+4:15,45,Collin Smith missed Jumper.,61,60
+4:15,108,Bryce Aiken Defensive Rebound.,61,60
+3:52,45,Foul on Jordan Roland.,61,60
+3:52,108,Official TV Timeout,61,60
+3:38,108,Bryce Aiken missed Jumper.,61,60
+3:38,45,Collin Goss Defensive Rebound.,61,60
+3:36,108,Foul on Henry Welsh.,61,60
+3:36,45,Collin Goss made Free Throw.,62,60
+3:36,45,Collin Goss missed Free Throw.,62,60
+3:36,108,Seth Towns Defensive Rebound.,62,60
+3:19,45,Foul on Jordan Roland.,62,60
+3:01,108,Henry Welsh missed Layup.,62,60
+3:01,45,Jordan Roland Defensive Rebound.,62,60
+2:39,45,Tyler Cavanaugh made Layup.,64,60
+2:21,108,Corey Johnson missed Three Point Jumper.,64,60
+2:21,108,Siyani Chambers Offensive Rebound.,64,60
+2:13,45,Foul on Collin Smith.,64,60
+1:55,108,Siyani Chambers missed Layup.,64,60
+1:55,45,Arnaldo Toro Defensive Rebound.,64,60
+1:29,108,Foul on Corey Johnson.,64,60
+1:29,45,Jaren Sina made Free Throw.,65,60
+1:29,45,Jaren Sina made Free Throw.,66,60
+1:10,108,Bryce Aiken missed Three Point Jumper.,66,60
+1:10,45,Arnaldo Toro Defensive Rebound.,66,60
+1:07,45,Arnaldo Toro Turnover.,66,60
+1:07,108,Corey Johnson Steal.,66,60
+1:06,45,Foul on Arnaldo Toro.,66,60
+1:06,108,Corey Johnson missed Free Throw.,66,60
+1:06,45,Arnaldo Toro Defensive Rebound.,66,60
+0:58,108,Foul on Bryce Aiken.,66,60
+0:58,45,Jaren Sina made Free Throw.,67,60
+0:58,45,Jaren Sina made Free Throw.,68,60
+0:52,108,Bryce Aiken made Layup.,68,62
+0:52,108,Harvard  Timeout,68,62
+0:42,108,Foul on Siyani Chambers.,68,62
+0:42,45,Tyler Cavanaugh made Free Throw.,69,62
+0:42,45,Tyler Cavanaugh made Free Throw.,70,62
+0:34,108,Corey Johnson made Three Point Jumper. Assisted by Bryce Aiken.,70,65
+0:34,108,Harvard  Timeout,70,65
+0:25,108,Foul on Justin Bassey.,70,65
+0:25,45,Jaren Sina made Free Throw.,71,65
+0:25,45,Jaren Sina made Free Throw.,72,65
+0:22,108,Seth Towns made Jumper. Assisted by Bryce Aiken.,72,67
+0:18,108,Foul on Corey Johnson.,72,67
+0:18,45,Jaren Sina made Free Throw.,73,67
+0:18,45,Jaren Sina made Free Throw.,74,67
+0:14,108,Bryce Aiken made Three Point Jumper.,74,70
+0:11,108,Foul on Bryce Aiken.,74,70
+0:11,45,Collin Smith made Free Throw.,75,70
+0:11,45,Collin Smith missed Free Throw.,75,70
+0:11,108,Seth Towns Defensive Rebound.,75,70
+0:05,108,Siyani Chambers made Layup.,75,72
+0:04,108,Foul on Siyani Chambers.,75,72
+0:04,45,Jaren Sina made Free Throw.,76,72
+0:04,45,Jaren Sina made Free Throw.,77,72
+0:00,108,Bryce Aiken made Layup.,77,74
+0:00,108,End of Game,77,74

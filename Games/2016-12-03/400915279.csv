@@ -1,0 +1,314 @@
+Dartmouth,103,Boston College,159
+time,team_id,description,h_score,a_score
+19:48,159,Foul on Mike Fleming.,0,0
+19:43,103,Mo Jeffers made Layup. Assisted by Connar Tava.,0,2
+19:18,159,Miles Wright made Jumper.,2,2
+19:01,103,A.J. Turner made Jumper. Assisted by Connar Tava.,2,4
+18:26,159,Mike Fleming missed Three Point Jumper.,2,4
+18:26,103,Connar Tava Defensive Rebound.,2,4
+18:11,103,A.J. Turner missed Layup.,2,4
+18:11,159,Ike Ngwundo Block.,2,4
+18:09,103,Boston College Offensive Rebound.,2,4
+18:07,103,Jerome Robinson made Layup. Assisted by A.J. Turner.,2,6
+17:48,159,Ike Ngwundo missed Layup.,2,6
+17:48,103,Connar Tava Block.,2,6
+17:47,103,Ky Bowman Defensive Rebound.,2,6
+17:42,103,Ky Bowman missed Layup.,2,6
+17:42,159,Ike Ngwundo Block.,2,6
+17:39,103,Ky Bowman Offensive Rebound.,2,6
+17:29,103,Jerome Robinson made Jumper.,2,8
+17:12,159,Wesley Dickinson made Layup. Assisted by Miles Wright.,4,8
+16:49,103,Jerome Robinson missed Jumper.,4,8
+16:49,103,Jerome Robinson Offensive Rebound.,4,8
+16:44,103,A.J. Turner made Three Point Jumper. Assisted by Jerome Robinson.,4,11
+16:14,159,Wesley Dickinson missed Layup.,4,11
+16:14,159,Dartmouth Offensive Rebound.,4,11
+16:09,159,Mike Fleming missed Three Point Jumper.,4,11
+16:09,103,Jerome Robinson Defensive Rebound.,4,11
+16:01,103,A.J. Turner missed Jumper.,4,11
+16:01,159,Evan Boudreaux Defensive Rebound.,4,11
+15:42,159,Evan Boudreaux missed Layup.,4,11
+15:42,103,Connar Tava Defensive Rebound.,4,11
+15:36,103,A.J. Turner Turnover.,4,11
+15:34,159,Ian Sistare Steal.,4,11
+15:19,159,Miles Wright made Three Point Jumper. Assisted by Mike Fleming.,7,11
+14:48,103,Jerome Robinson missed Jumper.,7,11
+14:48,159,Miles Wright Defensive Rebound.,7,11
+14:40,103,Foul on Ky Bowman.,7,11
+14:40,159,Dartmouth  Timeout,7,11
+14:31,159,Miles Wright made Three Point Jumper. Assisted by Ian Sistare.,10,11
+14:12,103,Connar Tava missed Three Point Jumper.,10,11
+14:12,159,Evan Boudreaux Defensive Rebound.,10,11
+13:53,159,Wesley Dickinson missed Layup.,10,11
+13:53,103,Johncarlos Reyes Block.,10,11
+13:52,103,Jordan Chatman Defensive Rebound.,10,11
+13:48,159,Foul on Ian Sistare.,10,11
+13:41,103,Jerome Robinson made Layup.,10,13
+13:41,159,Foul on Ian Sistare.,10,13
+13:41,103,Jerome Robinson made Free Throw.,10,14
+13:29,103,Foul on Connar Tava.,10,14
+13:27,159,Evan Boudreaux missed Three Point Jumper.,10,14
+13:27,103,Boston College Defensive Rebound.,10,14
+13:06,103,Jerome Robinson made Three Point Jumper. Assisted by A.J. Turner.,10,17
+12:45,159,Guilien Smith made Three Point Jumper. Assisted by Mike Fleming.,13,17
+12:30,103,Jerome Robinson Turnover.,13,17
+12:30,103,Foul on Jerome Robinson.,13,17
+12:21,159,Dartmouth  Turnover.,13,17
+12:10,103,Jordan Chatman missed Layup.,13,17
+12:10,159,Evan Boudreaux Defensive Rebound.,13,17
+12:02,159,Evan Boudreaux made Layup.,15,17
+12:01,103,Foul on Mo Jeffers.,15,17
+12:01,159,Evan Boudreaux made Free Throw.,16,17
+11:48,103,Jordan Chatman missed Jumper.,16,17
+11:48,159,Miles Wright Defensive Rebound.,16,17
+11:39,159,Ike Ngwundo missed Jumper.,16,17
+11:39,103,Ty Graves Defensive Rebound.,16,17
+11:29,103,Boston College  Timeout,16,17
+11:28,103,Jerome Robinson missed Three Point Jumper.,16,17
+11:28,159,Dartmouth Defensive Rebound.,16,17
+10:51,159,Dartmouth  Turnover.,16,17
+10:36,103,Mo Jeffers Turnover.,16,17
+10:35,103,Foul on Mo Jeffers.,16,17
+10:13,159,Guilien Smith Turnover.,16,17
+10:00,103,Jerome Robinson made Three Point Jumper. Assisted by A.J. Turner.,16,20
+9:41,159,Evan Boudreaux missed Jumper.,16,20
+9:41,103,Ky Bowman Defensive Rebound.,16,20
+9:17,103,Jerome Robinson missed Three Point Jumper.,16,20
+9:17,159,Taylor Johnson Defensive Rebound.,16,20
+8:53,103,Foul on Jerome Robinson.,16,20
+8:53,159,Guilien Smith made Free Throw.,17,20
+8:53,159,Guilien Smith missed Free Throw.,17,20
+8:53,103,Connar Tava Defensive Rebound.,17,20
+8:44,103,Jordan Chatman made Jumper. Assisted by A.J. Turner.,17,22
+8:19,159,Evan Boudreaux Turnover.,17,22
+8:16,103,Jordan Chatman Steal.,17,22
+8:14,159,Foul on Ian Carter.,17,22
+8:14,159,Dartmouth  Timeout,17,22
+8:04,159,Foul on Wesley Dickinson.,17,22
+7:49,103,Connar Tava Turnover.,17,22
+7:37,159,Evan Boudreaux Turnover.,17,22
+7:23,103,Ty Graves made Layup.,17,24
+6:59,159,Cameron Smith Turnover.,17,24
+6:58,103,Mike Sagay Steal.,17,24
+6:54,103,Mike Sagay made Layup.,17,26
+6:30,159,Evan Boudreaux missed Layup.,17,26
+6:30,159,Wesley Dickinson Offensive Rebound.,17,26
+6:27,159,Wesley Dickinson made Layup.,19,26
+6:09,103,Mike Sagay made Three Point Jumper. Assisted by Johncarlos Reyes.,19,29
+5:54,159,Miles Wright Turnover.,19,29
+5:42,103,Ty Graves made Three Point Jumper. Assisted by Ty Graves.,19,32
+5:29,159,Evan Boudreaux made Three Point Jumper. Assisted by Mike Fleming.,22,32
+5:13,103,Mike Sagay Turnover.,22,32
+5:12,159,Evan Boudreaux Steal.,22,32
+5:07,159,Miles Wright missed Three Point Jumper.,22,32
+5:07,159,Evan Boudreaux Offensive Rebound.,22,32
+4:36,159,Mike Fleming missed Three Point Jumper.,22,32
+4:36,103,Connar Tava Defensive Rebound.,22,32
+4:21,103,Jerome Robinson made Layup. Assisted by Connar Tava.,22,34
+4:02,159,Evan Boudreaux made Three Point Jumper. Assisted by Mike Fleming.,25,34
+3:45,103,Mike Sagay missed Layup.,25,34
+3:45,103,Boston College Offensive Rebound.,25,34
+3:45,159,Foul on Cameron Smith.,25,34
+3:45,103,Boston College  Timeout,25,34
+3:25,103,Ty Graves Turnover.,25,34
+3:24,103,Foul on Ty Graves.,25,34
+3:06,159,Evan Boudreaux made Layup.,27,34
+2:46,103,Ty Graves made Three Point Jumper. Assisted by Jordan Chatman.,27,37
+2:28,103,Foul on Johncarlos Reyes.,27,37
+2:28,159,Evan Boudreaux made Free Throw.,28,37
+2:28,159,Evan Boudreaux made Free Throw.,29,37
+2:18,103,Connar Tava missed Layup.,29,37
+2:18,159,Guilien Smith Defensive Rebound.,29,37
+2:08,159,Brendan Barry missed Three Point Jumper.,29,37
+2:08,159,Miles Wright Offensive Rebound.,29,37
+2:03,159,Miles Wright missed Jumper.,29,37
+2:03,103,Jordan Chatman Defensive Rebound.,29,37
+1:54,103,A.J. Turner missed Three Point Jumper.,29,37
+1:54,159,Taylor Johnson Defensive Rebound.,29,37
+1:46,159,Taylor Johnson missed Layup.,29,37
+1:46,159,Miles Wright Offensive Rebound.,29,37
+1:43,159,Miles Wright made Layup.,31,37
+1:26,103,Ty Graves made Jumper.,31,39
+1:01,159,Miles Wright missed Three Point Jumper.,31,39
+1:01,103,A.J. Turner Defensive Rebound.,31,39
+0:44,103,Jordan Chatman missed Three Point Jumper.,31,39
+0:44,159,Taylor Johnson Defensive Rebound.,31,39
+0:23,159,Taylor Johnson made Jumper.,33,39
+0:15,103,Boston College  Timeout,33,39
+0:08,159,Foul on Mike Fleming.,33,39
+0:08,103,Jerome Robinson made Free Throw.,33,40
+0:08,103,Jerome Robinson made Free Throw.,33,41
+0:04,159,Guilien Smith Turnover.,33,41
+0:00,103,Jerome Robinson missed Three Point Jumper.,33,41
+0:00,103,Boston College Deadball Team Rebound.,33,41
+0:00,103,End of 1st half,33,41
+19:34,159,Miles Wright missed Layup.,33,41
+19:34,159,Miles Wright Offensive Rebound.,33,41
+19:31,159,Miles Wright made Layup.,35,41
+19:15,103,Ky Bowman made Layup.,35,43
+18:42,159,Evan Boudreaux Turnover.,35,43
+18:24,103,Ky Bowman made Layup.,35,45
+17:58,159,Mike Fleming missed Three Point Jumper.,35,45
+17:58,159,Evan Boudreaux Offensive Rebound.,35,45
+17:54,159,Evan Boudreaux made Jumper.,37,45
+17:35,103,Mo Jeffers missed Jumper.,37,45
+17:35,159,Evan Boudreaux Defensive Rebound.,37,45
+17:22,159,Miles Wright missed Layup.,37,45
+17:22,103,A.J. Turner Defensive Rebound.,37,45
+17:15,159,Foul on Ike Ngwundo.,37,45
+17:09,103,Jerome Robinson made Three Point Jumper. Assisted by Ky Bowman.,37,48
+16:44,103,Foul on Mo Jeffers.,37,48
+16:44,159,Ike Ngwundo made Free Throw.,38,48
+16:44,159,Ike Ngwundo made Free Throw.,39,48
+16:35,103,Jerome Robinson made Layup. Assisted by Ky Bowman.,39,50
+16:24,159,Evan Boudreaux made Three Point Jumper. Assisted by Mike Fleming.,42,50
+16:10,103,Ky Bowman Turnover.,42,50
+16:09,159,Evan Boudreaux Steal.,42,50
+16:06,103,Foul on Connar Tava.,42,50
+16:06,159,Evan Boudreaux missed Free Throw.,42,50
+16:06,159,Dartmouth Deadball Team Rebound.,42,50
+16:06,159,Evan Boudreaux made Free Throw.,43,50
+15:54,103,Jerome Robinson made Three Point Jumper. Assisted by Ty Graves.,43,53
+15:33,103,Foul on Mike Sagay.,43,53
+15:33,159,Dartmouth  Timeout,43,53
+15:32,159,Evan Boudreaux made Layup. Assisted by Miles Wright.,45,53
+15:15,103,Johncarlos Reyes made Layup. Assisted by Jerome Robinson.,45,55
+14:57,159,Evan Boudreaux made Layup. Assisted by Ian Sistare.,47,55
+14:40,103,Ty Graves made Three Point Jumper. Assisted by Johncarlos Reyes.,47,58
+14:26,159,Ian Sistare missed Three Point Jumper.,47,58
+14:26,103,Johncarlos Reyes Defensive Rebound.,47,58
+14:14,159,Foul on Miles Wright.,47,58
+14:14,103,Mike Sagay missed Free Throw.,47,58
+14:14,103,Boston College Deadball Team Rebound.,47,58
+14:14,103,Mike Sagay missed Free Throw.,47,58
+14:14,159,Miles Wright Defensive Rebound.,47,58
+14:00,103,Foul on Jerome Robinson.,47,58
+14:00,159,Guilien Smith made Free Throw.,48,58
+14:00,159,Guilien Smith made Free Throw.,49,58
+14:00,159,Guilien Smith made Free Throw.,50,58
+13:47,103,Mike Sagay missed Jumper.,50,58
+13:47,159,Ike Ngwundo Block.,50,58
+13:42,159,Guilien Smith Defensive Rebound.,50,58
+13:37,159,Wesley Dickinson Turnover.,50,58
+13:23,159,Foul on Wesley Dickinson.,50,58
+13:19,103,Mike Sagay missed Layup.,50,58
+13:19,103,Johncarlos Reyes Offensive Rebound.,50,58
+13:14,103,Johncarlos Reyes made Layup.,50,60
+12:50,159,Evan Boudreaux missed Jumper.,50,60
+12:50,103,Ty Graves Defensive Rebound.,50,60
+12:41,159,Foul on Guilien Smith.,50,60
+12:41,103,Jordan Chatman made Free Throw.,50,61
+12:41,103,Jordan Chatman made Free Throw.,50,62
+12:20,159,Taylor Johnson made Three Point Jumper. Assisted by Guilien Smith.,53,62
+12:00,103,Jordan Chatman made Three Point Jumper. Assisted by Ty Graves.,53,65
+11:44,159,Taylor Johnson made Three Point Jumper. Assisted by Mike Fleming.,56,65
+11:30,159,Foul on Wesley Dickinson.,56,65
+11:30,103,Boston College  Timeout,56,65
+11:22,103,Mo Jeffers made Layup. Assisted by Ky Bowman.,56,67
+11:02,159,Brendan Barry missed Layup.,56,67
+11:02,103,A.J. Turner Defensive Rebound.,56,67
+10:55,103,Jordan Chatman made Three Point Jumper. Assisted by A.J. Turner.,56,70
+10:38,103,Foul on Jordan Chatman.,56,70
+10:16,159,Miles Wright Turnover.,56,70
+9:47,103,Connar Tava made Layup.,56,72
+9:31,159,Evan Boudreaux missed Three Point Jumper.,56,72
+9:31,103,Jerome Robinson Defensive Rebound.,56,72
+9:21,159,Foul on Evan Boudreaux.,56,72
+9:21,103,Connar Tava made Free Throw.,56,73
+9:21,103,Connar Tava made Free Throw.,56,74
+9:16,103,Mo Jeffers made Layup. Assisted by A.J. Turner.,56,76
+8:58,103,Foul on Jordan Chatman.,56,76
+8:39,159,Cameron Smith missed Three Point Jumper.,56,76
+8:39,103,Johncarlos Reyes Defensive Rebound.,56,76
+8:32,103,Ky Bowman Turnover.,56,76
+8:15,159,Cameron Smith Turnover.,56,76
+8:15,159,Foul on Cameron Smith.,56,76
+7:52,159,Foul on Ike Ngwundo.,56,76
+7:52,103,Boston College  Timeout,56,76
+7:52,103,A.J. Turner made Free Throw.,56,77
+7:52,103,A.J. Turner made Free Throw.,56,78
+7:41,159,Guilien Smith Turnover.,56,78
+7:40,103,Jerome Robinson Steal.,56,78
+7:39,103,Jerome Robinson Turnover.,56,78
+7:36,159,Guilien Smith Steal.,56,78
+7:33,159,Guilien Smith made Jumper.,58,78
+7:15,103,Jerome Robinson missed Layup.,58,78
+7:15,159,Mike Fleming Defensive Rebound.,58,78
+7:09,159,Ike Ngwundo Turnover.,58,78
+6:56,103,Boston College  Turnover.,58,78
+6:41,159,Ian Carter Turnover.,58,78
+6:39,103,Jerome Robinson Steal.,58,78
+6:30,103,Mike Sagay Turnover.,58,78
+6:29,159,Taylor Johnson Steal.,58,78
+6:21,103,Foul on Ty Graves.,58,78
+6:21,159,Ian Carter missed Free Throw.,58,78
+6:21,159,Dartmouth Deadball Team Rebound.,58,78
+6:21,159,Ian Carter made Free Throw.,59,78
+6:09,103,Mike Sagay missed Three Point Jumper.,59,78
+6:09,159,Guilien Smith Defensive Rebound.,59,78
+6:01,103,Foul on Mike Sagay.,59,78
+6:01,159,Taylor Johnson made Free Throw.,60,78
+6:01,159,Taylor Johnson made Free Throw.,61,78
+5:46,103,Mo Jeffers made Jumper. Assisted by Ty Graves.,61,80
+5:35,159,Taylor Johnson Turnover.,61,80
+5:35,159,Foul on Taylor Johnson.,61,80
+5:23,103,Jordan Chatman made Jumper. Assisted by Jerome Robinson.,61,82
+5:08,159,Guilien Smith missed Three Point Jumper.,61,82
+5:08,103,Mo Jeffers Defensive Rebound.,61,82
+5:00,103,Connar Tava made Layup. Assisted by Jerome Robinson.,61,84
+4:52,159,Dartmouth  Timeout,61,84
+4:42,159,Mike Fleming Turnover.,61,84
+4:41,103,Jerome Robinson Steal.,61,84
+4:33,103,Jerome Robinson Turnover.,61,84
+4:33,103,Foul on Connar Tava.,61,84
+4:33,159,Taylor Johnson made Free Throw.,62,84
+4:33,159,Taylor Johnson made Free Throw.,63,84
+4:22,103,Ty Graves missed Layup.,63,84
+4:22,159,Wesley Dickinson Defensive Rebound.,63,84
+4:09,159,Taylor Johnson made Jumper.,65,84
+3:57,103,Jerome Robinson made Layup.,65,86
+3:38,159,Miles Wright Turnover.,65,86
+3:37,103,Boston College  Timeout,65,86
+3:28,103,A.J. Turner missed Layup.,65,86
+3:28,159,Wesley Dickinson Block.,65,86
+3:26,159,Ian Sistare Defensive Rebound.,65,86
+3:16,159,Ian Sistare Turnover.,65,86
+3:16,159,Foul on Ian Sistare.,65,86
+2:57,103,Ervins Meznieks missed Three Point Jumper.,65,86
+2:57,159,Ian Sistare Defensive Rebound.,65,86
+2:47,159,Ian Sistare missed Layup.,65,86
+2:47,103,Johncarlos Reyes Block.,65,86
+2:46,159,Ian Sistare Offensive Rebound.,65,86
+2:35,159,Mike Fleming missed Three Point Jumper.,65,86
+2:35,103,Johncarlos Reyes Defensive Rebound.,65,86
+2:26,103,Ervins Meznieks missed Three Point Jumper.,65,86
+2:26,159,Wesley Dickinson Defensive Rebound.,65,86
+2:09,159,Ian Sistare missed Three Point Jumper.,65,86
+2:09,103,Mike Sagay Defensive Rebound.,65,86
+1:59,103,Ervins Meznieks Turnover.,65,86
+1:58,159,Ian Sistare Steal.,65,86
+1:52,159,Ian Carter missed Three Point Jumper.,65,86
+1:52,159,Will Emery Offensive Rebound.,65,86
+1:47,103,Foul on Ervins Meznieks.,65,86
+1:47,159,Will Emery made Free Throw.,66,86
+1:47,159,Will Emery made Free Throw.,67,86
+1:30,103,Ky Bowman made Layup.,67,88
+1:11,159,Ian Carter missed Layup.,67,88
+1:11,159,Ian Sistare Offensive Rebound.,67,88
+1:08,159,James Foye missed Three Point Jumper.,67,88
+1:08,103,Ky Bowman Defensive Rebound.,67,88
+0:58,103,Ty Graves missed Jumper.,67,88
+0:58,159,Ian Carter Defensive Rebound.,67,88
+0:51,103,Foul on Ervins Meznieks.,67,88
+0:51,159,Will Emery missed Free Throw.,67,88
+0:51,159,Dartmouth Deadball Team Rebound.,67,88
+0:51,159,Will Emery made Free Throw.,68,88
+0:42,103,Gordon Gehan missed Three Point Jumper.,68,88
+0:42,159,Ian Sistare Defensive Rebound.,68,88
+0:33,159,Ian Carter Turnover.,68,88
+0:20,103,Gordon Gehan missed Jumper.,68,88
+0:20,159,Ian Sistare Defensive Rebound.,68,88
+0:12,159,Ian Sistare missed Jumper.,68,88
+0:12,159,Brendan Barry Offensive Rebound.,68,88
+0:10,159,Brendan Barry made Layup.,70,88
+0:00,103,End of Game,70,88

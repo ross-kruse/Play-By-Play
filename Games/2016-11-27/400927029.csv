@@ -1,0 +1,331 @@
+Texas A&amp;M,26,UCLA,245
+time,team_id,description,h_score,a_score
+19:51,26,Lonzo Ball missed Jumper.,0,0
+19:51,245,Admon Gilder Defensive Rebound.,0,0
+19:20,245,Tyler Davis made Layup.,2,0
+19:05,26,TJ Leaf missed Jumper.,2,0
+19:05,245,Texas A&M Deadball Team Rebound.,2,0
+18:44,245,Tonny Trocha-Morelos missed Jumper.,2,0
+18:44,26,TJ Leaf Defensive Rebound.,2,0
+18:34,26,Thomas Welsh made Jumper. Assisted by Bryce Alford.,2,2
+18:24,245,DJ Hogg missed Layup.,2,2
+18:24,26,Thomas Welsh Block.,2,2
+18:21,26,Lonzo Ball Defensive Rebound.,2,2
+18:03,26,Lonzo Ball missed Three Point Jumper.,2,2
+18:03,245,Texas A&M Defensive Rebound.,2,2
+17:42,245,DJ Hogg missed Three Point Jumper.,2,2
+17:42,26,Bryce Alford Defensive Rebound.,2,2
+17:37,26,Lonzo Ball Turnover.,2,2
+17:36,245,JC Hampton Steal.,2,2
+17:30,245,Admon Gilder missed Three Point Jumper.,2,2
+17:30,245,DJ Hogg Offensive Rebound.,2,2
+17:26,245,Tyler Davis made Layup.,4,2
+17:12,26,Thomas Welsh missed Jumper.,4,2
+17:12,26,Lonzo Ball Offensive Rebound.,4,2
+17:07,26,Isaac Hamilton missed Three Point Jumper.,4,2
+17:07,245,Tonny Trocha-Morelos Defensive Rebound.,4,2
+16:56,245,JC Hampton missed Jumper.,4,2
+16:56,26,TJ Leaf Defensive Rebound.,4,2
+16:47,26,TJ Leaf Turnover.,4,2
+16:32,245,Tyler Davis missed Jumper.,4,2
+16:32,26,Lonzo Ball Block.,4,2
+16:30,245,Tyler Davis Offensive Rebound.,4,2
+16:28,26,Foul on TJ Leaf.,4,2
+16:28,245,Tyler Davis made Free Throw.,5,2
+16:28,245,Tyler Davis made Free Throw.,6,2
+16:22,26,Bryce Alford missed Three Point Jumper.,6,2
+16:22,245,Admon Gilder Defensive Rebound.,6,2
+16:08,245,Tyler Davis made Jumper.,8,2
+15:45,26,Isaac Hamilton Turnover.,8,2
+15:29,245,Tonny Trocha-Morelos made Three Point Jumper. Assisted by DJ Hogg.,11,2
+15:09,26,TJ Leaf made Jumper. Assisted by Isaac Hamilton.,11,4
+14:48,245,Tyler Davis missed Jumper.,11,4
+14:48,26,Isaac Hamilton Defensive Rebound.,11,4
+14:28,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,11,7
+14:00,245,JC Hampton missed Jumper.,11,7
+14:00,245,Tonny Trocha-Morelos Offensive Rebound.,11,7
+13:56,245,Tonny Trocha-Morelos made Two Point Tip Shot.,13,7
+13:36,26,Lonzo Ball made Layup.,13,9
+13:21,245,JC Hampton missed Three Point Jumper.,13,9
+13:21,26,Thomas Welsh Defensive Rebound.,13,9
+13:07,26,TJ Leaf made Jumper. Assisted by Lonzo Ball.,13,11
+12:51,245,DJ Hogg missed Three Point Jumper.,13,11
+12:51,245,Tonny Trocha-Morelos Offensive Rebound.,13,11
+12:35,245,Admon Gilder Turnover.,13,11
+12:21,26,Isaac Hamilton missed Three Point Jumper.,13,11
+12:21,245,Tonny Trocha-Morelos Defensive Rebound.,13,11
+12:14,245,DJ Hogg missed Three Point Jumper.,13,11
+12:14,26,Lonzo Ball Defensive Rebound.,13,11
+12:08,26,Isaac Hamilton made Layup. Assisted by Lonzo Ball.,13,13
+12:00,245,JC Hampton Turnover.,13,13
+11:42,26,Ike Anigbogu made Jumper. Assisted by Isaac Hamilton.,13,15
+11:30,26,Official TV Timeout,13,15
+11:16,245,Eric Vila missed Jumper.,13,15
+11:13,26,Ike Anigbogu Defensive Rebound.,13,15
+11:04,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,13,18
+10:35,245,Robert Williams made Jumper.,15,18
+10:19,26,Lonzo Ball missed Three Point Jumper.,15,18
+10:19,245,Tonny Trocha-Morelos Defensive Rebound.,15,18
+9:51,245,Tonny Trocha-Morelos made Three Point Jumper. Assisted by Robert Williams.,18,18
+9:34,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,18,21
+9:20,245,Admon Gilder Turnover.,18,21
+9:20,26,Isaac Hamilton Steal.,18,21
+9:17,26,Lonzo Ball missed Layup.,18,21
+9:17,245,Admon Gilder Defensive Rebound.,18,21
+9:07,245,Robert Williams made Layup. Assisted by Admon Gilder.,20,21
+8:47,26,Lonzo Ball missed Three Point Jumper.,20,21
+8:47,245,Texas A&M Defensive Rebound.,20,21
+8:32,26,Foul on Isaac Hamilton.,20,21
+8:32,245,Eric Vila missed Free Throw.,20,21
+8:32,245,Texas A&M Deadball Team Rebound.,20,21
+8:32,245,Eric Vila missed Free Throw.,20,21
+8:32,26,Gyorgy Goloman Defensive Rebound.,20,21
+8:15,26,Isaac Hamilton made Jumper.,20,23
+7:47,26,Official TV Timeout,20,23
+7:41,245,Tyler Davis Turnover.,20,23
+7:41,26,Bryce Alford Steal.,20,23
+7:31,26,Isaac Hamilton made Jumper.,20,25
+7:21,26,Foul on Ike Anigbogu.,20,25
+7:16,245,Robert Williams missed Jumper.,20,25
+7:16,26,Isaac Hamilton Defensive Rebound.,20,25
+7:05,26,Gyorgy Goloman missed Jumper.,20,25
+7:05,245,Robert Williams Block.,20,25
+7:02,26,Thomas Welsh Offensive Rebound.,20,25
+6:59,26,Thomas Welsh missed Jumper.,20,25
+6:59,245,DJ Hogg Defensive Rebound.,20,25
+6:52,245,Tyler Davis made Layup. Assisted by Robert Williams.,22,25
+6:41,245,Foul on Robert Williams.,22,25
+6:41,26,Aaron Holiday missed Free Throw.,22,25
+6:41,26,UCLA Deadball Team Rebound.,22,25
+6:41,26,Aaron Holiday missed Free Throw.,22,25
+6:41,26,UCLA Offensive Rebound.,22,25
+6:30,26,Lonzo Ball Turnover.,22,25
+6:29,245,Tyler Davis Steal.,22,25
+6:09,245,DJ Hogg missed Jumper.,22,25
+6:09,26,Thomas Welsh Defensive Rebound.,22,25
+6:00,26,Bryce Alford missed Three Point Jumper.,22,25
+6:00,26,Bryce Alford Offensive Rebound.,22,25
+5:51,26,Aaron Holiday Turnover.,22,25
+5:51,245,Tyler Davis Steal.,22,25
+5:48,245,DJ Hogg made Layup. Assisted by Tyler Davis.,24,25
+5:29,26,Aaron Holiday Turnover.,24,25
+5:28,245,Tyler Davis Steal.,24,25
+5:09,245,DJ Hogg missed Three Point Jumper.,24,25
+5:09,26,Aaron Holiday Defensive Rebound.,24,25
+4:59,26,Lonzo Ball missed Three Point Jumper.,24,25
+4:59,245,Tonny Trocha-Morelos Defensive Rebound.,24,25
+4:28,245,Tonny Trocha-Morelos missed Three Point Jumper.,24,25
+4:28,245,Tyler Davis Offensive Rebound.,24,25
+4:23,245,Tyler Davis missed Jumper.,24,25
+4:23,26,Lonzo Ball Defensive Rebound.,24,25
+4:21,245,Foul on Tyler Davis.,24,25
+4:09,26,Thomas Welsh made Jumper. Assisted by Gyorgy Goloman.,24,27
+3:45,26,Foul on Thomas Welsh.,24,27
+3:45,26,Official TV Timeout,24,27
+3:45,245,Admon Gilder made Free Throw.,25,27
+3:45,245,Admon Gilder made Free Throw.,26,27
+3:21,26,Aaron Holiday missed Three Point Jumper.,26,27
+3:21,245,DJ Hogg Defensive Rebound.,26,27
+3:03,245,Admon Gilder made Three Point Jumper.,29,27
+2:47,26,Aaron Holiday made Three Point Jumper. Assisted by Aaron Holiday.,29,30
+2:20,245,Admon Gilder made Jumper. Assisted by Robert Williams.,31,30
+2:12,26,UCLA  Timeout,31,30
+1:55,26,Lonzo Ball Turnover.,31,30
+1:38,245,Robert Williams made Dunk. Assisted by DJ Hogg.,33,30
+1:37,26,Foul on Isaac Hamilton.,33,30
+1:37,245,Robert Williams made Free Throw.,34,30
+1:21,26,Isaac Hamilton made Jumper.,34,32
+1:00,245,Admon Gilder Turnover.,34,32
+0:50,26,Lonzo Ball made Three Point Jumper. Assisted by Aaron Holiday.,34,35
+0:27,245,Admon Gilder missed Jumper.,34,35
+0:27,26,Bryce Alford Defensive Rebound.,34,35
+0:03,26,Thomas Welsh missed Jumper.,34,35
+0:03,245,Tyler Davis Defensive Rebound.,34,35
+0:00,26,End of 1st half,34,35
+19:47,245,Tyler Davis Turnover.,34,35
+19:21,26,Bryce Alford made Layup.,34,37
+18:56,245,Admon Gilder missed Layup.,34,37
+18:56,245,Tyler Davis Offensive Rebound.,34,37
+18:53,245,Tyler Davis missed Layup.,34,37
+18:53,26,Lonzo Ball Block.,34,37
+18:52,26,Thomas Welsh Defensive Rebound.,34,37
+18:48,26,TJ Leaf made Three Point Jumper. Assisted by Bryce Alford.,34,40
+18:31,245,DJ Hogg missed Jumper.,34,40
+18:31,26,Thomas Welsh Defensive Rebound.,34,40
+18:23,26,Bryce Alford made Three Point Jumper.,34,43
+18:13,245,Texas A&M  Timeout,34,43
+17:52,245,DJ Hogg missed Three Point Jumper.,34,43
+17:52,26,TJ Leaf Defensive Rebound.,34,43
+17:33,26,Isaac Hamilton missed Three Point Jumper.,34,43
+17:33,26,TJ Leaf Offensive Rebound.,34,43
+17:21,26,TJ Leaf Turnover.,34,43
+17:20,245,DJ Hogg made Jumper. Assisted by Tonny Trocha-Morelos.,36,43
+17:02,26,Lonzo Ball Turnover.,36,43
+17:01,245,Admon Gilder Steal.,36,43
+16:55,245,Tyler Davis made Layup. Assisted by Admon Gilder.,38,43
+16:55,26,Foul on TJ Leaf.,38,43
+16:55,245,Tyler Davis missed Free Throw.,38,43
+16:55,26,Thomas Welsh Defensive Rebound.,38,43
+16:42,26,Thomas Welsh made Dunk. Assisted by Lonzo Ball.,38,45
+16:24,245,Foul on DJ Hogg.,38,45
+16:24,245,DJ Hogg Turnover.,38,45
+16:15,26,Isaac Hamilton Turnover.,38,45
+15:51,245,DJ Hogg missed Jumper.,38,45
+15:51,26,TJ Leaf Block.,38,45
+15:50,26,TJ Leaf Defensive Rebound.,38,45
+15:36,26,Isaac Hamilton missed Jumper.,38,45
+15:36,26,TJ Leaf Offensive Rebound.,38,45
+15:31,26,TJ Leaf missed Jumper.,38,45
+15:31,245,Admon Gilder Defensive Rebound.,38,45
+15:23,26,Foul on Thomas Welsh.,38,45
+15:23,26,Official TV Timeout,38,45
+15:20,245,Tonny Trocha-Morelos Turnover.,38,45
+15:17,26,Lonzo Ball Steal.,38,45
+15:15,26,Lonzo Ball Turnover.,38,45
+14:54,245,Tyler Davis made Jumper.,40,45
+14:39,26,TJ Leaf missed Jumper.,40,45
+14:39,245,Tonny Trocha-Morelos Defensive Rebound.,40,45
+14:17,26,Foul on Lonzo Ball.,40,45
+14:17,245,Robert Williams missed Free Throw.,40,45
+14:17,245,Texas A&M Deadball Team Rebound.,40,45
+14:17,245,Robert Williams made Free Throw.,41,45
+14:04,26,Aaron Holiday Turnover.,41,45
+14:03,245,JC Hampton Steal.,41,45
+13:59,245,DJ Hogg made Layup. Assisted by JC Hampton.,43,45
+13:45,26,Ike Anigbogu Turnover.,43,45
+13:44,245,DJ Hogg Steal.,43,45
+13:35,245,DJ Hogg missed Layup.,43,45
+13:35,26,Ike Anigbogu Block.,43,45
+13:33,26,Lonzo Ball Defensive Rebound.,43,45
+13:22,26,Bryce Alford missed Layup.,43,45
+13:22,245,Robert Williams Block.,43,45
+13:20,245,Foul on Robert Williams.,43,45
+13:20,26,UCLA Offensive Rebound.,43,45
+13:20,245,Technical Foul on Robert Williams.,43,45
+13:20,26,Bryce Alford made Free Throw.,43,46
+13:20,26,Bryce Alford missed Free Throw.,43,46
+13:20,26,UCLA Deadball Team Rebound.,43,46
+12:55,26,Foul on TJ Leaf.,43,46
+12:55,245,Robert Williams made Free Throw.,44,46
+12:55,245,Robert Williams made Free Throw.,45,46
+12:43,26,Ike Anigbogu missed Jumper.,45,46
+12:43,245,Robert Williams Block.,45,46
+12:43,26,UCLA Offensive Rebound.,45,46
+12:40,26,Aaron Holiday made Three Point Jumper. Assisted by Lonzo Ball.,45,49
+12:23,245,Tyler Davis missed Jumper.,45,49
+12:23,245,DJ Hogg Offensive Rebound.,45,49
+12:19,245,DJ Hogg Turnover.,45,49
+12:19,26,Aaron Holiday Steal.,45,49
+12:17,245,Foul on JC Hampton.,45,49
+12:04,245,Foul on Admon Gilder.,45,49
+12:04,26,Aaron Holiday made Free Throw.,45,50
+12:04,26,Aaron Holiday missed Free Throw.,45,50
+12:04,245,DJ Hogg Defensive Rebound.,45,50
+11:44,245,Admon Gilder made Three Point Jumper. Assisted by JC Hampton.,48,50
+11:10,245,Foul on DJ Hogg.,48,50
+11:10,26,Official TV Timeout,48,50
+11:10,26,Gyorgy Goloman missed Free Throw.,48,50
+11:10,26,UCLA Deadball Team Rebound.,48,50
+11:10,26,Gyorgy Goloman missed Free Throw.,48,50
+11:10,245,Admon Gilder Defensive Rebound.,48,50
+10:49,245,JC Hampton missed Layup.,48,50
+10:49,26,Ike Anigbogu Block.,48,50
+10:47,245,Tonny Trocha-Morelos Offensive Rebound.,48,50
+10:45,245,Tonny Trocha-Morelos made Three Point Jumper.,51,50
+10:22,26,Lonzo Ball missed Jumper.,51,50
+10:22,26,Ike Anigbogu Offensive Rebound.,51,50
+10:17,26,Ike Anigbogu missed Layup.,51,50
+10:17,245,Texas A&M Defensive Rebound.,51,50
+10:02,245,Admon Gilder made Layup.,53,50
+9:49,26,Lonzo Ball made Three Point Jumper. Assisted by Aaron Holiday.,53,53
+9:27,245,Robert Williams missed Jumper.,53,53
+9:27,245,Robert Williams Offensive Rebound.,53,53
+9:23,245,Robert Williams missed Jumper.,53,53
+9:23,26,Isaac Hamilton Defensive Rebound.,53,53
+9:21,245,Foul on JC Hampton.,53,53
+9:14,26,Lonzo Ball made Layup.,53,55
+8:51,245,Tonny Trocha-Morelos missed Three Point Jumper.,53,55
+8:51,26,Isaac Hamilton Defensive Rebound.,53,55
+8:24,26,Isaac Hamilton missed Layup.,53,55
+8:24,26,Isaac Hamilton Offensive Rebound.,53,55
+8:04,26,Isaac Hamilton missed Three Point Jumper.,53,55
+8:04,245,Texas A&M Defensive Rebound.,53,55
+8:01,26,Foul on Ike Anigbogu.,53,55
+7:43,26,Foul on Ike Anigbogu.,53,55
+7:43,26,Official TV Timeout,53,55
+7:36,245,Foul on Tyler Davis.,53,55
+7:36,245,Tyler Davis Turnover.,53,55
+7:28,26,Lonzo Ball missed Three Point Jumper.,53,55
+7:28,245,Tyler Davis Defensive Rebound.,53,55
+7:09,245,DJ Hogg missed Three Point Jumper.,53,55
+7:09,26,TJ Leaf Defensive Rebound.,53,55
+6:56,26,Aaron Holiday made Three Point Jumper. Assisted by Lonzo Ball.,53,58
+6:34,245,DJ Hogg missed Layup.,53,58
+6:34,26,Lonzo Ball Block.,53,58
+6:32,26,Aaron Holiday Defensive Rebound.,53,58
+6:29,26,Isaac Hamilton missed Three Point Jumper.,53,58
+6:29,26,TJ Leaf Offensive Rebound.,53,58
+6:24,26,TJ Leaf made Jumper.,53,60
+6:18,245,Texas A&M  Timeout,53,60
+6:10,245,Admon Gilder missed Three Point Jumper.,53,60
+6:10,245,Robert Williams Offensive Rebound.,53,60
+6:06,245,DJ Hogg made Layup. Assisted by Robert Williams.,55,60
+5:50,26,Aaron Holiday Turnover.,55,60
+5:49,245,Admon Gilder Steal.,55,60
+5:46,245,Admon Gilder made Layup.,57,60
+5:46,26,Foul on Bryce Alford.,57,60
+5:46,245,Admon Gilder missed Free Throw.,57,60
+5:46,26,Thomas Welsh Defensive Rebound.,57,60
+5:40,26,Isaac Hamilton missed Layup.,57,60
+5:40,245,DJ Hogg Defensive Rebound.,57,60
+5:32,245,JC Hampton made Three Point Jumper. Assisted by Admon Gilder.,60,60
+5:05,26,TJ Leaf made Jumper.,60,62
+4:42,245,DJ Hogg missed Three Point Jumper.,60,62
+4:42,26,Thomas Welsh Defensive Rebound.,60,62
+4:25,26,Isaac Hamilton Turnover.,60,62
+4:24,245,Admon Gilder Steal.,60,62
+4:20,245,Robert Williams missed Layup.,60,62
+4:20,26,Isaac Hamilton Defensive Rebound.,60,62
+4:09,26,UCLA  Timeout,60,62
+4:00,26,Thomas Welsh missed Jumper.,60,62
+4:00,245,JC Hampton Defensive Rebound.,60,62
+3:28,245,Admon Gilder made Three Point Jumper. Assisted by DJ Hogg.,63,62
+3:09,26,Bryce Alford missed Three Point Jumper.,63,62
+3:09,245,Robert Williams Defensive Rebound.,63,62
+2:54,245,Robert Williams Turnover.,63,62
+2:53,26,TJ Leaf Steal.,63,62
+2:40,26,Lonzo Ball made Three Point Jumper.,63,65
+2:17,245,Robert Williams made Layup. Assisted by DJ Hogg.,65,65
+2:00,26,TJ Leaf made Jumper. Assisted by Bryce Alford.,65,67
+1:38,245,Admon Gilder missed Layup.,65,67
+1:38,26,Isaac Hamilton Block.,65,67
+1:36,26,Isaac Hamilton Defensive Rebound.,65,67
+1:11,26,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.,65,70
+0:48,245,Admon Gilder Turnover.,65,70
+0:47,26,Bryce Alford Steal.,65,70
+0:37,245,Foul on Admon Gilder.,65,70
+0:37,26,Bryce Alford made Free Throw.,65,71
+0:37,26,Bryce Alford made Free Throw.,65,72
+0:32,245,DJ Hogg missed Three Point Jumper.,65,72
+0:32,245,Tonny Trocha-Morelos Offensive Rebound.,65,72
+0:25,26,Foul on Thomas Welsh.,65,72
+0:25,245,Tyler Davis missed Free Throw.,65,72
+0:25,26,TJ Leaf Defensive Rebound.,65,72
+0:23,245,Foul on DJ Hogg.,65,72
+0:23,26,TJ Leaf missed Free Throw.,65,72
+0:23,245,Tyler Davis Defensive Rebound.,65,72
+0:15,245,Tonny Trocha-Morelos missed Three Point Jumper.,65,72
+0:15,245,Tyler Davis Offensive Rebound.,65,72
+0:10,245,Tyler Davis missed Jumper.,65,72
+0:10,245,Tyler Davis Offensive Rebound.,65,72
+0:10,245,Tyler Davis made Jumper.,67,72
+0:10,26,Foul on Thomas Welsh.,67,72
+0:09,245,Tyler Davis missed Free Throw.,67,72
+0:09,26,UCLA Defensive Rebound.,67,72
+0:07,245,Foul on Tonny Trocha-Morelos.,67,72
+0:07,26,Bryce Alford made Free Throw.,67,73
+0:07,26,Bryce Alford made Free Throw.,67,74
+0:07,26,UCLA  Timeout,67,74
+0:02,245,Admon Gilder missed Three Point Jumper.,67,74
+0:02,26,UCLA Defensive Rebound.,67,74
+0:00,26,End of Game,67,74

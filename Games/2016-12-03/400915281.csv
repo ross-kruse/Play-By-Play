@@ -1,0 +1,319 @@
+Maine,150,Duke,311
+time,team_id,description,h_score,a_score
+20:00,150,Jump Ball won by Duke,0,0
+19:42,311,Jump Ball won by Maine,0,0
+19:42,150,Chase Jeter Turnover.,0,0
+19:42,311,Ilija Stojiljkovic Steal.,0,0
+19:23,311,Wesley Myers missed Jumper.,0,0
+19:23,150,Amile Jefferson Block.,0,0
+19:23,311,Andrew Fleming Offensive Rebound.,0,0
+19:23,311,Andrew Fleming missed Jumper.,0,0
+19:23,150,Chase Jeter Block.,0,0
+19:23,150,Luke Kennard Defensive Rebound.,0,0
+19:01,150,Luke Kennard made Jumper.,0,2
+19:01,311,Wesley Myers Turnover.,0,2
+19:01,150,Luke Kennard Steal.,0,2
+19:01,311,Foul on Wesley Myers.,0,2
+19:01,150,Luke Kennard made Three Point Jumper.,0,5
+18:54,311,Andrew Fleming made Jumper.,2,5
+18:48,150,Jayson Tatum missed Three Point Jumper.,2,5
+18:48,311,Maine Deadball Team Rebound.,2,5
+18:04,311,Ilker Er Turnover.,2,5
+18:04,150,Luke Kennard Steal.,2,5
+17:56,150,Luke Kennard made Layup. Assisted by Matt Jones.,2,7
+17:39,311,Ilker Er made Three Point Jumper. Assisted by Ryan Bernstein.,5,7
+17:16,150,Luke Kennard missed Three Point Jumper.,5,7
+17:16,311,Ilker Er Defensive Rebound.,5,7
+16:52,311,Ilker Er made Jumper.,7,7
+16:29,150,Amile Jefferson missed Jumper.,7,7
+16:29,150,Amile Jefferson Offensive Rebound.,7,7
+16:06,311,Foul on Wesley Myers.,7,7
+16:06,150,Luke Kennard made Free Throw.,7,8
+16:06,150,Luke Kennard made Free Throw.,7,9
+15:50,311,Ryan Bernstein missed Three Point Jumper.,7,9
+15:50,150,Marques Bolden Defensive Rebound.,7,9
+15:46,311,Foul on Andrew Fleming.,7,9
+15:46,150,Official TV Timeout,7,9
+15:34,150,Marques Bolden Turnover.,7,9
+15:22,311,Danny Evans Turnover.,7,9
+15:22,150,Amile Jefferson Steal.,7,9
+15:06,150,Foul on Marques Bolden.,7,9
+15:06,150,Marques Bolden Turnover.,7,9
+14:43,311,Ilker Er missed Jumper.,7,9
+14:43,150,Amile Jefferson Defensive Rebound.,7,9
+14:26,150,Amile Jefferson made Layup. Assisted by Luke Kennard.,7,11
+14:26,311,Foul on Ilker Er.,7,11
+14:26,150,Amile Jefferson made Free Throw.,7,12
+14:08,311,Andrew Fleming missed Jumper.,7,12
+14:08,150,Amile Jefferson Defensive Rebound.,7,12
+13:49,150,Jayson Tatum made Layup.,7,14
+13:34,311,Austin Howard missed Three Point Jumper.,7,14
+13:34,150,Marques Bolden Defensive Rebound.,7,14
+13:30,311,Foul on Vincent Eze.,7,14
+13:05,150,Amile Jefferson missed Jumper.,7,14
+13:05,150,Chase Jeter Offensive Rebound.,7,14
+13:04,150,Chase Jeter Turnover.,7,14
+12:55,311,Austin Howard Turnover.,7,14
+12:55,150,Amile Jefferson Steal.,7,14
+12:40,150,Luke Kennard missed Three Point Jumper.,7,14
+12:40,150,Javin DeLaurier Offensive Rebound.,7,14
+12:25,150,Amile Jefferson made Layup.,7,16
+12:09,150,Foul on Luke Kennard.,7,16
+12:09,311,Jaquan McKennon missed Free Throw.,7,16
+12:09,311,Maine Deadball Team Rebound.,7,16
+12:09,311,Jaquan McKennon made Free Throw.,8,16
+11:55,150,Jack White made Layup. Assisted by Luke Kennard.,8,18
+11:47,311,Wesley Myers made Three Point Jumper. Assisted by Jaquan McKennon.,11,18
+11:25,150,Jack White missed Three Point Jumper.,11,18
+11:25,150,Javin DeLaurier Offensive Rebound.,11,18
+11:21,311,Foul on Vincent Eze.,11,18
+11:21,150,Official TV Timeout,11,18
+11:21,150,Jayson Tatum missed Jumper.,11,18
+11:21,311,Andrew Fleming Defensive Rebound.,11,18
+11:14,311,Ilker Er missed Three Point Jumper.,11,18
+11:14,311,Andrew Fleming Offensive Rebound.,11,18
+10:58,311,Ilker Er made Jumper. Assisted by Wesley Myers.,13,18
+10:38,311,Foul on Dennis Ashley.,13,18
+10:38,150,Luke Kennard made Free Throw.,13,19
+10:38,150,Luke Kennard made Free Throw.,13,20
+10:23,311,Jaquan McKennon made Jumper.,15,20
+10:02,150,Amile Jefferson made Layup.,15,22
+9:48,311,Dennis Ashley missed Three Point Jumper.,15,22
+9:48,150,Luke Kennard Defensive Rebound.,15,22
+9:38,311,Foul on Jaquan McKennon.,15,22
+9:38,150,Luke Kennard made Free Throw.,15,23
+9:38,150,Luke Kennard made Free Throw.,15,24
+9:29,311,Jaquan McKennon missed Jumper.,15,24
+9:29,150,Jayson Tatum Defensive Rebound.,15,24
+9:18,150,Jayson Tatum missed Layup.,15,24
+9:18,150,Marques Bolden Offensive Rebound.,15,24
+9:18,150,Marques Bolden made Two Point Tip Shot.,15,26
+9:05,311,Andrew Fleming missed Jumper.,15,26
+9:05,150,Amile Jefferson Defensive Rebound.,15,26
+8:38,150,Marques Bolden Turnover.,15,26
+8:38,311,Andrew Fleming Steal.,15,26
+8:20,311,Dennis Ashley missed Three Point Jumper.,15,26
+8:20,150,Jayson Tatum Defensive Rebound.,15,26
+8:11,311,Foul on Jaquan McKennon.,15,26
+8:11,150,Jayson Tatum made Free Throw.,15,27
+8:11,150,Jayson Tatum missed Free Throw.,15,27
+8:11,311,Ilker Er Defensive Rebound.,15,27
+7:50,311,Jaquan McKennon missed Jumper.,15,27
+7:50,150,Luke Kennard Block.,15,27
+7:50,150,Jayson Tatum Defensive Rebound.,15,27
+7:44,150,Jayson Tatum missed Layup.,15,27
+7:44,150,Amile Jefferson Offensive Rebound.,15,27
+7:44,150,Amile Jefferson made Two Point Tip Shot.,15,29
+7:42,311,Maine  Timeout,15,29
+7:23,311,Andrew Fleming missed Layup.,15,29
+7:23,150,Jayson Tatum Defensive Rebound.,15,29
+7:12,150,Jayson Tatum missed Jumper.,15,29
+7:12,311,Ilija Stojiljkovic Defensive Rebound.,15,29
+6:56,311,Ilker Er made Three Point Jumper. Assisted by Ryan Bernstein.,18,29
+6:32,150,Amile Jefferson made Jumper.,18,31
+5:58,311,Ryan Bernstein missed Three Point Jumper.,18,31
+5:58,150,Duke Defensive Rebound.,18,31
+5:40,311,Foul on Ilija Stojiljkovic.,18,31
+5:40,150,Marques Bolden missed Free Throw.,18,31
+5:40,150,Duke Deadball Team Rebound.,18,31
+5:40,150,Marques Bolden made Free Throw.,18,32
+5:26,311,Ilija Stojiljkovic missed Three Point Jumper.,18,32
+5:26,311,Ilker Er Offensive Rebound.,18,32
+5:20,311,Austin Howard missed Jumper.,18,32
+5:20,150,Jayson Tatum Block.,18,32
+5:20,311,Austin Howard Offensive Rebound.,18,32
+5:11,311,Ilker Er missed Layup.,18,32
+5:11,311,Andrew Fleming Offensive Rebound.,18,32
+5:11,311,Andrew Fleming missed Layup.,18,32
+5:11,150,Duke Defensive Rebound.,18,32
+5:01,150,Jayson Tatum Turnover.,18,32
+5:01,311,Andrew Fleming Steal.,18,32
+4:45,150,Foul on Chase Jeter.,18,32
+4:43,311,Ilker Er made Three Point Jumper.,21,32
+4:23,150,Luke Kennard made Jumper.,21,34
+3:56,311,Ilker Er made Three Point Jumper. Assisted by Ryan Bernstein.,24,34
+3:40,150,Chase Jeter made Dunk. Assisted by Amile Jefferson.,24,36
+3:14,311,Andrew Fleming missed Jumper.,24,36
+3:14,311,Ilker Er Offensive Rebound.,24,36
+3:14,311,Ilker Er made Two Point Tip Shot.,26,36
+3:10,150,Technical Foul on Amile Jefferson.,26,36
+3:10,311,Wesley Myers made Free Throw.,27,36
+3:10,150,Foul on Amile Jefferson.,26,36
+3:10,150,Official TV Timeout,26,36
+3:10,311,Wesley Myers made Free Throw.,28,36
+2:59,150,Jayson Tatum made Three Point Jumper. Assisted by Matt Jones.,28,39
+2:30,311,Wesley Myers made Jumper.,30,39
+2:09,150,Chase Jeter missed Jumper.,30,39
+2:09,311,Ilker Er Defensive Rebound.,30,39
+1:52,311,Jaquan McKennon missed Jumper.,30,39
+1:52,150,Jayson Tatum Defensive Rebound.,30,39
+1:49,311,Foul on Ilker Er.,30,39
+1:49,150,Jayson Tatum made Free Throw.,30,40
+1:49,150,Jayson Tatum made Free Throw.,30,41
+1:27,311,Vincent Eze missed Jumper.,30,41
+1:27,150,Jayson Tatum Defensive Rebound.,30,41
+1:17,311,Foul on Jaquan McKennon.,30,41
+1:17,150,Luke Kennard made Free Throw.,30,42
+1:17,150,Luke Kennard made Free Throw.,30,43
+1:01,311,Ilker Er made Layup. Assisted by Wesley Myers.,32,43
+0:52,150,Luke Kennard missed Three Point Jumper.,32,43
+0:52,150,Jayson Tatum Offensive Rebound.,32,43
+0:39,150,Luke Kennard missed Three Point Jumper.,32,43
+0:39,311,Maine Defensive Rebound.,32,43
+0:13,311,Wesley Myers missed Three Point Jumper.,32,43
+0:13,311,Vincent Eze Offensive Rebound.,32,43
+0:08,311,Vincent Eze missed Layup.,32,43
+0:08,150,Amile Jefferson Block.,32,43
+0:08,150,Luke Kennard Defensive Rebound.,32,43
+0:01,150,Luke Kennard made Three Point Jumper.,32,46
+0:00,150,End of 1st half,32,46
+20:00,150,Jump Ball won by Duke,32,46
+19:49,311,Foul on Ilija Stojiljkovic.,32,46
+19:49,150,Jayson Tatum made Free Throw.,32,47
+19:49,150,Jayson Tatum made Free Throw.,32,48
+19:34,311,Andrew Fleming made Layup. Assisted by Wesley Myers.,34,48
+19:19,311,Foul on Ilija Stojiljkovic.,34,48
+19:19,150,Amile Jefferson made Free Throw.,34,49
+19:19,150,Amile Jefferson made Free Throw.,34,50
+18:57,311,Ilija Stojiljkovic made Three Point Jumper. Assisted by Ryan Bernstein.,37,50
+18:35,150,Chase Jeter Turnover.,37,50
+18:35,311,Ilija Stojiljkovic Steal.,37,50
+18:28,311,Andrew Fleming missed Dunk.,37,50
+18:28,150,Luke Kennard Defensive Rebound.,37,50
+18:15,150,Jayson Tatum missed Jumper.,37,50
+18:15,150,Amile Jefferson Offensive Rebound.,37,50
+18:15,150,Amile Jefferson missed Two Point Tip Shot.,37,50
+18:15,311,Wesley Myers Defensive Rebound.,37,50
+18:06,311,Ilija Stojiljkovic missed Layup.,37,50
+18:06,150,Jayson Tatum Defensive Rebound.,37,50
+17:42,150,Marques Bolden missed Layup.,37,50
+17:42,311,Ilija Stojiljkovic Defensive Rebound.,37,50
+17:25,311,Wesley Myers missed Three Point Jumper.,37,50
+17:25,150,Luke Kennard Defensive Rebound.,37,50
+17:01,311,Foul on Ryan Bernstein.,37,50
+17:01,150,Luke Kennard made Three Point Jumper. Assisted by Matt Jones.,37,53
+16:41,311,Ilker Er missed Three Point Jumper.,37,53
+16:41,150,Amile Jefferson Defensive Rebound.,37,53
+16:37,311,Foul on Marko Pirovic.,37,53
+16:13,150,Luke Kennard made Three Point Jumper.,37,56
+16:00,311,Maine  Timeout,37,56
+15:56,311,Wesley Myers missed Layup.,37,56
+15:56,150,Marques Bolden Block.,37,56
+15:56,150,Luke Kennard Defensive Rebound.,37,56
+15:46,311,Jump Ball won by Maine,37,56
+15:46,150,Javin DeLaurier Turnover.,37,56
+15:46,311,Ryan Bernstein Steal.,37,56
+15:46,150,Official TV Timeout,37,56
+15:43,311,Wesley Myers missed Jumper.,37,56
+15:43,150,Javin DeLaurier Defensive Rebound.,37,56
+15:12,150,Amile Jefferson Turnover.,37,56
+14:55,311,Jaquan McKennon Turnover.,37,56
+14:55,150,Javin DeLaurier Steal.,37,56
+14:30,150,Luke Kennard missed Three Point Jumper.,37,56
+14:30,150,Marques Bolden Offensive Rebound.,37,56
+14:30,150,Marques Bolden made Two Point Tip Shot.,37,58
+14:08,311,Vincent Eze missed Layup.,37,58
+14:08,150,Amile Jefferson Defensive Rebound.,37,58
+13:45,150,Matt Jones missed Layup.,37,58
+13:45,150,Marques Bolden Offensive Rebound.,37,58
+13:41,150,Marques Bolden made Layup.,37,60
+13:23,311,Dennis Ashley made Jumper.,39,60
+13:04,150,Marques Bolden missed Jumper.,39,60
+13:04,150,Duke Offensive Rebound.,39,60
+12:55,150,Luke Kennard made Jumper.,39,62
+12:55,311,Foul on Dennis Ashley.,39,62
+12:55,150,Luke Kennard made Free Throw.,39,63
+12:36,311,Dennis Ashley missed Three Point Jumper.,39,63
+12:36,150,Luke Kennard Defensive Rebound.,39,63
+12:20,150,Matt Jones made Three Point Jumper. Assisted by Amile Jefferson.,39,66
+12:07,311,Wesley Myers missed Jumper.,39,66
+12:07,150,Matt Jones Defensive Rebound.,39,66
+11:44,150,Luke Kennard made Layup.,39,68
+11:42,311,Maine  Timeout,39,68
+11:18,311,Andrew Fleming missed Jumper.,39,68
+11:18,150,Matt Jones Defensive Rebound.,39,68
+10:50,150,Matt Jones missed Three Point Jumper.,39,68
+10:50,150,Javin DeLaurier Offensive Rebound.,39,68
+10:45,311,Foul on Andrew Fleming.,39,68
+10:45,150,Javin DeLaurier missed Free Throw.,39,68
+10:45,150,Duke Deadball Team Rebound.,39,68
+10:45,150,Javin DeLaurier made Free Throw.,39,69
+10:36,311,Ryan Bernstein missed Three Point Jumper.,39,69
+10:36,150,Antonio Vrankovic Defensive Rebound.,39,69
+10:20,150,Foul on Amile Jefferson.,39,69
+10:20,150,Amile Jefferson Turnover.,39,69
+10:11,311,Wesley Myers made Jumper.,41,69
+9:56,150,Amile Jefferson made Dunk.,41,71
+9:40,311,Dennis Ashley missed Three Point Jumper.,41,71
+9:40,150,Luke Kennard Defensive Rebound.,41,71
+9:27,150,Antonio Vrankovic made Dunk. Assisted by Amile Jefferson.,41,73
+9:07,311,Dennis Ashley missed Three Point Jumper.,41,73
+9:07,150,Matt Jones Defensive Rebound.,41,73
+8:57,150,Amile Jefferson made Layup. Assisted by Matt Jones.,41,75
+8:57,311,Foul on Andrew Fleming.,41,75
+8:57,150,Amile Jefferson made Free Throw.,41,76
+8:49,311,Vincent Eze made Jumper. Assisted by Ryan Bernstein.,43,76
+8:28,150,Matt Jones missed Jumper.,43,76
+8:28,150,Antonio Vrankovic Offensive Rebound.,43,76
+8:28,150,Antonio Vrankovic made Two Point Tip Shot.,43,78
+8:11,311,Marko Pirovic missed Three Point Jumper.,43,78
+8:11,150,Jack White Defensive Rebound.,43,78
+7:50,150,Luke Kennard made Jumper.,43,80
+7:35,150,Foul on Antonio Vrankovic.,43,80
+7:35,150,Official TV Timeout,43,80
+7:35,311,Vincent Eze missed Free Throw.,43,80
+7:35,311,Maine Deadball Team Rebound.,43,80
+7:35,311,Vincent Eze made Free Throw.,44,80
+7:11,311,Foul on Vincent Eze.,44,80
+7:11,150,Chase Jeter missed Free Throw.,44,80
+7:11,311,Ryan Bernstein Defensive Rebound.,44,80
+7:09,311,Austin Howard missed Three Point Jumper.,44,80
+7:09,311,Danny Evans Offensive Rebound.,44,80
+6:56,311,Vincent Eze made Layup. Assisted by Austin Howard.,46,80
+6:32,150,Luke Kennard made Jumper. Assisted by Antonio Vrankovic.,46,82
+6:10,150,Foul on Matt Jones.,46,82
+6:02,311,Marko Pirovic missed Three Point Jumper.,46,82
+6:02,150,Jack White Defensive Rebound.,46,82
+5:34,150,Javin DeLaurier made Layup. Assisted by Chase Jeter.,46,84
+5:33,150,Duke  Timeout,46,84
+5:25,311,Wesley Myers made Three Point Jumper.,49,84
+5:04,150,Chase Jeter made Layup. Assisted by Antonio Vrankovic.,49,86
+4:44,311,Ilker Er missed Three Point Jumper.,49,86
+4:44,311,Vincent Eze Offensive Rebound.,49,86
+4:37,311,Vincent Eze Turnover.,49,86
+4:37,150,Javin DeLaurier Steal.,49,86
+4:21,150,Foul on Chase Jeter.,49,86
+4:21,150,Chase Jeter Turnover.,49,86
+4:08,311,Dennis Ashley missed Three Point Jumper.,49,86
+4:08,150,Javin DeLaurier Defensive Rebound.,49,86
+3:49,150,Amile Jefferson made Jumper.,49,88
+3:36,311,Vincent Eze missed Layup.,49,88
+3:36,150,Antonio Vrankovic Block.,49,88
+3:36,311,Maine Offensive Rebound.,49,88
+3:33,150,Official TV Timeout,49,88
+3:33,311,Andrew Fleming missed Dunk.,49,88
+3:33,311,Andrew Fleming Offensive Rebound.,49,88
+3:33,311,Andrew Fleming missed Two Point Tip Shot.,49,88
+3:33,150,Jack White Defensive Rebound.,49,88
+3:30,311,Foul on Andrew Fleming.,49,88
+3:30,150,Jack White made Free Throw.,49,89
+3:30,150,Jack White made Free Throw.,49,90
+2:58,311,Dennis Ashley missed Layup.,49,90
+2:58,150,Amile Jefferson Defensive Rebound.,49,90
+2:32,150,Antonio Vrankovic made Layup. Assisted by Amile Jefferson.,49,92
+2:12,311,Wesley Myers made Three Point Jumper. Assisted by Dennis Ashley.,52,92
+2:07,311,Maine  Timeout,52,92
+1:43,150,Antonio Vrankovic made Jumper. Assisted by Nick Pagliuca.,52,94
+1:24,150,Foul on Javin DeLaurier.,52,94
+1:21,311,Garvey Melmed made Three Point Jumper. Assisted by C.J. Ward.,55,94
+0:58,150,Chase Jeter Turnover.,55,94
+0:48,311,C.J. Ward missed Three Point Jumper.,55,94
+0:48,150,Antonio Vrankovic Defensive Rebound.,55,94
+0:24,150,Antonio Vrankovic missed Jumper.,55,94
+0:24,311,Andrew Fleming Defensive Rebound.,55,94
+0:17,311,C.J. Ward missed Layup.,55,94
+0:17,150,Jack White Block.,55,94
+0:17,311,Maine Offensive Rebound.,55,94
+0:14,311,Dennis Ashley missed Three Point Jumper.,55,94
+0:14,150,Jack White Defensive Rebound.,55,94
+0:00,150,End of Game,55,94

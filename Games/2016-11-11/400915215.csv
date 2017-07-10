@@ -1,0 +1,369 @@
+Evansville,97,Louisville,339
+time,team_id,description,h_score,a_score
+20:00,97,Jump Ball won by Louisville,0,0
+19:44,97,Jaylen Johnson Turnover.,0,0
+19:35,339,Foul on Willie Wiley.,0,0
+19:35,339,Willie Wiley Turnover.,0,0
+19:19,97,Deng Adel missed Jumper.,0,0
+19:19,339,David Howard Defensive Rebound.,0,0
+19:05,339,Duane Gibson Turnover.,0,0
+19:05,97,Donovan Mitchell Steal.,0,0
+19:00,97,Donovan Mitchell made Layup.,0,2
+18:45,339,Ryan Taylor missed Layup.,0,2
+18:45,339,David Howard Offensive Rebound.,0,2
+18:38,339,Ryan Taylor missed Layup.,0,2
+18:38,97,Jaylen Johnson Defensive Rebound.,0,2
+18:36,97,Jaylen Johnson Turnover.,0,2
+18:31,339,Ryan Taylor missed Jumper.,0,2
+18:31,97,Deng Adel Defensive Rebound.,0,2
+18:22,97,Jaylen Johnson made Dunk. Assisted by Quentin Snider.,0,4
+18:12,339,Ryan Taylor made Three Point Jumper. Assisted by Jaylon Brown.,3,4
+17:50,339,Foul on Willie Wiley.,3,4
+17:50,97,Quentin Snider missed Free Throw.,3,4
+17:50,97,Louisville Deadball Team Rebound.,3,4
+17:50,97,Quentin Snider made Free Throw.,3,5
+17:40,339,Ryan Taylor missed Three Point Jumper.,3,5
+17:40,97,Donovan Mitchell Defensive Rebound.,3,5
+17:34,97,Donovan Mitchell Turnover.,3,5
+17:34,339,Jaylon Brown Steal.,3,5
+17:29,339,Jaylon Brown made Layup.,5,5
+17:09,97,Deng Adel missed Three Point Jumper.,5,5
+17:09,97,Jaylen Johnson Offensive Rebound.,5,5
+17:03,97,Jaylen Johnson Turnover.,5,5
+17:03,339,Ryan Taylor Steal.,5,5
+16:57,339,David Howard made Layup. Assisted by Duane Gibson.,7,5
+16:38,339,Foul on David Howard.,7,5
+16:38,97,Quentin Snider made Free Throw.,7,6
+16:38,97,Quentin Snider made Free Throw.,7,7
+16:15,339,Foul on Sergej Vucetic.,7,7
+16:15,339,Sergej Vucetic Turnover.,7,7
+16:05,97,Donovan Mitchell made Jumper.,7,9
+15:39,339,Sergej Vucetic missed Layup.,7,9
+15:39,339,Sergej Vucetic Offensive Rebound.,7,9
+15:39,339,Sergej Vucetic made Two Point Tip Shot.,9,9
+15:24,97,Ray Spalding made Dunk. Assisted by Quentin Snider.,9,11
+14:53,339,Jaylon Brown missed Jumper.,9,11
+14:53,97,Donovan Mitchell Defensive Rebound.,9,11
+14:47,339,Foul on Ryan Taylor.,9,11
+14:47,97,Official TV Timeout,9,11
+14:47,97,Deng Adel missed Free Throw.,9,11
+14:47,97,Louisville Deadball Team Rebound.,9,11
+14:47,97,Deng Adel made Free Throw.,9,12
+14:27,339,Ryan Taylor missed Three Point Jumper.,9,12
+14:27,97,Anas Mahmoud Defensive Rebound.,9,12
+14:10,97,Donovan Mitchell missed Three Point Jumper.,9,12
+14:10,339,David Howard Defensive Rebound.,9,12
+13:59,97,Foul on Ray Spalding.,9,12
+13:59,339,Sergej Vucetic missed Free Throw.,9,12
+13:59,339,Evansville Deadball Team Rebound.,9,12
+13:59,339,Sergej Vucetic made Free Throw.,10,12
+13:38,97,Donovan Mitchell Turnover.,10,12
+13:38,339,Ryan Taylor Steal.,10,12
+13:32,339,Ryan Taylor made Layup.,12,12
+13:25,339,Foul on Sergej Vucetic.,12,12
+13:25,97,V.J. King missed Free Throw.,12,12
+13:25,97,Louisville Deadball Team Rebound.,12,12
+13:25,97,V.J. King made Free Throw.,12,13
+13:16,339,Jaylon Brown missed Jumper.,12,13
+13:16,97,Anas Mahmoud Block.,12,13
+13:16,339,Christian Benzon Offensive Rebound.,12,13
+13:09,339,Christian Benzon made Layup.,14,13
+12:55,97,Jaylen Johnson made Jumper.,14,15
+12:28,339,Ryan Taylor missed Jumper.,14,15
+12:28,97,V.J. King Defensive Rebound.,14,15
+12:15,97,Jaylen Johnson missed Jumper.,14,15
+12:15,339,Ryan Taylor Defensive Rebound.,14,15
+12:07,97,Foul on Quentin Snider.,14,15
+12:02,97,Foul on Quentin Snider.,14,15
+11:48,339,Jaylon Brown made Three Point Jumper. Assisted by Dru Smith.,17,15
+11:40,97,Donovan Mitchell made Three Point Jumper. Assisted by Deng Adel.,17,18
+11:19,339,Christian Benzon made Jumper.,19,18
+11:03,97,Official TV Timeout,19,18
+10:48,97,Mangok Mathiang made Dunk. Assisted by Donovan Mitchell.,19,20
+10:46,97,Technical Foul on Mangok Mathiang.,19,20
+10:46,339,Dru Smith made Free Throw.,20,20
+10:26,339,Jaylon Brown missed Jumper.,20,20
+10:26,97,Jaylen Johnson Defensive Rebound.,20,20
+10:13,97,Tony Hicks missed Three Point Jumper.,20,20
+10:13,97,Jaylen Johnson Offensive Rebound.,20,20
+10:08,97,Deng Adel missed Three Point Jumper.,20,20
+10:08,339,Dru Smith Defensive Rebound.,20,20
+9:51,339,Jaylon Brown made Three Point Jumper. Assisted by Dru Smith.,23,20
+9:32,97,Deng Adel missed Jumper.,23,20
+9:32,339,David Howard Defensive Rebound.,23,20
+9:06,339,Jaylon Brown made Three Point Jumper.,26,20
+9:00,97,Louisville  Timeout,26,20
+8:32,97,Mangok Mathiang missed Layup.,26,20
+8:32,97,Jaylen Johnson Offensive Rebound.,26,20
+8:28,97,Jaylen Johnson made Layup.,26,22
+8:08,339,Ryan Taylor missed Jumper.,26,22
+8:08,97,Jaylen Johnson Defensive Rebound.,26,22
+7:52,97,Tony Hicks made Jumper.,26,24
+7:45,339,Dru Smith Turnover.,26,24
+7:45,97,Donovan Mitchell Steal.,26,24
+7:43,339,Foul on Dru Smith.,26,24
+7:43,97,Official TV Timeout,26,24
+7:43,97,Donovan Mitchell missed Free Throw.,26,24
+7:43,97,Louisville Deadball Team Rebound.,26,24
+7:43,97,Donovan Mitchell made Free Throw.,26,25
+7:16,339,Jaylon Brown missed Three Point Jumper.,26,25
+7:16,339,David Howard Offensive Rebound.,26,25
+7:12,97,Foul on Mangok Mathiang.,26,25
+6:49,339,Ryan Taylor missed Jumper.,26,25
+6:49,97,V.J. King Block.,26,25
+6:49,339,Ryan Taylor Offensive Rebound.,26,25
+6:49,339,Ryan Taylor missed Layup.,26,25
+6:49,97,Jaylen Johnson Block.,26,25
+6:49,339,Ryan Taylor Offensive Rebound.,26,25
+6:45,339,Ryan Taylor Turnover.,26,25
+6:45,97,Donovan Mitchell Steal.,26,25
+6:38,97,Mangok Mathiang missed Layup.,26,25
+6:38,97,Mangok Mathiang Offensive Rebound.,26,25
+6:32,97,Donovan Mitchell made Jumper.,26,27
+6:11,339,Duane Gibson missed Jumper.,26,27
+6:11,97,Mangok Mathiang Block.,26,27
+6:11,97,Jaylen Johnson Defensive Rebound.,26,27
+6:03,97,Donovan Mitchell Turnover.,26,27
+6:03,339,Christian Benzon Steal.,26,27
+5:48,339,Ryan Taylor Turnover.,26,27
+5:48,97,Donovan Mitchell Steal.,26,27
+5:37,339,Foul on Christian Benzon.,26,27
+5:37,97,V.J. King made Free Throw.,26,28
+5:37,97,V.J. King made Free Throw.,26,29
+5:11,339,Jaylon Brown missed Jumper.,26,29
+5:11,97,Jaylen Johnson Defensive Rebound.,26,29
+4:55,339,Foul on Christian Benzon.,26,29
+4:55,97,V.J. King missed Free Throw.,26,29
+4:55,97,Louisville Deadball Team Rebound.,26,29
+4:55,97,V.J. King made Free Throw.,26,30
+4:42,339,Evansville  Timeout,26,30
+4:34,339,Christian Benzon missed Layup.,26,30
+4:34,97,Jaylen Johnson Block.,26,30
+4:34,339,Ryan Taylor Offensive Rebound.,26,30
+4:27,339,Dru Smith missed Three Point Jumper.,26,30
+4:27,339,Christian Benzon Offensive Rebound.,26,30
+4:24,339,Christian Benzon missed Jumper.,26,30
+4:24,97,V.J. King Defensive Rebound.,26,30
+4:24,339,Foul on Ryan Taylor.,26,30
+4:24,97,V.J. King made Free Throw.,26,31
+4:24,97,V.J. King made Free Throw.,26,32
+4:01,339,Jaylon Brown Turnover.,26,32
+4:01,97,David Levitch Steal.,26,32
+3:55,97,David Levitch missed Layup.,26,32
+3:55,339,Ryan Taylor Block.,26,32
+3:55,97,Louisville Offensive Rebound.,26,32
+3:55,97,Official TV Timeout,26,32
+3:44,97,Anas Mahmoud made Jumper.,26,34
+3:25,339,Dru Smith missed Three Point Jumper.,26,34
+3:25,97,Donovan Mitchell Defensive Rebound.,26,34
+3:15,97,Deng Adel missed Jumper.,26,34
+3:15,97,Donovan Mitchell Offensive Rebound.,26,34
+3:05,97,Jaylen Johnson made Three Point Jumper. Assisted by David Levitch.,26,37
+2:42,339,Ryan Taylor missed Three Point Jumper.,26,37
+2:42,339,David Howard Offensive Rebound.,26,37
+2:37,339,Evansville  Turnover.,26,37
+2:15,97,Mangok Mathiang Turnover.,26,37
+2:15,339,Ryan Taylor Steal.,26,37
+1:54,339,David Howard missed Jumper.,26,37
+1:54,97,Mangok Mathiang Block.,26,37
+1:54,97,Deng Adel Defensive Rebound.,26,37
+1:44,97,Ray Spalding missed Three Point Jumper.,26,37
+1:44,339,Ryan Taylor Defensive Rebound.,26,37
+1:42,97,Foul on Mangok Mathiang.,26,37
+1:37,339,Dru Smith missed Layup.,26,37
+1:37,97,Anas Mahmoud Block.,26,37
+1:37,97,Anas Mahmoud Defensive Rebound.,26,37
+1:32,97,Donovan Mitchell made Three Point Jumper. Assisted by Deng Adel.,26,40
+1:17,97,Foul on Anas Mahmoud.,26,40
+1:17,339,Jaylon Brown missed Free Throw.,26,40
+1:17,339,Evansville Deadball Team Rebound.,26,40
+1:17,339,Jaylon Brown made Free Throw.,27,40
+1:05,97,Donovan Mitchell missed Three Point Jumper.,27,40
+1:05,97,Anas Mahmoud Offensive Rebound.,27,40
+0:54,97,Donovan Mitchell missed Three Point Jumper.,27,40
+0:54,97,Donovan Mitchell Offensive Rebound.,27,40
+0:46,97,David Levitch missed Jumper.,27,40
+0:46,339,Dru Smith Defensive Rebound.,27,40
+0:26,339,David Howard Turnover.,27,40
+0:26,97,Anas Mahmoud Steal.,27,40
+0:03,339,Foul on Dru Smith.,27,40
+0:03,97,Deng Adel made Free Throw.,27,41
+0:03,97,Deng Adel made Free Throw.,27,42
+0:03,97,Deng Adel made Free Throw.,27,43
+0:01,339,Jaylon Brown missed Three Point Jumper.,27,43
+0:01,97,David Levitch Defensive Rebound.,27,43
+0:00,97,End of 1st half,27,43
+20:00,97,Jump Ball won by Louisville,27,43
+19:42,97,Donovan Mitchell made Jumper.,27,45
+19:35,339,Evansville  Timeout,27,45
+19:30,339,Ryan Taylor Turnover.,27,45
+19:30,97,Deng Adel Steal.,27,45
+19:29,97,Quentin Snider missed Three Point Jumper.,27,45
+19:29,97,Jaylen Johnson Offensive Rebound.,27,45
+19:28,339,Foul on Willie Wiley.,27,45
+19:28,97,Jaylen Johnson missed Free Throw.,27,45
+19:28,97,Louisville Deadball Team Rebound.,27,45
+19:28,97,Jaylen Johnson missed Free Throw.,27,45
+19:28,97,Deng Adel Offensive Rebound.,27,45
+19:20,97,Jaylen Johnson made Dunk. Assisted by Donovan Mitchell.,27,47
+19:02,339,Duane Gibson made Jumper. Assisted by Ryan Taylor.,29,47
+18:45,97,Jaylen Johnson made Layup. Assisted by Anas Mahmoud.,29,49
+18:22,339,David Howard missed Layup.,29,49
+18:22,339,Evansville Offensive Rebound.,29,49
+18:08,97,Foul on Anas Mahmoud.,29,49
+18:03,339,Willie Wiley missed Jumper.,29,49
+18:03,97,Jaylen Johnson Defensive Rebound.,29,49
+17:44,97,Anas Mahmoud made Layup. Assisted by Jaylen Johnson.,29,51
+17:20,339,Ryan Taylor missed Jumper.,29,51
+17:20,97,Anas Mahmoud Block.,29,51
+17:20,97,Deng Adel Defensive Rebound.,29,51
+17:12,97,Anas Mahmoud made Dunk. Assisted by Quentin Snider.,29,53
+16:56,339,Jaylon Brown missed Three Point Jumper.,29,53
+16:56,97,Deng Adel Defensive Rebound.,29,53
+16:46,97,Anas Mahmoud Turnover.,29,53
+16:46,339,Willie Wiley Steal.,29,53
+16:40,339,Jaylon Brown missed Jumper.,29,53
+16:40,97,Anas Mahmoud Defensive Rebound.,29,53
+16:27,97,Donovan Mitchell missed Three Point Jumper.,29,53
+16:27,339,David Howard Defensive Rebound.,29,53
+16:01,339,Sergej Vucetic missed Layup.,29,53
+16:01,97,Ray Spalding Block.,29,53
+16:01,97,Quentin Snider Defensive Rebound.,29,53
+15:41,97,Mangok Mathiang missed Jumper.,29,53
+15:41,339,Sergej Vucetic Defensive Rebound.,29,53
+15:15,97,Foul on Ray Spalding.,29,53
+15:15,97,Official TV Timeout,29,53
+15:15,339,Jaylon Brown missed Free Throw.,29,53
+15:15,339,Evansville Deadball Team Rebound.,29,53
+15:15,339,Jaylon Brown missed Free Throw.,29,53
+15:15,97,Mangok Mathiang Defensive Rebound.,29,53
+15:09,97,Tony Hicks missed Jumper.,29,53
+15:09,339,Willie Wiley Defensive Rebound.,29,53
+14:54,339,Duane Gibson missed Layup.,29,53
+14:54,97,Ray Spalding Defensive Rebound.,29,53
+14:32,97,Deng Adel Turnover.,29,53
+14:05,339,Duane Gibson missed Jumper.,29,53
+14:05,339,Willie Wiley Offensive Rebound.,29,53
+14:00,339,Willie Wiley missed Layup.,29,53
+14:00,97,Ray Spalding Defensive Rebound.,29,53
+13:49,97,Ray Spalding missed Layup.,29,53
+13:49,339,Sergej Vucetic Block.,29,53
+13:49,339,Willie Wiley Defensive Rebound.,29,53
+13:41,339,Jaiveon Eaves Turnover.,29,53
+13:41,97,Tony Hicks Steal.,29,53
+13:38,339,Foul on Dru Smith.,29,53
+13:27,97,Deng Adel missed Three Point Jumper.,29,53
+13:27,97,Ray Spalding Offensive Rebound.,29,53
+13:23,97,Mangok Mathiang made Dunk. Assisted by Ray Spalding.,29,55
+13:03,339,Jaiveon Eaves missed Three Point Jumper.,29,55
+13:03,97,Quentin Snider Defensive Rebound.,29,55
+12:55,97,Quentin Snider Turnover.,29,55
+12:31,97,Foul on Ray Spalding.,29,55
+12:31,339,Dru Smith made Free Throw.,30,55
+12:31,339,Dru Smith made Free Throw.,31,55
+12:18,97,Tony Hicks missed Jumper.,31,55
+12:18,339,Dru Smith Defensive Rebound.,31,55
+11:53,339,Sergej Vucetic made Layup. Assisted by Duane Gibson.,33,55
+11:37,97,Official TV Timeout,33,55
+11:37,339,Foul on Jaiveon Eaves.,33,55
+11:13,97,Mangok Mathiang missed Layup.,33,55
+11:13,339,Jaiveon Eaves Defensive Rebound.,33,55
+11:06,339,Sergej Vucetic missed Jumper.,33,55
+11:06,97,Jaylen Johnson Defensive Rebound.,33,55
+11:04,97,Tony Hicks Turnover.,33,55
+11:04,339,Dru Smith Steal.,33,55
+11:02,339,Dru Smith made Layup.,35,55
+10:41,97,V.J. King missed Three Point Jumper.,35,55
+10:41,97,Mangok Mathiang Offensive Rebound.,35,55
+10:33,97,Mangok Mathiang made Layup.,35,57
+10:13,339,Sergej Vucetic missed Jumper.,35,57
+10:13,97,Mangok Mathiang Defensive Rebound.,35,57
+10:01,97,Mangok Mathiang made Layup. Assisted by Tony Hicks.,35,59
+9:39,97,Foul on Quentin Snider.,35,59
+9:32,339,Sergej Vucetic missed Jumper.,35,59
+9:32,97,Tony Hicks Defensive Rebound.,35,59
+9:22,97,Tony Hicks made Layup.,35,61
+8:52,339,Solomon Hainna missed Jumper.,35,61
+8:52,97,Jaylen Johnson Block.,35,61
+8:52,97,Tony Hicks Defensive Rebound.,35,61
+8:46,97,Jaylen Johnson made Layup. Assisted by Tony Hicks.,35,63
+8:28,339,Evansville  Timeout,35,63
+8:13,339,Dru Smith missed Jumper.,35,63
+8:13,97,Mangok Mathiang Defensive Rebound.,35,63
+7:45,97,Donovan Mitchell missed Jumper.,35,63
+7:45,97,Mangok Mathiang Offensive Rebound.,35,63
+7:39,97,Mangok Mathiang missed Layup.,35,63
+7:39,97,Mangok Mathiang Offensive Rebound.,35,63
+7:39,97,Mangok Mathiang missed Two Point Tip Shot.,35,63
+7:39,97,Jaylen Johnson Offensive Rebound.,35,63
+7:39,97,Jaylen Johnson made Two Point Tip Shot.,35,65
+7:09,339,Dalen Traore made Jumper.,37,65
+6:45,339,Foul on Solomon Hainna.,37,65
+6:45,97,Mangok Mathiang made Free Throw.,37,66
+6:45,97,Mangok Mathiang missed Free Throw.,37,66
+6:45,339,Dalen Traore Defensive Rebound.,37,66
+6:38,339,Dru Smith Turnover.,37,66
+6:38,97,Tony Hicks Steal.,37,66
+6:36,339,Foul on Dru Smith.,37,66
+6:36,97,Tony Hicks missed Free Throw.,37,66
+6:36,97,Louisville Deadball Team Rebound.,37,66
+6:36,97,Tony Hicks missed Free Throw.,37,66
+6:36,97,Jaylen Johnson Offensive Rebound.,37,66
+6:36,97,Jaylen Johnson missed Two Point Tip Shot.,37,66
+6:36,97,Jaylen Johnson Offensive Rebound.,37,66
+6:31,97,Jaylen Johnson made Layup.,37,68
+6:01,97,Foul on V.J. King.,37,68
+6:01,339,Jaylon Brown missed Free Throw.,37,68
+6:01,339,Evansville Deadball Team Rebound.,37,68
+6:01,339,Jaylon Brown made Free Throw.,38,68
+5:41,97,Anas Mahmoud made Layup. Assisted by Donovan Mitchell.,38,70
+5:23,97,Foul on Ray Spalding.,38,70
+5:23,339,Christian Benzon missed Free Throw.,38,70
+5:23,339,Evansville Deadball Team Rebound.,38,70
+5:23,339,Christian Benzon made Free Throw.,39,70
+5:10,97,Deng Adel missed Layup.,39,70
+5:10,339,Solomon Hainna Defensive Rebound.,39,70
+5:00,97,Foul on Ryan McMahon.,39,70
+5:00,339,Jaylon Brown made Free Throw.,40,70
+5:00,339,Jaylon Brown made Free Throw.,41,70
+4:39,339,Foul on Ryan Taylor.,41,70
+4:30,97,Anas Mahmoud made Jumper.,41,72
+4:13,339,Ryan Taylor missed Three Point Jumper.,41,72
+4:13,97,David Levitch Defensive Rebound.,41,72
+3:52,97,Ryan McMahon missed Three Point Jumper.,41,72
+3:52,339,Christian Benzon Defensive Rebound.,41,72
+3:37,339,Solomon Hainna missed Three Point Jumper.,41,72
+3:37,97,Anas Mahmoud Defensive Rebound.,41,72
+3:20,97,Deng Adel made Jumper. Assisted by David Levitch.,41,74
+2:52,97,Foul on Ryan McMahon.,41,74
+2:52,97,Official TV Timeout,41,74
+2:52,339,Dalen Traore missed Free Throw.,41,74
+2:52,97,Ray Spalding Defensive Rebound.,41,74
+2:36,97,Ray Spalding missed Jumper.,41,74
+2:36,339,Jaiveon Eaves Defensive Rebound.,41,74
+2:30,97,Foul on Matz Stockman.,41,74
+2:30,339,Willie Wiley missed Free Throw.,41,74
+2:30,339,Evansville Deadball Team Rebound.,41,74
+2:30,339,Willie Wiley missed Free Throw.,41,74
+2:30,97,David Levitch Defensive Rebound.,41,74
+2:09,97,Matz Stockman missed Dunk.,41,74
+2:09,97,Matz Stockman Offensive Rebound.,41,74
+2:05,97,Matz Stockman made Layup.,41,76
+1:55,339,Jaiveon Eaves Turnover.,41,76
+1:55,97,Ray Spalding Steal.,41,76
+1:35,339,Foul on Christian Benzon.,41,76
+1:35,97,Matz Stockman missed Free Throw.,41,76
+1:35,97,Louisville Deadball Team Rebound.,41,76
+1:35,97,Matz Stockman missed Free Throw.,41,76
+1:35,339,Jaylon Brown Defensive Rebound.,41,76
+1:26,339,Jaylon Brown made Layup.,43,76
+0:51,97,Ryan McMahon missed Jumper.,43,76
+0:51,97,Matz Stockman Offensive Rebound.,43,76
+0:47,97,Matz Stockman made Layup.,43,78
+0:45,97,Foul on Ryan McMahon.,43,78
+0:45,339,Jaylon Brown made Free Throw.,44,78
+0:45,339,Jaylon Brown made Free Throw.,45,78
+0:35,97,Foul on Ray Spalding.,45,78
+0:35,97,Ray Spalding Turnover.,45,78
+0:18,339,Dalen Traore made Layup.,47,78
+0:00,97,End of Game,47,78

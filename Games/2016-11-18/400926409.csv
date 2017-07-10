@@ -1,0 +1,353 @@
+Pittsburgh,269,Marquette,221
+time,team_id,description,h_score,a_score
+20:00,269,Jump Ball won by Marquette,0,0
+19:41,269,Jajuan Johnson Turnover.,0,0
+19:41,221,Michael Young Steal.,0,0
+19:32,221,Sheldon Jeter Turnover.,0,0
+19:14,269,Jajuan Johnson missed Three Point Jumper.,0,0
+19:14,221,Chris Jones Defensive Rebound.,0,0
+18:54,221,Michael Young missed Jumper.,0,0
+18:54,269,Marquette Defensive Rebound.,0,0
+18:50,221,Foul on Sheldon Jeter.,0,0
+18:38,269,Katin Reinhardt missed Jumper.,0,0
+18:38,221,Chris Jones Defensive Rebound.,0,0
+18:28,221,Cameron Johnson Turnover.,0,0
+18:28,269,Traci Carter Steal.,0,0
+18:22,269,Haanif Cheatham made Layup. Assisted by Traci Carter.,0,2
+18:07,221,Sheldon Jeter missed Three Point Jumper.,0,2
+18:07,221,Jamel Artis Offensive Rebound.,0,2
+18:04,221,Jamel Artis made Layup.,2,2
+17:47,269,Katin Reinhardt Turnover.,2,2
+17:36,221,Chris Jones made Layup. Assisted by Cameron Johnson.,4,2
+17:15,269,Luke Fischer missed Jumper.,4,2
+17:15,221,Michael Young Defensive Rebound.,4,2
+16:55,221,Michael Young missed Jumper.,4,2
+16:55,269,Luke Fischer Defensive Rebound.,4,2
+16:48,269,Traci Carter made Jumper.,4,4
+16:29,221,Jump Ball won by Pittsburgh,4,4
+16:25,269,Foul on Sam Hauser.,4,4
+16:25,221,Sheldon Jeter missed Free Throw.,4,4
+16:25,221,Pittsburgh Deadball Team Rebound.,4,4
+16:25,221,Sheldon Jeter made Free Throw.,5,4
+16:16,269,Luke Fischer made Jumper. Assisted by Haanif Cheatham.,5,6
+15:47,221,Michael Young made Jumper.,7,6
+15:30,269,Duane Wilson made Jumper.,7,8
+15:19,269,Foul on Traci Carter.,7,8
+15:19,269,Official TV Timeout,7,8
+15:10,221,Michael Young missed Jumper.,7,8
+15:10,269,Duane Wilson Defensive Rebound.,7,8
+14:45,269,Markus Howard missed Three Point Jumper.,7,8
+14:45,221,Cameron Johnson Defensive Rebound.,7,8
+14:39,269,Foul on Jajuan Johnson.,7,8
+14:25,221,Jamel Artis made Three Point Jumper. Assisted by Justice Kithcart.,10,8
+14:14,269,Markus Howard Turnover.,10,8
+14:02,269,Foul on Traci Carter.,10,8
+13:56,221,Michael Young made Jumper. Assisted by Cameron Johnson.,12,8
+13:32,269,Foul on Duane Wilson.,12,8
+13:32,269,Duane Wilson Turnover.,12,8
+13:15,221,Jonathan Milligan missed Three Point Jumper.,12,8
+13:15,269,Marquette Defensive Rebound.,12,8
+13:11,221,Foul on Sheldon Jeter.,12,8
+13:03,269,Jajuan Johnson made Jumper.,12,10
+12:47,269,Foul on Luke Fischer.,12,10
+12:35,221,Ryan Luther made Jumper.,14,10
+12:21,269,Katin Reinhardt missed Jumper.,14,10
+12:21,221,Ryan Luther Block.,14,10
+12:21,221,Rozelle Nix Defensive Rebound.,14,10
+12:12,221,Damon Wilson missed Layup.,14,10
+12:12,269,Matt Heldt Block.,14,10
+12:12,269,Katin Reinhardt Defensive Rebound.,14,10
+12:03,221,Foul on Ryan Luther.,14,10
+12:03,269,Andrew Rowsey made Free Throw.,14,11
+12:03,269,Andrew Rowsey made Free Throw.,14,12
+12:03,269,Andrew Rowsey made Free Throw.,14,13
+11:49,221,Jonathan Milligan Turnover.,14,13
+11:49,269,Jajuan Johnson Steal.,14,13
+11:49,221,Foul on Damon Wilson.,14,13
+11:49,269,Official TV Timeout,14,13
+11:34,269,Sam Hauser missed Three Point Jumper.,14,13
+11:34,269,Sam Hauser Offensive Rebound.,14,13
+11:18,269,Andrew Rowsey missed Jumper.,14,13
+11:18,221,Michael Young Block.,14,13
+11:18,269,Luke Fischer Offensive Rebound.,14,13
+11:16,269,Luke Fischer made Layup.,14,15
+10:56,269,Foul on Sam Hauser.,14,15
+10:56,221,Chris Jones made Free Throw.,15,15
+10:56,221,Chris Jones made Free Throw.,16,15
+10:33,269,Sam Hauser made Layup. Assisted by Luke Fischer.,16,17
+10:33,221,Foul on Cameron Johnson.,16,17
+10:33,269,Sam Hauser made Free Throw.,16,18
+10:20,221,Michael Young missed Jumper.,16,18
+10:20,221,Cameron Johnson Offensive Rebound.,16,18
+10:18,269,Foul on Andrew Rowsey.,16,18
+10:18,221,Cameron Johnson missed Free Throw.,16,18
+10:18,269,Jajuan Johnson Defensive Rebound.,16,18
+10:09,269,Haanif Cheatham made Layup.,16,20
+9:53,221,Ryan Luther missed Three Point Jumper.,16,20
+9:53,269,Jajuan Johnson Defensive Rebound.,16,20
+9:41,269,Jajuan Johnson missed Layup.,16,20
+9:41,221,Cameron Johnson Defensive Rebound.,16,20
+9:35,221,Ryan Luther made Layup. Assisted by Cameron Johnson.,18,20
+9:18,269,Andrew Rowsey missed Three Point Jumper.,18,20
+9:18,221,Michael Young Defensive Rebound.,18,20
+9:12,221,Cameron Johnson missed Layup.,18,20
+9:12,269,Sam Hauser Block.,18,20
+9:12,221,Cameron Johnson Offensive Rebound.,18,20
+9:12,221,Cameron Johnson Turnover.,18,20
+9:04,269,Haanif Cheatham missed Three Point Jumper.,18,20
+9:04,221,Michael Young Defensive Rebound.,18,20
+8:54,221,Michael Young made Layup.,20,20
+8:54,269,Foul on Matt Heldt.,20,20
+8:54,221,Michael Young made Free Throw.,21,20
+8:41,269,Jajuan Johnson made Layup.,21,22
+8:16,221,Damon Wilson Turnover.,21,22
+8:16,269,Katin Reinhardt Steal.,21,22
+8:06,269,Jajuan Johnson missed Three Point Jumper.,21,22
+8:06,221,Jamel Artis Defensive Rebound.,21,22
+7:56,221,Jamel Artis missed Jumper.,21,22
+7:56,269,Markus Howard Defensive Rebound.,21,22
+7:37,269,Jajuan Johnson missed Layup.,21,22
+7:37,221,Damon Wilson Defensive Rebound.,21,22
+7:25,221,Michael Young missed Three Point Jumper.,21,22
+7:25,269,Markus Howard Defensive Rebound.,21,22
+7:04,269,Haanif Cheatham missed Jumper.,21,22
+7:04,221,Pittsburgh Defensive Rebound.,21,22
+7:04,269,Official TV Timeout,21,22
+7:00,221,Cameron Johnson missed Three Point Jumper.,21,22
+7:00,269,Katin Reinhardt Defensive Rebound.,21,22
+6:42,269,Markus Howard Turnover.,21,22
+6:42,221,Justice Kithcart Steal.,21,22
+6:31,221,Jamel Artis missed Three Point Jumper.,21,22
+6:31,269,Luke Fischer Defensive Rebound.,21,22
+6:12,269,Duane Wilson missed Three Point Jumper.,21,22
+6:12,221,Justice Kithcart Defensive Rebound.,21,22
+6:11,269,Foul on Markus Howard.,21,22
+6:11,221,Justice Kithcart missed Free Throw.,21,22
+6:11,221,Pittsburgh Deadball Team Rebound.,21,22
+6:11,221,Justice Kithcart missed Free Throw.,21,22
+6:11,269,Jajuan Johnson Defensive Rebound.,21,22
+5:59,221,Foul on Jamel Artis.,21,22
+5:59,269,Jajuan Johnson Turnover.,21,22
+5:59,221,Jamel Artis Steal.,21,22
+5:51,221,Jamel Artis missed Jumper.,21,22
+5:51,269,Luke Fischer Defensive Rebound.,21,22
+5:44,269,Katin Reinhardt missed Layup.,21,22
+5:44,221,Justice Kithcart Defensive Rebound.,21,22
+5:32,221,Foul on Ryan Luther.,21,22
+5:32,221,Ryan Luther Turnover.,21,22
+5:24,269,Duane Wilson made Three Point Jumper. Assisted by Jajuan Johnson.,21,25
+5:04,269,Foul on Luke Fischer.,21,25
+5:04,221,Justice Kithcart made Free Throw.,22,25
+5:04,221,Justice Kithcart missed Free Throw.,22,25
+5:04,269,Matt Heldt Defensive Rebound.,22,25
+4:54,221,Foul on Cameron Johnson.,22,25
+4:54,269,Jajuan Johnson made Free Throw.,22,26
+4:54,269,Jajuan Johnson made Free Throw.,22,27
+4:32,269,Foul on Matt Heldt.,22,27
+4:32,221,Michael Young made Free Throw.,23,27
+4:32,221,Michael Young made Free Throw.,24,27
+4:22,269,Jajuan Johnson missed Three Point Jumper.,24,27
+4:22,269,Matt Heldt Offensive Rebound.,24,27
+4:13,269,Andrew Rowsey made Three Point Jumper. Assisted by Matt Heldt.,24,30
+3:52,221,Jamel Artis made Three Point Jumper. Assisted by Chris Jones.,27,30
+3:28,269,Sam Hauser made Jumper. Assisted by Jajuan Johnson.,27,32
+2:56,221,Corey Manigault missed Layup.,27,32
+2:56,269,Jajuan Johnson Block.,27,32
+2:56,269,Sam Hauser Defensive Rebound.,27,32
+2:49,269,Andrew Rowsey made Layup.,27,34
+2:36,221,Justice Kithcart Turnover.,27,34
+2:36,269,Jajuan Johnson Steal.,27,34
+2:25,269,Matt Heldt made Layup. Assisted by Andrew Rowsey.,27,36
+2:25,221,Foul on Chris Jones.,27,36
+2:25,269,Official TV Timeout,27,36
+2:25,269,Matt Heldt made Free Throw.,27,37
+2:15,269,Foul on Haanif Cheatham.,27,37
+2:15,221,Jamel Artis made Free Throw.,28,37
+2:15,221,Jamel Artis made Free Throw.,29,37
+1:58,269,Sam Hauser missed Three Point Jumper.,29,37
+1:58,221,Pittsburgh Defensive Rebound.,29,37
+1:46,221,Jonathan Milligan missed Three Point Jumper.,29,37
+1:46,221,Michael Young Offensive Rebound.,29,37
+1:43,221,Michael Young Turnover.,29,37
+1:35,269,Jajuan Johnson made Jumper.,29,39
+1:18,269,Foul on Matt Heldt.,29,39
+1:18,221,Michael Young made Free Throw.,30,39
+1:18,221,Michael Young made Free Throw.,31,39
+1:05,269,Jajuan Johnson missed Jumper.,31,39
+1:05,221,Jamel Artis Defensive Rebound.,31,39
+0:59,221,Jamel Artis made Jumper.,33,39
+0:51,269,Marquette  Timeout,33,39
+0:41,269,Sam Hauser made Three Point Jumper. Assisted by Haanif Cheatham.,33,42
+0:19,221,Michael Young missed Jumper.,33,42
+0:19,269,Jajuan Johnson Defensive Rebound.,33,42
+0:01,269,Andrew Rowsey made Layup.,33,44
+0:01,221,Pittsburgh  Timeout,33,44
+0:01,221,Ryan Luther Turnover.,33,44
+0:01,269,Haanif Cheatham Steal.,33,44
+0:01,269,Haanif Cheatham missed Three Point Jumper.,33,44
+0:01,269,Marquette Deadball Team Rebound.,33,44
+0:00,269,End of 1st half,33,44
+20:00,269,Jump Ball won by Marquette,33,44
+19:50,269,Foul on Luke Fischer.,33,44
+19:50,269,Luke Fischer Turnover.,33,44
+19:33,221,Chris Jones missed Three Point Jumper.,33,44
+19:33,269,Haanif Cheatham Defensive Rebound.,33,44
+19:22,269,Katin Reinhardt made Three Point Jumper. Assisted by Andrew Rowsey.,33,47
+18:56,221,Jamel Artis missed Three Point Jumper.,33,47
+18:56,269,Andrew Rowsey Defensive Rebound.,33,47
+18:49,221,Foul on Cameron Johnson.,33,47
+18:49,269,Andrew Rowsey missed Free Throw.,33,47
+18:49,269,Marquette Deadball Team Rebound.,33,47
+18:49,269,Andrew Rowsey made Free Throw.,33,48
+18:27,221,Chris Jones made Layup. Assisted by Jamel Artis.,35,48
+18:27,269,Foul on Andrew Rowsey.,35,48
+18:27,221,Chris Jones made Free Throw.,36,48
+18:20,269,Katin Reinhardt missed Three Point Jumper.,36,48
+18:20,221,Chris Jones Defensive Rebound.,36,48
+18:06,221,Jamel Artis made Jumper.,38,48
+17:51,269,Haanif Cheatham made Jumper.,38,50
+17:40,221,Sheldon Jeter made Three Point Jumper. Assisted by Cameron Johnson.,41,50
+17:16,269,Jajuan Johnson missed Jumper.,41,50
+17:16,269,Andrew Rowsey Offensive Rebound.,41,50
+17:08,269,Andrew Rowsey missed Three Point Jumper.,41,50
+17:08,221,Sheldon Jeter Defensive Rebound.,41,50
+17:03,221,Sheldon Jeter Turnover.,41,50
+17:03,269,Katin Reinhardt Steal.,41,50
+16:55,221,Foul on Sheldon Jeter.,41,50
+16:55,269,Katin Reinhardt made Free Throw.,41,51
+16:55,269,Katin Reinhardt made Free Throw.,41,52
+16:38,221,Michael Young made Jumper. Assisted by Chris Jones.,43,52
+16:29,269,Haanif Cheatham made Layup.,43,54
+16:09,221,Chris Jones made Layup. Assisted by Jamel Artis.,45,54
+15:58,221,Foul on Damon Wilson.,45,54
+15:58,269,Official TV Timeout,45,54
+15:49,269,Katin Reinhardt missed Jumper.,45,54
+15:49,221,Pittsburgh Defensive Rebound.,45,54
+15:15,221,Jamel Artis missed Three Point Jumper.,45,54
+15:15,269,Matt Heldt Defensive Rebound.,45,54
+14:59,269,Katin Reinhardt missed Three Point Jumper.,45,54
+14:59,221,Jamel Artis Defensive Rebound.,45,54
+14:47,221,Chris Jones made Jumper. Assisted by Damon Wilson.,47,54
+14:37,269,Marquette  Timeout,47,54
+14:16,269,Traci Carter missed Three Point Jumper.,47,54
+14:16,221,Michael Young Defensive Rebound.,47,54
+14:08,221,Chris Jones missed Jumper.,47,54
+14:08,269,Duane Wilson Defensive Rebound.,47,54
+14:02,269,Duane Wilson made Layup.,47,56
+13:46,269,Foul on Sam Hauser.,47,56
+13:46,221,Michael Young made Free Throw.,48,56
+13:46,221,Michael Young made Free Throw.,49,56
+13:34,269,Jajuan Johnson missed Jumper.,49,56
+13:34,221,Ryan Luther Defensive Rebound.,49,56
+13:25,221,Jamel Artis missed Jumper.,49,56
+13:25,269,Luke Fischer Defensive Rebound.,49,56
+13:20,269,Sam Hauser made Three Point Jumper. Assisted by Traci Carter.,49,59
+12:58,221,Michael Young made Jumper.,51,59
+12:32,269,Traci Carter Turnover.,51,59
+12:32,221,Chris Jones Steal.,51,59
+12:28,269,Foul on Traci Carter.,51,59
+12:05,221,Michael Young made Jumper.,53,59
+11:50,269,Official TV Timeout,53,59
+11:45,269,Jajuan Johnson missed Jumper.,53,59
+11:45,221,Michael Young Block.,53,59
+11:45,221,Michael Young Defensive Rebound.,53,59
+11:26,221,Michael Young made Jumper.,55,59
+11:10,269,Duane Wilson missed Jumper.,55,59
+11:10,221,Ryan Luther Block.,55,59
+11:10,221,Ryan Luther Defensive Rebound.,55,59
+10:58,221,Michael Young made Layup.,57,59
+10:37,269,Luke Fischer missed Jumper.,57,59
+10:37,221,Chris Jones Defensive Rebound.,57,59
+10:33,221,Michael Young made Layup. Assisted by Chris Jones.,59,59
+10:28,269,Marquette  Timeout,59,59
+10:20,269,Andrew Rowsey made Three Point Jumper. Assisted by Traci Carter.,59,62
+10:09,221,Ryan Luther made Layup.,61,62
+9:49,269,Sam Hauser missed Three Point Jumper.,61,62
+9:49,221,Jamel Artis Defensive Rebound.,61,62
+9:30,269,Foul on Andrew Rowsey.,61,62
+9:12,269,Foul on Traci Carter.,61,62
+9:12,221,Damon Wilson missed Free Throw.,61,62
+9:12,221,Pittsburgh Deadball Team Rebound.,61,62
+9:12,221,Damon Wilson made Free Throw.,62,62
+9:04,269,Jajuan Johnson missed Jumper.,62,62
+9:04,269,Katin Reinhardt Offensive Rebound.,62,62
+8:58,269,Andrew Rowsey made Three Point Jumper.,62,65
+8:43,221,Michael Young made Layup.,64,65
+8:34,221,Foul on Justice Kithcart.,64,65
+8:26,269,Jajuan Johnson Turnover.,64,65
+8:26,221,Jamel Artis Steal.,64,65
+8:19,221,Jamel Artis made Layup.,66,65
+8:04,269,Jajuan Johnson missed Three Point Jumper.,66,65
+8:04,269,Katin Reinhardt Offensive Rebound.,66,65
+7:58,269,Katin Reinhardt missed Layup.,66,65
+7:58,221,Ryan Luther Defensive Rebound.,66,65
+7:37,221,Jamel Artis made Jumper. Assisted by Michael Young.,68,65
+7:25,221,Foul on Chris Jones.,68,65
+7:25,269,Official TV Timeout,68,65
+7:11,221,Foul on Damon Wilson.,68,65
+6:55,269,Andrew Rowsey missed Layup.,68,65
+6:55,221,Jamel Artis Defensive Rebound.,68,65
+6:46,221,Jamel Artis missed Three Point Jumper.,68,65
+6:46,269,Duane Wilson Defensive Rebound.,68,65
+6:38,269,Duane Wilson made Layup.,68,67
+6:08,221,Michael Young missed Jumper.,68,67
+6:08,269,Duane Wilson Defensive Rebound.,68,67
+6:00,269,Duane Wilson made Layup.,68,69
+5:49,221,Pittsburgh  Timeout,68,69
+5:39,221,Michael Young made Three Point Jumper. Assisted by Chris Jones.,71,69
+5:15,269,Luke Fischer missed Jumper.,71,69
+5:15,221,Cameron Johnson Defensive Rebound.,71,69
+4:44,221,Pittsburgh  Turnover.,71,69
+4:38,221,Foul on Chris Jones.,71,69
+4:38,269,Haanif Cheatham made Free Throw.,71,70
+4:38,269,Haanif Cheatham made Free Throw.,71,71
+4:23,221,Chris Jones made Layup. Assisted by Jamel Artis.,73,71
+4:09,269,Duane Wilson Turnover.,73,71
+4:09,221,Chris Jones Steal.,73,71
+3:59,221,Ryan Luther made Layup. Assisted by Michael Young.,75,71
+3:47,221,Foul on Cameron Johnson.,75,71
+3:47,269,Official TV Timeout,75,71
+3:47,269,Luke Fischer made Free Throw.,75,72
+3:47,269,Luke Fischer missed Free Throw.,75,72
+3:47,221,Ryan Luther Defensive Rebound.,75,72
+3:36,221,Michael Young missed Layup.,75,72
+3:36,269,Luke Fischer Block.,75,72
+3:36,269,Luke Fischer Defensive Rebound.,75,72
+3:10,221,Foul on Chris Jones.,75,72
+3:10,269,Luke Fischer missed Free Throw.,75,72
+3:10,221,Michael Young Defensive Rebound.,75,72
+2:54,221,Cameron Johnson missed Three Point Jumper.,75,72
+2:54,269,Luke Fischer Defensive Rebound.,75,72
+2:35,269,Haanif Cheatham missed Layup.,75,72
+2:35,221,Michael Young Block.,75,72
+2:35,269,Marquette Offensive Rebound.,75,72
+2:24,221,Foul on Chris Jones.,75,72
+2:24,269,Andrew Rowsey made Free Throw.,75,73
+2:24,269,Andrew Rowsey made Free Throw.,75,74
+2:24,269,Andrew Rowsey made Free Throw.,75,75
+2:08,269,Foul on Haanif Cheatham.,75,75
+2:08,221,Jamel Artis missed Free Throw.,75,75
+2:08,269,Luke Fischer Defensive Rebound.,75,75
+1:53,269,Andrew Rowsey missed Three Point Jumper.,75,75
+1:53,221,Ryan Luther Defensive Rebound.,75,75
+1:23,221,Ryan Luther missed Three Point Jumper.,75,75
+1:23,221,Cameron Johnson Offensive Rebound.,75,75
+1:03,269,Foul on Luke Fischer.,75,75
+1:03,221,Jamel Artis missed Free Throw.,75,75
+1:03,221,Pittsburgh Deadball Team Rebound.,75,75
+1:03,221,Jamel Artis made Free Throw.,76,75
+0:49,269,Andrew Rowsey Turnover.,76,75
+0:33,221,Jamel Artis missed Jumper.,76,75
+0:33,269,Luke Fischer Defensive Rebound.,76,75
+0:25,269,Marquette  Timeout,76,75
+0:19,269,Andrew Rowsey missed Jumper.,76,75
+0:19,221,Michael Young Block.,76,75
+0:19,269,Marquette Offensive Rebound.,76,75
+0:06,269,Sam Hauser missed Three Point Jumper.,76,75
+0:06,221,Jamel Artis Defensive Rebound.,76,75
+0:06,269,Foul on Sam Hauser.,76,75
+0:06,221,Jamel Artis made Free Throw.,77,75
+0:06,221,Jamel Artis made Free Throw.,78,75
+0:01,269,Andrew Rowsey missed Three Point Jumper.,78,75
+0:01,221,Jamel Artis Defensive Rebound.,78,75
+0:00,269,End of Game,78,75

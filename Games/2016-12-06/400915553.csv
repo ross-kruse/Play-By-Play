@@ -1,0 +1,309 @@
+UC Irvine,12,Arizona,300
+time,team_id,description,h_score,a_score
+20:00,12,Jump Ball won by Arizona,0,0
+19:44,12,Dusan Ristic missed Jumper.,0,0
+19:44,12,Rawle Alkins Offensive Rebound.,0,0
+19:44,12,Rawle Alkins missed Two Point Tip Shot.,0,0
+19:44,300,Max Hazzard Defensive Rebound.,0,0
+19:16,300,Ioannis Dimakopoulos missed Jumper.,0,0
+19:16,12,Lauri Markkanen Block.,0,0
+19:16,12,Lauri Markkanen Defensive Rebound.,0,0
+19:16,300,Foul on Ioannis Dimakopoulos.,0,0
+18:52,12,Kobi Simmons missed Jumper.,0,0
+18:52,12,Rawle Alkins Offensive Rebound.,0,0
+18:50,300,Foul on Brandon Smith.,0,0
+18:50,12,Rawle Alkins made Free Throw.,0,1
+18:50,12,Rawle Alkins missed Free Throw.,0,1
+18:50,12,Rawle Alkins Offensive Rebound.,0,1
+18:50,12,Lauri Markkanen Offensive Rebound.,0,1
+18:33,12,Rawle Alkins missed Jumper.,0,1
+18:33,300,UC Irvine Defensive Rebound.,0,1
+18:17,300,Max Hazzard made Layup.,2,1
+17:54,12,Dusan Ristic made Layup. Assisted by Rawle Alkins.,2,3
+17:54,300,Foul on Brandon Smith.,2,3
+17:54,300,Brandon Smith Turnover.,2,3
+17:54,12,Rawle Alkins Turnover.,2,3
+17:52,300,Evan Leonard missed Three Point Jumper.,2,3
+17:52,12,Lauri Markkanen Defensive Rebound.,2,3
+17:25,12,Lauri Markkanen made Jumper.,2,5
+17:18,300,Max Hazzard missed Jumper.,2,5
+17:18,12,Dusan Ristic Defensive Rebound.,2,5
+16:56,12,Kobi Simmons missed Three Point Jumper.,2,5
+16:29,300,Foul on Jonathan Galloway.,2,5
+16:29,12,Rawle Alkins missed Free Throw.,2,5
+16:29,12,Arizona Deadball Team Rebound.,2,5
+16:29,12,Rawle Alkins made Free Throw.,2,6
+16:12,300,Jaron Martin missed Jumper.,2,6
+16:12,300,Tommy Rutherford Offensive Rebound.,2,6
+16:02,300,Jaron Martin made Three Point Jumper. Assisted by Evan Leonard.,5,6
+15:34,12,Kadeem Allen made Jumper. Assisted by Kobi Simmons.,5,8
+15:05,300,Max Hazzard missed Layup.,5,8
+15:05,12,Lauri Markkanen Block.,5,8
+15:05,300,UC Irvine Offensive Rebound.,5,8
+15:00,12,Official TV Timeout,5,8
+15:00,300,Max Hazzard missed Three Point Jumper.,5,8
+15:00,300,UC Irvine Deadball Team Rebound.,5,8
+14:54,300,UC Irvine  Turnover.,5,8
+14:37,12,Lauri Markkanen made Three Point Jumper. Assisted by Rawle Alkins.,5,11
+14:15,12,Foul on Keanu Pinder.,5,11
+14:01,300,Jaron Martin missed Jumper.,5,11
+14:01,300,UC Irvine Offensive Rebound.,5,11
+13:51,300,Evan Leonard missed Jumper.,5,11
+13:51,12,Lauri Markkanen Defensive Rebound.,5,11
+13:29,12,Keanu Pinder missed Jumper.,5,11
+13:29,300,Evan Leonard Defensive Rebound.,5,11
+13:23,300,Jaron Martin missed Three Point Jumper.,5,11
+13:23,12,Rawle Alkins Defensive Rebound.,5,11
+12:57,300,Foul on Brad Greene.,5,11
+12:56,12,Rawle Alkins made Three Point Jumper. Assisted by Kobi Simmons.,5,14
+12:30,300,John Edgar Jr. missed Jumper.,5,14
+12:30,300,Brad Greene Offensive Rebound.,5,14
+12:24,300,Brad Greene made Jumper.,7,14
+12:00,300,Foul on Brad Greene.,7,14
+12:00,12,Kobi Simmons made Free Throw.,7,15
+12:00,12,Kobi Simmons made Free Throw.,7,16
+11:44,12,Foul on Rawle Alkins.,7,16
+11:44,12,Official TV Timeout,7,16
+11:33,300,Ioannis Dimakopoulos Turnover.,7,16
+11:33,12,Chance Comanche Steal.,7,16
+11:13,12,Kobi Simmons missed Three Point Jumper.,7,16
+11:13,300,Jonathan Galloway Defensive Rebound.,7,16
+11:02,300,Eyassu Worku missed Layup.,7,16
+11:02,300,Ioannis Dimakopoulos Offensive Rebound.,7,16
+11:02,12,Foul on Kobi Simmons.,7,16
+11:02,300,Ioannis Dimakopoulos made Free Throw.,8,16
+11:02,300,Ioannis Dimakopoulos missed Free Throw.,8,16
+11:02,12,Dusan Ristic Defensive Rebound.,8,16
+10:45,12,Dusan Ristic missed Jumper.,8,16
+10:45,300,Ioannis Dimakopoulos Defensive Rebound.,8,16
+10:27,300,Eyassu Worku made Jumper. Assisted by Evan Leonard.,10,16
+10:11,12,Dusan Ristic made Layup. Assisted by Kobi Simmons.,10,18
+9:56,300,Eyassu Worku made Layup.,12,18
+9:43,12,Kobi Simmons missed Three Point Jumper.,12,18
+9:43,300,Jonathan Galloway Defensive Rebound.,12,18
+9:27,300,Evan Leonard Turnover.,12,18
+9:14,12,Kadeem Allen missed Jumper.,12,18
+9:14,300,Spencer Rivers Defensive Rebound.,12,18
+9:14,12,Foul on Kobi Simmons.,12,18
+9:08,300,Eyassu Worku Turnover.,12,18
+9:08,12,Keanu Pinder Steal.,12,18
+9:03,300,Foul on Spencer Rivers.,12,18
+9:03,12,Rawle Alkins missed Free Throw.,12,18
+9:03,300,Spencer Rivers Defensive Rebound.,12,18
+8:38,12,Foul on Keanu Pinder.,12,18
+8:38,300,Ioannis Dimakopoulos missed Free Throw.,12,18
+8:38,300,UC Irvine Deadball Team Rebound.,12,18
+8:38,300,Ioannis Dimakopoulos made Free Throw.,13,18
+8:22,300,Foul on Tommy Rutherford.,13,18
+8:22,12,Dusan Ristic made Free Throw.,13,19
+8:22,12,Dusan Ristic made Free Throw.,13,20
+7:56,300,Jaron Martin made Jumper.,15,20
+7:39,300,Foul on Ioannis Dimakopoulos.,15,20
+7:39,12,Official TV Timeout,15,20
+7:39,12,Rawle Alkins made Free Throw.,15,21
+7:39,12,Rawle Alkins made Free Throw.,15,22
+7:29,300,Jaron Martin made Layup.,17,22
+7:11,12,Lauri Markkanen missed Jumper.,17,22
+7:11,12,Dusan Ristic Offensive Rebound.,17,22
+7:06,12,Dusan Ristic made Layup.,17,24
+6:43,300,Jaron Martin made Three Point Jumper. Assisted by Tommy Rutherford.,20,24
+6:25,12,Dusan Ristic made Layup. Assisted by Kadeem Allen.,20,26
+6:20,12,Arizona  Timeout,20,26
+5:58,300,Spencer Rivers missed Three Point Jumper.,20,26
+5:58,300,Eyassu Worku Offensive Rebound.,20,26
+5:50,12,Foul on Chance Comanche.,20,26
+5:50,300,Spencer Rivers made Free Throw.,21,26
+5:50,300,Spencer Rivers missed Free Throw.,21,26
+5:50,12,Dusan Ristic Defensive Rebound.,21,26
+5:28,12,Keanu Pinder Turnover.,21,26
+5:28,300,Tommy Rutherford Steal.,21,26
+5:17,300,Eyassu Worku missed Jumper.,21,26
+5:17,12,Keanu Pinder Defensive Rebound.,21,26
+4:55,12,Kadeem Allen Turnover.,21,26
+4:44,300,Jaron Martin missed Three Point Jumper.,21,26
+4:44,12,Keanu Pinder Defensive Rebound.,21,26
+4:44,300,Foul on Jonathan Galloway.,21,26
+4:44,12,Keanu Pinder made Free Throw.,21,27
+4:44,12,Keanu Pinder made Free Throw.,21,28
+4:25,300,Spencer Rivers Turnover.,21,28
+4:25,12,Rawle Alkins Steal.,21,28
+4:08,12,Dusan Ristic made Jumper. Assisted by Kobi Simmons.,21,30
+3:53,300,Jaron Martin missed Layup.,21,30
+3:53,300,Tommy Rutherford Offensive Rebound.,21,30
+3:53,300,Tommy Rutherford Turnover.,21,30
+3:53,12,Rawle Alkins Steal.,21,30
+3:47,12,Rawle Alkins missed Layup.,21,30
+3:47,300,Eyassu Worku Defensive Rebound.,21,30
+3:47,12,Foul on Rawle Alkins.,21,30
+3:33,12,Official TV Timeout,21,30
+3:33,300,Eyassu Worku missed Free Throw.,21,30
+3:33,300,John Edgar Jr. Offensive Rebound.,21,30
+3:21,300,Brad Greene made Layup. Assisted by John Edgar Jr..,23,30
+3:05,12,Kadeem Allen made Layup.,23,32
+2:26,300,Eyassu Worku Turnover.,23,32
+2:14,12,Dusan Ristic made Jumper. Assisted by Kadeem Allen.,23,34
+1:57,300,Max Hazzard missed Three Point Jumper.,23,34
+1:57,12,Kadeem Allen Defensive Rebound.,23,34
+1:35,12,Kadeem Allen made Jumper.,23,36
+1:13,300,Evan Leonard Turnover.,23,36
+1:09,12,Kadeem Allen made Three Point Jumper. Assisted by Rawle Alkins.,23,39
+1:03,300,UC Irvine  Timeout,23,39
+0:40,12,Foul on Chance Comanche.,23,39
+0:40,300,Evan Leonard missed Free Throw.,23,39
+0:40,12,Kobi Simmons Defensive Rebound.,23,39
+0:20,12,Kadeem Allen Turnover.,23,39
+0:10,300,Jaron Martin missed Three Point Jumper.,23,39
+0:10,300,Brad Greene Offensive Rebound.,23,39
+0:00,12,End of 1st half,23,39
+20:00,300,Jump Ball won by UC Irvine,23,39
+19:49,300,Jaron Martin missed Jumper.,23,39
+19:49,12,Rawle Alkins Defensive Rebound.,23,39
+19:28,12,Dusan Ristic Turnover.,23,39
+19:28,12,Lauri Markkanen missed Three Point Jumper.,23,39
+18:46,300,Max Hazzard made Layup.,25,39
+18:39,12,Rawle Alkins missed Three Point Jumper.,25,39
+18:39,300,Max Hazzard Defensive Rebound.,25,39
+18:39,300,Foul on Brandon Smith.,25,39
+18:18,300,Jaron Martin made Jumper.,27,39
+18:04,12,Rawle Alkins missed Three Point Jumper.,27,39
+18:04,300,Ioannis Dimakopoulos Defensive Rebound.,27,39
+17:49,300,Jaron Martin Turnover.,27,39
+17:49,300,Jaron Martin Defensive Rebound.,27,39
+17:49,12,Kadeem Allen Steal.,27,39
+17:45,300,Foul on Brandon Smith.,27,39
+17:36,12,Lauri Markkanen made Three Point Jumper. Assisted by Kobi Simmons.,27,42
+17:36,12,Foul on Kadeem Allen.,27,42
+17:16,300,Jaron Martin missed Layup.,27,42
+17:16,12,Kadeem Allen Block.,27,42
+17:16,12,Dusan Ristic Defensive Rebound.,27,42
+17:08,12,Foul on Dusan Ristic.,27,42
+17:08,12,Kadeem Allen Steal.,27,42
+17:08,12,Keanu Pinder Offensive Rebound.,27,42
+17:08,12,Dusan Ristic Turnover.,27,42
+16:52,300,Max Hazzard made Layup.,29,42
+16:31,12,Keanu Pinder made Dunk. Assisted by Chance Comanche.,29,44
+16:13,12,Foul on Kobi Simmons.,29,44
+16:06,12,Foul on Chance Comanche.,29,44
+16:00,12,Foul on Rawle Alkins.,29,44
+16:00,300,Max Hazzard made Free Throw.,30,44
+16:00,300,Max Hazzard made Free Throw.,31,44
+15:48,12,Kadeem Allen made Layup.,31,46
+15:47,12,Official TV Timeout,31,46
+15:47,12,Kadeem Allen made Free Throw.,31,47
+15:35,300,Max Hazzard Turnover.,31,47
+15:30,300,Foul on Jaron Martin.,31,47
+15:22,12,Kobi Simmons made Three Point Jumper. Assisted by Kadeem Allen.,31,50
+14:55,300,Ioannis Dimakopoulos missed Jumper.,31,50
+14:55,12,Keanu Pinder Defensive Rebound.,31,50
+14:47,12,Dusan Ristic made Jumper. Assisted by Kadeem Allen.,31,52
+14:41,300,UC Irvine  Timeout,31,52
+14:29,300,Jaron Martin missed Three Point Jumper.,31,52
+14:29,12,Kadeem Allen Defensive Rebound.,31,52
+14:18,12,Kobi Simmons missed Three Point Jumper.,31,52
+14:18,300,Spencer Rivers Defensive Rebound.,31,52
+14:05,300,Eyassu Worku made Jumper.,33,52
+13:47,12,Kadeem Allen Turnover.,33,52
+13:47,300,Jaron Martin Steal.,33,52
+13:41,300,Jaron Martin missed Jumper.,33,52
+13:41,12,Arizona Defensive Rebound.,33,52
+13:41,300,Foul on Tommy Rutherford.,33,52
+13:19,12,Lauri Markkanen missed Three Point Jumper.,33,52
+13:19,300,Tommy Rutherford Defensive Rebound.,33,52
+13:17,12,Foul on Rawle Alkins.,33,52
+13:04,300,Tommy Rutherford missed Layup.,33,52
+13:04,12,Dusan Ristic Block.,33,52
+13:04,12,Dusan Ristic Defensive Rebound.,33,52
+12:53,12,Kobi Simmons Turnover.,33,52
+12:34,300,Spencer Rivers missed Three Point Jumper.,33,52
+12:34,300,UC Irvine Offensive Rebound.,33,52
+12:34,12,Foul on Chance Comanche.,33,52
+12:34,300,Jonathan Galloway made Free Throw.,34,52
+12:34,300,Jonathan Galloway made Free Throw.,35,52
+12:07,12,Lauri Markkanen Turnover.,35,52
+11:50,300,Eyassu Worku missed Three Point Jumper.,35,52
+11:50,12,Dusan Ristic Defensive Rebound.,35,52
+11:35,12,Tyler Trillo missed Three Point Jumper.,35,52
+11:35,300,Spencer Rivers Defensive Rebound.,35,52
+11:25,300,John Edgar Jr. missed Three Point Jumper.,35,52
+11:25,12,Dusan Ristic Defensive Rebound.,35,52
+10:55,300,Foul on John Edgar Jr..,35,52
+10:55,12,Official TV Timeout,35,52
+10:39,12,Keanu Pinder missed Jumper.,35,52
+10:39,12,Dusan Ristic Offensive Rebound.,35,52
+10:39,12,Dusan Ristic missed Jumper.,35,52
+10:33,12,Keanu Pinder made Jumper.,35,54
+10:14,300,Darrian Traylor missed Three Point Jumper.,35,54
+10:14,300,Jonathan Galloway Offensive Rebound.,35,54
+10:11,12,Foul on Dusan Ristic.,35,54
+10:11,300,Jonathan Galloway missed Free Throw.,35,54
+10:11,300,UC Irvine Deadball Team Rebound.,35,54
+10:11,300,Jonathan Galloway made Free Throw.,36,54
+9:49,12,Keanu Pinder Turnover.,36,54
+9:45,300,Evan Leonard made Layup.,38,54
+9:19,12,Chance Comanche made Layup. Assisted by Lauri Markkanen.,38,56
+8:53,12,Foul on Chance Comanche.,38,56
+8:53,300,Evan Leonard made Free Throw.,39,56
+8:53,300,Evan Leonard missed Free Throw.,39,56
+8:53,300,John Edgar Jr. Offensive Rebound.,39,56
+8:53,300,John Edgar Jr. missed Three Point Jumper.,39,56
+8:53,12,Kadeem Allen Defensive Rebound.,39,56
+8:40,12,Lauri Markkanen made Layup. Assisted by Kadeem Allen.,39,58
+8:19,300,Eyassu Worku missed Jumper.,39,58
+8:19,300,John Edgar Jr. Offensive Rebound.,39,58
+8:12,300,John Edgar Jr. made Layup.,41,58
+7:51,12,Lauri Markkanen made Jumper. Assisted by Tyler Trillo.,41,60
+7:31,300,Darrian Traylor missed Three Point Jumper.,41,60
+7:31,12,Kadeem Allen Defensive Rebound.,41,60
+6:56,300,Foul on Jonathan Galloway.,41,60
+6:56,12,Official TV Timeout,41,60
+6:56,12,Lauri Markkanen made Three Point Jumper. Assisted by Kadeem Allen.,41,63
+6:47,300,Ioannis Dimakopoulos missed Layup.,41,63
+6:47,12,Dusan Ristic Defensive Rebound.,41,63
+6:29,12,Dusan Ristic made Jumper. Assisted by Lauri Markkanen.,41,65
+6:06,300,Tommy Rutherford made Layup. Assisted by Ioannis Dimakopoulos.,43,65
+5:43,12,Rawle Alkins made Three Point Jumper. Assisted by Tyler Trillo.,43,68
+5:02,300,Ioannis Dimakopoulos made Jumper. Assisted by Max Hazzard.,45,68
+4:33,12,Lauri Markkanen made Three Point Jumper. Assisted by Rawle Alkins.,45,71
+4:08,300,Max Hazzard made Jumper.,47,71
+4:02,300,UC Irvine  Timeout,47,71
+3:38,300,Foul on Spencer Rivers.,47,71
+3:38,12,Rawle Alkins made Free Throw.,47,72
+3:38,12,Rawle Alkins made Free Throw.,47,73
+3:24,300,Max Hazzard missed Three Point Jumper.,47,73
+3:24,12,Kobi Simmons Defensive Rebound.,47,73
+3:20,300,Foul on Jaron Martin.,47,73
+3:20,12,Kobi Simmons made Free Throw.,47,74
+3:20,12,Kobi Simmons made Free Throw.,47,75
+3:03,300,Max Hazzard Turnover.,47,75
+3:03,12,Rawle Alkins Steal.,47,75
+2:56,12,Kobi Simmons missed Layup.,47,75
+2:56,12,Rawle Alkins Offensive Rebound.,47,75
+2:56,12,Rawle Alkins made Two Point Tip Shot.,47,77
+2:55,300,Spencer Rivers made Three Point Jumper. Assisted by Jaron Martin.,50,77
+2:37,300,Jaron Martin missed Three Point Jumper.,50,77
+2:37,12,Rawle Alkins Defensive Rebound.,50,77
+2:32,12,Kobi Simmons made Layup. Assisted by Rawle Alkins.,50,79
+2:09,12,Arizona  Timeout,50,79
+2:03,12,Foul on Jake DesJardins.,50,79
+2:03,300,Evan Leonard missed Free Throw.,50,79
+2:03,300,UC Irvine Deadball Team Rebound.,50,79
+2:03,300,Evan Leonard made Free Throw.,51,79
+1:43,12,Paulo Cruz Turnover.,51,79
+1:32,300,Spencer Rivers made Three Point Jumper. Assisted by Brad Greene.,54,79
+1:06,12,Jake DesJardins missed Layup.,54,79
+1:06,300,Tommy Rutherford Defensive Rebound.,54,79
+0:57,300,Foul on Evan Leonard.,54,79
+0:57,300,Evan Leonard Turnover.,54,79
+0:57,12,Jake DesJardins Turnover.,54,79
+0:57,12,Foul on Jake DesJardins.,54,79
+0:57,300,Spencer Rivers missed Free Throw.,54,79
+0:57,300,UC Irvine Deadball Team Rebound.,54,79
+0:57,300,Spencer Rivers made Free Throw.,55,79
+0:50,12,Kobi Simmons Turnover.,55,79
+0:50,300,Evan Leonard Steal.,55,79
+0:45,300,Tommy Rutherford made Layup. Assisted by Spencer Rivers.,57,79
+0:23,12,Jake DesJardins missed Layup.,57,79
+0:23,300,Brad Greene Defensive Rebound.,57,79
+0:16,300,Eyassu Worku missed Jumper.,57,79
+0:16,12,Kobi Simmons Defensive Rebound.,57,79
+0:00,12,End of Game,57,79
