@@ -1,0 +1,317 @@
+Howard,45,George Washington,47
+time,team_id,description,h_score,a_score
+19:43,45,Arnaldo Toro missed Jumper.,0,0
+19:43,45,Tyler Cavanaugh Offensive Rebound.,0,0
+19:39,45,Tyler Cavanaugh missed Layup.,0,0
+19:39,45,Tyler Cavanaugh Offensive Rebound.,0,0
+19:35,45,Tyler Cavanaugh missed Layup.,0,0
+19:35,45,Tyler Cavanaugh Offensive Rebound.,0,0
+19:31,45,Arnaldo Toro made Layup. Assisted by Tyler Cavanaugh.,0,2
+19:14,47,Charles Williams missed Three Point Jumper.,0,2
+19:14,45,Tyler Cavanaugh Defensive Rebound.,0,2
+18:54,45,Jaren Sina made Three Point Jumper. Assisted by Arnaldo Toro.,0,5
+18:32,47,Kofi Andoh made Jumper. Assisted by Dalique Mingo.,2,5
+18:13,45,Jaren Sina made Three Point Jumper. Assisted by Tyler Cavanaugh.,2,8
+17:55,47,Dalique Mingo missed Jumper.,2,8
+17:55,45,George Washington Defensive Rebound.,2,8
+17:39,47,Foul on Kofi Andoh.,2,8
+17:39,45,Tyler Cavanaugh made Free Throw.,2,9
+17:39,45,Tyler Cavanaugh made Free Throw.,2,10
+17:17,47,Solomon Mangham made Jumper. Assisted by Dalique Mingo.,4,10
+16:58,45,Jordan Roland made Three Point Jumper. Assisted by Jaren Sina.,4,13
+16:38,47,Charles Williams made Three Point Jumper. Assisted by Dalique Mingo.,7,13
+16:21,45,Arnaldo Toro Turnover.,7,13
+16:19,47,Dalique Mingo Steal.,7,13
+16:15,47,Dalique Mingo made Layup.,9,13
+16:10,45,Collin Smith made Dunk. Assisted by Jaren Sina.,9,15
+15:54,47,Kofi Andoh missed Layup.,9,15
+15:54,45,Tyler Cavanaugh Defensive Rebound.,9,15
+15:47,45,Jaren Sina made Three Point Jumper. Assisted by Jordan Roland.,9,18
+15:45,47,Howard  Timeout,9,18
+15:32,47,Charles Williams missed Layup.,9,18
+15:32,45,Tyler Cavanaugh Defensive Rebound.,9,18
+15:02,45,Jaren Sina missed Three Point Jumper.,9,18
+15:02,47,Dalique Mingo Defensive Rebound.,9,18
+14:59,45,Foul on Collin Smith.,9,18
+14:33,47,Damon Collins made Jumper.,11,18
+14:16,47,Foul on Damon Collins.,11,18
+13:58,45,Tyler Cavanaugh Turnover.,11,18
+13:56,47,Kofi Andoh Steal.,11,18
+13:47,47,Solomon Mangham missed Three Point Jumper.,11,18
+13:47,45,Collin Smith Defensive Rebound.,11,18
+13:22,45,Tyler Cavanaugh made Three Point Jumper. Assisted by Jaren Sina.,11,21
+12:48,47,Solomon Mangham missed Three Point Jumper.,11,21
+12:48,45,Kevin Marfo Defensive Rebound.,11,21
+12:21,45,Kevin Marfo Turnover.,11,21
+12:20,47,Kofi Andoh Steal.,11,21
+12:06,45,Foul on Kevin Marfo.,11,21
+11:46,47,Damon Collins made Jumper. Assisted by Charles Williams.,13,21
+11:26,45,Matt Hart made Jumper. Assisted by Tyler Cavanaugh.,13,23
+11:07,47,Charles Williams missed Three Point Jumper.,13,23
+11:07,45,Collin Goss Defensive Rebound.,13,23
+10:59,45,Tyler Cavanaugh missed Three Point Jumper.,13,23
+10:59,47,Solomon Mangham Defensive Rebound.,13,23
+10:48,47,Damon Collins Turnover.,13,23
+10:46,45,Kevin Marfo Steal.,13,23
+10:43,45,Jaren Sina missed Layup.,13,23
+10:43,47,Solomon Mangham Block.,13,23
+10:42,45,Tyler Cavanaugh Offensive Rebound.,13,23
+10:42,47,Foul on Damon Collins.,13,23
+10:42,45,Official TV Timeout,13,23
+10:42,45,Tyler Cavanaugh missed Free Throw.,13,23
+10:42,45,George Washington Deadball Team Rebound.,13,23
+10:42,45,Tyler Cavanaugh made Free Throw.,13,24
+10:25,45,Foul on Kevin Marfo.,13,24
+10:25,47,Charles Williams made Free Throw.,14,24
+10:25,47,Charles Williams made Free Throw.,15,24
+9:59,45,Arnaldo Toro missed Layup.,15,24
+9:59,47,Solomon Mangham Defensive Rebound.,15,24
+9:58,45,Foul on Collin Smith.,15,24
+9:34,47,Solomon Mangham made Three Point Jumper.,18,24
+9:17,45,Collin Goss made Layup.,18,26
+8:55,47,Charles Williams missed Three Point Jumper.,18,26
+8:55,45,Tyler Cavanaugh Defensive Rebound.,18,26
+8:40,45,Jordan Roland made Three Point Jumper. Assisted by Arnaldo Toro.,18,29
+8:22,47,Solomon Mangham missed Three Point Jumper.,18,29
+8:22,45,Tyler Cavanaugh Defensive Rebound.,18,29
+7:55,45,Tyler Cavanaugh Turnover.,18,29
+7:55,45,Official TV Timeout,18,29
+7:43,47,Dalique Mingo Turnover.,18,29
+7:43,45,Jordan Roland Steal.,18,29
+7:32,45,Arnaldo Toro missed Jumper.,18,29
+7:32,47,Dalique Mingo Defensive Rebound.,18,29
+7:23,45,Foul on Arnaldo Toro.,18,29
+7:23,47,Dalique Mingo made Free Throw.,19,29
+7:23,47,Dalique Mingo made Free Throw.,20,29
+7:14,45,Jordan Roland Turnover.,20,29
+7:13,47,Kofi Andoh Steal.,20,29
+6:59,47,Cameron Lewis Turnover.,20,29
+6:50,45,Jaren Sina made Three Point Jumper. Assisted by Tyler Cavanaugh.,20,32
+6:49,47,Foul on Cameron Lewis.,20,32
+6:49,45,Jaren Sina made Free Throw.,20,33
+6:29,47,Dalique Mingo made Jumper.,22,33
+6:07,45,Tyler Cavanaugh Turnover.,22,33
+6:06,47,Dalique Mingo Steal.,22,33
+6:05,45,Foul on Matt Hart.,22,33
+6:05,47,Kofi Andoh made Free Throw.,23,33
+6:05,47,Kofi Andoh made Free Throw.,24,33
+5:47,47,Foul on Kofi Andoh.,24,33
+5:47,45,Arnaldo Toro missed Free Throw.,24,33
+5:47,45,George Washington Deadball Team Rebound.,24,33
+5:47,45,Arnaldo Toro missed Free Throw.,24,33
+5:47,47,Howard Defensive Rebound.,24,33
+5:18,47,Charles Williams made Jumper.,26,33
+4:57,45,Matt Hart missed Three Point Jumper.,26,33
+4:57,47,Kofi Andoh Defensive Rebound.,26,33
+4:29,47,Dalique Mingo missed Layup.,26,33
+4:29,47,Tyler Stone Offensive Rebound.,26,33
+4:25,47,Tyler Stone missed Two Point Tip Shot.,26,33
+4:25,45,Arnaldo Toro Defensive Rebound.,26,33
+4:21,45,Matt Hart made Dunk. Assisted by Jair Bolden.,26,35
+4:17,47,Howard  Timeout,26,35
+4:02,47,Solomon Mangham made Three Point Jumper. Assisted by Charles Williams.,29,35
+3:41,45,Jaren Sina made Three Point Jumper. Assisted by Matt Hart.,29,38
+3:08,47,Dalique Mingo missed Layup.,29,38
+3:08,47,Kofi Andoh Offensive Rebound.,29,38
+3:05,47,Kofi Andoh made Layup.,31,38
+3:04,45,George Washington  Timeout,31,38
+2:41,45,Tyler Cavanaugh missed Jumper.,31,38
+2:41,47,Solomon Mangham Defensive Rebound.,31,38
+2:20,47,Solomon Mangham made Three Point Jumper. Assisted by Tyler Stone.,34,38
+1:56,45,Tyler Cavanaugh made Three Point Jumper. Assisted by Matt Hart.,34,41
+1:23,47,Kofi Andoh missed Three Point Jumper.,34,41
+1:23,45,Jordan Roland Defensive Rebound.,34,41
+1:10,45,Matt Hart missed Three Point Jumper.,34,41
+1:10,45,Tyler Cavanaugh Offensive Rebound.,34,41
+1:02,45,Tyler Cavanaugh made Two Point Tip Shot.,34,43
+0:39,47,Dalique Mingo Turnover.,34,43
+0:18,45,Tyler Cavanaugh missed Three Point Jumper.,34,43
+0:18,47,Solomon Mangham Defensive Rebound.,34,43
+0:01,47,Dalique Mingo missed Layup.,34,43
+0:01,47,Tyler Stone Offensive Rebound.,34,43
+0:00,45,End of 1st half,34,43
+19:46,47,Solomon Mangham missed Jumper.,34,43
+19:46,45,Arnaldo Toro Block.,34,43
+19:44,45,Arnaldo Toro Defensive Rebound.,34,43
+19:20,45,Arnaldo Toro missed Jumper.,34,43
+19:20,45,Collin Smith Offensive Rebound.,34,43
+19:18,47,Foul on Solomon Mangham.,34,43
+19:02,45,Jaren Sina missed Jumper.,34,43
+19:02,47,Dalique Mingo Defensive Rebound.,34,43
+18:35,47,Charles Williams made Layup.,36,43
+18:35,45,Foul on Jaren Sina.,36,43
+18:35,47,Charles Williams missed Free Throw.,36,43
+18:35,45,Tyler Cavanaugh Defensive Rebound.,36,43
+18:24,45,Jaren Sina missed Three Point Jumper.,36,43
+18:24,47,Tyler Stone Defensive Rebound.,36,43
+18:10,47,Dalique Mingo missed Layup.,36,43
+18:10,45,Jaren Sina Defensive Rebound.,36,43
+17:55,45,Jordan Roland missed Three Point Jumper.,36,43
+17:55,47,Solomon Mangham Defensive Rebound.,36,43
+17:41,47,Solomon Mangham missed Jumper.,36,43
+17:41,45,Collin Smith Defensive Rebound.,36,43
+17:39,47,Foul on Tyler Stone.,36,43
+17:26,45,Tyler Cavanaugh missed Jumper.,36,43
+17:26,47,Kofi Andoh Defensive Rebound.,36,43
+17:10,47,Charles Williams missed Three Point Jumper.,36,43
+17:10,45,Collin Smith Defensive Rebound.,36,43
+17:00,45,Jordan Roland made Jumper. Assisted by Jaren Sina.,36,45
+16:39,47,Solomon Mangham missed Jumper.,36,45
+16:39,45,Collin Smith Defensive Rebound.,36,45
+16:15,45,Jordan Roland missed Three Point Jumper.,36,45
+16:15,45,Jordan Roland Offensive Rebound.,36,45
+16:10,45,Arnaldo Toro made Layup. Assisted by Jordan Roland.,36,47
+15:50,45,Foul on Arnaldo Toro.,36,47
+15:50,45,Official TV Timeout,36,47
+15:49,47,Jalen Jones Turnover.,36,47
+15:42,45,Tyler Cavanaugh missed Layup.,36,47
+15:42,45,Collin Smith Offensive Rebound.,36,47
+15:32,45,Collin Smith made Jumper.,36,49
+15:24,45,Foul on Arnaldo Toro.,36,49
+15:10,47,Solomon Mangham missed Three Point Jumper.,36,49
+15:10,45,Tyler Cavanaugh Defensive Rebound.,36,49
+14:57,45,Collin Smith made Dunk. Assisted by Tyler Cavanaugh.,36,51
+14:33,45,Foul on Jordan Roland.,36,51
+14:24,47,Kofi Andoh missed Layup.,36,51
+14:24,45,George Washington Defensive Rebound.,36,51
+14:04,45,Tyler Cavanaugh missed Jumper.,36,51
+14:04,47,Kofi Andoh Defensive Rebound.,36,51
+13:38,47,Charles Williams missed Dunk.,36,51
+13:38,47,Howard Offensive Rebound.,36,51
+13:21,47,Solomon Mangham missed Layup.,36,51
+13:21,45,Kevin Marfo Defensive Rebound.,36,51
+13:19,47,Foul on Tyler Stone.,36,51
+12:55,47,Foul on Tyler Stone.,36,51
+12:55,45,Kevin Marfo made Free Throw.,36,52
+12:55,45,Kevin Marfo made Free Throw.,36,53
+12:39,47,Charles Williams made Layup.,38,53
+12:19,45,Matt Hart missed Three Point Jumper.,38,53
+12:19,47,Ausar Madison Defensive Rebound.,38,53
+12:11,47,Ausar Madison missed Layup.,38,53
+12:11,47,Michael Obindu Offensive Rebound.,38,53
+12:07,47,Michael Obindu missed Layup.,38,53
+12:07,47,Charles Williams Offensive Rebound.,38,53
+12:04,47,Charles Williams missed Three Point Jumper.,38,53
+12:04,45,Kevin Marfo Defensive Rebound.,38,53
+11:59,45,Official TV Timeout,38,53
+11:41,45,Kevin Marfo missed Layup.,38,53
+11:41,47,Tyler Stone Block.,38,53
+11:39,47,Jalen Jones Defensive Rebound.,38,53
+11:14,47,Charles Williams made Jumper. Assisted by Ausar Madison.,40,53
+11:00,47,Foul on Tyler Stone.,40,53
+11:00,45,Tyler Cavanaugh made Free Throw.,40,54
+11:00,45,Tyler Cavanaugh made Free Throw.,40,55
+10:48,47,Solomon Mangham missed Three Point Jumper.,40,55
+10:48,47,Michael Obindu Offensive Rebound.,40,55
+10:43,47,Michael Obindu made Layup.,42,55
+10:30,45,Jordan Roland made Three Point Jumper. Assisted by Tyler Cavanaugh.,42,58
+10:04,47,Jalen Jones made Layup. Assisted by Ausar Madison.,44,58
+9:43,45,Jair Bolden made Three Point Jumper. Assisted by Matt Hart.,44,61
+9:26,45,Foul on Jordan Roland.,44,61
+9:26,47,Charles Williams made Free Throw.,45,61
+9:26,47,Charles Williams missed Free Throw.,45,61
+9:26,45,Tyler Cavanaugh Defensive Rebound.,45,61
+9:23,45,Tyler Cavanaugh Turnover.,45,61
+9:22,47,Ausar Madison Steal.,45,61
+9:11,47,Charles Williams missed Jumper.,45,61
+9:11,47,Solomon Mangham Offensive Rebound.,45,61
+9:01,47,Jalen Jones missed Layup.,45,61
+9:01,47,Solomon Mangham Offensive Rebound.,45,61
+8:54,47,Solomon Mangham Turnover.,45,61
+8:53,45,Collin Goss Steal.,45,61
+8:51,47,Foul on Jalen Jones.,45,61
+8:51,45,Collin Goss made Free Throw.,45,62
+8:51,45,Collin Goss made Free Throw.,45,63
+8:37,47,Charles Williams missed Layup.,45,63
+8:37,45,Collin Goss Block.,45,63
+8:35,45,Jair Bolden Defensive Rebound.,45,63
+8:32,45,Foul on Jordan Roland.,45,63
+8:32,45,Jordan Roland Turnover.,45,63
+8:19,45,Foul on Jair Bolden.,45,63
+8:19,47,Charles Williams made Free Throw.,46,63
+8:19,47,Charles Williams made Free Throw.,47,63
+7:56,45,Jaren Sina missed Three Point Jumper.,47,63
+7:56,47,Solomon Mangham Defensive Rebound.,47,63
+7:44,47,Michael Obindu missed Layup.,47,63
+7:44,45,George Washington Defensive Rebound.,47,63
+7:41,45,Official TV Timeout,47,63
+7:33,47,Foul on Ausar Madison.,47,63
+7:33,45,Jaren Sina made Free Throw.,47,64
+7:33,45,Jaren Sina made Free Throw.,47,65
+7:17,47,Solomon Mangham missed Layup.,47,65
+7:17,45,Collin Goss Block.,47,65
+7:15,45,Collin Goss Defensive Rebound.,47,65
+7:06,45,Tyler Cavanaugh Turnover.,47,65
+7:04,47,Jalen Jones Steal.,47,65
+6:57,47,Solomon Mangham missed Three Point Jumper.,47,65
+6:57,47,Michael Obindu Offensive Rebound.,47,65
+6:53,47,Charles Williams missed Three Point Jumper.,47,65
+6:53,45,Matt Hart Defensive Rebound.,47,65
+6:50,47,Foul on Solomon Mangham.,47,65
+6:50,45,Matt Hart made Free Throw.,47,66
+6:50,45,Matt Hart made Free Throw.,47,67
+6:42,45,Foul on Jordan Roland.,47,67
+6:42,47,Charles Williams made Free Throw.,48,67
+6:42,47,Charles Williams made Free Throw.,49,67
+6:20,45,Justin Williams missed Three Point Jumper.,49,67
+6:20,47,Tyler Stone Defensive Rebound.,49,67
+6:06,47,Dalique Mingo missed Layup.,49,67
+6:06,47,Michael Obindu Offensive Rebound.,49,67
+6:01,47,Dalique Mingo Turnover.,49,67
+5:53,47,Foul on Ausar Madison.,49,67
+5:53,45,Arnaldo Toro made Free Throw.,49,68
+5:53,45,Arnaldo Toro made Free Throw.,49,69
+5:44,45,Foul on Jair Bolden.,49,69
+5:44,47,Charles Williams made Free Throw.,50,69
+5:44,47,Charles Williams made Free Throw.,51,69
+5:35,45,Jaren Sina Turnover.,51,69
+5:34,47,Ausar Madison Steal.,51,69
+5:32,47,Kofi Andoh missed Layup.,51,69
+5:32,47,Ausar Madison Offensive Rebound.,51,69
+5:29,47,Ausar Madison made Layup.,53,69
+5:09,45,Jair Bolden made Three Point Jumper. Assisted by Jaren Sina.,53,72
+4:44,45,Foul on Kevin Marfo.,53,72
+4:44,47,Michael Obindu missed Free Throw.,53,72
+4:44,47,Howard Deadball Team Rebound.,53,72
+4:44,47,Michael Obindu missed Free Throw.,53,72
+4:44,45,Kevin Marfo Defensive Rebound.,53,72
+4:37,45,Jair Bolden Turnover.,53,72
+4:36,47,Charles Williams Steal.,53,72
+4:35,47,Charles Williams made Layup.,55,72
+4:06,45,Jaren Sina missed Three Point Jumper.,55,72
+4:06,45,Jair Bolden Offensive Rebound.,55,72
+3:49,45,Tyler Cavanaugh missed Jumper.,55,72
+3:49,47,Charles Williams Block.,55,72
+3:48,47,Solomon Mangham Defensive Rebound.,55,72
+3:38,45,Official TV Timeout,55,72
+3:33,47,Solomon Mangham missed Three Point Jumper.,55,72
+3:33,45,Kevin Marfo Defensive Rebound.,55,72
+3:13,45,Jaren Sina missed Three Point Jumper.,55,72
+3:13,45,Jaren Sina Offensive Rebound.,55,72
+3:00,47,Foul on Ausar Madison.,55,72
+3:00,45,Jaren Sina made Free Throw.,55,73
+3:00,45,Jaren Sina made Free Throw.,55,74
+2:41,47,Charles Williams made Three Point Jumper.,58,74
+2:39,47,Howard  Timeout,58,74
+2:18,45,Adam Mitola made Three Point Jumper. Assisted by Jair Bolden.,58,77
+1:43,47,Charles Williams missed Three Point Jumper.,58,77
+1:43,45,Adam Mitola Defensive Rebound.,58,77
+1:23,45,Justin Williams missed Jumper.,58,77
+1:23,47,Solomon Mangham Defensive Rebound.,58,77
+1:15,45,Foul on Jair Bolden.,58,77
+1:15,47,Kofi Andoh made Free Throw.,59,77
+1:15,47,Kofi Andoh made Free Throw.,60,77
+1:04,45,George Washington  Turnover.,60,77
+0:54,47,Charles Williams missed Jumper.,60,77
+0:54,45,Justin Williams Defensive Rebound.,60,77
+0:47,45,Jair Bolden Turnover.,60,77
+0:46,47,Ausar Madison Steal.,60,77
+0:44,45,Foul on Jair Bolden.,60,77
+0:44,47,Charles Williams made Free Throw.,61,77
+0:44,47,Charles Williams made Free Throw.,62,77
+0:44,47,Foul on Solomon Mangham.,62,77
+0:44,45,Kevin Marfo made Free Throw.,62,78
+0:44,45,Kevin Marfo made Free Throw.,62,79
+0:23,47,Tyler Stone missed Layup.,62,79
+0:23,45,George Washington Defensive Rebound.,62,79
+0:00,45,End of Game,62,79

@@ -1,0 +1,263 @@
+UMBC,256,James Madison,2378
+time,team_id,description,h_score,a_score
+19:50,256,Joey McLean made Three Point Jumper.,0,3
+19:13,2378,UMBC  Turnover.,0,3
+18:55,256,Paulius Satkus missed Three Point Jumper.,0,3
+18:55,256,Tom Vodanovich Offensive Rebound.,0,3
+18:51,256,Tom Vodanovich made Layup.,0,5
+18:41,2378,Will Darley missed Three Point Jumper.,0,5
+18:41,256,Ramone Snowden Defensive Rebound.,0,5
+18:26,256,Ramone Snowden Turnover.,0,5
+18:24,2378,K.J. Maura Steal.,0,5
+18:19,2378,Joe Sherburne made Three Point Jumper. Assisted by K.J. Maura.,3,5
+17:50,256,Jackson Kent missed Jumper.,3,5
+17:50,2378,Joe Sherburne Defensive Rebound.,3,5
+17:47,256,Foul on Paulius Satkus.,3,5
+17:25,2378,Jairus Lyles missed Three Point Jumper.,3,5
+17:25,256,Ramone Snowden Defensive Rebound.,3,5
+17:06,256,Jackson Kent missed Three Point Jumper.,3,5
+17:06,2378,Nolan Gerrity Defensive Rebound.,3,5
+16:58,2378,Will Darley missed Three Point Jumper.,3,5
+16:58,256,Jackson Kent Defensive Rebound.,3,5
+16:30,256,Tom Vodanovich Turnover.,3,5
+16:28,2378,Joe Sherburne Steal.,3,5
+16:01,2378,Joe Sherburne Turnover.,3,5
+15:59,256,Jackson Kent Steal.,3,5
+15:57,256,Ramone Snowden made Layup. Assisted by Jackson Kent.,3,7
+15:39,2378,Will Darley made Layup.,5,7
+15:39,256,Foul on Ivan Lukic.,5,7
+15:39,256,Official TV Timeout,5,7
+15:39,2378,Will Darley made Free Throw.,6,7
+15:16,256,Dimitrije Cabarkapa missed Layup.,6,7
+15:16,256,Dimitrije Cabarkapa Offensive Rebound.,6,7
+15:14,256,Dimitrije Cabarkapa missed Layup.,6,7
+15:14,2378,Nolan Gerrity Defensive Rebound.,6,7
+15:01,2378,K.J. Maura missed Three Point Jumper.,6,7
+15:01,256,Jackson Kent Defensive Rebound.,6,7
+14:42,256,Dimitrije Cabarkapa missed Layup.,6,7
+14:34,256,Ivan Lukic made Layup.,6,9
+14:34,256,Ivan Lukic Offensive Rebound.,6,9
+14:14,2378,Jairus Lyles made Jumper.,8,9
+13:58,256,Foul on Joey McLean.,8,9
+13:58,256,Joey McLean Turnover.,8,9
+13:42,2378,Nolan Gerrity missed Layup.,8,9
+13:42,256,Ivan Lukic Block.,8,9
+13:40,256,Jackson Kent Defensive Rebound.,8,9
+13:22,256,Joey McLean missed Jumper.,8,9
+13:22,256,Joey McLean Offensive Rebound.,8,9
+13:05,2378,Foul on Nolan Gerrity.,8,9
+12:53,256,Ivan Lukic missed Jumper.,8,9
+12:53,2378,Joe Sherburne Defensive Rebound.,8,9
+12:44,2378,Joe Sherburne made Three Point Jumper. Assisted by Jairus Lyles.,11,9
+12:24,256,Dimitrije Cabarkapa made Layup. Assisted by Joey McLean.,11,11
+12:15,256,Foul on Ivan Lukic.,11,11
+12:15,2378,Joe Sherburne made Free Throw.,12,11
+12:15,2378,Joe Sherburne made Free Throw.,13,11
+11:45,256,Jackson Kent missed Jumper.,13,11
+11:45,2378,Arkel Lamar Defensive Rebound.,13,11
+11:34,2378,Arkel Lamar made Layup. Assisted by K.J. Maura.,15,11
+11:13,256,Terrence Johnson missed Three Point Jumper.,15,11
+11:13,2378,K.J. Maura Defensive Rebound.,15,11
+10:55,2378,Jairus Lyles missed Three Point Jumper.,15,11
+10:55,2378,Arkel Lamar Offensive Rebound.,15,11
+10:30,2378,Joe Sherburne Turnover.,15,11
+10:28,256,Terrence Johnson Steal.,15,11
+10:18,2378,Foul on K.J. Maura.,15,11
+10:18,256,Official TV Timeout,15,11
+9:56,256,Tom Vodanovich made Three Point Jumper. Assisted by Vince Holmes.,15,14
+9:24,2378,Jourdan Grant Turnover.,15,14
+9:22,256,Terrence Johnson Steal.,15,14
+9:10,256,Foul on Terrence Johnson.,15,14
+9:10,256,Terrence Johnson Turnover.,15,14
+8:52,2378,Arkel Lamar missed Three Point Jumper.,15,14
+8:52,256,Vince Holmes Defensive Rebound.,15,14
+8:28,256,Ramone Snowden made Layup.,15,16
+8:28,2378,Foul on Malcolm Brent.,15,16
+8:28,256,Ramone Snowden made Free Throw.,15,17
+7:57,2378,UMBC  Turnover.,15,17
+7:57,256,Official TV Timeout,15,17
+7:31,256,Tom Vodanovich made Layup. Assisted by Ramone Snowden.,15,19
+7:12,2378,Will Darley Turnover.,15,19
+7:10,256,Vince Holmes Steal.,15,19
+7:01,256,Paulius Satkus missed Layup.,15,19
+7:01,256,Paulius Satkus Offensive Rebound.,15,19
+6:58,2378,Foul on Will Darley.,15,19
+6:58,256,Paulius Satkus made Free Throw.,15,20
+6:58,256,Paulius Satkus missed Free Throw.,15,20
+6:58,2378,Nolan Gerrity Defensive Rebound.,15,20
+6:34,2378,Nolan Gerrity missed Jumper.,15,20
+6:34,256,Vince Holmes Defensive Rebound.,15,20
+6:15,256,Ramone Snowden Turnover.,15,20
+6:15,256,Foul on Ramone Snowden.,15,20
+5:53,2378,Joe Sherburne missed Three Point Jumper.,15,20
+5:53,256,Ramone Snowden Defensive Rebound.,15,20
+5:32,256,Jackson Kent Turnover.,15,20
+5:16,2378,Will Darley missed Jumper.,15,20
+5:16,256,Jackson Kent Defensive Rebound.,15,20
+4:53,256,Paulius Satkus made Jumper. Assisted by Tom Vodanovich.,15,22
+4:34,2378,Foul on Nolan Gerrity.,15,22
+4:34,2378,Nolan Gerrity Turnover.,15,22
+4:11,256,Paulius Satkus missed Layup.,15,22
+4:11,2378,Joe Sherburne Defensive Rebound.,15,22
+4:06,2378,Jairus Lyles Turnover.,15,22
+4:03,256,Vince Holmes Steal.,15,22
+3:57,256,Joey McLean made Three Point Jumper.,15,25
+3:54,2378,UMBC  Timeout,15,25
+3:36,256,Foul on Joey McLean.,15,25
+3:36,2378,K.J. Maura made Free Throw.,16,25
+3:36,2378,K.J. Maura missed Free Throw.,16,25
+3:36,256,Paulius Satkus Defensive Rebound.,16,25
+3:11,256,Paulius Satkus missed Layup.,16,25
+3:11,2378,Arkel Lamar Defensive Rebound.,16,25
+3:01,2378,Joe Sherburne made Three Point Jumper. Assisted by Arkel Lamar.,19,25
+2:40,256,Paulius Satkus missed Layup.,19,25
+2:40,2378,Arkel Lamar Defensive Rebound.,19,25
+2:27,2378,Will Darley missed Jumper.,19,25
+2:27,256,Tom Vodanovich Block.,19,25
+2:25,256,Tom Vodanovich Defensive Rebound.,19,25
+2:08,256,Paulius Satkus made Layup. Assisted by Jackson Kent.,19,27
+1:45,2378,K.J. Maura missed Layup.,19,27
+1:45,256,Paulius Satkus Block.,19,27
+1:43,2378,Jairus Lyles Offensive Rebound.,19,27
+1:40,2378,Joe Sherburne made Three Point Jumper. Assisted by Jairus Lyles.,22,27
+1:18,256,Paulius Satkus Turnover.,22,27
+1:16,2378,Arkel Lamar Steal.,22,27
+1:15,256,Foul on Vince Holmes.,22,27
+1:15,2378,Jairus Lyles made Free Throw.,23,27
+1:15,2378,Jairus Lyles made Free Throw.,24,27
+0:57,256,Tom Vodanovich missed Layup.,24,27
+0:57,2378,Arkel Lamar Defensive Rebound.,24,27
+0:46,2378,Joe Sherburne missed Three Point Jumper.,24,27
+0:46,2378,Jairus Lyles Offensive Rebound.,24,27
+0:34,2378,K.J. Maura made Three Point Jumper. Assisted by Jairus Lyles.,27,27
+0:32,256,James Madison  Timeout,27,27
+0:06,256,Jackson Kent missed Three Point Jumper.,27,27
+0:06,2378,Will Darley Defensive Rebound.,27,27
+0:00,256,End of 1st half,27,27
+19:50,2378,Jairus Lyles made Layup.,29,27
+19:21,256,Joey McLean made Three Point Jumper.,29,30
+19:11,2378,K.J. Maura missed Three Point Jumper.,29,30
+19:11,256,Tom Vodanovich Defensive Rebound.,29,30
+18:45,256,Paulius Satkus missed Layup.,29,30
+18:45,2378,Nolan Gerrity Defensive Rebound.,29,30
+18:19,2378,Nolan Gerrity missed Layup.,29,30
+18:19,256,Tom Vodanovich Defensive Rebound.,29,30
+18:03,256,Joey McLean missed Three Point Jumper.,29,30
+18:03,2378,Jairus Lyles Defensive Rebound.,29,30
+17:51,2378,Joe Sherburne made Three Point Jumper. Assisted by Will Darley.,32,30
+17:27,256,Joey McLean Turnover.,32,30
+17:26,2378,Joe Sherburne Steal.,32,30
+17:24,2378,Jairus Lyles made Layup. Assisted by Joe Sherburne.,34,30
+17:05,256,Dimitrije Cabarkapa missed Jumper.,34,30
+17:05,2378,K.J. Maura Defensive Rebound.,34,30
+16:56,256,Foul on Jackson Kent.,34,30
+16:52,2378,Jairus Lyles made Jumper.,36,30
+16:24,256,Tom Vodanovich missed Jumper.,36,30
+16:24,256,Tom Vodanovich Offensive Rebound.,36,30
+16:22,2378,Foul on Nolan Gerrity.,36,30
+16:22,256,Tom Vodanovich made Free Throw.,36,31
+16:22,256,Tom Vodanovich made Free Throw.,36,32
+16:03,2378,Joe Sherburne missed Jumper.,36,32
+16:03,256,Ramone Snowden Defensive Rebound.,36,32
+15:42,256,Official TV Timeout,36,32
+15:40,2378,Foul on Joe Sherburne.,36,32
+15:21,256,Tom Vodanovich Turnover.,36,32
+15:09,2378,Will Darley made Three Point Jumper. Assisted by K.J. Maura.,39,32
+14:37,256,Ramone Snowden made Three Point Jumper. Assisted by Joey McLean.,39,35
+14:12,2378,K.J. Maura made Three Point Jumper. Assisted by Jairus Lyles.,42,35
+13:56,256,Ramone Snowden missed Three Point Jumper.,42,35
+13:56,2378,Joe Sherburne Defensive Rebound.,42,35
+13:54,256,Foul on Ramone Snowden.,42,35
+13:41,2378,Jairus Lyles made Jumper. Assisted by K.J. Maura.,44,35
+13:21,256,Dimitrije Cabarkapa missed Jumper.,44,35
+13:21,256,Tom Vodanovich Offensive Rebound.,44,35
+13:16,256,Tom Vodanovich missed Layup.,44,35
+13:16,2378,Jairus Lyles Defensive Rebound.,44,35
+13:12,2378,K.J. Maura made Three Point Jumper. Assisted by Joe Sherburne.,47,35
+13:09,256,James Madison  Timeout,47,35
+12:41,256,Joey McLean missed Three Point Jumper.,47,35
+12:41,256,Tom Vodanovich Offensive Rebound.,47,35
+12:35,2378,Foul on Joe Sherburne.,47,35
+12:35,256,Joey McLean Turnover.,47,35
+12:07,2378,Jairus Lyles missed Three Point Jumper.,47,35
+12:07,256,Ivan Lukic Defensive Rebound.,47,35
+11:41,256,Jackson Kent made Jumper.,47,37
+11:24,2378,Will Darley Turnover.,47,37
+11:22,256,Ramone Snowden Steal.,47,37
+11:20,2378,Foul on Arkel Lamar.,47,37
+11:20,256,Official TV Timeout,47,37
+11:09,256,Joey McLean missed Jumper.,47,37
+11:09,2378,Jairus Lyles Defensive Rebound.,47,37
+10:45,2378,Jairus Lyles made Jumper.,49,37
+10:18,256,Jackson Kent missed Jumper.,49,37
+10:18,256,Paulius Satkus Offensive Rebound.,49,37
+10:13,256,Paulius Satkus made Jumper.,49,39
+9:38,2378,Jairus Lyles made Three Point Jumper. Assisted by K.J. Maura.,52,39
+9:19,256,Ivan Lukic made Layup. Assisted by Paulius Satkus.,52,41
+8:57,256,Foul on Joey McLean.,52,41
+8:57,2378,Joe Sherburne missed Free Throw.,52,41
+8:57,2378,UMBC Deadball Team Rebound.,52,41
+8:57,2378,Joe Sherburne made Free Throw.,53,41
+8:39,256,Joey McLean made Three Point Jumper. Assisted by Jackson Kent.,53,44
+8:25,2378,Jourdan Grant missed Three Point Jumper.,53,44
+8:25,256,Paulius Satkus Defensive Rebound.,53,44
+8:16,256,Jackson Kent missed Three Point Jumper.,53,44
+8:16,2378,K.J. Maura Defensive Rebound.,53,44
+8:09,2378,Jairus Lyles missed Layup.,53,44
+8:09,256,Jackson Kent Block.,53,44
+8:09,2378,UMBC Offensive Rebound.,53,44
+8:02,2378,K.J. Maura missed Three Point Jumper.,53,44
+8:02,256,Ramone Snowden Defensive Rebound.,53,44
+8:01,2378,Foul on Will Darley.,53,44
+7:47,256,Joey McLean made Three Point Jumper. Assisted by Ramone Snowden.,53,47
+7:45,256,James Madison  Timeout,53,47
+7:30,2378,Nolan Gerrity made Jumper. Assisted by Will Darley.,55,47
+7:12,2378,Foul on Will Darley.,55,47
+7:04,256,Ramone Snowden made Three Point Jumper. Assisted by Tom Vodanovich.,55,50
+6:38,2378,Nolan Gerrity made Layup. Assisted by K.J. Maura.,57,50
+6:19,256,Terrence Johnson missed Jumper.,57,50
+6:19,2378,UMBC Defensive Rebound.,57,50
+6:06,2378,Jairus Lyles made Jumper.,59,50
+5:45,256,Paulius Satkus Turnover.,59,50
+5:33,2378,Jairus Lyles made Three Point Jumper.,62,50
+5:18,256,Paulius Satkus made Layup. Assisted by Tom Vodanovich.,62,52
+4:55,2378,Jairus Lyles missed Three Point Jumper.,62,52
+4:55,2378,Will Darley Offensive Rebound.,62,52
+4:36,2378,Jairus Lyles Turnover.,62,52
+4:33,256,Ramone Snowden Steal.,62,52
+4:25,2378,Foul on Jourdan Grant.,62,52
+4:25,256,Jackson Kent made Free Throw.,62,53
+4:25,256,Jackson Kent made Free Throw.,62,54
+4:01,2378,K.J. Maura Turnover.,62,54
+3:59,256,Ramone Snowden Steal.,62,54
+3:42,256,Dimitrije Cabarkapa made Jumper.,62,56
+3:18,2378,K.J. Maura missed Jumper.,62,56
+3:18,256,Vince Holmes Block.,62,56
+3:16,256,Tom Vodanovich Defensive Rebound.,62,56
+3:04,256,Ramone Snowden missed Three Point Jumper.,62,56
+3:04,2378,Jairus Lyles Defensive Rebound.,62,56
+2:54,2378,UMBC  Timeout,62,56
+2:44,2378,Will Darley missed Three Point Jumper.,62,56
+2:44,256,Ramone Snowden Defensive Rebound.,62,56
+2:23,256,Terrence Johnson Turnover.,62,56
+2:18,2378,Will Darley Steal.,62,56
+1:58,2378,Jairus Lyles missed Layup.,62,56
+1:58,256,Tom Vodanovich Defensive Rebound.,62,56
+1:36,256,Dimitrije Cabarkapa missed Jumper.,62,56
+1:36,256,Vince Holmes Offensive Rebound.,62,56
+1:32,256,James Madison  Timeout,62,56
+1:26,256,Dimitrije Cabarkapa missed Three Point Jumper.,62,56
+1:26,256,Tom Vodanovich Offensive Rebound.,62,56
+1:21,256,Jackson Kent missed Layup.,62,56
+1:21,256,Joey McLean Offensive Rebound.,62,56
+1:09,256,Joey McLean made Layup.,62,58
+0:51,2378,Will Darley Turnover.,62,58
+0:49,256,Joey McLean Steal.,62,58
+0:37,256,Dimitrije Cabarkapa made Three Point Jumper. Assisted by Joey McLean.,62,61
+0:15,2378,Jairus Lyles missed Layup.,62,61
+0:15,256,Dimitrije Cabarkapa Defensive Rebound.,62,61
+0:05,256,Joey McLean missed Jumper.,62,61
+0:05,2378,K.J. Maura Defensive Rebound.,62,61
+0:01,256,Foul on Ramone Snowden.,62,61
+0:01,2378,UMBC  Timeout,62,61
+0:00,256,End of Game,62,61

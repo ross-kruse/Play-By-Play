@@ -20,6 +20,10 @@ To Run:
                         start       end
     python scraping.py 2017-03-01 2017-03-01
     date is YYYY-MM-DD
+
+This file scrapes ESPN data for NCAA play-by-play
+Author:
+    Ross Kruse 
 """
 
 # CONSTANTS
@@ -219,7 +223,6 @@ if __name__ == '__main__':
         for game in games:
 
             game_id = game.lower().split("gameid=")[1]
-            # I didn't feel like dealing with unicode characters
             try:
                 print "Writing data for game: {0}".format(game_id)
                 directory = "Games/"+d.strftime("%Y-%m-%d")

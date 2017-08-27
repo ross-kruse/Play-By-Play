@@ -1,0 +1,403 @@
+Murray State,145,Ole Miss,93
+time,team_id,description,h_score,a_score
+19:45,145,Terence Davis made Three Point Jumper. Assisted by Deandre Burnett.,0,3
+19:28,93,Damarcus Croaker missed Three Point Jumper.,0,3
+19:28,145,Deandre Burnett Defensive Rebound.,0,3
+19:08,145,Deandre Burnett missed Three Point Jumper.,0,3
+19:08,145,Terence Davis Offensive Rebound.,0,3
+19:05,145,Deandre Burnett missed Three Point Jumper.,0,3
+19:05,93,Bryce Jones Defensive Rebound.,0,3
+18:41,93,Jonathan Stark Turnover.,0,3
+18:40,145,Terence Davis Steal.,0,3
+18:39,145,Terence Davis made Dunk.,0,5
+18:17,93,Gee McGhee missed Three Point Jumper.,0,5
+18:17,145,Deandre Burnett Defensive Rebound.,0,5
+18:08,145,Sebastian Saiz missed Layup.,0,5
+18:08,93,Brion Sanchious Defensive Rebound.,0,5
+17:59,93,Gee McGhee made Layup.,2,5
+17:26,145,Terence Davis missed Three Point Jumper.,2,5
+17:26,93,Bryce Jones Defensive Rebound.,2,5
+17:09,93,Jonathan Stark made Three Point Jumper. Assisted by Damarcus Croaker.,5,5
+16:46,145,Terence Davis missed Three Point Jumper.,5,5
+16:46,145,Ole Miss Offensive Rebound.,5,5
+16:45,93,Foul on Bryce Jones.,5,5
+16:41,145,Justas Furmanavicius made Layup. Assisted by Cullen Neal.,5,7
+16:22,93,Gee McGhee Turnover.,5,7
+16:14,145,Deandre Burnett Turnover.,5,7
+16:03,93,Bryce Jones missed Three Point Jumper.,5,7
+16:03,93,Terrell Miller Jr. Offensive Rebound.,5,7
+15:58,145,Foul on Justas Furmanavicius.,5,7
+15:58,145,Official TV Timeout,5,7
+15:58,93,Terrell Miller Jr. made Free Throw.,6,7
+15:58,93,Terrell Miller Jr. missed Free Throw.,6,7
+15:58,145,Rasheed Brooks Defensive Rebound.,6,7
+15:42,145,Sebastian Saiz missed Three Point Jumper.,6,7
+15:42,93,Bryce Jones Defensive Rebound.,6,7
+15:30,93,Terrell Miller Jr. made Three Point Jumper. Assisted by Bryce Jones.,9,7
+15:14,145,Cullen Neal made Three Point Jumper. Assisted by Sebastian Saiz.,9,10
+14:41,93,Brion Sanchious missed Jumper.,9,10
+14:41,145,Sebastian Saiz Defensive Rebound.,9,10
+14:30,145,Sebastian Saiz missed Layup.,9,10
+14:30,93,Terrell Miller Jr. Defensive Rebound.,9,10
+14:21,93,Jonathan Stark missed Three Point Jumper.,9,10
+14:21,145,Terence Davis Defensive Rebound.,9,10
+14:11,145,Cullen Neal made Three Point Jumper. Assisted by Rasheed Brooks.,9,13
+13:48,145,Foul on Justas Furmanavicius.,9,13
+13:28,93,Gee McGhee missed Three Point Jumper.,9,13
+13:28,93,Damarcus Croaker Offensive Rebound.,9,13
+13:22,93,Damarcus Croaker made Layup.,11,13
+13:01,145,Rasheed Brooks Turnover.,11,13
+12:45,93,Terrell Miller Jr. made Layup.,13,13
+12:37,93,Foul on Jonathan Stark.,13,13
+12:37,145,Terence Davis missed Free Throw.,13,13
+12:37,145,Ole Miss Deadball Team Rebound.,13,13
+12:37,145,Terence Davis made Free Throw.,13,14
+12:28,93,Jachai Taylor Turnover.,13,14
+12:27,145,Deandre Burnett Steal.,13,14
+12:24,145,Terence Davis missed Layup.,13,14
+12:24,93,Damarcus Croaker Block.,13,14
+12:24,145,Ole Miss Offensive Rebound.,13,14
+12:16,93,Foul on Terrell Miller Jr..,13,14
+12:16,145,Sebastian Saiz made Free Throw.,13,15
+12:16,145,Sebastian Saiz made Free Throw.,13,16
+11:58,93,Terrell Miller Jr. made Jumper. Assisted by Bryce Jones.,15,16
+11:38,145,Cullen Neal missed Three Point Jumper.,15,16
+11:38,93,Damarcus Croaker Defensive Rebound.,15,16
+11:32,93,Jonathan Stark made Jumper.,17,16
+11:18,145,Terence Davis made Three Point Jumper. Assisted by Cullen Neal.,17,19
+11:04,93,Jalen Dupree made Jumper.,19,19
+10:49,93,Foul on Jalen Dupree.,19,19
+10:49,145,Official TV Timeout,19,19
+10:32,145,Deandre Burnett made Three Point Jumper. Assisted by Cullen Neal.,19,22
+10:08,93,Damarcus Croaker missed Layup.,19,22
+10:08,145,Sebastian Saiz Defensive Rebound.,19,22
+9:56,93,Foul on Jonathan Stark.,19,22
+9:49,145,Deandre Burnett missed Three Point Jumper.,19,22
+9:49,93,Murray St Defensive Rebound.,19,22
+9:46,145,Foul on Marcanvis Hymon.,19,22
+9:29,93,Foul on Terrell Miller Jr..,19,22
+9:29,93,Terrell Miller Jr. Turnover.,19,22
+9:18,93,Foul on Brion Sanchious.,19,22
+9:17,145,Sebastian Saiz made Free Throw.,19,23
+9:17,145,Sebastian Saiz missed Free Throw.,19,23
+9:17,93,Gee McGhee Defensive Rebound.,19,23
+9:04,145,Foul on Marcanvis Hymon.,19,23
+9:04,93,Brion Sanchious made Free Throw.,20,23
+9:04,93,Brion Sanchious made Free Throw.,21,23
+8:46,145,Sebastian Saiz missed Three Point Jumper.,21,23
+8:46,145,Marcanvis Hymon Offensive Rebound.,21,23
+8:41,93,Foul on Gilbert Thomas Jr..,21,23
+8:41,145,Marcanvis Hymon made Free Throw.,21,24
+8:41,145,Marcanvis Hymon missed Free Throw.,21,24
+8:41,93,Gilbert Thomas Jr. Defensive Rebound.,21,24
+8:18,93,Gilbert Thomas Jr. Turnover.,21,24
+8:17,145,Sebastian Saiz Steal.,21,24
+8:06,145,Terence Davis missed Three Point Jumper.,21,24
+8:06,93,Damarcus Croaker Defensive Rebound.,21,24
+7:44,145,Foul on Breein Tyree.,21,24
+7:44,145,Official TV Timeout,21,24
+7:38,93,Gilbert Thomas Jr. Turnover.,21,24
+7:27,145,Sebastian Saiz missed Layup.,21,24
+7:27,145,Sebastian Saiz Offensive Rebound.,21,24
+7:24,145,Sebastian Saiz made Layup.,21,26
+7:22,93,Foul on Brion Sanchious.,21,26
+7:22,145,Sebastian Saiz made Free Throw.,21,27
+6:55,93,Bryce Jones missed Three Point Jumper.,21,27
+6:55,145,Ole Miss Deadball Team Rebound.,21,27
+6:39,145,Rasheed Brooks made Jumper.,21,29
+6:09,93,Damarcus Croaker missed Jumper.,21,29
+6:09,145,Rasheed Brooks Defensive Rebound.,21,29
+6:02,145,Breein Tyree missed Layup.,21,29
+6:02,93,Gee McGhee Defensive Rebound.,21,29
+5:51,145,Foul on Rasheed Brooks.,21,29
+5:51,93,Jalen Dupree missed Free Throw.,21,29
+5:51,93,Murray St Deadball Team Rebound.,21,29
+5:51,93,Jalen Dupree missed Free Throw.,21,29
+5:51,145,Marcanvis Hymon Defensive Rebound.,21,29
+5:30,145,Deandre Burnett Turnover.,21,29
+5:29,93,Gee McGhee Steal.,21,29
+5:26,145,Foul on Terence Davis.,21,29
+5:26,93,Damarcus Croaker made Free Throw.,22,29
+5:26,93,Damarcus Croaker made Free Throw.,23,29
+5:12,145,Sebastian Saiz missed Jumper.,23,29
+5:12,93,Bryce Jones Defensive Rebound.,23,29
+4:59,145,Foul on Sebastian Saiz.,23,29
+4:59,93,Jalen Dupree made Free Throw.,24,29
+4:59,93,Jalen Dupree made Free Throw.,25,29
+4:51,145,Justas Furmanavicius missed Three Point Jumper.,25,29
+4:51,93,Damarcus Croaker Defensive Rebound.,25,29
+4:44,93,Terrell Miller Jr. missed Three Point Jumper.,25,29
+4:44,145,Sebastian Saiz Defensive Rebound.,25,29
+4:36,145,Cullen Neal missed Jumper.,25,29
+4:36,145,Terence Davis Offensive Rebound.,25,29
+4:31,145,Terence Davis made Two Point Tip Shot.,25,31
+4:07,93,Jachai Taylor missed Three Point Jumper.,25,31
+4:07,145,Cullen Neal Defensive Rebound.,25,31
+3:55,93,Foul on Jachai Taylor.,25,31
+3:55,145,Official TV Timeout,25,31
+3:55,145,Deandre Burnett made Free Throw.,25,32
+3:55,145,Deandre Burnett missed Free Throw.,25,32
+3:55,93,Terrell Miller Jr. Defensive Rebound.,25,32
+3:39,93,Damarcus Croaker missed Three Point Jumper.,25,32
+3:39,145,Deandre Burnett Defensive Rebound.,25,32
+3:34,93,Foul on Damarcus Croaker.,25,32
+3:34,145,Deandre Burnett made Free Throw.,25,33
+3:34,145,Deandre Burnett made Free Throw.,25,34
+3:16,93,Gee McGhee missed Layup.,25,34
+3:16,145,Justas Furmanavicius Defensive Rebound.,25,34
+3:09,145,Cullen Neal missed Layup.,25,34
+3:09,93,Jalen Dupree Block.,25,34
+3:07,145,Justas Furmanavicius Offensive Rebound.,25,34
+3:03,145,Justas Furmanavicius missed Layup.,25,34
+3:03,145,Ole Miss Offensive Rebound.,25,34
+3:01,145,Terence Davis made Layup. Assisted by Justas Furmanavicius.,25,36
+3:01,93,Foul on Jalen Dupree.,25,36
+3:01,145,Terence Davis missed Free Throw.,25,36
+3:01,93,Terrell Miller Jr. Defensive Rebound.,25,36
+3:00,145,Foul on Nate Morris.,25,36
+3:00,93,Terrell Miller Jr. made Free Throw.,26,36
+3:00,93,Terrell Miller Jr. made Free Throw.,27,36
+2:57,145,Marcanvis Hymon missed Jumper.,27,36
+2:57,93,Jalen Dupree Defensive Rebound.,27,36
+2:50,93,Jerami Grace missed Three Point Jumper.,27,36
+2:50,93,Gee McGhee Offensive Rebound.,27,36
+2:26,93,Terrell Miller Jr. made Jumper.,29,36
+2:09,93,Foul on Jerami Grace.,29,36
+2:09,145,Deandre Burnett made Free Throw.,29,37
+2:09,145,Deandre Burnett made Free Throw.,29,38
+1:53,93,Jalen Dupree made Layup. Assisted by Jerami Grace.,31,38
+1:43,145,Sebastian Saiz missed Jumper.,31,38
+1:43,145,Ole Miss Offensive Rebound.,31,38
+1:40,145,Marcanvis Hymon made Free Throw.,31,39
+1:40,93,Foul on Jalen Dupree.,31,39
+1:39,145,Marcanvis Hymon missed Free Throw.,31,39
+1:39,93,Terrell Miller Jr. Defensive Rebound.,31,39
+1:34,145,Foul on Terence Davis.,31,39
+1:34,93,Gilbert Thomas Jr. missed Free Throw.,31,39
+1:34,93,Murray St Deadball Team Rebound.,31,39
+1:34,93,Gilbert Thomas Jr. missed Free Throw.,31,39
+1:34,145,Terence Davis Defensive Rebound.,31,39
+1:32,145,Deandre Burnett missed Layup.,31,39
+1:32,145,Justas Furmanavicius Offensive Rebound.,31,39
+1:30,145,Justas Furmanavicius made Layup.,31,41
+0:55,93,Foul on Terrell Miller Jr..,31,41
+0:55,93,Terrell Miller Jr. Turnover.,31,41
+0:55,145,Ole Miss  Timeout,31,41
+0:50,93,Gilbert Thomas Jr. missed Three Point Jumper.,31,41
+0:50,93,Gilbert Thomas Jr. Offensive Rebound.,31,41
+0:39,93,Gilbert Thomas Jr. missed Layup.,31,41
+0:39,145,Justas Furmanavicius Block.,31,41
+0:38,93,Murray St Offensive Rebound.,31,41
+0:36,93,Jonathan Stark missed Three Point Jumper.,31,41
+0:36,145,Terence Davis Defensive Rebound.,31,41
+0:04,93,Foul on Gilbert Thomas Jr..,31,41
+0:04,145,Deandre Burnett made Free Throw.,31,42
+0:04,145,Deandre Burnett made Free Throw.,31,43
+0:03,93,Jonathan Stark missed Three Point Jumper.,31,43
+0:03,145,Justas Furmanavicius Block.,31,43
+0:03,145,Ole Miss Deadball Team Rebound.,31,43
+0:00,145,End of 1st half,31,43
+19:40,145,Foul on Marcanvis Hymon.,31,43
+19:37,145,Foul on Deandre Burnett.,31,43
+19:29,145,Foul on Cullen Neal.,31,43
+19:18,93,Jonathan Stark missed Jumper.,31,43
+19:18,145,Sebastian Saiz Defensive Rebound.,31,43
+19:11,145,Terence Davis made Layup. Assisted by Sebastian Saiz.,31,45
+19:04,93,Damarcus Croaker made Layup. Assisted by Jonathan Stark.,33,45
+18:52,145,Justas Furmanavicius Turnover.,33,45
+18:51,93,Bryce Jones Steal.,33,45
+18:48,93,Bryce Jones Turnover.,33,45
+18:39,145,Cullen Neal missed Three Point Jumper.,33,45
+18:39,93,Brion Sanchious Defensive Rebound.,33,45
+18:22,145,Foul on Justas Furmanavicius.,33,45
+18:13,93,Jonathan Stark missed Jumper.,33,45
+18:13,93,Murray St Offensive Rebound.,33,45
+18:00,145,Foul on Terence Davis.,33,45
+17:59,93,Bryce Jones missed Three Point Jumper.,33,45
+17:59,145,Rasheed Brooks Defensive Rebound.,33,45
+17:44,145,Rasheed Brooks missed Three Point Jumper.,33,45
+17:44,145,Sebastian Saiz Offensive Rebound.,33,45
+17:37,93,Foul on Brion Sanchious.,33,45
+17:37,145,Sebastian Saiz made Free Throw.,33,46
+17:37,145,Sebastian Saiz made Free Throw.,33,47
+17:16,93,Bryce Jones missed Layup.,33,47
+17:16,145,Sebastian Saiz Defensive Rebound.,33,47
+17:05,93,Foul on Gee McGhee.,33,47
+17:05,145,Deandre Burnett made Jumper. Assisted by Cullen Neal.,33,49
+16:35,93,Gee McGhee missed Three Point Jumper.,33,49
+16:35,145,Sebastian Saiz Defensive Rebound.,33,49
+16:32,93,Foul on Jalen Dupree.,33,49
+16:27,145,Deandre Burnett made Three Point Jumper. Assisted by Cullen Neal.,33,52
+16:00,93,Jonathan Stark made Layup.,35,52
+15:46,145,Cullen Neal missed Jumper.,35,52
+15:46,93,Damarcus Croaker Defensive Rebound.,35,52
+15:38,145,Foul on Cullen Neal.,35,52
+15:38,145,Official TV Timeout,35,52
+15:24,93,Damarcus Croaker made Dunk. Assisted by Terrell Miller Jr..,37,52
+15:04,145,Marcanvis Hymon missed Jumper.,37,52
+15:04,93,Damarcus Croaker Defensive Rebound.,37,52
+14:56,93,Jonathan Stark missed Layup.,37,52
+14:56,145,Marcanvis Hymon Block.,37,52
+14:53,145,Rasheed Brooks Defensive Rebound.,37,52
+14:46,145,Rasheed Brooks missed Three Point Jumper.,37,52
+14:46,93,Bryce Jones Defensive Rebound.,37,52
+14:23,93,Terrell Miller Jr. missed Jumper.,37,52
+14:23,145,Sebastian Saiz Defensive Rebound.,37,52
+14:11,145,Cullen Neal missed Layup.,37,52
+14:11,93,Bryce Jones Defensive Rebound.,37,52
+14:04,93,Bryce Jones made Layup.,39,52
+14:04,145,Foul on Sebastian Saiz.,39,52
+14:04,93,Bryce Jones made Free Throw.,40,52
+13:50,145,Rasheed Brooks missed Jumper.,40,52
+13:50,93,Bryce Jones Defensive Rebound.,40,52
+13:23,145,Foul on Breein Tyree.,40,52
+13:23,93,Bryce Jones made Free Throw.,41,52
+13:23,93,Bryce Jones made Free Throw.,42,52
+13:23,93,Bryce Jones missed Free Throw.,42,52
+13:23,145,Sebastian Saiz Defensive Rebound.,42,52
+13:09,145,Rasheed Brooks missed Three Point Jumper.,42,52
+13:09,145,Sebastian Saiz Offensive Rebound.,42,52
+13:02,93,Foul on Brion Sanchious.,42,52
+13:02,145,Sebastian Saiz made Free Throw.,42,53
+13:02,145,Sebastian Saiz missed Free Throw.,42,53
+13:02,93,Terrell Miller Jr. Defensive Rebound.,42,53
+12:52,93,Damarcus Croaker Turnover.,42,53
+12:52,145,Breein Tyree Steal.,42,53
+12:49,145,Breein Tyree made Layup.,42,55
+12:37,93,Damarcus Croaker missed Layup.,42,55
+12:37,145,Ole Miss Defensive Rebound.,42,55
+12:24,145,Sebastian Saiz made Jumper. Assisted by Deandre Burnett.,42,57
+12:10,93,Bryce Jones missed Three Point Jumper.,42,57
+12:10,145,Terence Davis Defensive Rebound.,42,57
+12:03,145,Justas Furmanavicius missed Layup.,42,57
+12:03,93,Damarcus Croaker Defensive Rebound.,42,57
+11:40,93,Damarcus Croaker missed Layup.,42,57
+11:40,145,Sebastian Saiz Defensive Rebound.,42,57
+11:35,93,Foul on Gee McGhee.,42,57
+11:35,145,Official TV Timeout,42,57
+11:20,145,Justas Furmanavicius made Three Point Jumper. Assisted by Deandre Burnett.,42,60
+11:08,93,Jalen Dupree missed Jumper.,42,60
+11:08,93,Jalen Dupree Offensive Rebound.,42,60
+11:01,93,Jalen Dupree Turnover.,42,60
+11:00,145,Deandre Burnett Steal.,42,60
+10:55,93,Foul on Terrell Miller Jr..,42,60
+10:55,145,Deandre Burnett made Free Throw.,42,61
+10:55,145,Deandre Burnett made Free Throw.,42,62
+10:27,93,Damarcus Croaker made Jumper. Assisted by Bryce Jones.,44,62
+10:12,145,Terence Davis missed Jumper.,44,62
+10:12,93,Jalen Dupree Defensive Rebound.,44,62
+9:53,93,Gee McGhee Turnover.,44,62
+9:51,145,Terence Davis Steal.,44,62
+9:36,145,Deandre Burnett made Layup.,44,64
+9:21,93,Damarcus Croaker missed Three Point Jumper.,44,64
+9:21,145,Ole Miss Defensive Rebound.,44,64
+8:58,145,Terence Davis missed Three Point Jumper.,44,64
+8:58,93,Damarcus Croaker Defensive Rebound.,44,64
+8:50,93,Jerami Grace made Three Point Jumper. Assisted by Damarcus Croaker.,47,64
+8:31,145,Ole Miss  Timeout,47,64
+8:23,145,Foul on Nate Morris.,47,64
+8:23,145,Nate Morris Turnover.,47,64
+7:56,93,Damarcus Croaker missed Jumper.,47,64
+7:56,145,Nate Morris Block.,47,64
+7:55,145,Nate Morris Defensive Rebound.,47,64
+7:37,145,Nate Morris missed Layup.,47,64
+7:37,93,Jerami Grace Defensive Rebound.,47,64
+7:27,145,Foul on Nate Morris.,47,64
+7:27,145,Official TV Timeout,47,64
+7:27,93,Gee McGhee made Free Throw.,48,64
+7:27,93,Gee McGhee made Free Throw.,49,64
+7:05,93,Foul on Jerami Grace.,49,64
+7:05,145,Deandre Burnett made Free Throw.,49,65
+7:05,145,Deandre Burnett made Free Throw.,49,66
+6:46,93,Damarcus Croaker missed Three Point Jumper.,49,66
+6:46,93,Murray St Offensive Rebound.,49,66
+6:43,145,Foul on Cullen Neal.,49,66
+6:43,93,Terrell Miller Jr. made Free Throw.,50,66
+6:43,93,Terrell Miller Jr. made Free Throw.,51,66
+6:18,93,Foul on Damarcus Croaker.,51,66
+6:18,145,Marcanvis Hymon missed Free Throw.,51,66
+6:18,145,Ole Miss Deadball Team Rebound.,51,66
+6:18,145,Marcanvis Hymon missed Free Throw.,51,66
+6:18,145,Ole Miss Offensive Rebound.,51,66
+6:18,93,Foul on Jalen Dupree.,51,66
+6:18,145,Deandre Burnett made Free Throw.,51,67
+6:18,145,Deandre Burnett made Free Throw.,51,68
+6:06,145,Foul on Sebastian Saiz.,51,68
+6:06,93,Bryce Jones made Free Throw.,52,68
+6:06,93,Bryce Jones missed Free Throw.,52,68
+6:06,145,Sebastian Saiz Defensive Rebound.,52,68
+6:00,145,Terence Davis Turnover.,52,68
+5:59,93,Damarcus Croaker Steal.,52,68
+5:57,93,Jonathan Stark missed Three Point Jumper.,52,68
+5:57,145,Terence Davis Block.,52,68
+5:53,145,Terence Davis Defensive Rebound.,52,68
+5:49,145,Deandre Burnett missed Layup.,52,68
+5:49,93,Terrell Miller Jr. Defensive Rebound.,52,68
+5:44,93,Terrell Miller Jr. Turnover.,52,68
+5:33,145,Justas Furmanavicius Turnover.,52,68
+5:17,93,Jonathan Stark made Three Point Jumper. Assisted by Damarcus Croaker.,55,68
+5:15,93,Murray St  Timeout,55,68
+5:08,145,Sebastian Saiz made Dunk. Assisted by Cullen Neal.,55,70
+4:54,145,Foul on Terence Davis.,55,70
+4:54,93,Damarcus Croaker missed Free Throw.,55,70
+4:54,93,Murray St Deadball Team Rebound.,55,70
+4:54,93,Damarcus Croaker made Free Throw.,56,70
+4:40,145,Cullen Neal made Layup.,56,72
+4:15,93,Jonathan Stark missed Three Point Jumper.,56,72
+4:15,93,Terrell Miller Jr. Offensive Rebound.,56,72
+4:12,93,Terrell Miller Jr. missed Layup.,56,72
+4:12,145,Terence Davis Defensive Rebound.,56,72
+3:52,145,Sebastian Saiz missed Jumper.,56,72
+3:52,145,Ole Miss Offensive Rebound.,56,72
+3:49,145,Official TV Timeout,56,72
+3:43,145,Sebastian Saiz Turnover.,56,72
+3:42,93,Jonathan Stark Steal.,56,72
+3:38,93,Terrell Miller Jr. made Three Point Jumper. Assisted by Jonathan Stark.,59,72
+3:15,145,Sebastian Saiz made Layup. Assisted by Justas Furmanavicius.,59,74
+3:01,93,Terrell Miller Jr. made Three Point Jumper. Assisted by Damarcus Croaker.,62,74
+2:31,145,Terence Davis missed Jumper.,62,74
+2:31,145,Sebastian Saiz Offensive Rebound.,62,74
+2:22,145,Ole Miss  Timeout,62,74
+2:17,145,Cullen Neal missed Three Point Jumper.,62,74
+2:17,145,Justas Furmanavicius Offensive Rebound.,62,74
+2:07,145,Terence Davis missed Layup.,62,74
+2:07,145,Justas Furmanavicius Offensive Rebound.,62,74
+2:04,93,Foul on Jonathan Stark.,62,74
+2:04,145,Justas Furmanavicius made Free Throw.,62,75
+2:04,145,Justas Furmanavicius made Free Throw.,62,76
+1:54,93,Terrell Miller Jr. made Three Point Jumper. Assisted by Jonathan Stark.,65,76
+1:52,93,Murray St  Timeout,65,76
+1:49,145,Deandre Burnett Turnover.,65,76
+1:48,93,Jonathan Stark missed Three Point Jumper.,65,76
+1:48,145,Terence Davis Defensive Rebound.,65,76
+1:31,145,Foul on Deandre Burnett.,65,76
+1:31,145,Deandre Burnett Turnover.,65,76
+1:23,145,Foul on Cullen Neal.,65,76
+1:23,93,Terrell Miller Jr. made Free Throw.,66,76
+1:23,93,Terrell Miller Jr. missed Free Throw.,66,76
+1:23,145,Sebastian Saiz Defensive Rebound.,66,76
+1:13,145,Deandre Burnett Turnover.,66,76
+1:02,145,Foul on Justas Furmanavicius.,66,76
+1:02,93,Jonathan Stark made Free Throw.,67,76
+1:02,93,Jonathan Stark made Free Throw.,68,76
+0:50,145,Deandre Burnett missed Layup.,68,76
+0:50,93,Terrell Miller Jr. Defensive Rebound.,68,76
+0:45,93,Damarcus Croaker made Layup. Assisted by Terrell Miller Jr..,70,76
+0:33,93,Foul on Jonathan Stark.,70,76
+0:33,145,Deandre Burnett missed Free Throw.,70,76
+0:33,145,Ole Miss Deadball Team Rebound.,70,76
+0:33,145,Deandre Burnett made Free Throw.,70,77
+0:23,93,Jonathan Stark missed Three Point Jumper.,70,77
+0:23,93,Terrell Miller Jr. Offensive Rebound.,70,77
+0:19,93,Terrell Miller Jr. made Layup.,72,77
+0:18,145,Foul on Justas Furmanavicius.,72,77
+0:18,93,Terrell Miller Jr. made Free Throw.,73,77
+0:16,93,Foul on Bryce Jones.,73,77
+0:16,145,Terence Davis made Free Throw.,73,78
+0:16,145,Terence Davis missed Free Throw.,73,78
+0:16,93,Jerami Grace Defensive Rebound.,73,78
+0:11,93,Terrell Miller Jr. missed Three Point Jumper.,73,78
+0:11,93,Jerami Grace Offensive Rebound.,73,78
+0:07,93,Jerami Grace missed Three Point Jumper.,73,78
+0:07,145,Terence Davis Defensive Rebound.,73,78
+0:00,145,End of Game,73,78

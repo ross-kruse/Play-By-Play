@@ -1,0 +1,328 @@
+Cleveland State,2509,Purdue,325
+time,team_id,description,h_score,a_score
+20:00,325,Jump Ball won by Cleveland St,0,0
+19:47,325,Kasheem Thomas missed Three Point Jumper.,0,0
+19:47,2509,Caleb Swanigan Defensive Rebound.,0,0
+19:32,2509,Dakota Mathias missed Three Point Jumper.,0,0
+19:32,2509,Isaac Haas Offensive Rebound.,0,0
+19:29,325,Foul on Bobby Word.,0,0
+19:24,2509,Isaac Haas made Layup. Assisted by Dakota Mathias.,0,2
+18:52,325,Demonte Flannigan Turnover.,0,2
+18:34,2509,Caleb Swanigan Turnover.,0,2
+18:21,325,Demonte Flannigan missed Jumper.,0,2
+18:21,2509,P.J. Thompson Defensive Rebound.,0,2
+18:04,2509,Isaac Haas missed Jumper.,0,2
+18:04,325,Rob Edwards Defensive Rebound.,0,2
+17:57,325,Rob Edwards missed Three Point Jumper.,0,2
+17:57,2509,Isaac Haas Defensive Rebound.,0,2
+17:41,325,Foul on Jibri Blount.,0,2
+17:35,2509,Dakota Mathias made Three Point Jumper. Assisted by P.J. Thompson.,0,5
+17:06,325,Demonte Flannigan missed Three Point Jumper.,0,5
+17:06,2509,Caleb Swanigan Defensive Rebound.,0,5
+16:54,2509,Isaac Haas missed Layup.,0,5
+16:54,325,Demonte Flannigan Defensive Rebound.,0,5
+16:40,325,Demonte Flannigan missed Layup.,0,5
+16:40,2509,P.J. Thompson Defensive Rebound.,0,5
+16:31,2509,Carsen Edwards made Layup.,0,7
+16:27,325,Cleveland St  Timeout,0,7
+16:27,2509,Official TV Timeout,0,7
+16:19,325,Rob Edwards made Jumper.,2,7
+16:01,2509,Carsen Edwards missed Three Point Jumper.,2,7
+16:01,2509,Caleb Swanigan Offensive Rebound.,2,7
+15:52,2509,Isaac Haas missed Layup.,2,7
+15:52,325,Derek Sloan Defensive Rebound.,2,7
+15:43,2509,Foul on P.J. Thompson.,2,7
+15:27,325,Bobby Word Turnover.,2,7
+15:15,2509,Dakota Mathias made Three Point Jumper. Assisted by Caleb Swanigan.,2,10
+14:52,325,Kasheem Thomas made Jumper. Assisted by Evan Clayborne.,4,10
+14:41,2509,Carsen Edwards missed Three Point Jumper.,4,10
+14:41,325,Rob Edwards Defensive Rebound.,4,10
+14:34,325,Rob Edwards Turnover.,4,10
+14:34,2509,P.J. Thompson Steal.,4,10
+14:19,2509,Vince Edwards missed Jumper.,4,10
+14:19,325,Evan Clayborne Block.,4,10
+14:19,325,Rob Edwards Defensive Rebound.,4,10
+14:05,325,Evan Clayborne missed Jumper.,4,10
+14:05,325,Rob Edwards Offensive Rebound.,4,10
+13:38,325,Kenny Carpenter made Jumper.,6,10
+13:11,2509,Ryan Cline made Three Point Jumper. Assisted by Vince Edwards.,6,13
+12:52,325,Jamarcus Hairston missed Three Point Jumper.,6,13
+12:52,2509,Carsen Edwards Defensive Rebound.,6,13
+12:45,2509,Vince Edwards made Layup. Assisted by Carsen Edwards.,6,15
+12:45,325,Foul on Jamarcus Hairston.,6,15
+12:45,2509,Vince Edwards made Free Throw.,6,16
+12:39,325,Kenny Carpenter made Jumper.,8,16
+12:34,2509,Caleb Swanigan made Jumper. Assisted by Dakota Mathias.,8,18
+12:10,325,Kenny Carpenter missed Three Point Jumper.,8,18
+12:10,2509,Purdue Defensive Rebound.,8,18
+11:48,2509,Official TV Timeout,8,18
+11:39,2509,Basil Smotherman missed Jumper.,8,18
+11:39,2509,Vince Edwards Offensive Rebound.,8,18
+11:36,325,Foul on Demonte Flannigan.,8,18
+11:36,2509,Vince Edwards missed Free Throw.,8,18
+11:36,2509,Purdue Deadball Team Rebound.,8,18
+11:36,2509,Vince Edwards made Free Throw.,8,19
+11:11,325,Jamarcus Hairston made Three Point Jumper. Assisted by Demonte Flannigan.,11,19
+10:54,2509,Caleb Swanigan Turnover.,11,19
+10:54,2509,Foul on Caleb Swanigan.,11,19
+10:31,325,Kenny Carpenter missed Jumper.,11,19
+10:31,2509,Caleb Swanigan Defensive Rebound.,11,19
+10:22,2509,Caleb Swanigan made Three Point Jumper. Assisted by Carsen Edwards.,11,22
+9:51,325,Bobby Word missed Three Point Jumper.,11,22
+9:51,325,Demonte Flannigan Offensive Rebound.,11,22
+9:35,325,Demonte Flannigan missed Jumper.,11,22
+9:35,2509,Isaac Haas Block.,11,22
+9:35,2509,Isaac Haas Defensive Rebound.,11,22
+9:20,2509,Isaac Haas missed Jumper.,11,22
+9:20,325,Rob Edwards Defensive Rebound.,11,22
+9:11,325,Rob Edwards missed Jumper.,11,22
+9:11,325,Evan Clayborne Offensive Rebound.,11,22
+8:43,325,Rob Edwards Turnover.,11,22
+8:43,2509,Basil Smotherman Steal.,11,22
+8:39,2509,P.J. Thompson missed Three Point Jumper.,11,22
+8:39,2509,Purdue Deadball Team Rebound.,11,22
+8:37,325,Foul on Rob Edwards.,11,22
+8:30,2509,Ryan Cline missed Three Point Jumper.,11,22
+8:30,325,Evan Clayborne Defensive Rebound.,11,22
+8:20,325,Jibri Blount made Three Point Jumper. Assisted by Kasheem Thomas.,14,22
+8:06,325,Foul on Evan Clayborne.,14,22
+7:56,2509,Vince Edwards missed Three Point Jumper.,14,22
+7:56,2509,Isaac Haas Offensive Rebound.,14,22
+7:50,2509,Isaac Haas made Layup.,14,24
+7:24,325,Kasheem Thomas Turnover.,14,24
+7:24,2509,Vince Edwards Steal.,14,24
+7:16,2509,Basil Smotherman made Layup. Assisted by P.J. Thompson.,14,26
+7:15,325,Cleveland St  Timeout,14,26
+7:15,2509,Official TV Timeout,14,26
+7:07,325,Bobby Word made Three Point Jumper. Assisted by Kasheem Thomas.,17,26
+6:49,2509,P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.,17,29
+6:20,325,Jibri Blount missed Jumper.,17,29
+6:20,2509,P.J. Thompson Defensive Rebound.,17,29
+6:10,2509,Vince Edwards Turnover.,17,29
+5:45,325,Bobby Word missed Three Point Jumper.,17,29
+5:45,325,Cleveland St Offensive Rebound.,17,29
+5:43,325,Foul on Bobby Word.,17,29
+5:43,325,Bobby Word Turnover.,17,29
+5:25,325,Foul on Demonte Flannigan.,17,29
+5:25,2509,Isaac Haas missed Free Throw.,17,29
+5:25,325,Kenny Carpenter Defensive Rebound.,17,29
+5:16,325,Rob Edwards made Three Point Jumper. Assisted by Kenny Carpenter.,20,29
+5:02,2509,Dakota Mathias missed Three Point Jumper.,20,29
+5:02,325,Rob Edwards Defensive Rebound.,20,29
+4:54,325,Kenny Carpenter missed Layup.,20,29
+4:54,325,Cleveland St Offensive Rebound.,20,29
+4:39,325,Jamarcus Hairston missed Three Point Jumper.,20,29
+4:39,2509,Carsen Edwards Defensive Rebound.,20,29
+4:32,2509,Carsen Edwards missed Layup.,20,29
+4:32,325,Jamarcus Hairston Block.,20,29
+4:32,2509,Purdue Offensive Rebound.,20,29
+4:29,2509,Caleb Swanigan made Layup. Assisted by Dakota Mathias.,20,31
+4:00,325,Rob Edwards missed Three Point Jumper.,20,31
+4:00,2509,Caleb Swanigan Defensive Rebound.,20,31
+3:53,2509,P.J. Thompson missed Three Point Jumper.,20,31
+3:53,325,Kenny Carpenter Defensive Rebound.,20,31
+3:39,2509,Foul on Carsen Edwards.,20,31
+3:39,2509,Official TV Timeout,20,31
+3:27,325,Rob Edwards Turnover.,20,31
+3:27,2509,Dakota Mathias Steal.,20,31
+3:17,2509,Caleb Swanigan Turnover.,20,31
+3:01,325,Kenny Carpenter missed Jumper.,20,31
+3:01,2509,Dakota Mathias Defensive Rebound.,20,31
+2:47,2509,Ryan Cline made Three Point Jumper. Assisted by Dakota Mathias.,20,34
+2:23,325,Kenny Carpenter missed Jumper.,20,34
+2:23,2509,Dakota Mathias Defensive Rebound.,20,34
+2:12,2509,Dakota Mathias made Three Point Jumper. Assisted by Vince Edwards.,20,37
+2:04,2509,Foul on Dakota Mathias.,20,37
+2:01,325,Cleveland St  Timeout,20,37
+1:47,325,Rob Edwards missed Layup.,20,37
+1:47,2509,Caleb Swanigan Block.,20,37
+1:47,325,Cleveland St Offensive Rebound.,20,37
+1:34,325,Jibri Blount missed Three Point Jumper.,20,37
+1:34,2509,Caleb Swanigan Defensive Rebound.,20,37
+1:18,2509,Carsen Edwards missed Jumper.,20,37
+1:18,2509,Vince Edwards Offensive Rebound.,20,37
+1:14,2509,Vince Edwards made Layup.,20,39
+0:53,325,Kasheem Thomas missed Jumper.,20,39
+0:53,2509,Vince Edwards Defensive Rebound.,20,39
+0:44,2509,Carsen Edwards missed Three Point Jumper.,20,39
+0:44,2509,Vince Edwards Offensive Rebound.,20,39
+0:40,2509,Vince Edwards made Layup.,20,41
+0:06,325,Kasheem Thomas Turnover.,20,41
+0:06,2509,Ryan Cline Steal.,20,41
+0:02,2509,Caleb Swanigan missed Jumper.,20,41
+0:02,2509,Purdue Deadball Team Rebound.,20,41
+0:00,2509,End of 1st half,20,41
+20:00,2509,Jump Ball won by Purdue,20,41
+19:46,2509,Caleb Swanigan Turnover.,20,41
+19:33,325,Demonte Flannigan Turnover.,20,41
+19:17,2509,Caleb Swanigan Turnover.,20,41
+19:17,325,Derek Sloan Steal.,20,41
+19:15,325,Derek Sloan Turnover.,20,41
+19:07,2509,Isaac Haas made Jumper. Assisted by Dakota Mathias.,20,43
+18:39,325,Bobby Word made Jumper.,22,43
+18:20,2509,P.J. Thompson Turnover.,22,43
+18:20,325,Demonte Flannigan Steal.,22,43
+18:15,325,Rob Edwards missed Layup.,22,43
+18:15,2509,Dakota Mathias Defensive Rebound.,22,43
+18:13,325,Foul on Demonte Flannigan.,22,43
+18:02,325,Foul on Derek Sloan.,22,43
+17:55,2509,Dakota Mathias missed Jumper.,22,43
+17:55,325,Kasheem Thomas Defensive Rebound.,22,43
+17:47,325,Bobby Word made Layup. Assisted by Kasheem Thomas.,24,43
+17:27,2509,Isaac Haas Turnover.,24,43
+17:27,325,Rob Edwards Steal.,24,43
+17:19,2509,Foul on P.J. Thompson.,24,43
+17:11,325,Rob Edwards made Three Point Jumper. Assisted by Kasheem Thomas.,27,43
+16:53,2509,Carsen Edwards missed Three Point Jumper.,27,43
+16:53,2509,Caleb Swanigan Offensive Rebound.,27,43
+16:49,2509,Caleb Swanigan made Layup.,27,45
+16:36,325,Kasheem Thomas made Three Point Jumper.,30,45
+16:14,325,Foul on Evan Clayborne.,30,45
+16:14,2509,Isaac Haas made Free Throw.,30,46
+16:14,2509,Isaac Haas made Free Throw.,30,47
+15:59,325,Bobby Word made Three Point Jumper. Assisted by Kasheem Thomas.,33,47
+15:29,2509,Foul on Caleb Swanigan.,33,47
+15:29,2509,Caleb Swanigan Turnover.,33,47
+15:29,2509,Official TV Timeout,33,47
+15:20,325,Bobby Word missed Three Point Jumper.,33,47
+15:20,2509,Ryan Cline Defensive Rebound.,33,47
+15:04,325,Foul on Evan Clayborne.,33,47
+15:04,2509,Vince Edwards made Free Throw.,33,48
+15:04,2509,Vince Edwards made Free Throw.,33,49
+14:53,325,Rob Edwards missed Jumper.,33,49
+14:53,2509,Dakota Mathias Defensive Rebound.,33,49
+14:36,2509,Isaac Haas made Layup.,33,51
+14:13,325,Jamarcus Hairston missed Three Point Jumper.,33,51
+14:13,2509,Vince Edwards Defensive Rebound.,33,51
+14:01,2509,Ryan Cline missed Three Point Jumper.,33,51
+14:01,325,Terrell Hales Defensive Rebound.,33,51
+13:50,325,Bobby Word missed Jumper.,33,51
+13:50,2509,Ryan Cline Defensive Rebound.,33,51
+13:36,2509,Dakota Mathias made Three Point Jumper. Assisted by Vince Edwards.,33,54
+13:22,325,Rob Edwards missed Layup.,33,54
+13:22,2509,Dakota Mathias Defensive Rebound.,33,54
+13:15,2509,P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.,33,57
+13:02,325,Cleveland St  Timeout,33,57
+12:46,325,Bobby Word made Jumper. Assisted by Kasheem Thomas.,35,57
+12:28,2509,Caleb Swanigan Turnover.,35,57
+12:09,325,Demonte Flannigan missed Jumper.,35,57
+12:09,2509,Caleb Swanigan Block.,35,57
+12:09,325,Demonte Flannigan Offensive Rebound.,35,57
+12:09,2509,Foul on Ryan Cline.,35,57
+12:02,2509,Foul on Vince Edwards.,35,57
+12:02,325,Kasheem Thomas made Free Throw.,36,57
+12:02,325,Kasheem Thomas missed Free Throw.,36,57
+12:02,2509,Ryan Cline Defensive Rebound.,36,57
+11:57,2509,Carsen Edwards Turnover.,36,57
+11:57,2509,Official TV Timeout,36,57
+11:38,325,Bobby Word missed Three Point Jumper.,36,57
+11:38,2509,Caleb Swanigan Defensive Rebound.,36,57
+11:19,2509,Caleb Swanigan made Layup. Assisted by Basil Smotherman.,36,59
+11:19,325,Foul on Demonte Flannigan.,36,59
+11:19,2509,Caleb Swanigan missed Free Throw.,36,59
+11:19,2509,Vince Edwards Offensive Rebound.,36,59
+11:17,2509,Vince Edwards Turnover.,36,59
+11:01,325,Bobby Word missed Three Point Jumper.,36,59
+11:01,2509,Caleb Swanigan Defensive Rebound.,36,59
+10:47,325,Foul on Derek Sloan.,36,59
+10:46,2509,Ryan Cline Turnover.,36,59
+10:46,325,Derek Sloan Steal.,36,59
+10:38,325,Kenny Carpenter missed Layup.,36,59
+10:38,2509,Purdue Defensive Rebound.,36,59
+10:27,2509,Caleb Swanigan Turnover.,36,59
+10:13,325,Jibri Blount Turnover.,36,59
+10:13,2509,Basil Smotherman Steal.,36,59
+10:08,2509,Basil Smotherman made Layup.,36,61
+9:55,325,Terrell Hales Turnover.,36,61
+9:47,2509,Caleb Swanigan made Layup. Assisted by Basil Smotherman.,36,63
+9:21,325,Jibri Blount missed Three Point Jumper.,36,63
+9:21,325,Derek Sloan Offensive Rebound.,36,63
+9:14,325,Derek Sloan made Layup.,38,63
+9:05,2509,Basil Smotherman Turnover.,38,63
+9:05,325,Derek Sloan Steal.,38,63
+8:58,325,Rob Edwards missed Layup.,38,63
+8:58,325,Derek Sloan Offensive Rebound.,38,63
+8:52,325,Kasheem Thomas made Jumper.,40,63
+8:35,2509,Caleb Swanigan missed Jumper.,40,63
+8:35,325,Kasheem Thomas Defensive Rebound.,40,63
+8:08,325,Kasheem Thomas missed Jumper.,40,63
+8:08,2509,Caleb Swanigan Defensive Rebound.,40,63
+7:59,2509,Basil Smotherman made Jumper.,40,65
+7:42,325,Derek Sloan made Jumper.,42,65
+7:19,325,Foul on Derek Sloan.,42,65
+7:19,2509,Official TV Timeout,42,65
+7:19,2509,Caleb Swanigan missed Free Throw.,42,65
+7:19,325,Bobby Word Defensive Rebound.,42,65
+6:53,325,Rob Edwards missed Three Point Jumper.,42,65
+6:53,325,Evan Clayborne Offensive Rebound.,42,65
+6:50,2509,Foul on Caleb Swanigan.,42,65
+6:44,325,Bobby Word missed Three Point Jumper.,42,65
+6:44,2509,Basil Smotherman Defensive Rebound.,42,65
+6:34,2509,Basil Smotherman missed Three Point Jumper.,42,65
+6:34,325,Cleveland St Defensive Rebound.,42,65
+6:15,325,Rob Edwards missed Jumper.,42,65
+6:15,2509,Isaac Haas Block.,42,65
+6:15,325,Rob Edwards Offensive Rebound.,42,65
+6:10,325,Rob Edwards missed Jumper.,42,65
+6:10,325,Evan Clayborne Offensive Rebound.,42,65
+6:03,325,Evan Clayborne made Layup.,44,65
+5:55,2509,P.J. Thompson missed Three Point Jumper.,44,65
+5:55,325,Rob Edwards Defensive Rebound.,44,65
+5:50,2509,Foul on Basil Smotherman.,44,65
+5:41,2509,Foul on Basil Smotherman.,44,65
+5:41,325,Bobby Word made Free Throw.,45,65
+5:41,325,Bobby Word made Free Throw.,46,65
+5:26,2509,Isaac Haas missed Layup.,46,65
+5:26,325,Evan Clayborne Defensive Rebound.,46,65
+5:02,325,Bobby Word missed Jumper.,46,65
+5:02,2509,Dakota Mathias Defensive Rebound.,46,65
+4:48,325,Foul on Jibri Blount.,46,65
+4:48,2509,Isaac Haas made Free Throw.,46,66
+4:48,2509,Isaac Haas made Free Throw.,46,67
+4:29,325,Jibri Blount missed Layup.,46,67
+4:29,2509,Isaac Haas Block.,46,67
+4:29,325,Cleveland St Offensive Rebound.,46,67
+4:13,325,Rob Edwards missed Three Point Jumper.,46,67
+4:13,2509,P.J. Thompson Defensive Rebound.,46,67
+4:07,2509,Dakota Mathias missed Three Point Jumper.,46,67
+4:07,2509,Isaac Haas Offensive Rebound.,46,67
+3:54,2509,Vince Edwards missed Three Point Jumper.,46,67
+3:54,325,Cleveland St Defensive Rebound.,46,67
+3:54,2509,Foul on Carsen Edwards.,46,67
+3:54,2509,Official TV Timeout,46,67
+3:54,325,Evan Clayborne made Free Throw.,47,67
+3:54,325,Evan Clayborne missed Free Throw.,47,67
+3:54,2509,Isaac Haas Defensive Rebound.,47,67
+3:31,2509,Vince Edwards missed Jumper.,47,67
+3:31,325,Rob Edwards Defensive Rebound.,47,67
+3:26,325,Rob Edwards Turnover.,47,67
+3:02,2509,Carsen Edwards missed Jumper.,47,67
+3:02,2509,Isaac Haas Offensive Rebound.,47,67
+3:02,2509,Isaac Haas made Two Point Tip Shot.,47,69
+2:50,325,Rob Edwards made Layup. Assisted by Derek Sloan.,49,69
+2:34,325,Foul on Kasheem Thomas.,49,69
+2:34,2509,Vince Edwards made Free Throw.,49,70
+2:34,2509,Vince Edwards missed Free Throw.,49,70
+2:34,2509,Purdue Offensive Rebound.,49,70
+2:32,2509,Ryan Cline made Jumper. Assisted by Vince Edwards.,49,72
+2:18,325,Kenny Carpenter missed Jumper.,49,72
+2:18,2509,Carsen Edwards Defensive Rebound.,49,72
+2:00,325,Foul on Nelson Maxwell.,49,72
+2:00,2509,Carsen Edwards made Free Throw.,49,73
+2:00,2509,Carsen Edwards made Free Throw.,49,74
+1:42,325,Jibri Blount made Layup.,51,74
+1:19,325,Foul on Jibri Blount.,51,74
+1:19,2509,Basil Smotherman made Free Throw.,51,75
+1:19,2509,Basil Smotherman missed Free Throw.,51,75
+1:19,325,Jibri Blount Defensive Rebound.,51,75
+1:08,325,Bobby Word missed Three Point Jumper.,51,75
+1:08,2509,Purdue Defensive Rebound.,51,75
+0:44,2509,Basil Smotherman missed Jumper.,51,75
+0:44,325,Jibri Blount Defensive Rebound.,51,75
+0:38,2509,Foul on Jon McKeeman.,51,75
+0:38,325,Jibri Blount made Free Throw.,52,75
+0:38,325,Jibri Blount made Free Throw.,53,75
+0:26,2509,Carsen Edwards made Layup.,53,77
+0:16,325,Jibri Blount Turnover.,53,77
+0:16,2509,Tommy Luce Steal.,53,77
+0:00,2509,End of Game,53,77

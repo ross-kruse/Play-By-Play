@@ -1,0 +1,381 @@
+Northwestern,213,Penn State,77
+time,team_id,description,h_score,a_score
+20:00,213,Jump Ball won by Penn State,0,0
+19:46,213,Mike Watkins Turnover.,0,0
+19:23,77,Bryant McIntosh made Jumper.,2,0
+19:04,213,Lamar Stevens made Jumper.,2,2
+18:52,77,Vic Law made Three Point Jumper. Assisted by Sanjay Lumpkin.,5,2
+18:36,213,Mike Watkins made Jumper. Assisted by Josh Reaves.,5,4
+18:08,77,Scottie Lindsey made Jumper. Assisted by Barret Benson.,7,4
+17:48,213,Josh Reaves missed Jumper.,7,4
+17:48,213,Lamar Stevens Offensive Rebound.,7,4
+17:41,213,Josh Reaves made Three Point Jumper. Assisted by Lamar Stevens.,7,7
+17:15,77,Vic Law made Jumper.,9,7
+16:53,213,Mike Watkins missed Jumper.,9,7
+16:53,77,Barret Benson Defensive Rebound.,9,7
+16:45,77,Scottie Lindsey made Layup. Assisted by Bryant McIntosh.,11,7
+16:32,213,Foul on Lamar Stevens.,11,7
+16:32,213,Lamar Stevens Turnover.,11,7
+16:27,77,Scottie Lindsey made Jumper.,13,7
+16:17,77,Foul on Bryant McIntosh.,13,7
+16:17,213,Payton Banks made Free Throw.,13,8
+16:17,213,Payton Banks made Free Throw.,13,9
+16:02,77,Bryant McIntosh missed Three Point Jumper.,13,9
+16:02,213,Josh Reaves Defensive Rebound.,13,9
+15:51,213,Shep Garner missed Three Point Jumper.,13,9
+15:51,77,Bryant McIntosh Defensive Rebound.,13,9
+15:42,77,Bryant McIntosh made Layup. Assisted by Vic Law.,15,9
+15:42,213,Penn State  Timeout,15,9
+15:42,213,Official TV Timeout,15,9
+15:26,213,Terrence Samuel missed Jumper.,15,9
+15:26,77,Scottie Lindsey Block.,15,9
+15:26,77,Sanjay Lumpkin Defensive Rebound.,15,9
+15:14,77,Vic Law made Layup.,17,9
+14:59,213,Josh Reaves missed Three Point Jumper.,17,9
+14:59,77,Sanjay Lumpkin Defensive Rebound.,17,9
+14:22,213,Foul on Julian Moore.,17,9
+14:22,77,Gavin Skelly made Free Throw.,18,9
+14:22,77,Gavin Skelly made Free Throw.,19,9
+14:08,213,Tony Carr missed Three Point Jumper.,19,9
+14:08,77,Nathan Taphorn Defensive Rebound.,19,9
+14:00,77,Isiah Brown missed Layup.,19,9
+14:00,213,Josh Reaves Block.,19,9
+14:00,213,Tony Carr Defensive Rebound.,19,9
+13:44,213,Julian Moore Turnover.,19,9
+13:44,77,Sanjay Lumpkin Steal.,19,9
+13:35,77,Scottie Lindsey made Three Point Jumper.,22,9
+13:15,213,Terrence Samuel missed Three Point Jumper.,22,9
+13:15,77,Sanjay Lumpkin Defensive Rebound.,22,9
+12:53,213,Foul on Payton Banks.,22,9
+12:50,77,Nathan Taphorn missed Three Point Jumper.,22,9
+12:50,213,Mike Watkins Defensive Rebound.,22,9
+12:41,77,Foul on Scottie Lindsey.,22,9
+12:38,213,Tony Carr missed Jumper.,22,9
+12:38,213,Mike Watkins Offensive Rebound.,22,9
+12:36,77,Foul on Sanjay Lumpkin.,22,9
+12:36,213,Mike Watkins missed Free Throw.,22,9
+12:36,213,Penn State Deadball Team Rebound.,22,9
+12:36,213,Mike Watkins missed Free Throw.,22,9
+12:36,77,Vic Law Defensive Rebound.,22,9
+12:23,77,Barret Benson missed Layup.,22,9
+12:23,77,Barret Benson Offensive Rebound.,22,9
+12:22,77,Barret Benson made Layup.,24,9
+12:22,213,Foul on Payton Banks.,24,9
+12:22,77,Barret Benson made Free Throw.,25,9
+12:07,213,Shep Garner missed Three Point Jumper.,25,9
+12:07,213,Penn State Offensive Rebound.,25,9
+11:53,77,Foul on Vic Law.,25,9
+11:53,213,Official TV Timeout,25,9
+11:53,213,Mike Watkins missed Free Throw.,25,9
+11:53,213,Penn State Deadball Team Rebound.,25,9
+11:53,213,Mike Watkins made Free Throw.,25,10
+11:44,77,Barret Benson missed Layup.,25,10
+11:44,213,Mike Watkins Block.,25,10
+11:44,77,Barret Benson Offensive Rebound.,25,10
+11:42,213,Foul on Mike Watkins.,25,10
+11:42,77,Barret Benson missed Free Throw.,25,10
+11:42,77,Northwestern Deadball Team Rebound.,25,10
+11:42,77,Barret Benson made Free Throw.,26,10
+11:32,213,Lamar Stevens made Layup.,26,12
+11:16,77,Vic Law missed Layup.,26,12
+11:16,77,Vic Law Offensive Rebound.,26,12
+11:16,77,Vic Law Turnover.,26,12
+11:02,213,Lamar Stevens made Jumper. Assisted by Josh Reaves.,26,14
+10:29,77,Sanjay Lumpkin made Layup.,28,14
+10:09,213,Lamar Stevens missed Jumper.,28,14
+10:09,77,Sanjay Lumpkin Block.,28,14
+10:09,77,Scottie Lindsey Defensive Rebound.,28,14
+10:03,77,Bryant McIntosh made Jumper. Assisted by Vic Law.,30,14
+9:50,213,Shep Garner missed Jumper.,30,14
+9:50,213,Mike Watkins Offensive Rebound.,30,14
+9:41,77,Foul on Barret Benson.,30,14
+9:31,213,Mike Watkins made Dunk. Assisted by Josh Reaves.,30,16
+9:22,77,Bryant McIntosh missed Jumper.,30,16
+9:22,213,Mike Watkins Defensive Rebound.,30,16
+9:14,213,Lamar Stevens missed Jumper.,30,16
+9:14,77,Sanjay Lumpkin Defensive Rebound.,30,16
+8:53,77,Vic Law made Jumper.,32,16
+8:29,213,Tony Carr Turnover.,32,16
+8:16,77,Isiah Brown missed Jumper.,32,16
+8:16,213,Mike Watkins Defensive Rebound.,32,16
+8:05,213,Shep Garner missed Layup.,32,16
+7:59,77,Bryant McIntosh Defensive Rebound.,32,16
+7:58,213,Official TV Timeout,32,16
+7:41,77,Scottie Lindsey made Three Point Jumper. Assisted by Sanjay Lumpkin.,35,16
+7:11,213,Josh Reaves made Three Point Jumper. Assisted by Mike Watkins.,35,19
+6:56,77,Isiah Brown missed Three Point Jumper.,35,19
+6:56,213,Tony Carr Defensive Rebound.,35,19
+6:46,213,Tony Carr made Layup.,35,21
+6:46,77,Foul on Isiah Brown.,35,21
+6:46,213,Tony Carr made Free Throw.,35,22
+6:33,77,Gavin Skelly Turnover.,35,22
+6:33,213,Shep Garner Steal.,35,22
+6:30,213,Shep Garner Turnover.,35,22
+6:20,77,Foul on Vic Law.,35,22
+6:20,77,Vic Law Turnover.,35,22
+6:01,213,Tony Carr missed Three Point Jumper.,35,22
+6:01,77,Sanjay Lumpkin Defensive Rebound.,35,22
+5:50,77,Gavin Skelly missed Layup.,35,22
+5:50,213,Mike Watkins Block.,35,22
+5:50,213,Tony Carr Defensive Rebound.,35,22
+5:42,213,Josh Reaves missed Three Point Jumper.,35,22
+5:42,77,Nathan Taphorn Defensive Rebound.,35,22
+5:18,77,Gavin Skelly made Three Point Jumper. Assisted by Bryant McIntosh.,38,22
+5:01,213,Lamar Stevens missed Jumper.,38,22
+5:01,213,Josh Reaves Offensive Rebound.,38,22
+4:54,213,Josh Reaves missed Jumper.,38,22
+4:54,77,Gavin Skelly Defensive Rebound.,38,22
+4:50,77,Nathan Taphorn Turnover.,38,22
+4:50,213,Josh Reaves Steal.,38,22
+4:44,77,Foul on Sanjay Lumpkin.,38,22
+4:44,213,Josh Reaves made Free Throw.,38,23
+4:44,213,Josh Reaves missed Free Throw.,38,23
+4:44,77,Vic Law Defensive Rebound.,38,23
+4:31,77,Scottie Lindsey missed Three Point Jumper.,38,23
+4:31,213,Shep Garner Defensive Rebound.,38,23
+4:21,77,Foul on Nathan Taphorn.,38,23
+4:21,213,Josh Reaves made Free Throw.,38,24
+4:21,213,Josh Reaves made Free Throw.,38,25
+3:58,77,Gavin Skelly made Dunk. Assisted by Vic Law.,40,25
+3:45,213,Tony Carr missed Jumper.,40,25
+3:45,77,Vic Law Defensive Rebound.,40,25
+3:35,77,Scottie Lindsey made Dunk. Assisted by Bryant McIntosh.,42,25
+3:35,213,Foul on Isaiah Washington.,42,25
+3:35,77,Scottie Lindsey made Free Throw.,43,25
+3:34,213,Official TV Timeout,43,25
+3:27,213,Tony Carr missed Layup.,43,25
+3:27,77,Gavin Skelly Block.,43,25
+3:27,213,Penn State Offensive Rebound.,43,25
+3:14,213,Lamar Stevens missed Jumper.,43,25
+3:14,77,Scottie Lindsey Defensive Rebound.,43,25
+2:56,77,Bryant McIntosh missed Three Point Jumper.,43,25
+2:56,77,Vic Law Offensive Rebound.,43,25
+2:51,77,Scottie Lindsey missed Three Point Jumper.,43,25
+2:51,213,Mike Watkins Defensive Rebound.,43,25
+2:41,213,Mike Watkins made Dunk. Assisted by Shep Garner.,43,27
+2:28,77,Scottie Lindsey missed Jumper.,43,27
+2:28,77,Bryant McIntosh Offensive Rebound.,43,27
+2:17,77,Gavin Skelly missed Layup.,43,27
+2:17,77,Gavin Skelly Offensive Rebound.,43,27
+2:03,77,Bryant McIntosh Turnover.,43,27
+1:59,213,Tony Carr missed Three Point Jumper.,43,27
+1:59,77,Scottie Lindsey Defensive Rebound.,43,27
+1:49,213,Foul on Josh Reaves.,43,27
+1:49,77,Scottie Lindsey made Free Throw.,44,27
+1:49,77,Scottie Lindsey made Free Throw.,45,27
+1:40,77,Foul on Scottie Lindsey.,45,27
+1:40,213,Shep Garner missed Free Throw.,45,27
+1:40,213,Penn State Deadball Team Rebound.,45,27
+1:40,213,Shep Garner made Free Throw.,45,28
+1:24,213,Foul on Mike Watkins.,45,28
+1:24,77,Barret Benson missed Free Throw.,45,28
+1:24,77,Northwestern Deadball Team Rebound.,45,28
+1:24,77,Barret Benson missed Free Throw.,45,28
+1:24,213,Lamar Stevens Defensive Rebound.,45,28
+1:18,77,Foul on Gavin Skelly.,45,28
+1:18,213,Tony Carr made Free Throw.,45,29
+1:18,213,Tony Carr made Free Throw.,45,30
+1:08,77,Northwestern  Timeout,45,30
+1:06,77,Isiah Brown made Three Point Jumper. Assisted by Bryant McIntosh.,48,30
+0:50,213,Tony Carr missed Jumper.,48,30
+0:50,213,Josh Reaves Offensive Rebound.,48,30
+0:44,213,Josh Reaves missed Layup.,48,30
+0:44,77,Gavin Skelly Defensive Rebound.,48,30
+0:38,77,Nathan Taphorn made Three Point Jumper. Assisted by Bryant McIntosh.,51,30
+0:14,213,Lamar Stevens made Layup.,51,32
+0:00,213,End of 1st half,51,32
+20:00,77,Jump Ball won by Northwestern,51,32
+19:50,77,Foul on Scottie Lindsey.,51,32
+19:45,213,Josh Reaves missed Three Point Jumper.,51,32
+19:45,77,Bryant McIntosh Defensive Rebound.,51,32
+19:37,77,Bryant McIntosh missed Jumper.,51,32
+19:37,77,Vic Law Offensive Rebound.,51,32
+19:14,77,Barret Benson made Jumper. Assisted by Bryant McIntosh.,53,32
+18:59,213,Josh Reaves Turnover.,53,32
+18:59,77,Barret Benson Steal.,53,32
+18:48,77,Bryant McIntosh Turnover.,53,32
+18:48,213,Mike Watkins Steal.,53,32
+18:42,213,Shep Garner missed Three Point Jumper.,53,32
+18:42,77,Sanjay Lumpkin Defensive Rebound.,53,32
+18:19,77,Vic Law missed Jumper.,53,32
+18:19,213,Mike Watkins Defensive Rebound.,53,32
+18:07,77,Foul on Sanjay Lumpkin.,53,32
+18:04,213,Tony Carr made Jumper.,53,34
+17:45,77,Isiah Brown missed Jumper.,53,34
+17:45,213,Tony Carr Defensive Rebound.,53,34
+17:35,213,Payton Banks made Jumper. Assisted by Tony Carr.,53,36
+17:13,77,Foul on Sanjay Lumpkin.,53,36
+17:13,77,Sanjay Lumpkin Turnover.,53,36
+17:00,213,Payton Banks Turnover.,53,36
+17:00,77,Barret Benson Steal.,53,36
+16:49,77,Nathan Taphorn missed Three Point Jumper.,53,36
+16:49,213,Tony Carr Defensive Rebound.,53,36
+16:41,213,Tony Carr missed Layup.,53,36
+16:41,77,Vic Law Defensive Rebound.,53,36
+16:30,77,Vic Law Turnover.,53,36
+16:19,213,Payton Banks missed Jumper.,53,36
+16:19,213,Penn State Offensive Rebound.,53,36
+16:07,213,Payton Banks missed Three Point Jumper.,53,36
+16:07,77,Vic Law Defensive Rebound.,53,36
+15:46,77,Vic Law missed Three Point Jumper.,53,36
+15:46,213,Josh Reaves Defensive Rebound.,53,36
+15:38,77,Foul on Isiah Brown.,53,36
+15:38,213,Official TV Timeout,53,36
+15:32,213,Tony Carr made Jumper.,53,38
+14:59,213,Foul on Payton Banks.,53,38
+14:54,77,Gavin Skelly missed Layup.,53,38
+14:54,213,Mike Watkins Block.,53,38
+14:54,77,Gavin Skelly Offensive Rebound.,53,38
+14:50,77,Northwestern  Timeout,53,38
+14:40,77,Gavin Skelly missed Layup.,53,38
+14:40,213,Mike Watkins Defensive Rebound.,53,38
+14:17,213,Josh Reaves made Layup. Assisted by Tony Carr.,53,40
+14:01,213,Foul on Tony Carr.,53,40
+14:01,77,Scottie Lindsey made Free Throw.,54,40
+14:01,77,Scottie Lindsey made Free Throw.,55,40
+13:50,213,Josh Reaves missed Layup.,55,40
+13:50,213,Terrence Samuel Offensive Rebound.,55,40
+13:50,213,Terrence Samuel made Two Point Tip Shot.,55,42
+13:24,77,Nathan Taphorn missed Three Point Jumper.,55,42
+13:24,77,Vic Law Offensive Rebound.,55,42
+13:19,77,Scottie Lindsey made Three Point Jumper. Assisted by Vic Law.,58,42
+13:09,213,Josh Reaves missed Layup.,58,42
+13:09,77,Vic Law Defensive Rebound.,58,42
+13:01,77,Scottie Lindsey missed Three Point Jumper.,58,42
+13:01,213,Tony Carr Defensive Rebound.,58,42
+12:55,77,Foul on Nathan Taphorn.,58,42
+12:35,213,Lamar Stevens made Layup.,58,44
+12:07,77,Gavin Skelly missed Jumper.,58,44
+12:07,77,Northwestern Offensive Rebound.,58,44
+11:56,213,Foul on Mike Watkins.,58,44
+11:56,213,Official TV Timeout,58,44
+11:56,77,Vic Law made Free Throw.,59,44
+11:56,77,Vic Law made Free Throw.,60,44
+11:33,213,Foul on Tony Carr.,60,44
+11:33,213,Tony Carr Turnover.,60,44
+11:15,77,Scottie Lindsey missed Jumper.,60,44
+11:15,77,Barret Benson Offensive Rebound.,60,44
+11:08,77,Bryant McIntosh made Three Point Jumper. Assisted by Barret Benson.,63,44
+10:43,77,Foul on Barret Benson.,63,44
+10:43,213,Mike Watkins missed Free Throw.,63,44
+10:43,213,Penn State Deadball Team Rebound.,63,44
+10:43,213,Mike Watkins made Free Throw.,63,45
+10:27,77,Gavin Skelly made Three Point Jumper. Assisted by Scottie Lindsey.,66,45
+10:08,213,Lamar Stevens missed Jumper.,66,45
+10:08,213,Shep Garner Offensive Rebound.,66,45
+9:53,213,Tony Carr made Layup.,66,47
+9:42,77,Bryant McIntosh made Jumper.,68,47
+9:35,213,Penn State  Timeout,68,47
+9:29,213,Lamar Stevens Turnover.,68,47
+9:29,77,Gavin Skelly Steal.,68,47
+9:05,77,Bryant McIntosh missed Layup.,68,47
+9:05,77,Vic Law Offensive Rebound.,68,47
+9:05,213,Foul on Tony Carr.,68,47
+9:05,77,Vic Law made Free Throw.,69,47
+9:05,77,Vic Law missed Free Throw.,69,47
+9:05,213,Lamar Stevens Defensive Rebound.,69,47
+8:54,77,Foul on Barret Benson.,69,47
+8:54,213,Terrence Samuel made Free Throw.,69,48
+8:54,213,Terrence Samuel made Free Throw.,69,49
+8:35,77,Bryant McIntosh missed Jumper.,69,49
+8:35,213,Lamar Stevens Defensive Rebound.,69,49
+8:30,77,Foul on Gavin Skelly.,69,49
+8:30,213,Lamar Stevens made Free Throw.,69,50
+8:30,213,Lamar Stevens made Free Throw.,69,51
+8:17,77,Scottie Lindsey Turnover.,69,51
+8:17,213,Terrence Samuel Steal.,69,51
+8:11,213,Terrence Samuel missed Layup.,69,51
+8:11,77,Vic Law Defensive Rebound.,69,51
+8:05,77,Scottie Lindsey made Three Point Jumper. Assisted by Bryant McIntosh.,72,51
+7:52,213,Shep Garner made Layup.,72,53
+7:52,77,Foul on Barret Benson.,72,53
+7:52,213,Official TV Timeout,72,53
+7:52,213,Shep Garner missed Free Throw.,72,53
+7:52,77,Scottie Lindsey Defensive Rebound.,72,53
+7:44,213,Foul on Josh Reaves.,72,53
+7:33,77,Bryant McIntosh missed Three Point Jumper.,72,53
+7:33,213,Terrence Samuel Defensive Rebound.,72,53
+7:19,213,Josh Reaves made Layup.,72,55
+6:51,77,Bryant McIntosh missed Jumper.,72,55
+6:51,77,Bryant McIntosh Offensive Rebound.,72,55
+6:27,77,Scottie Lindsey made Three Point Jumper. Assisted by Vic Law.,75,55
+6:15,77,Foul on Vic Law.,75,55
+6:15,213,Tony Carr missed Free Throw.,75,55
+6:15,213,Penn State Deadball Team Rebound.,75,55
+6:15,213,Tony Carr made Free Throw.,75,56
+6:14,213,Foul on Josh Reaves.,75,56
+6:14,77,Isiah Brown made Free Throw.,76,56
+6:14,77,Isiah Brown made Free Throw.,77,56
+6:05,213,Josh Reaves Turnover.,77,56
+6:05,77,Scottie Lindsey Steal.,77,56
+6:03,213,Foul on Tony Carr.,77,56
+6:03,77,Scottie Lindsey made Free Throw.,78,56
+6:03,77,Scottie Lindsey missed Free Throw.,78,56
+6:03,213,Tony Carr Defensive Rebound.,78,56
+5:54,213,Josh Reaves missed Jumper.,78,56
+5:54,77,Isiah Brown Block.,78,56
+5:54,77,Gavin Skelly Defensive Rebound.,78,56
+5:29,213,Foul on Mike Watkins.,78,56
+5:29,77,Isiah Brown made Free Throw.,79,56
+5:29,77,Isiah Brown made Free Throw.,80,56
+5:16,77,Foul on Gavin Skelly.,80,56
+5:16,213,Shep Garner missed Free Throw.,80,56
+5:16,213,Penn State Deadball Team Rebound.,80,56
+5:16,213,Shep Garner made Free Throw.,80,57
+4:51,77,Vic Law missed Three Point Jumper.,80,57
+4:51,77,Sanjay Lumpkin Offensive Rebound.,80,57
+4:31,77,Vic Law missed Three Point Jumper.,80,57
+4:31,213,Payton Banks Defensive Rebound.,80,57
+4:22,77,Foul on Vic Law.,80,57
+4:22,213,Shep Garner missed Free Throw.,80,57
+4:22,213,Penn State Deadball Team Rebound.,80,57
+4:22,213,Shep Garner made Free Throw.,80,58
+4:10,77,Gavin Skelly Turnover.,80,58
+4:10,213,Josh Reaves Steal.,80,58
+3:59,213,Shep Garner missed Layup.,80,58
+3:59,213,Julian Moore Offensive Rebound.,80,58
+3:53,213,Julian Moore made Dunk.,80,60
+3:39,77,Isiah Brown made Layup. Assisted by Scottie Lindsey.,82,60
+3:33,213,Official TV Timeout,82,60
+3:20,77,Foul on Scottie Lindsey.,82,60
+3:20,213,Payton Banks made Free Throw.,82,61
+3:20,213,Payton Banks made Free Throw.,82,62
+2:52,77,Isiah Brown missed Three Point Jumper.,82,62
+2:52,213,Shep Garner Defensive Rebound.,82,62
+2:41,213,Josh Reaves made Layup.,82,64
+2:41,77,Foul on Bryant McIntosh.,82,64
+2:41,213,Josh Reaves made Free Throw.,82,65
+2:22,77,Isiah Brown missed Three Point Jumper.,82,65
+2:22,213,Shep Garner Defensive Rebound.,82,65
+2:13,213,Tony Carr made Three Point Jumper. Assisted by Josh Reaves.,82,68
+2:10,213,Penn State  Timeout,82,68
+1:50,213,Foul on Payton Banks.,82,68
+1:50,77,Scottie Lindsey made Free Throw.,83,68
+1:50,77,Scottie Lindsey made Free Throw.,84,68
+1:42,213,Shep Garner missed Layup.,84,68
+1:42,77,Gavin Skelly Block.,84,68
+1:42,213,Penn State Offensive Rebound.,84,68
+1:42,77,Foul on Vic Law.,84,68
+1:42,213,Josh Reaves made Free Throw.,84,69
+1:42,213,Josh Reaves missed Free Throw.,84,69
+1:42,77,Scottie Lindsey Defensive Rebound.,84,69
+1:15,77,Isiah Brown missed Jumper.,84,69
+1:15,213,Josh Reaves Block.,84,69
+1:15,77,Northwestern Deadball Team Rebound.,84,69
+1:11,77,Northwestern  Turnover.,84,69
+1:06,213,Josh Reaves made Three Point Jumper. Assisted by Tony Carr.,84,72
+0:58,213,Penn State  Timeout,84,72
+0:44,77,Scottie Lindsey Turnover.,84,72
+0:44,213,Josh Reaves Steal.,84,72
+0:41,213,Josh Reaves made Dunk.,84,74
+0:40,77,Northwestern  Timeout,84,74
+0:24,77,Gavin Skelly made Layup. Assisted by Bryant McIntosh.,86,74
+0:18,213,Shep Garner made Layup.,86,76
+0:18,77,Foul on Bryant McIntosh.,86,76
+0:18,213,Shep Garner made Free Throw.,86,77
+0:16,213,Foul on Julian Moore.,86,77
+0:16,77,Sanjay Lumpkin missed Free Throw.,86,77
+0:16,77,Northwestern Deadball Team Rebound.,86,77
+0:16,77,Sanjay Lumpkin made Free Throw.,87,77
+0:11,213,Tony Carr Turnover.,87,77
+0:00,213,End of Game,87,77

@@ -1,0 +1,386 @@
+Kent State,251,Texas,2309
+time,team_id,description,h_score,a_score
+20:00,251,Jump Ball won by Texas,0,0
+19:36,251,Jarrett Allen missed Jumper.,0,0
+19:36,2309,Kevin Zabo Defensive Rebound.,0,0
+19:10,2309,Jimmy Hall missed Layup.,0,0
+19:10,251,Jarrett Allen Defensive Rebound.,0,0
+19:00,251,Shaquille Cleare Turnover.,0,0
+18:47,2309,Jimmy Hall missed Jumper.,0,0
+18:47,2309,Jimmy Hall Offensive Rebound.,0,0
+18:42,2309,Jimmy Hall made Layup.,2,0
+18:30,251,Jarrett Allen missed Jumper.,2,0
+18:30,2309,Jimmy Hall Defensive Rebound.,2,0
+18:21,2309,Deon Edwin missed Three Point Jumper.,2,0
+18:21,2309,Adonis De La Rosa Offensive Rebound.,2,0
+18:13,2309,Adonis De La Rosa missed Layup.,2,0
+18:13,2309,Jimmy Hall Offensive Rebound.,2,0
+18:10,2309,Jimmy Hall missed Jumper.,2,0
+18:10,2309,Deon Edwin Offensive Rebound.,2,0
+18:04,2309,Deon Edwin made Layup.,4,0
+18:03,2309,Foul on Kevin Zabo.,4,0
+17:50,251,Andrew Jones missed Three Point Jumper.,4,0
+17:50,2309,Kent State Defensive Rebound.,4,0
+17:44,2309,Kevin Zabo Turnover.,4,0
+17:44,251,Kerwin Roach Jr. Steal.,4,0
+17:43,251,James Banks missed Layup.,4,0
+17:43,251,Andrew Jones Offensive Rebound.,4,0
+17:41,251,Andrew Jones made Layup.,4,2
+17:41,2309,Foul on Adonis De La Rosa.,4,2
+17:41,251,Andrew Jones made Free Throw.,4,3
+17:30,2309,Kevin Zabo missed Three Point Jumper.,4,3
+17:30,2309,Deon Edwin Offensive Rebound.,4,3
+17:28,251,Foul on Tevin Mack.,4,3
+17:19,2309,Deon Edwin missed Jumper.,4,3
+17:19,2309,Adonis De La Rosa Offensive Rebound.,4,3
+17:11,2309,Jimmy Hall missed Jumper.,4,3
+17:11,2309,Kent State Offensive Rebound.,4,3
+17:01,2309,Deon Edwin missed Jumper.,4,3
+17:01,251,Tevin Mack Defensive Rebound.,4,3
+16:53,251,Foul on Shaquille Cleare.,4,3
+16:53,251,Shaquille Cleare Turnover.,4,3
+16:42,251,Foul on Kerwin Roach Jr..,4,3
+16:27,2309,Jimmy Hall Turnover.,4,3
+16:27,251,Kerwin Roach Jr. Steal.,4,3
+16:04,251,Tevin Mack missed Three Point Jumper.,4,3
+16:04,2309,Deon Edwin Defensive Rebound.,4,3
+15:51,2309,Alonzo Walker made Layup.,6,3
+15:40,251,James Banks missed Layup.,6,3
+15:40,2309,Jimmy Hall Defensive Rebound.,6,3
+15:33,2309,Jimmy Hall Turnover.,6,3
+15:33,251,Official TV Timeout,6,3
+15:24,251,Andrew Jones Turnover.,6,3
+15:00,2309,Jimmy Hall made Layup.,8,3
+14:31,251,Andrew Jones Turnover.,8,3
+14:31,2309,Desmond Ridenour Steal.,8,3
+14:31,2309,Desmond Ridenour Turnover.,8,3
+14:26,251,Jarrett Allen made Layup. Assisted by Andrew Jones.,8,5
+14:26,2309,Foul on Jimmy Hall.,8,5
+14:26,251,Jarrett Allen missed Free Throw.,8,5
+14:26,2309,Deon Edwin Defensive Rebound.,8,5
+14:11,2309,Desmond Ridenour missed Jumper.,8,5
+14:11,251,Texas Defensive Rebound.,8,5
+14:09,2309,Foul on Deon Edwin.,8,5
+13:52,251,Jacob Young missed Jumper.,8,5
+13:52,2309,Deon Edwin Defensive Rebound.,8,5
+13:32,2309,Adonis De La Rosa Turnover.,8,5
+13:13,251,Eric Davis Jr. missed Three Point Jumper.,8,5
+13:13,2309,Deon Edwin Defensive Rebound.,8,5
+12:57,2309,Jalen Avery missed Three Point Jumper.,8,5
+12:57,251,Jarrett Allen Defensive Rebound.,8,5
+12:41,251,Kerwin Roach Jr. made Layup.,8,7
+12:16,2309,Foul on Adonis De La Rosa.,8,7
+12:16,2309,Adonis De La Rosa Turnover.,8,7
+12:02,251,Jacob Young Turnover.,8,7
+12:02,2309,Desmond Ridenour Steal.,8,7
+11:56,2309,Desmond Ridenour made Dunk.,10,7
+11:56,2309,Technical Foul on Desmond Ridenour.,10,7
+11:56,2309,Foul on Desmond Ridenour.,10,7
+11:56,251,Official TV Timeout,10,7
+11:56,251,Jacob Young missed Free Throw.,10,7
+11:56,251,Texas Deadball Team Rebound.,10,7
+11:56,251,Jacob Young made Free Throw.,10,8
+11:42,251,Kerwin Roach Jr. missed Three Point Jumper.,10,8
+11:42,2309,Kent State Defensive Rebound.,10,8
+11:36,2309,Jimmy Hall Turnover.,10,8
+11:36,251,Tevin Mack Steal.,10,8
+11:27,251,Eric Davis Jr. missed Layup.,10,8
+11:27,251,Tevin Mack Offensive Rebound.,10,8
+11:11,251,Kerwin Roach Jr. made Layup.,10,10
+11:05,2309,Jimmy Hall missed Jumper.,10,10
+11:05,251,Jacob Young Defensive Rebound.,10,10
+10:59,251,Jacob Young made Three Point Jumper.,10,13
+10:55,251,Foul on Eric Davis Jr..,10,13
+10:40,2309,Jimmy Hall missed Layup.,10,13
+10:40,251,Jacob Young Defensive Rebound.,10,13
+10:23,251,Jacob Young missed Three Point Jumper.,10,13
+10:23,2309,Kent State Defensive Rebound.,10,13
+10:05,2309,Deon Edwin missed Layup.,10,13
+10:05,251,Jarrett Allen Defensive Rebound.,10,13
+9:53,251,Tevin Mack missed Three Point Jumper.,10,13
+9:53,251,Jarrett Allen Offensive Rebound.,10,13
+9:47,251,Jarrett Allen made Layup.,10,15
+9:42,251,Foul on Andrew Jones.,10,15
+9:41,2309,Deon Edwin Turnover.,10,15
+9:41,251,Andrew Jones Steal.,10,15
+9:22,251,Foul on Tevin Mack.,10,15
+9:22,251,Tevin Mack Turnover.,10,15
+9:12,251,Foul on Shaquille Cleare.,10,15
+9:12,2309,Jaylin Walker made Free Throw.,11,15
+9:12,2309,Jaylin Walker made Free Throw.,12,15
+9:08,2309,Foul on Deon Edwin.,12,15
+9:08,251,Andrew Jones missed Free Throw.,12,15
+9:08,251,Jarrett Allen Offensive Rebound.,12,15
+9:06,2309,Foul on Kevin Zabo.,12,15
+9:06,251,Jarrett Allen made Free Throw.,12,16
+9:06,251,Jarrett Allen missed Free Throw.,12,16
+9:06,2309,Adonis De La Rosa Defensive Rebound.,12,16
+8:54,251,Foul on Kerwin Roach Jr..,12,16
+8:54,2309,Desmond Ridenour made Free Throw.,13,16
+8:54,2309,Desmond Ridenour made Free Throw.,14,16
+8:45,2309,Foul on Danny Pippen.,14,16
+8:45,251,Kendal Yancy missed Free Throw.,14,16
+8:45,2309,Jaylin Walker Defensive Rebound.,14,16
+8:31,2309,Desmond Ridenour missed Jumper.,14,16
+8:31,251,Andrew Jones Defensive Rebound.,14,16
+8:25,251,Andrew Jones missed Jumper.,14,16
+8:25,2309,Kent State Defensive Rebound.,14,16
+8:20,251,Foul on Andrew Jones.,14,16
+8:20,2309,Jaylin Walker missed Free Throw.,14,16
+8:20,251,Jarrett Allen Defensive Rebound.,14,16
+8:06,251,Eric Davis Jr. missed Jumper.,14,16
+8:06,251,Jarrett Allen Offensive Rebound.,14,16
+8:02,2309,Foul on Danny Pippen.,14,16
+8:02,251,Jarrett Allen missed Free Throw.,14,16
+8:02,251,Texas Deadball Team Rebound.,14,16
+8:02,251,Jarrett Allen made Free Throw.,14,17
+7:51,2309,Jimmy Hall Turnover.,14,17
+7:51,251,Official TV Timeout,14,17
+7:25,251,Jacob Young missed Three Point Jumper.,14,17
+7:25,2309,Jaylin Walker Defensive Rebound.,14,17
+7:09,2309,Adonis De La Rosa Turnover.,14,17
+7:03,251,Jacob Young made Layup.,14,19
+6:53,2309,Jimmy Hall missed Three Point Jumper.,14,19
+6:53,251,Texas Defensive Rebound.,14,19
+6:31,251,Kendal Yancy Turnover.,14,19
+6:09,2309,Jimmy Hall missed Jumper.,14,19
+6:09,251,James Banks Block.,14,19
+6:09,2309,Jimmy Hall Offensive Rebound.,14,19
+6:09,251,Foul on James Banks.,14,19
+6:09,2309,Jimmy Hall missed Free Throw.,14,19
+6:09,2309,Kent State Deadball Team Rebound.,14,19
+6:09,2309,Jimmy Hall made Free Throw.,15,19
+5:52,2309,Foul on Adonis De La Rosa.,15,19
+5:52,251,Jarrett Allen made Free Throw.,15,20
+5:52,251,Jarrett Allen missed Free Throw.,15,20
+5:52,2309,Jimmy Hall Defensive Rebound.,15,20
+5:46,251,Foul on Eric Davis Jr..,15,20
+5:46,2309,Jaylin Walker made Free Throw.,16,20
+5:46,2309,Jaylin Walker made Free Throw.,17,20
+5:28,251,James Banks Turnover.,17,20
+5:28,2309,Jimmy Hall Steal.,17,20
+5:23,2309,Desmond Ridenour Turnover.,17,20
+5:07,2309,Foul on Alonzo Walker.,17,20
+5:07,251,Andrew Jones made Free Throw.,17,21
+5:07,251,Andrew Jones made Free Throw.,17,22
+4:56,2309,Jaylin Walker missed Three Point Jumper.,17,22
+4:56,251,James Banks Defensive Rebound.,17,22
+4:37,251,Andrew Jones Turnover.,17,22
+4:21,2309,Jimmy Hall made Jumper.,19,22
+3:56,251,James Banks made Dunk. Assisted by Kerwin Roach Jr..,19,24
+3:43,2309,Desmond Ridenour made Layup. Assisted by Jimmy Hall.,21,24
+3:23,251,Kerwin Roach Jr. made Layup.,21,26
+2:53,2309,Desmond Ridenour missed Three Point Jumper.,21,26
+2:53,2309,Jimmy Hall Offensive Rebound.,21,26
+2:47,2309,Jimmy Hall missed Layup.,21,26
+2:47,251,James Banks Block.,21,26
+2:47,2309,Leo Edwards Offensive Rebound.,21,26
+2:47,2309,Leo Edwards missed Jumper.,21,26
+2:47,2309,Kent State Offensive Rebound.,21,26
+2:47,251,Official TV Timeout,21,26
+2:23,2309,Jaylin Walker made Jumper.,23,26
+1:57,251,Jarrett Allen missed Jumper.,23,26
+1:57,2309,Jaylin Walker Defensive Rebound.,23,26
+1:49,2309,Jaylin Walker missed Jumper.,23,26
+1:49,251,Andrew Jones Defensive Rebound.,23,26
+1:43,251,Jarrett Allen made Dunk. Assisted by Tevin Mack.,23,28
+1:17,2309,Jimmy Hall missed Jumper.,23,28
+1:17,251,Jarrett Allen Block.,23,28
+1:17,2309,Jalen Avery Offensive Rebound.,23,28
+1:11,2309,Jaylin Walker missed Three Point Jumper.,23,28
+1:11,251,Eric Davis Jr. Defensive Rebound.,23,28
+1:06,2309,Foul on Alonzo Walker.,23,28
+1:06,251,Eric Davis Jr. missed Free Throw.,23,28
+1:06,251,Texas Deadball Team Rebound.,23,28
+1:06,251,Eric Davis Jr. made Free Throw.,23,29
+0:49,2309,Jaylin Walker made Jumper.,25,29
+0:35,251,Andrew Jones missed Three Point Jumper.,25,29
+0:35,2309,Deon Edwin Defensive Rebound.,25,29
+0:29,2309,Jaylin Walker missed Three Point Jumper.,25,29
+0:29,251,Andrew Jones Defensive Rebound.,25,29
+0:22,251,Jacob Young missed Three Point Jumper.,25,29
+0:22,251,Kendal Yancy Offensive Rebound.,25,29
+0:02,251,Eric Davis Jr. Turnover.,25,29
+0:00,251,End of 1st half,25,29
+20:00,2309,Jump Ball won by Kent State,25,29
+19:40,2309,Jaylin Walker missed Jumper.,25,29
+19:40,251,Shaquille Cleare Defensive Rebound.,25,29
+19:29,251,Jarrett Allen made Jumper. Assisted by Kerwin Roach Jr..,25,31
+19:19,2309,Danny Pippen missed Three Point Jumper.,25,31
+19:19,2309,Danny Pippen Offensive Rebound.,25,31
+19:05,2309,Jimmy Hall missed Jumper.,25,31
+19:05,251,Tevin Mack Defensive Rebound.,25,31
+18:34,251,Jarrett Allen Turnover.,25,31
+18:34,2309,Jimmy Hall Steal.,25,31
+18:27,2309,Deon Edwin made Layup. Assisted by Kevin Zabo.,27,31
+18:13,251,Andrew Jones missed Jumper.,27,31
+18:13,251,Jarrett Allen Offensive Rebound.,27,31
+18:09,251,Jarrett Allen Turnover.,27,31
+17:47,2309,Jimmy Hall made Layup.,29,31
+17:20,251,Tevin Mack missed Jumper.,29,31
+17:20,251,Shaquille Cleare Offensive Rebound.,29,31
+17:20,251,Shaquille Cleare made Two Point Tip Shot.,29,33
+17:12,2309,Kevin Zabo Turnover.,29,33
+17:12,251,Jarrett Allen Steal.,29,33
+17:12,2309,Foul on Kevin Zabo.,29,33
+16:57,251,Shaquille Cleare made Jumper.,29,35
+16:42,2309,Jaylin Walker Turnover.,29,35
+16:42,251,Andrew Jones Steal.,29,35
+16:36,251,Andrew Jones Turnover.,29,35
+16:36,2309,Deon Edwin Steal.,29,35
+16:26,2309,Deon Edwin missed Jumper.,29,35
+16:26,251,Andrew Jones Defensive Rebound.,29,35
+16:17,251,Andrew Jones Turnover.,29,35
+16:17,2309,Deon Edwin Steal.,29,35
+16:09,2309,Deon Edwin made Dunk.,31,35
+15:58,2309,Foul on Danny Pippen.,31,35
+15:58,251,Official TV Timeout,31,35
+15:42,251,Jarrett Allen missed Jumper.,31,35
+15:42,2309,Jimmy Hall Defensive Rebound.,31,35
+15:21,2309,Foul on Jimmy Hall.,31,35
+15:21,2309,Jimmy Hall Turnover.,31,35
+15:04,251,Shaquille Cleare missed Jumper.,31,35
+15:04,2309,Jimmy Hall Block.,31,35
+15:04,251,Shaquille Cleare Offensive Rebound.,31,35
+14:56,2309,Foul on Jimmy Hall.,31,35
+14:56,251,Kerwin Roach Jr. made Free Throw.,31,36
+14:56,251,Kerwin Roach Jr. made Free Throw.,31,37
+14:54,2309,Jalen Avery Turnover.,31,37
+14:54,251,Eric Davis Jr. Steal.,31,37
+14:54,2309,Foul on Jimmy Hall.,31,37
+14:50,251,Eric Davis Jr. missed Three Point Jumper.,31,37
+14:50,2309,Alonzo Walker Defensive Rebound.,31,37
+14:38,2309,Deon Edwin made Three Point Jumper. Assisted by Desmond Ridenour.,34,37
+14:12,251,Tevin Mack missed Three Point Jumper.,34,37
+14:12,2309,Deon Edwin Defensive Rebound.,34,37
+14:00,2309,Alonzo Walker Turnover.,34,37
+13:45,251,Foul on James Banks.,34,37
+13:45,251,James Banks Turnover.,34,37
+13:40,2309,Deon Edwin missed Layup.,34,37
+13:40,2309,Adonis De La Rosa Offensive Rebound.,34,37
+13:32,2309,Adonis De La Rosa missed Jumper.,34,37
+13:32,251,James Banks Block.,34,37
+13:32,2309,Jaylin Walker Offensive Rebound.,34,37
+13:29,2309,Jaylin Walker made Three Point Jumper.,37,37
+13:26,2309,Foul on Deon Edwin.,37,37
+13:26,251,Kerwin Roach Jr. made Free Throw.,37,38
+13:26,251,Kerwin Roach Jr. made Free Throw.,37,39
+13:21,2309,Jaylin Walker missed Jumper.,37,39
+13:21,2309,Deon Edwin Offensive Rebound.,37,39
+13:12,2309,Deon Edwin made Layup.,39,39
+12:43,251,James Banks missed Jumper.,39,39
+12:43,2309,Kent State Defensive Rebound.,39,39
+12:17,2309,Desmond Ridenour missed Layup.,39,39
+12:17,251,Jarrett Allen Defensive Rebound.,39,39
+12:11,251,Kendal Yancy missed Three Point Jumper.,39,39
+12:11,2309,Alonzo Walker Defensive Rebound.,39,39
+11:48,2309,Jaylin Walker made Three Point Jumper. Assisted by Desmond Ridenour.,42,39
+11:41,251,Texas  Timeout,42,39
+11:41,251,Official TV Timeout,42,39
+11:32,251,Jarrett Allen missed Three Point Jumper.,42,39
+11:32,2309,Deon Edwin Defensive Rebound.,42,39
+11:13,2309,Deon Edwin Turnover.,42,39
+11:13,251,Official TV Timeout,42,39
+11:00,251,Tevin Mack missed Three Point Jumper.,42,39
+11:00,251,Shaquille Cleare Offensive Rebound.,42,39
+10:55,251,Shaquille Cleare missed Jumper.,42,39
+10:55,2309,Deon Edwin Defensive Rebound.,42,39
+10:30,2309,Jaylin Walker made Jumper.,44,39
+9:59,251,Jarrett Allen missed Jumper.,44,39
+9:59,2309,Jaylin Walker Defensive Rebound.,44,39
+9:46,2309,Adonis De La Rosa missed Jumper.,44,39
+9:46,251,Texas Defensive Rebound.,44,39
+9:37,251,Andrew Jones Turnover.,44,39
+9:37,2309,Desmond Ridenour Steal.,44,39
+9:31,2309,Desmond Ridenour missed Dunk.,44,39
+9:31,251,Andrew Jones Block.,44,39
+9:31,2309,Desmond Ridenour Offensive Rebound.,44,39
+9:17,2309,Alonzo Walker made Dunk. Assisted by Desmond Ridenour.,46,39
+9:12,251,Texas  Timeout,46,39
+8:57,2309,Foul on Deon Edwin.,46,39
+8:57,251,Shaquille Cleare made Free Throw.,46,40
+8:57,251,Shaquille Cleare made Free Throw.,46,41
+8:44,2309,Desmond Ridenour missed Three Point Jumper.,46,41
+8:44,251,Tevin Mack Defensive Rebound.,46,41
+8:35,251,Tevin Mack Turnover.,46,41
+8:35,2309,Desmond Ridenour Steal.,46,41
+8:28,2309,Jaylin Walker missed Three Point Jumper.,46,41
+8:28,2309,Alonzo Walker Offensive Rebound.,46,41
+8:09,251,Foul on Kerwin Roach Jr..,46,41
+8:06,2309,Desmond Ridenour Turnover.,46,41
+8:06,251,Andrew Jones Steal.,46,41
+8:03,2309,Foul on Kevin Zabo.,46,41
+8:03,251,Andrew Jones missed Free Throw.,46,41
+8:03,2309,Adonis De La Rosa Defensive Rebound.,46,41
+7:56,2309,Kent State  Timeout,46,41
+7:39,251,Foul on Jarrett Allen.,46,41
+7:26,2309,Kevin Zabo Turnover.,46,41
+7:26,251,Jacob Young Steal.,46,41
+7:09,251,Jacob Young missed Three Point Jumper.,46,41
+7:09,2309,Desmond Ridenour Defensive Rebound.,46,41
+6:51,2309,Kevin Zabo missed Three Point Jumper.,46,41
+6:51,251,Andrew Jones Defensive Rebound.,46,41
+6:45,251,Andrew Jones made Layup.,46,43
+6:45,2309,Foul on Desmond Ridenour.,46,43
+6:45,251,Andrew Jones missed Free Throw.,46,43
+6:45,2309,Deon Edwin Defensive Rebound.,46,43
+6:23,2309,Adonis De La Rosa Turnover.,46,43
+6:23,2309,Foul on Adonis De La Rosa.,46,43
+5:51,251,Kerwin Roach Jr. Turnover.,46,43
+5:45,2309,Deon Edwin made Layup. Assisted by Jalen Avery.,48,43
+5:19,251,Tevin Mack missed Jumper.,48,43
+5:19,2309,Jaylin Walker Defensive Rebound.,48,43
+5:14,251,Foul on Kerwin Roach Jr..,48,43
+5:14,2309,Deon Edwin made Jumper. Assisted by Jimmy Hall.,50,43
+4:43,251,Eric Davis Jr. missed Jumper.,50,43
+4:43,2309,Kent State Defensive Rebound.,50,43
+4:31,2309,Jaylin Walker Turnover.,50,43
+4:31,251,Eric Davis Jr. Steal.,50,43
+4:25,251,Jacob Young made Layup.,50,45
+4:19,2309,Jaylin Walker missed Layup.,50,45
+4:19,251,Jarrett Allen Block.,50,45
+4:19,2309,Alonzo Walker Offensive Rebound.,50,45
+4:19,2309,Alonzo Walker made Two Point Tip Shot.,52,45
+4:06,251,Kerwin Roach Jr. made Three Point Jumper. Assisted by Eric Davis Jr..,52,48
+3:55,2309,Jaylin Walker missed Three Point Jumper.,52,48
+3:55,2309,Alonzo Walker Offensive Rebound.,52,48
+3:51,251,Foul on Jacob Young.,52,48
+3:51,251,Official TV Timeout,52,48
+3:51,2309,Alonzo Walker missed Free Throw.,52,48
+3:51,2309,Kent State Deadball Team Rebound.,52,48
+3:51,2309,Alonzo Walker made Free Throw.,53,48
+3:25,251,Kerwin Roach Jr. missed Jumper.,53,48
+3:25,251,Jarrett Allen Offensive Rebound.,53,48
+3:20,251,Jarrett Allen made Jumper.,53,50
+3:02,2309,Deon Edwin missed Three Point Jumper.,53,50
+3:02,251,Kerwin Roach Jr. Defensive Rebound.,53,50
+2:56,251,Jacob Young missed Three Point Jumper.,53,50
+2:56,2309,Jimmy Hall Defensive Rebound.,53,50
+2:36,2309,Jimmy Hall missed Jumper.,53,50
+2:36,251,Eric Davis Jr. Defensive Rebound.,53,50
+2:28,251,Tevin Mack made Layup.,53,52
+2:18,2309,Jaylin Walker made Jumper. Assisted by Desmond Ridenour.,55,52
+1:53,251,Tevin Mack made Layup.,55,54
+1:43,2309,Jaylin Walker made Jumper.,57,54
+1:17,251,Jarrett Allen made Dunk. Assisted by Kerwin Roach Jr..,57,56
+1:07,2309,Deon Edwin missed Layup.,57,56
+1:07,2309,Jaylin Walker Offensive Rebound.,57,56
+1:01,2309,Kent State  Timeout,57,56
+0:50,2309,Jimmy Hall made Layup.,59,56
+0:39,251,Kerwin Roach Jr. missed Layup.,59,56
+0:39,2309,Jimmy Hall Defensive Rebound.,59,56
+0:32,2309,Jaylin Walker made Dunk. Assisted by Desmond Ridenour.,61,56
+0:28,251,Texas  Timeout,61,56
+0:20,251,Jarrett Allen made Layup. Assisted by Tevin Mack.,61,58
+0:16,251,Foul on Andrew Jones.,61,58
+0:15,251,Foul on Kerwin Roach Jr..,61,58
+0:15,2309,Desmond Ridenour missed Free Throw.,61,58
+0:15,2309,Jimmy Hall Offensive Rebound.,61,58
+0:13,251,Foul on Eric Davis Jr..,61,58
+0:13,2309,Jaylin Walker missed Free Throw.,61,58
+0:13,251,Andrew Jones Defensive Rebound.,61,58
+0:06,251,Eric Davis Jr. missed Jumper.,61,58
+0:06,2309,Jimmy Hall Block.,61,58
+0:06,2309,Desmond Ridenour Defensive Rebound.,61,58
+0:06,2309,Jaylin Walker made Dunk. Assisted by Jimmy Hall.,63,58
+0:00,251,End of Game,63,58

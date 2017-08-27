@@ -1,0 +1,278 @@
+Notre Dame,222,Villanova,87
+time,team_id,description,h_score,a_score
+20:00,87,Jump Ball won by Notre Dame,0,0
+19:40,87,Martinas Geben made Layup. Assisted by Matt Farrell.,2,0
+19:40,222,Foul on Jalen Brunson.,2,0
+19:40,87,Martinas Geben made Free Throw.,3,0
+19:34,222,Jalen Brunson missed Jumper.,3,0
+19:34,87,Bonzie Colson Defensive Rebound.,3,0
+19:26,87,V.J. Beachem missed Three Point Jumper.,3,0
+19:26,222,Jalen Brunson Defensive Rebound.,3,0
+19:17,222,Jalen Brunson made Layup.,3,2
+19:09,87,V.J. Beachem missed Jumper.,3,2
+19:09,222,Darryl Reynolds Block.,3,2
+19:09,87,Notre Dame Offensive Rebound.,3,2
+19:01,87,Steve Vasturia made Jumper. Assisted by Matt Farrell.,5,2
+18:42,222,Kris Jenkins missed Jumper.,5,2
+18:42,87,Bonzie Colson Defensive Rebound.,5,2
+18:34,87,Matt Farrell made Three Point Jumper. Assisted by Steve Vasturia.,8,2
+18:30,222,Villanova  Timeout,8,2
+18:17,222,Josh Hart made Layup.,8,4
+18:06,87,Bonzie Colson missed Three Point Jumper.,8,4
+18:06,87,Notre Dame Offensive Rebound.,8,4
+17:48,87,Martinas Geben Turnover.,8,4
+17:38,222,Darryl Reynolds made Dunk. Assisted by Josh Hart.,8,6
+17:08,87,Matt Farrell made Three Point Jumper. Assisted by Steve Vasturia.,11,6
+16:37,222,Mikal Bridges missed Layup.,11,6
+16:37,222,Mikal Bridges Offensive Rebound.,11,6
+16:33,87,Foul on Matt Farrell.,11,6
+16:32,87,Foul on V.J. Beachem.,11,6
+16:25,222,Mikal Bridges missed Jumper.,11,6
+16:25,222,Darryl Reynolds Offensive Rebound.,11,6
+16:18,222,Jalen Brunson missed Three Point Jumper.,11,6
+16:18,87,Bonzie Colson Defensive Rebound.,11,6
+16:14,222,Foul on Darryl Reynolds.,11,6
+16:02,87,Matt Farrell made Jumper.,13,6
+15:34,222,Jalen Brunson Turnover.,13,6
+15:34,87,Steve Vasturia Steal.,13,6
+15:29,87,Steve Vasturia made Jumper.,15,6
+15:05,222,Josh Hart missed Jumper.,15,6
+15:05,222,Josh Hart Offensive Rebound.,15,6
+15:01,222,Josh Hart made Three Point Jumper.,15,9
+14:29,87,Steve Vasturia missed Jumper.,15,9
+14:29,222,Kris Jenkins Defensive Rebound.,15,9
+14:22,222,Josh Hart missed Three Point Jumper.,15,9
+14:22,87,Matt Farrell Defensive Rebound.,15,9
+14:06,87,Bonzie Colson made Layup. Assisted by Matt Farrell.,17,9
+13:49,222,Josh Hart made Layup. Assisted by Jalen Brunson.,17,11
+13:20,222,Official TV Timeout,17,11
+13:10,87,V.J. Beachem missed Jumper.,17,11
+13:10,222,Eric Paschall Defensive Rebound.,17,11
+13:03,222,Kris Jenkins missed Three Point Jumper.,17,11
+13:03,222,Mikal Bridges Offensive Rebound.,17,11
+12:40,222,Josh Hart missed Jumper.,17,11
+12:40,87,Bonzie Colson Defensive Rebound.,17,11
+12:20,87,Bonzie Colson made Layup. Assisted by Matt Farrell.,19,11
+11:48,222,Eric Paschall made Layup. Assisted by Josh Hart.,19,13
+11:27,222,Foul on Eric Paschall.,19,13
+11:27,222,Official TV Timeout,19,13
+11:26,87,Steve Vasturia missed Three Point Jumper.,19,13
+11:26,222,Donte DiVincenzo Defensive Rebound.,19,13
+11:05,222,Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.,19,16
+10:34,87,Rex Pflueger made Three Point Jumper.,22,16
+10:10,222,Kris Jenkins missed Jumper.,22,16
+10:10,87,V.J. Beachem Block.,22,16
+10:10,87,V.J. Beachem Defensive Rebound.,22,16
+10:01,87,Steve Vasturia Turnover.,22,16
+10:01,222,Josh Hart Steal.,22,16
+9:43,222,Eric Paschall Turnover.,22,16
+9:22,87,Temple Gibbs made Three Point Jumper. Assisted by Bonzie Colson.,25,16
+8:57,222,Donte DiVincenzo missed Three Point Jumper.,25,16
+8:57,222,Mikal Bridges Offensive Rebound.,25,16
+8:49,222,Josh Hart made Layup.,25,18
+8:30,87,Bonzie Colson missed Jumper.,25,18
+8:30,87,Bonzie Colson Offensive Rebound.,25,18
+8:24,87,V.J. Beachem missed Three Point Jumper.,25,18
+8:24,222,Josh Hart Defensive Rebound.,25,18
+7:57,222,Jalen Brunson Turnover.,25,18
+7:57,87,Martinas Geben Steal.,25,18
+7:48,87,Martinas Geben made Layup. Assisted by Rex Pflueger.,27,18
+7:20,222,Jump Ball won by Villanova,27,18
+7:20,222,Official TV Timeout,27,18
+7:19,222,Donte DiVincenzo missed Three Point Jumper.,27,18
+7:19,222,Jalen Brunson Offensive Rebound.,27,18
+7:13,87,Foul on Matt Ryan.,27,18
+7:06,222,Mikal Bridges made Layup.,27,20
+6:44,87,Bonzie Colson missed Jumper.,27,20
+6:44,222,Darryl Reynolds Block.,27,20
+6:44,222,Donte DiVincenzo Defensive Rebound.,27,20
+6:37,222,Jalen Brunson missed Jumper.,27,20
+6:37,222,Darryl Reynolds Offensive Rebound.,27,20
+6:31,222,Jalen Brunson missed Three Point Jumper.,27,20
+6:31,87,Bonzie Colson Defensive Rebound.,27,20
+6:20,87,V.J. Beachem missed Three Point Jumper.,27,20
+6:20,222,Donte DiVincenzo Defensive Rebound.,27,20
+6:06,222,Kris Jenkins missed Layup.,27,20
+6:06,87,Matt Farrell Defensive Rebound.,27,20
+5:57,87,V.J. Beachem made Layup. Assisted by Matt Farrell.,29,20
+5:35,222,Jalen Brunson made Layup.,29,22
+5:14,87,Matt Farrell made Layup.,31,22
+4:50,222,Donte DiVincenzo missed Three Point Jumper.,31,22
+4:50,87,V.J. Beachem Defensive Rebound.,31,22
+4:33,87,Steve Vasturia made Layup.,33,22
+4:26,222,Villanova  Timeout,33,22
+4:16,222,Eric Paschall made Jumper. Assisted by Kris Jenkins.,33,24
+3:52,87,Bonzie Colson made Layup. Assisted by Matt Farrell.,35,24
+3:34,222,Josh Hart made Three Point Jumper. Assisted by Jalen Brunson.,35,27
+3:11,87,Steve Vasturia missed Layup.,35,27
+3:11,222,Josh Hart Defensive Rebound.,35,27
+3:02,87,Foul on Matt Farrell.,35,27
+3:00,222,Eric Paschall made Dunk. Assisted by Mikal Bridges.,35,29
+2:33,222,Foul on Josh Hart.,35,29
+2:33,87,Steve Vasturia made Free Throw.,36,29
+2:33,87,Steve Vasturia made Free Throw.,37,29
+2:19,87,Foul on Rex Pflueger.,37,29
+2:19,222,Josh Hart made Free Throw.,37,30
+2:19,222,Josh Hart made Free Throw.,37,31
+1:55,87,Temple Gibbs missed Three Point Jumper.,37,31
+1:55,222,Eric Paschall Defensive Rebound.,37,31
+1:48,222,Donte DiVincenzo Turnover.,37,31
+1:48,87,Steve Vasturia Steal.,37,31
+1:44,87,Steve Vasturia missed Layup.,37,31
+1:44,222,Kris Jenkins Block.,37,31
+1:44,87,Rex Pflueger Offensive Rebound.,37,31
+1:39,222,Foul on Eric Paschall.,37,31
+1:15,87,Steve Vasturia missed Three Point Jumper.,37,31
+1:15,87,Matt Ryan Offensive Rebound.,37,31
+1:08,87,Bonzie Colson missed Layup.,37,31
+1:08,87,Bonzie Colson Offensive Rebound.,37,31
+1:05,87,Bonzie Colson missed Jumper.,37,31
+1:05,222,Josh Hart Defensive Rebound.,37,31
+0:59,222,Josh Hart made Layup.,37,33
+0:59,87,Foul on Temple Gibbs.,37,33
+0:59,222,Josh Hart made Free Throw.,37,34
+0:58,87,Notre Dame  Timeout,37,34
+0:36,87,Steve Vasturia made Jumper. Assisted by Bonzie Colson.,39,34
+0:06,87,Foul on Bonzie Colson.,39,34
+0:06,222,Josh Hart made Free Throw.,39,35
+0:06,222,Josh Hart made Free Throw.,39,36
+0:01,87,Matt Farrell made Layup.,41,36
+0:00,222,End of 1st half,41,36
+20:00,87,Jump Ball won by Notre Dame,41,36
+19:32,87,V.J. Beachem Turnover.,41,36
+19:24,222,Mikal Bridges missed Three Point Jumper.,41,36
+19:24,87,V.J. Beachem Defensive Rebound.,41,36
+19:18,87,Matt Farrell missed Three Point Jumper.,41,36
+19:18,222,Kris Jenkins Defensive Rebound.,41,36
+19:08,222,Jalen Brunson missed Layup.,41,36
+19:08,87,Martinas Geben Defensive Rebound.,41,36
+19:01,87,Steve Vasturia made Three Point Jumper. Assisted by V.J. Beachem.,44,36
+18:43,222,Mikal Bridges made Layup.,44,38
+18:13,87,Bonzie Colson Turnover.,44,38
+17:52,222,Darryl Reynolds made Dunk. Assisted by Kris Jenkins.,44,40
+17:52,87,Foul on Martinas Geben.,44,40
+17:52,222,Darryl Reynolds missed Free Throw.,44,40
+17:52,87,V.J. Beachem Defensive Rebound.,44,40
+17:36,87,Steve Vasturia missed Three Point Jumper.,44,40
+17:36,222,Mikal Bridges Defensive Rebound.,44,40
+17:14,222,Kris Jenkins Turnover.,44,40
+17:14,87,Bonzie Colson Steal.,44,40
+17:10,87,Bonzie Colson Turnover.,44,40
+17:10,222,Mikal Bridges Steal.,44,40
+17:03,222,Donte DiVincenzo Turnover.,44,40
+17:03,87,Matt Farrell Steal.,44,40
+17:00,87,Matt Farrell Turnover.,44,40
+17:00,222,Darryl Reynolds Steal.,44,40
+16:57,222,Jump Ball won by Villanova,44,40
+16:47,222,Darryl Reynolds missed Jumper.,44,40
+16:47,87,Rex Pflueger Defensive Rebound.,44,40
+16:25,87,Rex Pflueger made Layup. Assisted by Martinas Geben.,46,40
+15:56,222,Donte DiVincenzo missed Three Point Jumper.,46,40
+15:56,222,Donte DiVincenzo Offensive Rebound.,46,40
+15:36,222,Kris Jenkins Turnover.,46,40
+15:36,222,Official TV Timeout,46,40
+15:08,87,Martinas Geben missed Layup.,46,40
+15:08,87,Martinas Geben Offensive Rebound.,46,40
+14:55,87,Matt Farrell made Jumper.,48,40
+14:20,222,Villanova  Turnover.,48,40
+13:56,87,V.J. Beachem missed Jumper.,48,40
+13:56,87,Martinas Geben Offensive Rebound.,48,40
+13:44,87,Matt Farrell Turnover.,48,40
+13:44,222,Mikal Bridges Steal.,48,40
+13:37,87,Foul on Martinas Geben.,48,40
+13:37,222,Kris Jenkins made Free Throw.,48,41
+13:37,222,Kris Jenkins missed Free Throw.,48,41
+13:37,87,Bonzie Colson Defensive Rebound.,48,41
+13:17,87,Matt Farrell made Jumper.,50,41
+12:47,87,Foul on Matt Farrell.,50,41
+12:47,222,Josh Hart made Free Throw.,50,42
+12:47,222,Josh Hart made Free Throw.,50,43
+12:27,87,Matt Ryan Turnover.,50,43
+12:27,222,Josh Hart Steal.,50,43
+12:18,222,Josh Hart made Layup.,50,45
+12:18,87,Foul on Matt Ryan.,50,45
+12:18,222,Josh Hart made Free Throw.,50,46
+12:02,87,Bonzie Colson made Jumper. Assisted by Steve Vasturia.,52,46
+11:39,222,Eric Paschall made Layup.,52,48
+11:14,87,V.J. Beachem made Layup. Assisted by Temple Gibbs.,54,48
+10:54,222,Josh Hart made Three Point Jumper. Assisted by Jalen Brunson.,54,51
+10:24,222,Foul on Donte DiVincenzo.,54,51
+10:24,222,Official TV Timeout,54,51
+10:24,87,Temple Gibbs made Free Throw.,55,51
+10:24,87,Temple Gibbs made Free Throw.,56,51
+10:08,222,Josh Hart made Layup.,56,53
+9:48,87,V.J. Beachem missed Three Point Jumper.,56,53
+9:48,222,Josh Hart Defensive Rebound.,56,53
+9:37,222,Josh Hart made Layup.,56,55
+9:28,87,Notre Dame  Timeout,56,55
+9:15,87,Steve Vasturia missed Three Point Jumper.,56,55
+9:15,222,Eric Paschall Block.,56,55
+9:15,222,Josh Hart Defensive Rebound.,56,55
+9:09,222,Jalen Brunson made Layup. Assisted by Josh Hart.,56,57
+8:42,222,Foul on Jalen Brunson.,56,57
+8:22,87,Steve Vasturia missed Layup.,56,57
+8:22,222,Eric Paschall Defensive Rebound.,56,57
+7:57,222,Kris Jenkins missed Three Point Jumper.,56,57
+7:57,87,Notre Dame Defensive Rebound.,56,57
+7:52,222,Official TV Timeout,56,57
+7:30,87,Matt Farrell missed Layup.,56,57
+7:30,222,Josh Hart Defensive Rebound.,56,57
+7:21,87,Foul on Steve Vasturia.,56,57
+7:21,222,Josh Hart made Free Throw.,56,58
+7:21,222,Josh Hart made Free Throw.,56,59
+7:03,87,Bonzie Colson made Jumper.,58,59
+7:03,222,Foul on Josh Hart.,58,59
+7:03,87,Bonzie Colson made Free Throw.,59,59
+6:56,222,Mikal Bridges made Jumper.,59,61
+6:33,87,Steve Vasturia made Three Point Jumper.,62,61
+6:11,87,Foul on Martinas Geben.,62,61
+6:11,222,Josh Hart made Free Throw.,62,62
+6:11,222,Josh Hart made Free Throw.,62,63
+5:47,87,Steve Vasturia Turnover.,62,63
+5:37,222,Kris Jenkins missed Three Point Jumper.,62,63
+5:37,222,Mikal Bridges Offensive Rebound.,62,63
+5:37,222,Mikal Bridges made Two Point Tip Shot.,62,65
+5:13,87,Matt Farrell missed Three Point Jumper.,62,65
+5:13,222,Josh Hart Defensive Rebound.,62,65
+4:56,222,Mikal Bridges missed Jumper.,62,65
+4:56,87,Rex Pflueger Defensive Rebound.,62,65
+4:36,87,Steve Vasturia made Layup. Assisted by Bonzie Colson.,64,65
+4:07,222,Kris Jenkins Turnover.,64,65
+4:07,87,Matt Farrell Steal.,64,65
+3:45,222,Foul on Kris Jenkins.,64,65
+3:45,222,Official TV Timeout,64,65
+3:34,87,Matt Farrell missed Jumper.,64,65
+3:34,222,Josh Hart Defensive Rebound.,64,65
+3:15,222,Josh Hart Turnover.,64,65
+3:15,87,Bonzie Colson Steal.,64,65
+3:12,87,Jump Ball won by Notre Dame,64,65
+2:55,87,V.J. Beachem missed Three Point Jumper.,64,65
+2:55,222,Josh Hart Defensive Rebound.,64,65
+2:27,222,Kris Jenkins made Jumper.,64,67
+2:27,87,Foul on Bonzie Colson.,64,67
+2:27,222,Kris Jenkins made Free Throw.,64,68
+2:13,87,Matt Farrell made Jumper.,66,68
+2:09,87,Notre Dame  Timeout,66,68
+1:56,222,Josh Hart missed Layup.,66,68
+1:56,87,V.J. Beachem Defensive Rebound.,66,68
+1:30,87,V.J. Beachem missed Jumper.,66,68
+1:30,222,Kris Jenkins Defensive Rebound.,66,68
+1:05,222,Kris Jenkins missed Three Point Jumper.,66,68
+1:05,222,Jalen Brunson Offensive Rebound.,66,68
+0:56,87,Foul on Matt Farrell.,66,68
+0:56,222,Jalen Brunson made Free Throw.,66,69
+0:56,222,Jalen Brunson made Free Throw.,66,70
+0:45,222,Foul on Kris Jenkins.,66,70
+0:33,87,Bonzie Colson missed Three Point Jumper.,66,70
+0:33,222,Darryl Reynolds Defensive Rebound.,66,70
+0:28,87,Foul on Steve Vasturia.,66,70
+0:28,222,Darryl Reynolds made Free Throw.,66,71
+0:28,222,Darryl Reynolds made Free Throw.,66,72
+0:24,87,Matt Farrell missed Three Point Jumper.,66,72
+0:24,222,Josh Hart Defensive Rebound.,66,72
+0:20,87,Foul on Rex Pflueger.,66,72
+0:20,222,Josh Hart made Free Throw.,66,73
+0:20,222,Josh Hart made Free Throw.,66,74
+0:15,87,Bonzie Colson missed Three Point Jumper.,66,74
+0:15,222,Mikal Bridges Defensive Rebound.,66,74
+0:00,222,End of Game,66,74

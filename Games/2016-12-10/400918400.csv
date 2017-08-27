@@ -1,0 +1,379 @@
+La Salle,46,Georgetown,2325
+time,team_id,description,h_score,a_score
+20:00,2325,Jump Ball won by La Salle,0,0
+19:48,2325,Pookie Powell missed Jumper.,0,0
+19:48,46,Rodney Pryor Defensive Rebound.,0,0
+19:31,2325,Foul on Tony Washington.,0,0
+19:31,46,Rodney Pryor missed Three Point Jumper.,0,0
+19:31,2325,Pookie Powell Defensive Rebound.,0,0
+19:25,2325,Amar Stukes made Layup.,2,0
+19:19,46,L.J. Peak made Layup. Assisted by Jagan Mosely.,2,2
+19:19,2325,Tony Washington missed Layup.,2,2
+19:19,46,L.J. Peak Block.,2,2
+19:19,2325,La Salle Offensive Rebound.,2,2
+18:42,2325,Pookie Powell missed Three Point Jumper.,2,2
+18:42,2325,B.J. Johnson Offensive Rebound.,2,2
+18:29,2325,Tony Washington missed Jumper.,2,2
+18:29,46,Bradley Hayes Block.,2,2
+18:29,46,Bradley Hayes Defensive Rebound.,2,2
+18:13,46,Rodney Pryor made Three Point Jumper.,2,5
+17:56,2325,Amar Stukes missed Jumper.,2,5
+17:56,46,Georgetown Defensive Rebound.,2,5
+17:45,2325,Foul on Tony Washington.,2,5
+17:42,46,Akoy Agau Turnover.,2,5
+17:42,2325,Pookie Powell Steal.,2,5
+17:37,2325,Pookie Powell made Layup.,4,5
+17:29,46,L.J. Peak made Jumper.,4,7
+17:12,46,Foul on Jagan Mosely.,4,7
+16:52,2325,B.J. Johnson missed Jumper.,4,7
+16:52,46,Akoy Agau Defensive Rebound.,4,7
+16:40,2325,Foul on Jordan Price.,4,7
+16:40,46,Akoy Agau made Free Throw.,4,8
+16:40,46,Akoy Agau made Free Throw.,4,9
+16:34,2325,Jordan Price made Three Point Jumper. Assisted by Amar Stukes.,7,9
+16:21,46,Jump Ball won by Georgetown,7,9
+16:16,46,Jagan Mosely Turnover.,7,9
+16:16,2325,Demetrius Henry Steal.,7,9
+16:10,46,Foul on Rodney Pryor.,7,9
+15:57,2325,Jordan Price made Jumper.,9,9
+15:35,46,Jagan Mosely made Three Point Jumper. Assisted by Marcus Derrickson.,9,12
+15:06,46,Foul on Jessie Govan.,9,12
+15:06,46,Official TV Timeout,9,12
+15:06,2325,Demetrius Henry missed Free Throw.,9,12
+15:06,2325,La Salle Deadball Team Rebound.,9,12
+15:06,2325,Demetrius Henry made Free Throw.,10,12
+15:06,46,Jessie Govan made Dunk. Assisted by L.J. Peak.,10,14
+14:55,2325,B.J. Johnson missed Three Point Jumper.,10,14
+14:55,2325,Demetrius Henry Offensive Rebound.,10,14
+14:50,2325,Cleon Roberts made Three Point Jumper. Assisted by Demetrius Henry.,13,14
+14:25,46,L.J. Peak Turnover.,13,14
+14:25,2325,Amar Stukes Steal.,13,14
+14:20,2325,Pookie Powell missed Three Point Jumper.,13,14
+14:20,46,Jagan Mosely Defensive Rebound.,13,14
+14:13,46,Rodney Pryor made Layup. Assisted by Jagan Mosely.,13,16
+13:53,2325,Cleon Roberts missed Three Point Jumper.,13,16
+13:53,46,Jagan Mosely Defensive Rebound.,13,16
+13:34,2325,Foul on Pookie Powell.,13,16
+13:34,46,Jagan Mosely made Free Throw.,13,17
+13:34,46,Jagan Mosely made Free Throw.,13,18
+13:18,2325,Amar Stukes missed Jumper.,13,18
+13:18,46,Rodney Pryor Block.,13,18
+13:18,46,Jessie Govan Defensive Rebound.,13,18
+13:05,46,Marcus Derrickson missed Layup.,13,18
+13:05,2325,Demetrius Henry Defensive Rebound.,13,18
+12:39,2325,B.J. Johnson made Jumper.,15,18
+12:39,46,Foul on Rodney Pryor.,15,18
+12:39,2325,B.J. Johnson missed Free Throw.,15,18
+12:39,46,Marcus Derrickson Defensive Rebound.,15,18
+12:23,2325,Foul on Cleon Roberts.,15,18
+12:23,46,Jessie Govan made Free Throw.,15,19
+12:23,46,Jessie Govan made Free Throw.,15,20
+12:18,2325,Jordan Price missed Three Point Jumper.,15,20
+12:18,46,Jessie Govan Defensive Rebound.,15,20
+12:03,46,Marcus Derrickson made Three Point Jumper. Assisted by Tre Campbell.,15,23
+11:50,2325,B.J. Johnson made Three Point Jumper. Assisted by Johnnie Shuler.,18,23
+11:30,2325,Foul on Johnnie Shuler.,18,23
+11:30,46,Official TV Timeout,18,23
+11:14,46,Marcus Derrickson missed Three Point Jumper.,18,23
+11:14,2325,Jordan Price Defensive Rebound.,18,23
+11:05,2325,Johnnie Shuler missed Three Point Jumper.,18,23
+11:05,2325,Cleon Roberts Offensive Rebound.,18,23
+11:01,2325,B.J. Johnson missed Three Point Jumper.,18,23
+11:01,46,L.J. Peak Defensive Rebound.,18,23
+10:52,46,Marcus Derrickson made Layup.,18,25
+10:37,46,Foul on Jonathan Mulmore.,18,25
+10:30,2325,B.J. Johnson Turnover.,18,25
+10:30,46,L.J. Peak Steal.,18,25
+10:25,2325,Foul on B.J. Johnson.,18,25
+10:25,46,L.J. Peak made Free Throw.,18,26
+10:25,46,L.J. Peak missed Free Throw.,18,26
+10:25,2325,Cleon Roberts Defensive Rebound.,18,26
+10:13,2325,Demetrius Henry Turnover.,18,26
+9:53,2325,Foul on Cleon Roberts.,18,26
+9:53,46,Akoy Agau made Free Throw.,18,27
+9:53,46,Akoy Agau made Free Throw.,18,28
+9:29,46,Foul on L.J. Peak.,18,28
+9:22,2325,Foul on B.J. Johnson.,18,28
+9:22,2325,B.J. Johnson Turnover.,18,28
+9:11,46,Marcus Derrickson missed Layup.,18,28
+9:11,2325,Demetrius Henry Block.,18,28
+9:11,2325,Jordan Price Defensive Rebound.,18,28
+8:52,46,Foul on Akoy Agau.,18,28
+8:52,2325,Pookie Powell made Free Throw.,19,28
+8:52,2325,Pookie Powell made Free Throw.,20,28
+8:38,46,L.J. Peak missed Jumper.,20,28
+8:38,2325,Pookie Powell Defensive Rebound.,20,28
+8:11,2325,Cleon Roberts made Three Point Jumper. Assisted by Amar Stukes.,23,28
+7:44,46,Akoy Agau Turnover.,23,28
+7:44,46,Official TV Timeout,23,28
+7:30,2325,Jordan Price made Jumper.,25,28
+7:30,46,Foul on Kaleb Johnson.,25,28
+7:30,2325,Jordan Price made Free Throw.,26,28
+7:21,2325,Foul on Pookie Powell.,26,28
+7:21,46,Jessie Govan missed Free Throw.,26,28
+7:21,46,Georgetown Deadball Team Rebound.,26,28
+7:21,46,Jessie Govan made Free Throw.,26,29
+7:09,2325,Jordan Price missed Three Point Jumper.,26,29
+7:09,46,L.J. Peak Defensive Rebound.,26,29
+6:52,46,Jessie Govan made Jumper.,26,31
+6:36,46,Foul on Jessie Govan.,26,31
+6:36,2325,Demetrius Henry made Free Throw.,27,31
+6:36,2325,Demetrius Henry made Free Throw.,28,31
+6:13,46,Jessie Govan missed Jumper.,28,31
+6:13,2325,Pookie Powell Defensive Rebound.,28,31
+6:03,2325,Foul on Demetrius Henry.,28,31
+6:03,2325,Demetrius Henry Turnover.,28,31
+5:56,46,Jessie Govan Turnover.,28,31
+5:56,2325,Pookie Powell Steal.,28,31
+5:50,2325,Pookie Powell made Layup.,30,31
+5:37,46,L.J. Peak made Jumper.,30,33
+5:08,46,Foul on Kaleb Johnson.,30,33
+5:08,2325,Jordan Price made Free Throw.,31,33
+5:08,2325,Jordan Price missed Free Throw.,31,33
+5:08,46,Marcus Derrickson Defensive Rebound.,31,33
+4:43,46,Marcus Derrickson missed Jumper.,31,33
+4:43,2325,Jordan Price Defensive Rebound.,31,33
+4:32,2325,Jordan Price missed Jumper.,31,33
+4:32,2325,Yevgen Sakhniuk Offensive Rebound.,31,33
+4:32,46,Foul on Jagan Mosely.,31,33
+4:32,2325,Yevgen Sakhniuk missed Free Throw.,31,33
+4:32,2325,La Salle Deadball Team Rebound.,31,33
+4:32,2325,Yevgen Sakhniuk missed Free Throw.,31,33
+4:32,46,Bradley Hayes Defensive Rebound.,31,33
+4:18,46,Tre Campbell missed Jumper.,31,33
+4:18,46,Bradley Hayes Offensive Rebound.,31,33
+4:11,2325,Foul on Johnnie Shuler.,31,33
+4:11,46,Bradley Hayes made Free Throw.,31,34
+4:11,46,Bradley Hayes made Free Throw.,31,35
+3:54,2325,Amar Stukes missed Jumper.,31,35
+3:54,46,Bradley Hayes Defensive Rebound.,31,35
+3:46,2325,Foul on Jordan Price.,31,35
+3:46,46,Official TV Timeout,31,35
+3:46,46,L.J. Peak made Free Throw.,31,36
+3:46,46,L.J. Peak made Free Throw.,31,37
+3:23,2325,Jordan Price made Jumper. Assisted by Amar Stukes.,33,37
+3:10,46,Bradley Hayes missed Jumper.,33,37
+3:10,2325,Amar Stukes Defensive Rebound.,33,37
+2:59,2325,Jordan Price missed Jumper.,33,37
+2:59,46,Marcus Derrickson Defensive Rebound.,33,37
+2:48,46,Foul on Bradley Hayes.,33,37
+2:48,46,Bradley Hayes Turnover.,33,37
+2:35,2325,Jordan Price made Jumper.,35,37
+2:16,2325,Foul on Demetrius Henry.,35,37
+2:16,46,L.J. Peak made Free Throw.,35,38
+2:16,46,L.J. Peak made Free Throw.,35,39
+2:06,2325,Yevgen Sakhniuk made Layup. Assisted by Jordan Price.,37,39
+1:53,2325,Foul on Cleon Roberts.,37,39
+1:53,46,L.J. Peak made Free Throw.,37,40
+1:53,46,L.J. Peak made Free Throw.,37,41
+1:40,2325,Jordan Price missed Jumper.,37,41
+1:40,46,Marcus Derrickson Block.,37,41
+1:40,46,Tre Campbell Defensive Rebound.,37,41
+1:38,2325,Foul on Yevgen Sakhniuk.,37,41
+1:38,46,Tre Campbell made Free Throw.,37,42
+1:38,46,Tre Campbell missed Free Throw.,37,42
+1:38,2325,Yevgen Sakhniuk Defensive Rebound.,37,42
+1:22,46,Foul on Marcus Derrickson.,37,42
+1:22,2325,Jordan Price made Free Throw.,38,42
+1:22,2325,Jordan Price made Free Throw.,39,42
+1:09,46,Jagan Mosely made Three Point Jumper. Assisted by L.J. Peak.,39,45
+0:45,2325,Yevgen Sakhniuk made Layup.,41,45
+0:28,46,L.J. Peak missed Jumper.,41,45
+0:28,2325,Amar Stukes Defensive Rebound.,41,45
+0:14,2325,La Salle  Timeout,41,45
+0:09,2325,Jordan Price missed Jumper.,41,45
+0:09,46,Jagan Mosely Block.,41,45
+0:09,46,L.J. Peak Defensive Rebound.,41,45
+0:01,46,L.J. Peak made Jumper.,41,47
+0:00,46,End of 1st half,41,47
+20:00,2325,Jump Ball won by La Salle,41,47
+19:47,2325,B.J. Johnson missed Jumper.,41,47
+19:47,46,Georgetown Defensive Rebound.,41,47
+19:36,2325,Foul on B.J. Johnson.,41,47
+19:16,46,Rodney Pryor made Three Point Jumper.,41,50
+18:51,2325,B.J. Johnson made Jumper.,43,50
+18:51,46,Foul on Akoy Agau.,43,50
+18:51,2325,B.J. Johnson missed Free Throw.,43,50
+18:51,46,Jessie Govan Defensive Rebound.,43,50
+18:33,46,Jessie Govan made Jumper. Assisted by Jagan Mosely.,43,52
+18:13,2325,B.J. Johnson made Three Point Jumper. Assisted by Amar Stukes.,46,52
+18:02,46,Rodney Pryor made Jumper.,46,54
+18:02,2325,Foul on Amar Stukes.,46,54
+18:02,46,Rodney Pryor made Free Throw.,46,55
+17:47,2325,Jordan Price missed Jumper.,46,55
+17:47,2325,Tony Washington Offensive Rebound.,46,55
+17:47,2325,Jordan Price missed Three Point Jumper.,46,55
+17:30,46,Jessie Govan Defensive Rebound.,46,55
+17:30,46,L.J. Peak missed Jumper.,46,55
+17:30,2325,Jordan Price Defensive Rebound.,46,55
+17:06,46,Jump Ball won by Georgetown,46,55
+17:06,2325,Tony Washington missed Jumper.,46,55
+17:06,46,Jessie Govan Block.,46,55
+17:06,46,Jessie Govan Defensive Rebound.,46,55
+16:46,2325,Foul on Tony Washington.,46,55
+16:46,46,Jagan Mosely made Free Throw.,46,56
+16:46,46,Jagan Mosely missed Free Throw.,46,56
+16:46,2325,Tony Washington Defensive Rebound.,46,56
+16:31,2325,Pookie Powell made Layup.,48,56
+16:31,46,Foul on Jessie Govan.,48,56
+16:31,2325,Pookie Powell missed Free Throw.,48,56
+16:31,46,Marcus Derrickson Defensive Rebound.,48,56
+16:17,46,Foul on L.J. Peak.,48,56
+16:17,46,L.J. Peak Turnover.,48,56
+16:07,2325,B.J. Johnson Turnover.,48,56
+16:07,46,Jagan Mosely Steal.,48,56
+16:05,2325,Foul on Tony Washington.,48,56
+16:02,46,Rodney Pryor missed Three Point Jumper.,48,56
+16:02,2325,La Salle Defensive Rebound.,48,56
+15:56,46,Foul on Marcus Derrickson.,48,56
+15:56,46,Official TV Timeout,48,56
+15:43,2325,Jordan Price made Jumper.,50,56
+15:27,46,Bradley Hayes missed Jumper.,50,56
+15:27,2325,Demetrius Henry Defensive Rebound.,50,56
+15:19,2325,Jordan Price missed Jumper.,50,56
+15:19,46,Marcus Derrickson Defensive Rebound.,50,56
+15:07,46,Rodney Pryor missed Jumper.,50,56
+15:07,46,Bradley Hayes Offensive Rebound.,50,56
+15:07,46,Bradley Hayes missed Two Point Tip Shot.,50,56
+15:07,46,Rodney Pryor Offensive Rebound.,50,56
+15:03,2325,Foul on Demetrius Henry.,50,56
+15:03,46,Rodney Pryor missed Free Throw.,50,56
+15:03,46,Georgetown Deadball Team Rebound.,50,56
+15:03,46,Rodney Pryor made Free Throw.,50,57
+14:42,2325,Demetrius Henry made Layup. Assisted by B.J. Johnson.,52,57
+14:19,46,Jagan Mosely missed Three Point Jumper.,52,57
+14:19,2325,Pookie Powell Defensive Rebound.,52,57
+14:07,2325,Demetrius Henry missed Jumper.,52,57
+14:07,2325,B.J. Johnson Offensive Rebound.,52,57
+14:07,2325,B.J. Johnson missed Two Point Tip Shot.,52,57
+14:07,2325,Pookie Powell Offensive Rebound.,52,57
+14:02,2325,B.J. Johnson missed Three Point Jumper.,52,57
+14:02,46,Georgetown Defensive Rebound.,52,57
+14:00,2325,Foul on Demetrius Henry.,52,57
+13:55,2325,Foul on Amar Stukes.,52,57
+13:55,46,L.J. Peak missed Free Throw.,52,57
+13:55,2325,B.J. Johnson Defensive Rebound.,52,57
+13:37,46,Foul on Akoy Agau.,52,57
+13:37,2325,B.J. Johnson made Free Throw.,53,57
+13:37,2325,B.J. Johnson made Free Throw.,54,57
+13:31,46,Jagan Mosely made Three Point Jumper. Assisted by Akoy Agau.,54,60
+13:07,2325,Johnnie Shuler Turnover.,54,60
+13:07,46,Jagan Mosely Steal.,54,60
+13:04,46,Jagan Mosely Turnover.,54,60
+13:04,2325,Johnnie Shuler Steal.,54,60
+13:00,2325,B.J. Johnson made Jumper.,56,60
+12:38,2325,Foul on Amar Stukes.,56,60
+12:38,46,L.J. Peak made Free Throw.,56,61
+12:38,46,L.J. Peak missed Free Throw.,56,61
+12:38,2325,B.J. Johnson Defensive Rebound.,56,61
+12:14,2325,B.J. Johnson made Three Point Jumper. Assisted by Amar Stukes.,59,61
+11:55,46,Rodney Pryor made Layup.,59,63
+11:40,2325,B.J. Johnson missed Three Point Jumper.,59,63
+11:40,46,Akoy Agau Defensive Rebound.,59,63
+11:17,46,Rodney Pryor missed Three Point Jumper.,59,63
+11:17,2325,B.J. Johnson Defensive Rebound.,59,63
+11:02,2325,Amar Stukes missed Layup.,59,63
+11:02,46,Akoy Agau Block.,59,63
+11:02,2325,Amar Stukes Offensive Rebound.,59,63
+10:56,46,Foul on Rodney Pryor.,59,63
+10:56,46,Official TV Timeout,59,63
+10:56,2325,Johnnie Shuler missed Free Throw.,59,63
+10:56,2325,La Salle Deadball Team Rebound.,59,63
+10:56,2325,Johnnie Shuler made Free Throw.,60,63
+10:32,2325,Foul on Cleon Roberts.,60,63
+10:32,46,L.J. Peak made Free Throw.,60,64
+10:32,46,L.J. Peak made Free Throw.,60,65
+10:22,2325,B.J. Johnson made Jumper. Assisted by Yevgen Sakhniuk.,62,65
+10:07,2325,Foul on Johnnie Shuler.,62,65
+10:07,46,Jessie Govan made Free Throw.,62,66
+10:07,46,Jessie Govan made Free Throw.,62,67
+9:57,2325,Yevgen Sakhniuk made Jumper. Assisted by Jordan Price.,64,67
+9:42,46,Jessie Govan Turnover.,64,67
+9:34,2325,Jump Ball won by La Salle,64,67
+9:19,46,Foul on Tre Campbell.,64,67
+9:19,2325,Jordan Price made Free Throw.,65,67
+9:19,2325,Jordan Price made Free Throw.,66,67
+8:58,46,Rodney Pryor Turnover.,66,67
+8:44,46,Foul on L.J. Peak.,66,67
+8:44,2325,Jordan Price missed Free Throw.,66,67
+8:44,2325,La Salle Deadball Team Rebound.,66,67
+8:44,2325,Jordan Price made Free Throw.,67,67
+8:28,46,Rodney Pryor made Layup.,67,69
+8:07,2325,B.J. Johnson Turnover.,67,69
+8:07,46,Jessie Govan Steal.,67,69
+7:59,2325,Foul on Pookie Powell.,67,69
+7:59,46,Official TV Timeout,67,69
+7:59,46,L.J. Peak made Free Throw.,67,70
+7:59,46,L.J. Peak made Free Throw.,67,71
+7:43,2325,Jordan Price missed Three Point Jumper.,67,71
+7:43,46,L.J. Peak Defensive Rebound.,67,71
+7:26,46,Rodney Pryor missed Jumper.,67,71
+7:26,2325,Pookie Powell Defensive Rebound.,67,71
+7:15,2325,Pookie Powell missed Three Point Jumper.,67,71
+7:15,46,Marcus Derrickson Defensive Rebound.,67,71
+7:00,46,Jagan Mosely made Layup.,67,73
+6:51,2325,La Salle  Timeout,67,73
+6:27,46,Foul on Jessie Govan.,67,73
+6:27,2325,Demetrius Henry missed Free Throw.,67,73
+6:27,2325,La Salle Deadball Team Rebound.,67,73
+6:27,2325,Demetrius Henry made Free Throw.,68,73
+6:18,46,Jessie Govan made Layup. Assisted by L.J. Peak.,68,75
+6:18,2325,Foul on Demetrius Henry.,68,75
+6:18,46,Jessie Govan made Free Throw.,68,76
+6:05,2325,B.J. Johnson missed Jumper.,68,76
+6:05,46,L.J. Peak Block.,68,76
+6:05,46,Georgetown Defensive Rebound.,68,76
+6:03,2325,Foul on Tony Washington.,68,76
+6:03,46,Akoy Agau made Free Throw.,68,77
+6:03,46,Akoy Agau made Free Throw.,68,78
+6:00,2325,La Salle  Timeout,68,78
+5:44,2325,Jordan Price missed Jumper.,68,78
+5:44,46,Marcus Derrickson Defensive Rebound.,68,78
+5:30,46,L.J. Peak missed Layup.,68,78
+5:30,2325,B.J. Johnson Defensive Rebound.,68,78
+5:21,2325,Pookie Powell made Jumper.,70,78
+5:01,46,Marcus Derrickson made Jumper. Assisted by Jagan Mosely.,70,80
+4:44,46,Foul on L.J. Peak.,70,80
+4:44,2325,Cleon Roberts made Free Throw.,71,80
+4:44,2325,Cleon Roberts made Free Throw.,72,80
+4:20,46,L.J. Peak made Jumper. Assisted by Jagan Mosely.,72,82
+4:07,2325,Jordan Price made Layup.,74,82
+4:07,46,Foul on Marcus Derrickson.,74,82
+4:07,2325,Jordan Price made Free Throw.,75,82
+3:48,46,Rodney Pryor made Three Point Jumper. Assisted by Jagan Mosely.,75,85
+3:34,2325,B.J. Johnson missed Three Point Jumper.,75,85
+3:34,46,Rodney Pryor Defensive Rebound.,75,85
+3:20,46,Georgetown  Timeout,75,85
+3:00,46,Jessie Govan missed Layup.,75,85
+3:00,46,Rodney Pryor Offensive Rebound.,75,85
+3:00,46,Rodney Pryor missed Two Point Tip Shot.,75,85
+3:00,2325,Pookie Powell Defensive Rebound.,75,85
+2:48,2325,Foul on B.J. Johnson.,75,85
+2:48,2325,B.J. Johnson Turnover.,75,85
+2:33,2325,Foul on Amar Stukes.,75,85
+2:33,46,Jessie Govan made Free Throw.,75,86
+2:33,46,Jessie Govan made Free Throw.,75,87
+2:26,2325,B.J. Johnson missed Jumper.,75,87
+2:26,46,Rodney Pryor Block.,75,87
+2:26,46,Jessie Govan Defensive Rebound.,75,87
+2:00,46,Jessie Govan missed Jumper.,75,87
+2:00,46,Marcus Derrickson Offensive Rebound.,75,87
+1:53,46,Marcus Derrickson made Layup.,75,89
+1:41,2325,Jordan Price Turnover.,75,89
+1:41,46,Rodney Pryor Steal.,75,89
+1:40,46,L.J. Peak Turnover.,75,89
+1:40,2325,Johnnie Shuler Steal.,75,89
+1:34,2325,Isiah Deas missed Three Point Jumper.,75,89
+1:34,46,Jagan Mosely Defensive Rebound.,75,89
+1:05,2325,Foul on Isiah Deas.,75,89
+1:05,46,Jessie Govan made Free Throw.,75,90
+1:05,46,Jessie Govan made Free Throw.,75,91
+0:53,46,Foul on Rodney Pryor.,75,91
+0:53,2325,Johnnie Shuler missed Free Throw.,75,91
+0:53,2325,La Salle Deadball Team Rebound.,75,91
+0:53,2325,Johnnie Shuler made Free Throw.,76,91
+0:30,46,L.J. Peak made Layup. Assisted by Jessie Govan.,76,93
+0:19,46,Foul on Jagan Mosely.,76,93
+0:19,2325,Hank Davis made Free Throw.,77,93
+0:19,2325,Hank Davis made Free Throw.,78,93
+0:00,46,End of Game,78,93

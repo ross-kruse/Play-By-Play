@@ -1,0 +1,341 @@
+Ohio State,26,UCLA,194
+time,team_id,description,h_score,a_score
+20:00,194,Jump Ball won by Ohio State,0,0
+19:42,194,Jae'Sean Tate missed Jumper.,0,0
+19:42,26,Isaac Hamilton Defensive Rebound.,0,0
+19:35,26,TJ Leaf missed Three Point Jumper.,0,0
+19:35,194,Marc Loving Defensive Rebound.,0,0
+19:20,194,Kam Williams missed Three Point Jumper.,0,0
+19:20,26,Lonzo Ball Defensive Rebound.,0,0
+19:05,26,Bryce Alford missed Jumper.,0,0
+19:05,26,Gyorgy Goloman Offensive Rebound.,0,0
+19:00,194,Foul on Micah Potter.,0,0
+18:57,26,Isaac Hamilton made Jumper. Assisted by Lonzo Ball.,0,2
+18:38,194,Jae'Sean Tate made Layup.,2,2
+18:27,26,Isaac Hamilton missed Jumper.,2,2
+18:27,194,Micah Potter Defensive Rebound.,2,2
+18:13,194,Micah Potter missed Three Point Jumper.,2,2
+18:13,26,Bryce Alford Defensive Rebound.,2,2
+18:02,194,Foul on Marc Loving.,2,2
+18:02,26,Gyorgy Goloman made Free Throw.,2,3
+18:02,26,Gyorgy Goloman made Free Throw.,2,4
+17:45,194,Kam Williams missed Three Point Jumper.,2,4
+17:45,194,Micah Potter Offensive Rebound.,2,4
+17:38,194,Micah Potter missed Layup.,2,4
+17:38,26,Lonzo Ball Defensive Rebound.,2,4
+17:34,26,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.,2,7
+17:18,194,Marc Loving made Jumper. Assisted by Kam Williams.,4,7
+17:02,26,TJ Leaf Turnover.,4,7
+17:02,194,JaQuan Lyle Steal.,4,7
+16:56,194,JaQuan Lyle Turnover.,4,7
+16:56,26,Gyorgy Goloman Steal.,4,7
+16:45,26,TJ Leaf made Jumper. Assisted by Bryce Alford.,4,9
+16:28,194,Marc Loving missed Three Point Jumper.,4,9
+16:28,26,Isaac Hamilton Defensive Rebound.,4,9
+16:10,26,TJ Leaf Turnover.,4,9
+16:10,194,JaQuan Lyle Steal.,4,9
+16:06,26,Foul on Lonzo Ball.,4,9
+16:06,194,JaQuan Lyle made Free Throw.,5,9
+16:06,194,JaQuan Lyle made Free Throw.,6,9
+15:49,26,Lonzo Ball missed Three Point Jumper.,6,9
+15:49,26,Isaac Hamilton Offensive Rebound.,6,9
+15:41,26,Jump Ball won by UCLA,6,9
+15:41,26,Official TV Timeout,6,9
+15:39,26,TJ Leaf missed Layup.,6,9
+15:39,194,Trevor Thompson Defensive Rebound.,6,9
+15:26,194,Jae'Sean Tate made Layup. Assisted by JaQuan Lyle.,8,9
+15:00,26,Isaac Hamilton missed Jumper.,8,9
+15:00,194,Trevor Thompson Defensive Rebound.,8,9
+14:51,194,Keita Bates-Diop missed Jumper.,8,9
+14:51,26,TJ Leaf Defensive Rebound.,8,9
+14:38,26,Lonzo Ball missed Layup.,8,9
+14:38,26,Gyorgy Goloman Offensive Rebound.,8,9
+14:32,26,Bryce Alford made Jumper. Assisted by Gyorgy Goloman.,8,11
+14:15,194,Marc Loving made Three Point Jumper. Assisted by Keita Bates-Diop.,11,11
+14:05,26,Gyorgy Goloman Turnover.,11,11
+14:05,194,Keita Bates-Diop Steal.,11,11
+13:55,194,Marc Loving made Three Point Jumper. Assisted by Jae'Sean Tate.,14,11
+13:19,26,Lonzo Ball made Three Point Jumper. Assisted by Isaac Hamilton.,14,14
+12:51,194,Keita Bates-Diop made Layup.,16,14
+12:44,26,Lonzo Ball missed Three Point Jumper.,16,14
+12:44,26,TJ Leaf Offensive Rebound.,16,14
+12:40,26,TJ Leaf made Layup.,16,16
+12:23,194,Keita Bates-Diop made Jumper. Assisted by Marc Loving.,18,16
+12:06,26,Aaron Holiday Turnover.,18,16
+11:50,194,Kam Williams missed Three Point Jumper.,18,16
+11:50,26,TJ Leaf Defensive Rebound.,18,16
+11:41,26,Aaron Holiday Turnover.,18,16
+11:41,194,Kam Williams Steal.,18,16
+11:36,194,C.J. Jackson made Layup. Assisted by Kam Williams.,20,16
+11:18,26,Isaac Hamilton made Layup.,20,18
+10:46,194,C.J. Jackson missed Three Point Jumper.,20,18
+10:46,26,TJ Leaf Defensive Rebound.,20,18
+10:33,26,Lonzo Ball made Three Point Jumper. Assisted by Aaron Holiday.,20,21
+10:14,194,Kam Williams Turnover.,20,21
+10:14,26,Aaron Holiday Steal.,20,21
+10:06,194,Foul on C.J. Jackson.,20,21
+10:06,26,Official TV Timeout,20,21
+9:58,26,Ike Anigbogu made Jumper.,20,23
+9:32,194,Keita Bates-Diop missed Three Point Jumper.,20,23
+9:32,26,Ike Anigbogu Defensive Rebound.,20,23
+9:25,26,Bryce Alford missed Three Point Jumper.,20,23
+9:25,194,C.J. Jackson Defensive Rebound.,20,23
+9:18,194,Kam Williams made Jumper. Assisted by C.J. Jackson.,22,23
+9:01,26,Foul on Ike Anigbogu.,22,23
+9:01,26,Ike Anigbogu Turnover.,22,23
+8:51,194,Jae'Sean Tate Turnover.,22,23
+8:51,26,Aaron Holiday Steal.,22,23
+8:42,26,Aaron Holiday missed Jumper.,22,23
+8:42,194,Micah Potter Defensive Rebound.,22,23
+8:31,194,Kam Williams Turnover.,22,23
+8:07,26,Aaron Holiday made Jumper.,22,25
+7:50,26,Foul on Aaron Holiday.,22,25
+7:50,26,Official TV Timeout,22,25
+7:46,194,Jae'Sean Tate missed Dunk.,22,25
+7:46,194,Trevor Thompson Offensive Rebound.,22,25
+7:42,194,Trevor Thompson missed Jumper.,22,25
+7:42,26,Ike Anigbogu Defensive Rebound.,22,25
+7:39,26,Bryce Alford missed Three Point Jumper.,22,25
+7:39,194,Keita Bates-Diop Defensive Rebound.,22,25
+7:28,194,Keita Bates-Diop missed Three Point Jumper.,22,25
+7:28,26,Lonzo Ball Defensive Rebound.,22,25
+7:20,26,Lonzo Ball Turnover.,22,25
+7:20,194,Jae'Sean Tate Steal.,22,25
+7:13,194,Jae'Sean Tate made Layup.,24,25
+6:57,26,Aaron Holiday Turnover.,24,25
+6:57,194,Trevor Thompson Steal.,24,25
+6:40,194,Keita Bates-Diop made Layup. Assisted by JaQuan Lyle.,26,25
+6:09,26,Aaron Holiday made Three Point Jumper. Assisted by Isaac Hamilton.,26,28
+5:48,194,Marc Loving made Jumper.,28,28
+5:31,26,Aaron Holiday made Three Point Jumper. Assisted by TJ Leaf.,28,31
+5:14,26,Foul on Aaron Holiday.,28,31
+5:07,194,Jae'Sean Tate missed Layup.,28,31
+5:07,26,Bryce Alford Defensive Rebound.,28,31
+5:02,26,Bryce Alford made Three Point Jumper.,28,34
+4:40,194,Marc Loving Turnover.,28,34
+4:40,26,Aaron Holiday Steal.,28,34
+4:31,26,TJ Leaf Turnover.,28,34
+4:12,194,Jae'Sean Tate made Layup. Assisted by JaQuan Lyle.,30,34
+4:04,194,Foul on Jae'Sean Tate.,30,34
+4:04,26,Aaron Holiday made Free Throw.,30,35
+4:04,26,Aaron Holiday made Free Throw.,30,36
+3:48,194,Trevor Thompson Turnover.,30,36
+3:48,26,TJ Leaf Steal.,30,36
+3:43,26,Aaron Holiday missed Three Point Jumper.,30,36
+3:43,26,Isaac Hamilton Offensive Rebound.,30,36
+3:32,26,Aaron Holiday missed Three Point Jumper.,30,36
+3:32,194,Trevor Thompson Defensive Rebound.,30,36
+3:13,194,JaQuan Lyle Turnover.,30,36
+3:13,26,Aaron Holiday Steal.,30,36
+3:09,26,Isaac Hamilton made Dunk.,30,38
+3:04,194,Ohio State  Timeout,30,38
+3:04,26,Official TV Timeout,30,38
+2:45,194,Keita Bates-Diop Turnover.,30,38
+2:36,26,TJ Leaf made Dunk. Assisted by Lonzo Ball.,30,40
+2:25,194,Jae'Sean Tate made Layup.,32,40
+2:09,26,TJ Leaf missed Three Point Jumper.,32,40
+2:09,194,Trevor Thompson Defensive Rebound.,32,40
+1:49,194,JaQuan Lyle missed Three Point Jumper.,32,40
+1:49,194,Keita Bates-Diop Offensive Rebound.,32,40
+1:46,26,Foul on Isaac Hamilton.,32,40
+1:35,194,Marc Loving made Three Point Jumper. Assisted by Kam Williams.,35,40
+1:20,26,Lonzo Ball Turnover.,35,40
+1:20,194,JaQuan Lyle Steal.,35,40
+1:16,194,Kam Williams made Layup.,37,40
+1:12,26,UCLA  Timeout,37,40
+0:58,26,TJ Leaf Turnover.,37,40
+0:58,194,Kam Williams Steal.,37,40
+0:51,26,Foul on Ike Anigbogu.,37,40
+0:31,194,JaQuan Lyle missed Three Point Jumper.,37,40
+0:31,26,Gyorgy Goloman Defensive Rebound.,37,40
+0:05,194,Foul on JaQuan Lyle.,37,40
+0:03,26,Isaac Hamilton Turnover.,37,40
+0:03,194,Marc Loving Steal.,37,40
+0:01,194,JaQuan Lyle missed Three Point Jumper.,37,40
+0:01,26,UCLA Defensive Rebound.,37,40
+0:00,26,End of 1st half,37,40
+20:00,194,Jump Ball won by Ohio State,37,40
+19:47,194,Jae'Sean Tate missed Layup.,37,40
+19:47,26,Gyorgy Goloman Defensive Rebound.,37,40
+19:41,26,Bryce Alford missed Three Point Jumper.,37,40
+19:41,194,Marc Loving Defensive Rebound.,37,40
+19:20,194,Marc Loving missed Three Point Jumper.,37,40
+19:20,26,TJ Leaf Defensive Rebound.,37,40
+19:09,26,Isaac Hamilton made Jumper. Assisted by Lonzo Ball.,37,42
+18:35,194,Kam Williams missed Three Point Jumper.,37,42
+18:35,26,Lonzo Ball Defensive Rebound.,37,42
+18:28,194,Foul on JaQuan Lyle.,37,42
+18:28,26,Bryce Alford made Free Throw.,37,43
+18:28,26,Bryce Alford made Free Throw.,37,44
+18:21,194,JaQuan Lyle made Three Point Jumper.,40,44
+18:03,26,Isaac Hamilton missed Three Point Jumper.,40,44
+18:03,194,Micah Potter Defensive Rebound.,40,44
+17:58,194,Micah Potter Turnover.,40,44
+17:58,26,TJ Leaf Steal.,40,44
+17:55,26,TJ Leaf made Layup.,40,46
+17:37,194,JaQuan Lyle missed Jumper.,40,46
+17:37,26,TJ Leaf Defensive Rebound.,40,46
+17:33,26,Isaac Hamilton missed Three Point Jumper.,40,46
+17:33,26,Lonzo Ball Offensive Rebound.,40,46
+17:28,26,Bryce Alford missed Three Point Jumper.,40,46
+17:28,26,Isaac Hamilton Offensive Rebound.,40,46
+17:23,194,Foul on Marc Loving.,40,46
+17:20,26,Gyorgy Goloman made Dunk. Assisted by Bryce Alford.,40,48
+17:05,194,Kam Williams missed Jumper.,40,48
+17:05,26,Lonzo Ball Defensive Rebound.,40,48
+16:57,26,TJ Leaf made Three Point Jumper. Assisted by Lonzo Ball.,40,51
+16:48,194,Ohio State  Timeout,40,51
+16:40,194,Trevor Thompson made Dunk. Assisted by Marc Loving.,42,51
+16:22,26,Bryce Alford made Layup.,42,53
+16:00,194,Jae'Sean Tate missed Three Point Jumper.,42,53
+16:00,26,Isaac Hamilton Defensive Rebound.,42,53
+15:57,194,Foul on Keita Bates-Diop.,42,53
+15:57,26,Official TV Timeout,42,53
+15:42,26,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.,42,56
+15:21,194,Jae'Sean Tate made Layup.,44,56
+15:21,26,Foul on Isaac Hamilton.,44,56
+15:21,194,Jae'Sean Tate made Free Throw.,45,56
+15:00,26,Isaac Hamilton missed Three Point Jumper.,45,56
+15:00,194,Trevor Thompson Defensive Rebound.,45,56
+14:48,194,Keita Bates-Diop missed Three Point Jumper.,45,56
+14:48,26,Lonzo Ball Defensive Rebound.,45,56
+14:41,26,Isaac Hamilton made Layup. Assisted by Bryce Alford.,45,58
+14:20,194,Keita Bates-Diop missed Layup.,45,58
+14:20,26,Gyorgy Goloman Block.,45,58
+14:20,26,Lonzo Ball Defensive Rebound.,45,58
+14:14,26,Bryce Alford missed Three Point Jumper.,45,58
+14:14,194,JaQuan Lyle Defensive Rebound.,45,58
+14:07,26,Foul on Lonzo Ball.,45,58
+13:56,194,Marc Loving made Jumper.,47,58
+13:41,26,Aaron Holiday missed Jumper.,47,58
+13:41,194,Jae'Sean Tate Block.,47,58
+13:41,194,Ohio State Defensive Rebound.,47,58
+13:24,194,Keita Bates-Diop made Layup. Assisted by JaQuan Lyle.,49,58
+13:09,26,TJ Leaf missed Jumper.,49,58
+13:09,194,Marc Loving Defensive Rebound.,49,58
+13:01,194,Foul on Trevor Thompson.,49,58
+13:01,194,Trevor Thompson Turnover.,49,58
+12:48,26,Lonzo Ball missed Three Point Jumper.,49,58
+12:48,26,Ike Anigbogu Offensive Rebound.,49,58
+12:43,26,Ike Anigbogu Turnover.,49,58
+12:35,194,Keita Bates-Diop made Jumper. Assisted by Marc Loving.,51,58
+12:11,26,Bryce Alford made Three Point Jumper. Assisted by Ike Anigbogu.,51,61
+11:50,194,Trevor Thompson made Jumper.,53,61
+11:30,26,Bryce Alford Turnover.,53,61
+11:30,194,JaQuan Lyle Steal.,53,61
+11:25,194,JaQuan Lyle Turnover.,53,61
+11:25,26,Lonzo Ball Steal.,53,61
+11:20,26,Bryce Alford missed Three Point Jumper.,53,61
+11:20,194,Keita Bates-Diop Defensive Rebound.,53,61
+11:15,194,Keita Bates-Diop Turnover.,53,61
+11:15,26,Lonzo Ball Steal.,53,61
+11:09,26,TJ Leaf made Layup. Assisted by Lonzo Ball.,53,63
+10:48,26,Foul on Aaron Holiday.,53,63
+10:48,26,Official TV Timeout,53,63
+10:48,194,JaQuan Lyle made Free Throw.,54,63
+10:48,194,JaQuan Lyle missed Free Throw.,54,63
+10:48,26,Ike Anigbogu Defensive Rebound.,54,63
+10:36,26,Ike Anigbogu made Dunk. Assisted by Lonzo Ball.,54,65
+10:08,194,Micah Potter made Layup. Assisted by Keita Bates-Diop.,56,65
+9:51,26,Isaac Hamilton made Layup.,56,67
+9:34,26,Foul on Ike Anigbogu.,56,67
+9:34,194,JaQuan Lyle made Free Throw.,57,67
+9:34,194,JaQuan Lyle made Free Throw.,58,67
+9:18,194,Foul on Marc Loving.,58,67
+9:17,26,Ike Anigbogu missed Layup.,58,67
+9:17,194,Micah Potter Defensive Rebound.,58,67
+9:08,194,Keita Bates-Diop missed Three Point Jumper.,58,67
+9:08,26,Aaron Holiday Defensive Rebound.,58,67
+8:56,26,TJ Leaf missed Three Point Jumper.,58,67
+8:56,194,Micah Potter Defensive Rebound.,58,67
+8:38,194,Kam Williams missed Jumper.,58,67
+8:38,194,Ohio State Offensive Rebound.,58,67
+8:35,194,Keita Bates-Diop made Dunk. Assisted by C.J. Jackson.,60,67
+8:35,26,Foul on Ike Anigbogu.,60,67
+8:35,194,Keita Bates-Diop made Free Throw.,61,67
+8:23,26,Aaron Holiday missed Three Point Jumper.,61,67
+8:23,26,TJ Leaf Offensive Rebound.,61,67
+8:12,26,Aaron Holiday missed Layup.,61,67
+8:12,194,Trevor Thompson Defensive Rebound.,61,67
+8:09,194,Trevor Thompson Turnover.,61,67
+8:09,26,Isaac Hamilton Steal.,61,67
+8:07,26,Isaac Hamilton missed Jumper.,61,67
+8:07,26,Isaac Hamilton Offensive Rebound.,61,67
+8:06,194,Foul on Trevor Thompson.,61,67
+8:01,194,Foul on C.J. Jackson.,61,67
+8:01,26,Aaron Holiday made Free Throw.,61,68
+8:01,26,Aaron Holiday made Free Throw.,61,69
+7:48,194,Keita Bates-Diop Turnover.,61,69
+7:48,26,Lonzo Ball Steal.,61,69
+7:37,194,Foul on Kam Williams.,61,69
+7:37,26,Official TV Timeout,61,69
+7:37,26,Bryce Alford missed Free Throw.,61,69
+7:37,194,Trevor Thompson Defensive Rebound.,61,69
+7:12,194,Jae'Sean Tate made Layup.,63,69
+6:58,26,Lonzo Ball missed Layup.,63,69
+6:58,194,Trevor Thompson Block.,63,69
+6:58,26,Aaron Holiday Offensive Rebound.,63,69
+6:51,194,Foul on Jae'Sean Tate.,63,69
+6:51,26,Aaron Holiday made Free Throw.,63,70
+6:51,26,Aaron Holiday made Free Throw.,63,71
+6:40,194,Kam Williams made Jumper.,65,71
+6:24,26,Isaac Hamilton made Jumper.,65,73
+5:57,194,Foul on Trevor Thompson.,65,73
+5:57,194,Trevor Thompson Turnover.,65,73
+5:47,26,Aaron Holiday made Jumper.,65,75
+5:31,194,Marc Loving made Jumper. Assisted by JaQuan Lyle.,67,75
+5:06,194,Foul on Kam Williams.,67,75
+5:06,26,Aaron Holiday made Free Throw.,67,76
+5:06,26,Aaron Holiday missed Free Throw.,67,76
+5:06,194,Micah Potter Defensive Rebound.,67,76
+4:46,194,Marc Loving missed Three Point Jumper.,67,76
+4:46,26,Lonzo Ball Defensive Rebound.,67,76
+4:22,26,Aaron Holiday made Layup.,67,78
+4:04,194,Kam Williams made Three Point Jumper. Assisted by JaQuan Lyle.,70,78
+3:34,26,Aaron Holiday missed Three Point Jumper.,70,78
+3:34,194,Jae'Sean Tate Defensive Rebound.,70,78
+3:23,194,Ohio State  Timeout,70,78
+3:23,26,Official TV Timeout,70,78
+3:05,194,Marc Loving Turnover.,70,78
+2:33,26,UCLA  Turnover.,70,78
+2:21,194,Kam Williams missed Three Point Jumper.,70,78
+2:21,194,Micah Potter Offensive Rebound.,70,78
+2:16,26,Foul on TJ Leaf.,70,78
+2:16,194,Micah Potter made Free Throw.,71,78
+2:16,194,Micah Potter missed Free Throw.,71,78
+2:16,26,Aaron Holiday Defensive Rebound.,71,78
+1:53,26,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.,71,81
+1:38,194,Marc Loving missed Jumper.,71,81
+1:38,194,Marc Loving Offensive Rebound.,71,81
+1:34,194,Marc Loving Turnover.,71,81
+1:34,26,Aaron Holiday Steal.,71,81
+1:28,26,Lonzo Ball made Dunk. Assisted by Isaac Hamilton.,71,83
+1:20,194,Foul on Jae'Sean Tate.,71,83
+1:20,194,Jae'Sean Tate Turnover.,71,83
+1:20,26,UCLA  Timeout,71,83
+1:17,26,Isaac Hamilton missed Three Point Jumper.,71,83
+1:17,26,Aaron Holiday Offensive Rebound.,71,83
+1:14,194,Foul on Jae'Sean Tate.,71,83
+1:14,26,Aaron Holiday made Free Throw.,71,84
+1:14,26,Aaron Holiday missed Free Throw.,71,84
+1:14,194,Marc Loving Defensive Rebound.,71,84
+1:02,194,JaQuan Lyle missed Jumper.,71,84
+1:02,26,TJ Leaf Defensive Rebound.,71,84
+0:58,194,Foul on JaQuan Lyle.,71,84
+0:58,26,TJ Leaf missed Free Throw.,71,84
+0:58,26,UCLA Deadball Team Rebound.,71,84
+0:58,26,TJ Leaf missed Free Throw.,71,84
+0:58,194,Marc Loving Defensive Rebound.,71,84
+0:48,26,Foul on Aaron Holiday.,71,84
+0:48,194,Marc Loving made Free Throw.,72,84
+0:48,194,Marc Loving made Free Throw.,73,84
+0:45,194,Foul on Keita Bates-Diop.,73,84
+0:45,26,Bryce Alford made Free Throw.,73,85
+0:45,26,Bryce Alford made Free Throw.,73,86
+0:39,194,JaQuan Lyle missed Three Point Jumper.,73,86
+0:39,26,Isaac Hamilton Defensive Rebound.,73,86
+0:09,26,Bryce Alford missed Three Point Jumper.,73,86
+0:09,194,Jae'Sean Tate Defensive Rebound.,73,86
+0:01,194,Jae'Sean Tate missed Jumper.,73,86
+0:01,26,UCLA Defensive Rebound.,73,86
+0:00,26,End of Game,73,86
