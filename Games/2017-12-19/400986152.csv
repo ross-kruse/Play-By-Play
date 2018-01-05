@@ -1,0 +1,319 @@
+Dartmouth,87,Notre Dame,159
+time,team_id,description,h_score,a_score
+19:42,159,Taylor Johnson made Jumper. Assisted by Miles Wright.,2,0
+19:17,87,Matt Farrell made Three Point Jumper. Assisted by Bonzie Colson.,2,3
+18:52,159,Taylor Johnson Turnover.,2,3
+18:28,159,Foul on Taylor Johnson.,2,3
+18:28,87,Martinas Geben made Free Throw.,2,4
+18:28,87,Martinas Geben missed Free Throw.,2,4
+18:28,159,Brendan Barry Defensive Rebound.,2,4
+18:13,159,Miles Wright missed Three Point Jumper.,2,4
+18:13,87,Bonzie Colson Defensive Rebound.,2,4
+17:57,87,Martinas Geben Turnover.,2,4
+17:56,159,Brendan Barry Steal.,2,4
+17:52,159,Miles Wright made Three Point Jumper. Assisted by Brendan Barry.,5,4
+17:31,159,Foul on Miles Wright.,5,4
+17:31,87,Martinas Geben made Free Throw.,5,5
+17:31,87,Martinas Geben made Free Throw.,5,6
+17:15,159,Aaryn Rai missed Jumper.,5,6
+17:15,87,Martinas Geben Defensive Rebound.,5,6
+16:54,87,Martinas Geben Turnover.,5,6
+16:52,159,Taylor Johnson Steal.,5,6
+16:48,159,Taylor Johnson Turnover.,5,6
+16:35,87,Matt Farrell missed Three Point Jumper.,5,6
+16:35,159,Brendan Barry Defensive Rebound.,5,6
+16:14,159,Aaryn Rai missed Three Point Jumper.,5,6
+16:14,87,Rex Pflueger Defensive Rebound.,5,6
+15:53,87,Bonzie Colson made Layup. Assisted by Matt Farrell.,5,8
+15:53,159,Foul on Miles Wright.,5,8
+15:53,87,Official TV Timeout,5,8
+15:53,87,Bonzie Colson missed Free Throw.,5,8
+15:53,159,Brendan Barry Defensive Rebound.,5,8
+15:41,159,Taylor Johnson missed Three Point Jumper.,5,8
+15:41,87,John Mooney Defensive Rebound.,5,8
+15:23,87,Bonzie Colson made Jumper. Assisted by John Mooney.,5,10
+15:03,87,Foul on John Mooney.,5,10
+15:03,159,Will Emery made Free Throw.,6,10
+15:03,159,Will Emery missed Free Throw.,6,10
+15:03,87,Bonzie Colson Defensive Rebound.,6,10
+14:52,87,TJ Gibbs missed Jumper.,6,10
+14:52,87,Bonzie Colson Offensive Rebound.,6,10
+14:49,87,Bonzie Colson made Layup.,6,12
+14:38,159,Will Emery made Jumper. Assisted by Brendan Barry.,8,12
+14:30,87,Bonzie Colson missed Layup.,8,12
+14:30,159,Taylor Johnson Defensive Rebound.,8,12
+14:14,159,Ian Sistare made Three Point Jumper. Assisted by Taylor Johnson.,11,12
+13:57,87,Matt Farrell Turnover.,11,12
+13:32,159,James Foye missed Three Point Jumper.,11,12
+13:32,87,Elijah Burns Defensive Rebound.,11,12
+13:13,87,Elijah Burns Turnover.,11,12
+13:03,159,James Foye missed Three Point Jumper.,11,12
+13:03,87,Elijah Burns Defensive Rebound.,11,12
+12:51,87,Rex Pflueger missed Jumper.,11,12
+12:51,159,Ian Sistare Defensive Rebound.,11,12
+12:48,87,Foul on John Mooney.,11,12
+12:25,159,Chris Knight missed Jumper.,11,12
+12:25,87,Martinas Geben Defensive Rebound.,11,12
+12:24,159,Foul on Adrease Jackson.,11,12
+12:07,87,Matt Farrell Turnover.,11,12
+12:05,159,James Foye Steal.,11,12
+11:56,159,Adrease Jackson made Three Point Jumper. Assisted by Isaac Letoa.,14,12
+11:39,87,Rex Pflueger made Layup. Assisted by D.J. Harvey.,14,14
+11:20,159,Ian Sistare Turnover.,14,14
+11:20,87,Official TV Timeout,14,14
+11:11,159,Foul on Adrease Jackson.,14,14
+11:07,87,Martinas Geben Turnover.,14,14
+11:06,159,Taylor Johnson Steal.,14,14
+10:43,159,Chris Knight made Jumper. Assisted by Taylor Johnson.,16,14
+10:25,87,D.J. Harvey missed Three Point Jumper.,16,14
+10:25,87,D.J. Harvey Offensive Rebound.,16,14
+10:14,87,Rex Pflueger missed Three Point Jumper.,16,14
+10:14,159,Taylor Johnson Defensive Rebound.,16,14
+10:12,87,Foul on D.J. Harvey.,16,14
+10:02,159,Foul on Will Emery.,16,14
+10:02,159,Will Emery Turnover.,16,14
+9:47,87,D.J. Harvey missed Three Point Jumper.,16,14
+9:47,159,Taylor Johnson Defensive Rebound.,16,14
+9:42,159,Taylor Johnson Turnover.,16,14
+9:41,87,D.J. Harvey Steal.,16,14
+9:41,87,D.J. Harvey made Jumper.,16,16
+9:41,159,Foul on James Foye.,16,16
+9:41,87,D.J. Harvey made Free Throw.,16,17
+9:18,159,Brendan Barry missed Three Point Jumper.,16,17
+9:18,87,Bonzie Colson Defensive Rebound.,16,17
+9:08,159,Foul on Taylor Johnson.,16,17
+9:08,87,TJ Gibbs made Free Throw.,16,18
+9:08,87,TJ Gibbs made Free Throw.,16,19
+8:53,159,Will Emery Turnover.,16,19
+8:52,87,TJ Gibbs Steal.,16,19
+8:49,87,D.J. Harvey missed Jumper.,16,19
+8:49,159,Aaryn Rai Defensive Rebound.,16,19
+8:42,87,Foul on D.J. Harvey.,16,19
+8:42,159,James Foye made Free Throw.,17,19
+8:42,159,James Foye made Free Throw.,18,19
+8:20,87,Matt Farrell missed Jumper.,18,19
+8:20,159,Ian Sistare Defensive Rebound.,18,19
+8:04,159,Isaac Letoa Turnover.,18,19
+7:57,87,Matt Farrell made Layup.,18,21
+7:57,159,Foul on Will Emery.,18,21
+7:57,87,Official TV Timeout,18,21
+7:57,87,Matt Farrell made Free Throw.,18,22
+7:44,159,Chris Knight missed Jumper.,18,22
+7:44,87,Bonzie Colson Block.,18,22
+7:41,87,Bonzie Colson Defensive Rebound.,18,22
+7:37,87,TJ Gibbs missed Three Point Jumper.,18,22
+7:37,159,Chris Knight Defensive Rebound.,18,22
+7:30,159,Brendan Barry made Three Point Jumper.,21,22
+7:18,87,Matt Farrell made Jumper.,21,24
+6:48,87,Foul on Nikola Djogo.,21,24
+6:48,159,Brendan Barry made Free Throw.,22,24
+6:48,159,Brendan Barry made Free Throw.,23,24
+6:22,87,Matt Farrell made Layup.,23,26
+6:09,159,Brendan Barry missed Three Point Jumper.,23,26
+6:09,87,Bonzie Colson Defensive Rebound.,23,26
+5:41,87,TJ Gibbs missed Three Point Jumper.,23,26
+5:41,159,Isaac Letoa Defensive Rebound.,23,26
+5:31,159,Ian Sistare made Three Point Jumper. Assisted by Isaac Letoa.,26,26
+5:14,87,Bonzie Colson missed Jumper.,26,26
+5:14,87,Rex Pflueger Offensive Rebound.,26,26
+5:10,87,Rex Pflueger made Two Point Tip Shot.,26,28
+4:48,159,Aaryn Rai made Three Point Jumper. Assisted by Brendan Barry.,29,28
+4:32,159,Foul on Aaryn Rai.,29,28
+4:32,87,TJ Gibbs made Free Throw.,29,29
+4:32,87,TJ Gibbs made Free Throw.,29,30
+4:14,159,Aaryn Rai missed Jumper.,29,30
+4:14,87,Martinas Geben Defensive Rebound.,29,30
+4:08,87,Matt Farrell made Three Point Jumper.,29,33
+3:48,159,Aaryn Rai made Layup.,31,33
+3:41,87,TJ Gibbs Turnover.,31,33
+3:41,87,Official TV Timeout,31,33
+3:13,159,Chris Knight made Layup.,33,33
+2:55,87,Bonzie Colson made Three Point Jumper. Assisted by Matt Farrell.,33,36
+2:26,159,Aaryn Rai missed Jumper.,33,36
+2:26,87,Bonzie Colson Defensive Rebound.,33,36
+2:05,87,Bonzie Colson made Three Point Jumper. Assisted by TJ Gibbs.,33,39
+1:55,159,Dartmouth  Timeout,33,39
+1:41,159,Isaac Letoa missed Layup.,33,39
+1:41,87,Bonzie Colson Block.,33,39
+1:36,87,Matt Farrell Defensive Rebound.,33,39
+1:34,87,Matt Farrell missed Three Point Jumper.,33,39
+1:34,87,Rex Pflueger Offensive Rebound.,33,39
+1:32,87,Rex Pflueger made Jumper.,33,41
+1:32,159,Foul on Isaac Letoa.,33,41
+1:32,87,Rex Pflueger made Free Throw.,33,42
+1:20,159,Chris Knight Turnover.,33,42
+1:19,87,TJ Gibbs Steal.,33,42
+1:16,87,D.J. Harvey Turnover.,33,42
+1:12,159,James Foye Steal.,33,42
+1:12,159,Ian Sistare Turnover.,33,42
+1:12,87,D.J. Harvey Steal.,33,42
+1:04,87,Bonzie Colson made Jumper.,33,44
+0:41,159,Aaryn Rai made Three Point Jumper. Assisted by Brendan Barry.,36,44
+0:19,87,Bonzie Colson made Jumper.,36,46
+0:02,159,Aaryn Rai made Three Point Jumper. Assisted by Brendan Barry.,39,46
+0:00,87,End of 1st half,39,46
+19:53,87,Bonzie Colson made Layup. Assisted by Matt Farrell.,39,48
+19:36,159,Will Emery made Layup. Assisted by Brendan Barry.,41,48
+19:36,87,Foul on Bonzie Colson.,41,48
+19:36,159,Will Emery made Free Throw.,42,48
+19:19,159,Foul on Miles Wright.,42,48
+19:17,87,TJ Gibbs Turnover.,42,48
+19:16,159,Taylor Johnson Steal.,42,48
+18:56,159,Miles Wright missed Jumper.,42,48
+18:56,159,Will Emery Offensive Rebound.,42,48
+18:51,159,Will Emery missed Layup.,42,48
+18:51,159,Aaryn Rai Offensive Rebound.,42,48
+18:48,159,Aaryn Rai missed Layup.,42,48
+18:48,159,Will Emery Offensive Rebound.,42,48
+18:44,159,Will Emery missed Two Point Tip Shot.,42,48
+18:44,87,D.J. Harvey Defensive Rebound.,42,48
+18:39,87,TJ Gibbs missed Three Point Jumper.,42,48
+18:39,159,Brendan Barry Defensive Rebound.,42,48
+18:32,159,Taylor Johnson missed Three Point Jumper.,42,48
+18:32,87,D.J. Harvey Defensive Rebound.,42,48
+18:22,159,Foul on Aaryn Rai.,42,48
+18:17,87,Matt Farrell Turnover.,42,48
+18:16,159,Aaryn Rai Steal.,42,48
+18:06,159,Will Emery Turnover.,42,48
+18:06,87,Matt Farrell Steal.,42,48
+17:54,87,Bonzie Colson made Jumper.,42,50
+17:35,159,Will Emery made Jumper.,44,50
+17:35,87,Foul on D.J. Harvey.,44,50
+17:35,159,Will Emery missed Free Throw.,44,50
+17:35,87,D.J. Harvey Defensive Rebound.,44,50
+17:20,87,Rex Pflueger missed Three Point Jumper.,44,50
+17:20,159,Brendan Barry Defensive Rebound.,44,50
+17:13,159,Miles Wright missed Three Point Jumper.,44,50
+17:13,87,Bonzie Colson Defensive Rebound.,44,50
+17:03,87,TJ Gibbs made Layup.,44,52
+16:48,159,Aaryn Rai Turnover.,44,52
+16:38,87,Bonzie Colson missed Three Point Jumper.,44,52
+16:38,159,Will Emery Defensive Rebound.,44,52
+16:27,159,Aaryn Rai missed Three Point Jumper.,44,52
+16:27,87,Rex Pflueger Defensive Rebound.,44,52
+16:13,159,Foul on Will Emery.,44,52
+16:13,87,Matt Farrell missed Free Throw.,44,52
+16:13,87,Notre Dame Deadball Team Rebound.,44,52
+16:13,87,Matt Farrell made Free Throw.,44,53
+16:00,159,Miles Wright missed Jumper.,44,53
+16:00,159,Chris Knight Offensive Rebound.,44,53
+15:55,159,Chris Knight made Layup.,46,53
+15:34,87,Bonzie Colson made Layup. Assisted by TJ Gibbs.,46,55
+15:11,159,Chris Knight Turnover.,46,55
+15:10,87,Matt Farrell Steal.,46,55
+15:07,87,Rex Pflueger made Dunk. Assisted by Matt Farrell.,46,57
+14:58,159,Dartmouth  Timeout,46,57
+14:40,159,Taylor Johnson Turnover.,46,57
+14:38,87,Bonzie Colson Steal.,46,57
+14:28,87,Martinas Geben made Jumper.,46,59
+14:08,159,Brendan Barry missed Three Point Jumper.,46,59
+14:08,87,Bonzie Colson Defensive Rebound.,46,59
+13:54,87,Bonzie Colson made Dunk. Assisted by Martinas Geben.,46,61
+13:40,159,Chris Knight made Jumper. Assisted by Brendan Barry.,48,61
+13:24,87,Matt Farrell Turnover.,48,61
+13:23,159,Taylor Johnson Steal.,48,61
+13:19,159,Taylor Johnson made Layup.,50,61
+13:15,87,Martinas Geben Turnover.,50,61
+13:14,159,Miles Wright Steal.,50,61
+13:12,159,Taylor Johnson missed Three Point Jumper.,50,61
+13:12,87,Martinas Geben Defensive Rebound.,50,61
+12:47,87,Bonzie Colson made Jumper. Assisted by Matt Farrell.,50,63
+12:23,159,Taylor Johnson Turnover.,50,63
+12:21,87,Matt Farrell Steal.,50,63
+12:15,87,TJ Gibbs made Three Point Jumper. Assisted by Rex Pflueger.,50,66
+12:06,159,Dartmouth  Timeout,50,66
+11:51,87,Foul on Martinas Geben.,50,66
+11:51,87,Official TV Timeout,50,66
+11:51,159,Will Emery made Free Throw.,51,66
+11:51,159,Will Emery made Free Throw.,52,66
+11:25,87,TJ Gibbs missed Jumper.,52,66
+11:25,87,Martinas Geben Offensive Rebound.,52,66
+11:22,159,Foul on Aaryn Rai.,52,66
+11:22,87,Martinas Geben made Free Throw.,52,67
+11:22,87,Martinas Geben made Free Throw.,52,68
+11:04,159,Miles Wright made Three Point Jumper. Assisted by Ian Sistare.,55,68
+10:42,87,Martinas Geben made Dunk.,55,70
+10:25,159,Miles Wright made Three Point Jumper. Assisted by Brendan Barry.,58,70
+10:05,87,Matt Farrell made Three Point Jumper. Assisted by Martinas Geben.,58,73
+9:54,159,Brendan Barry made Three Point Jumper.,61,73
+9:46,87,Bonzie Colson made Layup. Assisted by Matt Farrell.,61,75
+9:30,159,Will Emery missed Layup.,61,75
+9:30,87,Martinas Geben Defensive Rebound.,61,75
+9:19,87,Rex Pflueger made Jumper.,61,77
+9:06,159,Will Emery made Layup. Assisted by Brendan Barry.,63,77
+8:59,87,TJ Gibbs missed Layup.,63,77
+8:59,159,Ian Sistare Block.,63,77
+8:56,159,Ian Sistare Defensive Rebound.,63,77
+8:50,159,Brendan Barry missed Jumper.,63,77
+8:50,87,Martinas Geben Block.,63,77
+8:50,159,Dartmouth Offensive Rebound.,63,77
+8:50,87,Notre Dame  Timeout,63,77
+8:44,159,Chris Knight made Jumper. Assisted by Ian Sistare.,65,77
+8:27,87,D.J. Harvey missed Three Point Jumper.,65,77
+8:27,159,Ian Sistare Defensive Rebound.,65,77
+8:11,159,Adrease Jackson missed Three Point Jumper.,65,77
+8:11,87,TJ Gibbs Defensive Rebound.,65,77
+8:00,87,Matt Farrell missed Jumper.,65,77
+8:00,159,Miles Wright Defensive Rebound.,65,77
+7:49,159,Chris Knight made Jumper. Assisted by Ian Sistare.,67,77
+7:27,87,Bonzie Colson missed Jumper.,67,77
+7:27,159,Chris Knight Defensive Rebound.,67,77
+7:21,159,Miles Wright made Three Point Jumper. Assisted by Brendan Barry.,70,77
+7:13,87,Notre Dame  Timeout,70,77
+6:50,87,Rex Pflueger missed Jumper.,70,77
+6:50,87,Martinas Geben Offensive Rebound.,70,77
+6:48,159,Foul on Chris Knight.,70,77
+6:37,87,Matt Farrell made Three Point Jumper.,70,80
+6:15,159,Chris Knight made Jumper. Assisted by Miles Wright.,72,80
+5:55,87,Martinas Geben Turnover.,72,80
+5:54,159,Miles Wright Steal.,72,80
+5:44,159,Adrease Jackson made Jumper. Assisted by Ian Sistare.,74,80
+5:16,159,Foul on Adrease Jackson.,74,80
+5:16,87,Bonzie Colson made Free Throw.,74,81
+5:16,87,Bonzie Colson made Free Throw.,74,82
+4:55,159,Miles Wright made Three Point Jumper. Assisted by Brendan Barry.,77,82
+4:39,87,Matt Farrell Turnover.,77,82
+4:38,159,Adrease Jackson Steal.,77,82
+4:36,159,Adrease Jackson made Dunk. Assisted by Chris Knight.,79,82
+4:18,87,Bonzie Colson made Three Point Jumper. Assisted by TJ Gibbs.,79,85
+4:02,159,Brendan Barry Turnover.,79,85
+4:01,87,Bonzie Colson Steal.,79,85
+4:00,87,Bonzie Colson made Dunk.,79,87
+3:35,159,Adrease Jackson Turnover.,79,87
+3:35,87,Bonzie Colson Steal.,79,87
+3:35,87,Official TV Timeout,79,87
+3:06,87,Bonzie Colson missed Three Point Jumper.,79,87
+3:06,159,Will Emery Defensive Rebound.,79,87
+2:45,159,Brendan Barry made Layup.,81,87
+2:31,87,Matt Farrell made Jumper.,81,89
+2:12,159,Miles Wright missed Three Point Jumper.,81,89
+2:12,159,Will Emery Offensive Rebound.,81,89
+2:09,87,Foul on Matt Farrell.,81,89
+1:57,87,Foul on Rex Pflueger.,81,89
+1:56,159,Miles Wright missed Jumper.,81,89
+1:56,87,Rex Pflueger Defensive Rebound.,81,89
+1:34,87,Bonzie Colson missed Jumper.,81,89
+1:34,87,Bonzie Colson Offensive Rebound.,81,89
+1:14,87,Matt Farrell missed Layup.,81,89
+1:14,87,Martinas Geben Offensive Rebound.,81,89
+1:11,87,Martinas Geben made Dunk.,81,91
+0:44,159,Miles Wright missed Three Point Jumper.,81,91
+0:44,87,Martinas Geben Defensive Rebound.,81,91
+0:41,159,Foul on Chris Knight.,81,91
+0:41,87,Martinas Geben made Free Throw.,81,92
+0:41,87,Martinas Geben made Free Throw.,81,93
+0:37,159,Brendan Barry missed Three Point Jumper.,81,93
+0:37,87,Rex Pflueger Defensive Rebound.,81,93
+0:35,159,Foul on Ian Sistare.,81,93
+0:35,87,Rex Pflueger made Free Throw.,81,94
+0:35,87,Rex Pflueger made Free Throw.,81,95
+0:27,159,Aaryn Rai made Three Point Jumper. Assisted by Brendan Barry.,84,95
+0:26,159,Dartmouth  Timeout,84,95
+0:24,87,Matt Farrell Turnover.,84,95
+0:22,159,Brendan Barry missed Three Point Jumper.,84,95
+0:22,87,Bonzie Colson Defensive Rebound.,84,95
+0:19,159,Foul on Ian Sistare.,84,95
+0:19,87,Bonzie Colson made Free Throw.,84,96
+0:19,87,Bonzie Colson made Free Throw.,84,97
+0:12,159,Ian Sistare made Three Point Jumper. Assisted by Aaryn Rai.,87,97
+0:00,87,End of Game,87,97

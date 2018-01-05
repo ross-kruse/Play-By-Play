@@ -1,0 +1,334 @@
+Howard,44,American,47
+time,team_id,description,h_score,a_score
+19:45,47,Charles Williams missed Jumper.,0,0
+19:45,44,Sam Iorio Defensive Rebound.,0,0
+19:27,44,Larry Motuzis made Three Point Jumper. Assisted by Cheikh Diallo.,0,3
+18:57,47,RJ Cole Turnover.,0,3
+18:56,44,Cheikh Diallo Steal.,0,3
+18:42,44,Sa'eed Nelson Turnover.,0,3
+18:16,47,RJ Cole made Layup.,2,3
+17:54,44,Sa'eed Nelson made Three Point Jumper.,2,6
+17:39,47,Charles Williams missed Jumper.,2,6
+17:39,44,Matt Cimino Defensive Rebound.,2,6
+17:24,44,Sa'eed Nelson made Three Point Jumper.,2,9
+17:05,47,Charles Williams made Jumper.,4,9
+16:46,44,Cheikh Diallo Turnover.,4,9
+16:46,47,RJ Cole Steal.,4,9
+16:39,47,Cameron Lewis made Layup. Assisted by RJ Cole.,6,9
+16:16,47,Foul on Cameron Lewis.,6,9
+16:13,44,Larry Motuzis missed Three Point Jumper.,6,9
+16:13,47,Charles Williams Defensive Rebound.,6,9
+15:52,47,Charles Williams missed Jumper.,6,9
+15:52,44,Sam Iorio Defensive Rebound.,6,9
+15:46,44,Sam Iorio Turnover.,6,9
+15:46,44,Official TV Timeout,6,9
+15:35,47,Nate Garvey made Three Point Jumper.,9,9
+15:20,44,Sam Iorio Turnover.,9,9
+15:08,47,Charles Williams missed Jumper.,9,9
+15:08,44,Larry Motuzis Defensive Rebound.,9,9
+14:54,44,Cheikh Diallo missed Three Point Jumper.,9,9
+14:53,44,Sa'eed Nelson Offensive Rebound.,9,9
+14:52,47,Foul on Charles Williams.,9,9
+14:35,44,Larry Motuzis missed Three Point Jumper.,9,9
+14:35,47,Jalen Jones Defensive Rebound.,9,9
+14:24,47,Marcus Hall made Layup. Assisted by RJ Cole.,11,9
+14:00,44,Sa'eed Nelson made Jumper.,11,11
+13:50,47,RJ Cole missed Three Point Jumper.,11,11
+13:50,44,Sam Iorio Defensive Rebound.,11,11
+13:35,44,Sa'eed Nelson missed Three Point Jumper.,11,11
+13:35,47,Charles Williams Defensive Rebound.,11,11
+13:20,47,Jalen Jones Turnover.,11,11
+13:20,44,Sa'eed Nelson Steal.,11,11
+12:58,44,Foul on Nick Macarchuk.,11,11
+12:58,44,Nick Macarchuk Turnover.,11,11
+12:40,47,Jalen Jones made Layup. Assisted by RJ Cole.,13,11
+12:09,44,Larry Motuzis missed Layup.,13,11
+12:09,47,Jalen Jones Block.,13,11
+12:07,47,Kyle Foster Defensive Rebound.,13,11
+11:59,47,Nate Garvey missed Three Point Jumper.,13,11
+11:59,47,Howard Offensive Rebound.,13,11
+11:56,44,Official TV Timeout,13,11
+11:52,47,Charles Williams made Jumper.,15,11
+11:36,44,James Washington missed Layup.,15,11
+11:36,47,Zion Cousins Defensive Rebound.,15,11
+11:29,47,Charles Williams missed Three Point Jumper.,15,11
+11:29,47,Zion Cousins Offensive Rebound.,15,11
+11:23,47,Zion Cousins made Two Point Tip Shot.,17,11
+11:05,44,Sam Iorio missed Three Point Jumper.,17,11
+11:05,47,Zion Cousins Defensive Rebound.,17,11
+10:51,47,Kyle Foster made Three Point Jumper. Assisted by RJ Cole.,20,11
+10:25,44,Larry Motuzis missed Three Point Jumper.,20,11
+10:25,47,Charles Williams Defensive Rebound.,20,11
+10:19,47,Charles Williams made Layup.,22,11
+10:11,44,American  Timeout,22,11
+9:46,44,Foul on Sa'eed Nelson.,22,11
+9:46,44,Sa'eed Nelson Turnover.,22,11
+9:29,47,Jalen Jones made Layup. Assisted by RJ Cole.,24,11
+9:06,47,Foul on Kyle Foster.,24,11
+9:06,44,Larry Motuzis made Free Throw.,24,12
+9:06,44,Larry Motuzis made Free Throw.,24,13
+8:51,47,RJ Cole Turnover.,24,13
+8:35,44,Sa'eed Nelson missed Layup.,24,13
+8:35,47,Howard Defensive Rebound.,24,13
+8:14,47,RJ Cole missed Three Point Jumper.,24,13
+8:14,44,Drew LaMont Defensive Rebound.,24,13
+8:04,44,Sam Iorio missed Three Point Jumper.,24,13
+8:04,44,Nick Macarchuk Offensive Rebound.,24,13
+7:52,44,Nick Macarchuk missed Jumper.,24,13
+7:52,47,Jalen Jones Block.,24,13
+7:51,44,Sam Iorio Offensive Rebound.,24,13
+7:36,44,Larry Motuzis missed Jumper.,24,13
+7:36,47,Zion Cousins Defensive Rebound.,24,13
+7:23,47,Zion Cousins missed Jumper.,24,13
+7:23,44,Larry Motuzis Defensive Rebound.,24,13
+7:04,44,Nick Macarchuk Turnover.,24,13
+7:03,47,RJ Cole Steal.,24,13
+7:00,47,RJ Cole missed Layup.,24,13
+7:00,44,Larry Motuzis Defensive Rebound.,24,13
+6:53,44,Sa'eed Nelson made Layup.,24,15
+6:52,47,Foul on Dalique Mingo.,24,15
+6:52,44,Official TV Timeout,24,15
+6:52,44,Sa'eed Nelson made Free Throw.,24,16
+6:32,47,Charles Williams missed Jumper.,24,16
+6:32,44,American Defensive Rebound.,24,16
+6:13,44,Drew LaMont missed Three Point Jumper.,24,16
+6:13,47,Zion Cousins Defensive Rebound.,24,16
+6:03,44,Foul on Drew LaMont.,24,16
+6:03,47,Charles Williams made Free Throw.,25,16
+6:03,47,Charles Williams missed Free Throw.,25,16
+6:03,44,Larry Motuzis Defensive Rebound.,25,16
+5:53,44,Matt Cimino made Layup. Assisted by Sa'eed Nelson.,25,18
+5:41,47,RJ Cole missed Layup.,25,18
+5:41,44,Drew LaMont Defensive Rebound.,25,18
+5:34,44,Sa'eed Nelson missed Layup.,25,18
+5:34,47,Charles Williams Defensive Rebound.,25,18
+5:24,44,Foul on Drew LaMont.,25,18
+5:24,47,Dalique Mingo made Free Throw.,26,18
+5:24,47,Dalique Mingo made Free Throw.,27,18
+5:12,44,Cheikh Diallo Turnover.,27,18
+4:51,47,RJ Cole missed Layup.,27,18
+4:51,44,Matt Cimino Block.,27,18
+4:50,44,Matt Cimino Defensive Rebound.,27,18
+4:43,44,Matt Cimino missed Three Point Jumper.,27,18
+4:43,44,Sam Iorio Offensive Rebound.,27,18
+4:16,44,Sa'eed Nelson missed Three Point Jumper.,27,18
+4:16,47,Dalique Mingo Defensive Rebound.,27,18
+4:11,47,Dalique Mingo Turnover.,27,18
+3:48,47,Foul on Zion Cousins.,27,18
+3:48,44,Official TV Timeout,27,18
+3:48,44,Larry Motuzis made Free Throw.,27,19
+3:48,44,Larry Motuzis made Free Throw.,27,20
+3:31,47,Zion Cousins missed Jumper.,27,20
+3:31,44,Matt Cimino Defensive Rebound.,27,20
+3:14,44,Sam Iorio made Layup.,27,22
+3:14,47,Foul on Dalique Mingo.,27,22
+3:14,44,Sam Iorio made Free Throw.,27,23
+3:03,47,Charles Williams made Jumper.,29,23
+2:40,44,Sam Iorio missed Jumper.,29,23
+2:40,44,Matt Cimino Offensive Rebound.,29,23
+2:34,44,Matt Cimino Turnover.,29,23
+2:33,47,Nate Garvey Steal.,29,23
+2:30,47,RJ Cole missed Three Point Jumper.,29,23
+2:30,47,Jalen Jones Offensive Rebound.,29,23
+2:22,47,Nate Garvey missed Three Point Jumper.,29,23
+2:22,44,Matt Cimino Defensive Rebound.,29,23
+2:15,44,Sa'eed Nelson made Layup. Assisted by Cheikh Diallo.,29,25
+1:45,47,RJ Cole Turnover.,29,25
+1:44,44,Cheikh Diallo Steal.,29,25
+1:37,47,Foul on Jalen Jones.,29,25
+1:37,44,Sa'eed Nelson made Free Throw.,29,26
+1:37,44,Sa'eed Nelson made Free Throw.,29,27
+1:22,47,Charles Williams Turnover.,29,27
+1:21,44,Larry Motuzis Steal.,29,27
+1:20,47,Foul on RJ Cole.,29,27
+1:20,44,Larry Motuzis made Free Throw.,29,28
+1:20,44,Larry Motuzis made Free Throw.,29,29
+1:05,47,Charles Williams missed Jumper.,29,29
+1:05,44,Matt Cimino Defensive Rebound.,29,29
+0:47,44,Cheikh Diallo missed Three Point Jumper.,29,29
+0:47,47,Nate Garvey Defensive Rebound.,29,29
+0:32,47,RJ Cole Turnover.,29,29
+0:31,44,Sa'eed Nelson Steal.,29,29
+0:25,44,Sa'eed Nelson made Layup.,29,31
+0:24,47,Howard  Timeout,29,31
+0:03,47,RJ Cole Turnover.,29,31
+0:02,44,Sa'eed Nelson Steal.,29,31
+0:00,44,End of 1st half,29,31
+19:43,47,RJ Cole missed Jumper.,29,31
+19:43,44,Larry Motuzis Defensive Rebound.,29,31
+19:15,44,Sam Iorio missed Three Point Jumper.,29,31
+19:15,47,Zion Cousins Defensive Rebound.,29,31
+19:06,47,Dalique Mingo made Dunk.,31,31
+19:06,44,Foul on Sam Iorio.,31,31
+19:06,47,Dalique Mingo made Free Throw.,32,31
+18:35,44,Larry Motuzis made Three Point Jumper.,32,34
+18:34,47,Foul on Zion Cousins.,32,34
+18:34,44,Larry Motuzis made Free Throw.,32,35
+18:16,47,Charles Williams missed Three Point Jumper.,32,35
+18:16,44,American Defensive Rebound.,32,35
+17:59,47,Foul on Dalique Mingo.,32,35
+17:59,47,Foul on Kyle Foster.,32,35
+17:46,44,Matt Cimino missed Three Point Jumper.,32,35
+17:46,47,RJ Cole Defensive Rebound.,32,35
+17:39,44,Foul on Larry Motuzis.,32,35
+17:39,47,RJ Cole made Free Throw.,33,35
+17:39,47,RJ Cole made Free Throw.,34,35
+17:24,44,Larry Motuzis missed Three Point Jumper.,34,35
+17:24,47,RJ Cole Defensive Rebound.,34,35
+17:16,47,Jalen Jones Turnover.,34,35
+17:02,44,Larry Motuzis made Layup. Assisted by Matt Cimino.,34,37
+17:02,47,Foul on RJ Cole.,34,37
+17:02,44,Larry Motuzis made Free Throw.,34,38
+16:48,47,Charles Williams missed Jumper.,34,38
+16:48,44,American Defensive Rebound.,34,38
+16:41,47,Foul on Kyle Foster.,34,38
+16:30,44,Sa'eed Nelson Turnover.,34,38
+16:13,44,Foul on Larry Motuzis.,34,38
+15:58,47,Charles Williams Turnover.,34,38
+15:58,44,Official TV Timeout,34,38
+15:38,44,Larry Motuzis made Layup.,34,40
+15:10,47,Foul on RJ Cole.,34,40
+15:10,47,RJ Cole Turnover.,34,40
+14:55,47,Foul on Nate Garvey.,34,40
+14:55,44,Larry Motuzis made Free Throw.,34,41
+14:55,44,Larry Motuzis missed Free Throw.,34,41
+14:55,47,Nate Garvey Defensive Rebound.,34,41
+14:44,47,Charles Williams missed Jumper.,34,41
+14:44,44,Sa'eed Nelson Defensive Rebound.,34,41
+14:33,44,Sa'eed Nelson Turnover.,34,41
+14:33,47,Jalen Jones Steal.,34,41
+14:29,47,Charles Williams made Dunk. Assisted by Dalique Mingo.,36,41
+13:56,44,Sam Iorio Turnover.,36,41
+13:37,47,Kyle Foster missed Jumper.,36,41
+13:37,44,Larry Motuzis Defensive Rebound.,36,41
+13:12,44,Sam Iorio made Three Point Jumper. Assisted by Matt Cimino.,36,44
+12:59,47,Dalique Mingo Turnover.,36,44
+12:58,44,Larry Motuzis Steal.,36,44
+12:56,47,Foul on Kyle Foster.,36,44
+12:56,44,Larry Motuzis missed Free Throw.,36,44
+12:56,47,Dalique Mingo Defensive Rebound.,36,44
+12:52,47,Nate Garvey missed Three Point Jumper.,36,44
+12:52,44,Sa'eed Nelson Defensive Rebound.,36,44
+12:45,44,Larry Motuzis made Layup. Assisted by Sa'eed Nelson.,36,46
+12:23,44,Foul on Larry Motuzis.,36,46
+12:09,47,RJ Cole missed Layup.,36,46
+12:09,47,Nate Garvey Offensive Rebound.,36,46
+12:05,47,Nate Garvey made Jumper.,38,46
+11:29,44,American  Turnover.,38,46
+11:29,44,Official TV Timeout,38,46
+11:05,47,Charles Williams missed Jumper.,38,46
+11:05,44,Sa'eed Nelson Defensive Rebound.,38,46
+10:57,44,Cheikh Diallo made Layup. Assisted by Sa'eed Nelson.,38,48
+10:48,47,RJ Cole missed Jumper.,38,48
+10:48,44,Sa'eed Nelson Block.,38,48
+10:45,47,Zion Cousins Offensive Rebound.,38,48
+10:39,47,Nate Garvey missed Three Point Jumper.,38,48
+10:39,44,Drew LaMont Defensive Rebound.,38,48
+10:19,44,Sam Iorio made Layup. Assisted by Sa'eed Nelson.,38,50
+10:08,47,RJ Cole missed Layup.,38,50
+10:08,47,Zion Cousins Offensive Rebound.,38,50
+10:04,47,Zion Cousins made Layup.,40,50
+9:44,44,Drew LaMont missed Jumper.,40,50
+9:44,47,Nate Garvey Block.,40,50
+9:41,44,Matt Cimino Offensive Rebound.,40,50
+9:39,44,Sam Iorio missed Jumper.,40,50
+9:39,44,Sam Iorio Offensive Rebound.,40,50
+9:35,44,Sam Iorio missed Two Point Tip Shot.,40,50
+9:35,47,Jalen Jones Defensive Rebound.,40,50
+9:28,47,Zion Cousins missed Jumper.,40,50
+9:28,44,Drew LaMont Defensive Rebound.,40,50
+9:17,44,Cheikh Diallo missed Three Point Jumper.,40,50
+9:17,47,RJ Cole Defensive Rebound.,40,50
+9:10,47,Charles Williams missed Layup.,40,50
+9:10,47,RJ Cole Offensive Rebound.,40,50
+9:08,44,Foul on Cheikh Diallo.,40,50
+8:54,47,Charles Williams made Layup.,42,50
+8:46,44,American  Timeout,42,50
+8:46,44,Official TV Timeout,42,50
+8:35,44,Sa'eed Nelson made Jumper. Assisted by Larry Motuzis.,42,52
+8:10,47,Charles Williams Turnover.,42,52
+8:09,44,Larry Motuzis Steal.,42,52
+8:07,44,Larry Motuzis made Layup.,42,54
+7:50,47,RJ Cole made Layup.,44,54
+7:50,44,Foul on Sa'eed Nelson.,44,54
+7:50,47,RJ Cole missed Free Throw.,44,54
+7:50,44,Sam Iorio Defensive Rebound.,44,54
+7:25,44,Cheikh Diallo Turnover.,44,54
+7:24,47,Charles Williams Steal.,44,54
+7:18,47,Charles Williams made Jumper.,46,54
+7:02,44,Larry Motuzis missed Three Point Jumper.,46,54
+7:02,47,RJ Cole Defensive Rebound.,46,54
+6:53,44,Foul on Sa'eed Nelson.,46,54
+6:53,47,RJ Cole made Free Throw.,47,54
+6:53,47,RJ Cole made Free Throw.,48,54
+6:29,44,Drew LaMont made Three Point Jumper. Assisted by Sa'eed Nelson.,48,57
+6:16,47,RJ Cole missed Layup.,48,57
+6:16,44,Drew LaMont Block.,48,57
+6:15,44,Larry Motuzis Defensive Rebound.,48,57
+6:06,44,Larry Motuzis made Layup.,48,59
+5:52,47,Zion Cousins made Layup. Assisted by Kyle Foster.,50,59
+5:51,47,Howard  Timeout,50,59
+5:35,44,Drew LaMont missed Three Point Jumper.,50,59
+5:35,47,Zion Cousins Defensive Rebound.,50,59
+5:29,44,Foul on Larry Motuzis.,50,59
+5:29,47,RJ Cole made Free Throw.,51,59
+5:29,47,RJ Cole made Free Throw.,52,59
+5:03,44,Matt Cimino made Jumper. Assisted by Sam Iorio.,52,61
+4:54,47,RJ Cole made Three Point Jumper.,55,61
+4:40,44,Sa'eed Nelson missed Layup.,55,61
+4:40,44,Matt Cimino Offensive Rebound.,55,61
+4:37,44,Matt Cimino missed Two Point Tip Shot.,55,61
+4:37,44,American Offensive Rebound.,55,61
+4:28,47,Foul on Zion Cousins.,55,61
+4:28,44,Sa'eed Nelson made Free Throw.,55,62
+4:28,44,Sa'eed Nelson made Free Throw.,55,63
+4:15,47,RJ Cole missed Layup.,55,63
+4:15,44,Matt Cimino Block.,55,63
+4:14,44,Cheikh Diallo Defensive Rebound.,55,63
+3:45,44,Drew LaMont made Three Point Jumper. Assisted by Sa'eed Nelson.,55,66
+3:25,47,RJ Cole missed Layup.,55,66
+3:25,47,Zion Cousins Offensive Rebound.,55,66
+3:19,47,Jalen Jones missed Layup.,55,66
+3:19,44,Matt Cimino Defensive Rebound.,55,66
+3:11,44,Drew LaMont missed Three Point Jumper.,55,66
+3:11,47,Charles Williams Defensive Rebound.,55,66
+3:00,47,Kyle Foster missed Three Point Jumper.,55,66
+3:00,44,Sam Iorio Defensive Rebound.,55,66
+2:35,44,Cheikh Diallo Turnover.,55,66
+2:35,44,Official TV Timeout,55,66
+2:25,47,Charles Williams made Three Point Jumper. Assisted by Nate Garvey.,58,66
+2:23,47,Howard  Timeout,58,66
+2:12,44,Larry Motuzis missed Layup.,58,66
+2:12,47,Jalen Jones Block.,58,66
+2:12,44,Larry Motuzis Offensive Rebound.,58,66
+2:11,47,Foul on RJ Cole.,58,66
+2:11,44,Larry Motuzis missed Free Throw.,58,66
+2:11,44,American Deadball Team Rebound.,58,66
+2:11,44,Larry Motuzis missed Free Throw.,58,66
+2:11,47,Jalen Jones Defensive Rebound.,58,66
+1:55,47,Charles Williams missed Jumper.,58,66
+1:55,44,Matt Cimino Defensive Rebound.,58,66
+1:27,47,Foul on Zion Cousins.,58,66
+1:27,44,Drew LaMont made Free Throw.,58,67
+1:27,44,Drew LaMont made Free Throw.,58,68
+1:19,47,RJ Cole made Layup.,60,68
+1:18,44,Foul on Drew LaMont.,60,68
+1:18,47,RJ Cole missed Free Throw.,60,68
+1:18,44,Sam Iorio Defensive Rebound.,60,68
+1:00,44,Larry Motuzis made Layup.,60,70
+1:00,47,Foul on Jalen Jones.,60,70
+1:00,44,Larry Motuzis made Free Throw.,60,71
+0:51,47,Zion Cousins missed Layup.,60,71
+0:51,44,Sam Iorio Defensive Rebound.,60,71
+0:49,47,Foul on RJ Cole.,60,71
+0:49,44,Sam Iorio made Free Throw.,60,72
+0:49,44,Sam Iorio made Free Throw.,60,73
+0:42,47,Kyle Foster made Three Point Jumper. Assisted by Dalique Mingo.,63,73
+0:42,47,Howard  Timeout,63,73
+0:37,47,Foul on Dalique Mingo.,63,73
+0:37,44,Larry Motuzis made Free Throw.,63,74
+0:37,44,Larry Motuzis missed Free Throw.,63,74
+0:37,47,Jalen Jones Defensive Rebound.,63,74
+0:30,47,Charles Williams missed Three Point Jumper.,63,74
+0:30,44,Sam Iorio Defensive Rebound.,63,74
+0:00,44,End of Game,63,74

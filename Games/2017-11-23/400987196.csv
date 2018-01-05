@@ -1,0 +1,345 @@
+Florida,24,Stanford,57
+time,team_id,description,h_score,a_score
+20:00,24,Jump Ball won by Stanford,0,0
+19:50,24,Oscar da Silva missed Layup.,0,0
+19:50,57,Jalen Hudson Defensive Rebound.,0,0
+19:42,57,Jalen Hudson made Three Point Jumper. Assisted by Chris Chiozza.,3,0
+19:29,24,Reid Travis missed Jumper.,3,0
+19:29,57,Keith Stone Defensive Rebound.,3,0
+19:19,57,KeVaughn Allen missed Three Point Jumper.,3,0
+19:19,24,Daejon Davis Defensive Rebound.,3,0
+19:07,57,Foul on Keith Stone.,3,0
+19:07,24,Reid Travis missed Free Throw.,3,0
+19:07,24,Stanford Deadball Team Rebound.,3,0
+19:07,24,Reid Travis made Free Throw.,3,1
+18:51,57,Chris Chiozza made Layup.,5,1
+18:25,24,Reid Travis Turnover.,5,1
+18:25,57,Keith Stone Steal.,5,1
+18:21,57,Egor Koulechov made Three Point Jumper. Assisted by Chris Chiozza.,8,1
+18:03,24,Michael Humphrey made Dunk. Assisted by Daejon Davis.,8,3
+17:51,57,Egor Koulechov made Three Point Jumper.,11,3
+17:30,24,Reid Travis made Layup.,11,5
+17:14,24,Foul on Oscar da Silva.,11,5
+17:14,57,Keith Stone missed Free Throw.,11,5
+17:14,57,Florida Deadball Team Rebound.,11,5
+17:14,57,Keith Stone made Free Throw.,12,5
+17:14,57,Keith Stone made Free Throw.,13,5
+17:03,24,Reid Travis missed Jumper.,13,5
+17:03,57,Jalen Hudson Block.,13,5
+17:03,57,KeVaughn Allen Defensive Rebound.,13,5
+16:53,57,Jalen Hudson made Three Point Jumper. Assisted by Chris Chiozza.,16,5
+16:37,57,Foul on Jalen Hudson.,16,5
+16:37,24,Michael Humphrey made Free Throw.,16,6
+16:37,24,Michael Humphrey made Free Throw.,16,7
+16:26,57,Jalen Hudson missed Three Point Jumper.,16,7
+16:26,24,Reid Travis Defensive Rebound.,16,7
+16:00,24,Daejon Davis Turnover.,16,7
+16:00,57,Chris Chiozza Steal.,16,7
+15:55,57,Egor Koulechov made Layup. Assisted by Chris Chiozza.,18,7
+15:40,24,Reid Travis missed Three Point Jumper.,18,7
+15:40,57,Florida Defensive Rebound.,18,7
+15:38,24,Foul on Michael Humphrey.,18,7
+15:38,24,Official TV Timeout,18,7
+15:18,57,Chris Chiozza Turnover.,18,7
+15:18,24,Robert Cartwright Steal.,18,7
+15:13,24,Robert Cartwright made Layup.,18,9
+14:52,57,Jalen Hudson made Three Point Jumper.,21,9
+14:52,24,Foul on Robert Cartwright.,21,9
+14:52,57,Jalen Hudson made Free Throw.,22,9
+14:31,24,Michael Humphrey made Jumper.,22,11
+14:18,24,Foul on Michael Humphrey.,22,11
+14:13,57,Keith Stone missed Jumper.,22,11
+14:13,24,Oscar da Silva Defensive Rebound.,22,11
+14:04,24,Daejon Davis made Jumper.,22,13
+14:04,57,Foul on Chris Chiozza.,22,13
+14:04,24,Daejon Davis made Free Throw.,22,14
+13:51,57,Keith Stone missed Jumper.,22,14
+13:51,24,Josh Sharma Defensive Rebound.,22,14
+13:23,24,Robert Cartwright made Three Point Jumper. Assisted by Daejon Davis.,22,17
+13:11,24,Foul on Robert Cartwright.,22,17
+12:57,57,Deaundrae Ballard made Jumper. Assisted by KeVaughn Allen.,24,17
+12:41,24,Isaac White missed Three Point Jumper.,24,17
+12:41,57,Gorjok Gak Defensive Rebound.,24,17
+12:31,57,Jalen Hudson made Jumper.,26,17
+12:07,24,Kodye Pugh Turnover.,26,17
+12:07,57,Keith Stone Steal.,26,17
+12:05,24,Foul on Oscar da Silva.,26,17
+12:00,57,Egor Koulechov made Three Point Jumper. Assisted by Deaundrae Ballard.,29,17
+11:45,24,Josh Sharma missed Jumper.,29,17
+11:45,57,KeVaughn Allen Defensive Rebound.,29,17
+11:34,57,Deaundrae Ballard missed Three Point Jumper.,29,17
+11:34,24,Reid Travis Defensive Rebound.,29,17
+11:19,24,Isaac White missed Jumper.,29,17
+11:19,57,Keith Stone Defensive Rebound.,29,17
+11:09,57,Foul on Deaundrae Ballard.,29,17
+11:09,57,Deaundrae Ballard Turnover.,29,17
+11:09,24,Official TV Timeout,29,17
+10:43,24,Reid Travis made Dunk.,29,19
+10:24,57,Jalen Hudson made Three Point Jumper. Assisted by Chris Chiozza.,32,19
+9:59,24,Daejon Davis made Layup.,32,21
+9:48,24,Foul on Josh Sharma.,32,21
+9:48,57,Jalen Hudson made Free Throw.,33,21
+9:48,57,Jalen Hudson made Free Throw.,34,21
+9:36,24,Foul on Reid Travis.,34,21
+9:36,24,Reid Travis Turnover.,34,21
+9:17,57,Egor Koulechov missed Jumper.,34,21
+9:17,24,Kodye Pugh Defensive Rebound.,34,21
+8:59,24,Reid Travis Turnover.,34,21
+8:59,57,Chris Chiozza Steal.,34,21
+8:53,57,Mike Okauru made Layup. Assisted by Chris Chiozza.,36,21
+8:18,24,Reid Travis missed Jumper.,36,21
+8:18,24,Daejon Davis Offensive Rebound.,36,21
+8:11,24,Daejon Davis Turnover.,36,21
+8:11,57,Egor Koulechov Steal.,36,21
+8:06,57,Keith Stone made Three Point Jumper. Assisted by Egor Koulechov.,39,21
+7:48,24,Josh Sharma missed Jumper.,39,21
+7:48,24,Josh Sharma Offensive Rebound.,39,21
+7:42,24,Josh Sharma made Layup.,39,23
+7:26,57,Mike Okauru made Three Point Jumper. Assisted by Keith Stone.,42,23
+7:08,57,Foul on Egor Koulechov.,42,23
+7:08,24,Official TV Timeout,42,23
+7:08,24,Reid Travis made Free Throw.,42,24
+7:08,24,Reid Travis made Free Throw.,42,25
+6:56,57,Egor Koulechov missed Jumper.,42,25
+6:56,24,Josh Sharma Defensive Rebound.,42,25
+6:49,24,Reid Travis made Dunk. Assisted by Daejon Davis.,42,27
+6:47,57,Florida  Timeout,42,27
+6:42,57,Mike Okauru made Three Point Jumper. Assisted by KeVaughn Allen.,45,27
+6:06,24,Reid Travis missed Layup.,45,27
+6:06,57,Jalen Hudson Defensive Rebound.,45,27
+5:52,57,Gorjok Gak missed Layup.,45,27
+5:52,24,Robert Cartwright Defensive Rebound.,45,27
+5:41,24,Daejon Davis made Layup.,45,29
+5:21,57,Jalen Hudson Turnover.,45,29
+5:21,24,Oscar da Silva Steal.,45,29
+5:08,24,Robert Cartwright missed Three Point Jumper.,45,29
+5:08,24,Stanford Offensive Rebound.,45,29
+4:59,24,Oscar da Silva missed Three Point Jumper.,45,29
+4:59,57,Egor Koulechov Defensive Rebound.,45,29
+4:46,57,Jalen Hudson missed Three Point Jumper.,45,29
+4:46,57,KeVaughn Allen Offensive Rebound.,45,29
+4:40,57,Chris Chiozza made Three Point Jumper. Assisted by KeVaughn Allen.,48,29
+4:18,57,Foul on Gorjok Gak.,48,29
+4:10,24,Foul on Daejon Davis.,48,29
+4:10,24,Daejon Davis Turnover.,48,29
+3:57,57,Egor Koulechov made Three Point Jumper. Assisted by Chris Chiozza.,51,29
+3:38,24,Oscar da Silva Turnover.,51,29
+3:38,57,KeVaughn Allen Steal.,51,29
+3:33,57,KeVaughn Allen missed Dunk.,51,29
+3:33,24,Oscar da Silva Defensive Rebound.,51,29
+3:22,24,Michael Humphrey made Dunk. Assisted by Daejon Davis.,51,31
+3:06,57,Egor Koulechov missed Jumper.,51,31
+3:06,24,Oscar da Silva Defensive Rebound.,51,31
+2:45,24,Oscar da Silva missed Three Point Jumper.,51,31
+2:45,57,Chris Chiozza Defensive Rebound.,51,31
+2:37,57,Chris Chiozza made Layup.,53,31
+2:18,24,Robert Cartwright made Layup.,53,33
+2:11,57,Egor Koulechov made Three Point Jumper. Assisted by Chris Chiozza.,56,33
+1:51,24,Robert Cartwright Turnover.,56,33
+1:51,57,Chris Chiozza Steal.,56,33
+1:47,57,Chris Chiozza made Layup.,58,33
+1:43,24,Stanford  Timeout,58,33
+1:27,57,Foul on KeVaughn Allen.,58,33
+1:27,24,Blake Pagon missed Free Throw.,58,33
+1:27,57,Chris Chiozza Defensive Rebound.,58,33
+1:13,57,Chris Chiozza missed Three Point Jumper.,58,33
+1:13,24,Michael Humphrey Defensive Rebound.,58,33
+0:57,24,Reid Travis made Jumper. Assisted by Daejon Davis.,58,35
+0:57,57,Foul on Dontay Bassett.,58,35
+0:57,24,Reid Travis made Free Throw.,58,36
+0:46,57,Foul on KeVaughn Allen.,58,36
+0:46,57,KeVaughn Allen Turnover.,58,36
+0:38,24,Isaac White made Three Point Jumper. Assisted by Daejon Davis.,58,39
+0:01,57,Florida  Turnover.,58,39
+0:00,24,End of 1st half,58,39
+20:00,57,Jump Ball won by Florida,58,39
+19:45,57,Egor Koulechov made Layup.,60,39
+19:30,24,Reid Travis made Layup.,60,41
+19:14,57,Keith Stone missed Layup.,60,41
+19:14,24,Michael Humphrey Block.,60,41
+19:14,57,Florida Offensive Rebound.,60,41
+19:11,57,Jalen Hudson missed Three Point Jumper.,60,41
+19:11,24,Isaac White Defensive Rebound.,60,41
+19:00,24,Michael Humphrey Turnover.,60,41
+19:00,57,Jalen Hudson Steal.,60,41
+18:57,57,Egor Koulechov made Layup. Assisted by Jalen Hudson.,62,41
+18:36,24,Isaac White missed Three Point Jumper.,62,41
+18:36,57,KeVaughn Allen Block.,62,41
+18:36,57,Egor Koulechov Defensive Rebound.,62,41
+18:30,24,Foul on Blake Pagon.,62,41
+18:18,24,Foul on Daejon Davis.,62,41
+18:18,57,KeVaughn Allen made Free Throw.,63,41
+18:18,57,KeVaughn Allen made Free Throw.,64,41
+18:05,57,Foul on KeVaughn Allen.,64,41
+18:05,24,Reid Travis made Free Throw.,64,42
+18:05,24,Reid Travis made Free Throw.,64,43
+18:00,57,Jalen Hudson missed Jumper.,64,43
+18:00,24,Daejon Davis Defensive Rebound.,64,43
+17:53,24,Michael Humphrey Turnover.,64,43
+17:53,57,KeVaughn Allen Steal.,64,43
+17:47,57,Egor Koulechov missed Layup.,64,43
+17:47,24,Oscar da Silva Defensive Rebound.,64,43
+17:39,57,Foul on Gorjok Gak.,64,43
+17:38,24,Robert Cartwright made Three Point Jumper. Assisted by Daejon Davis.,64,46
+17:18,57,Egor Koulechov made Layup. Assisted by Chris Chiozza.,66,46
+16:49,24,Oscar da Silva Turnover.,66,46
+16:33,24,Foul on Josh Sharma.,66,46
+16:31,57,Deaundrae Ballard made Jumper. Assisted by Chris Chiozza.,68,46
+16:31,24,Foul on Reid Travis.,68,46
+16:31,57,Deaundrae Ballard made Free Throw.,69,46
+16:22,57,Foul on Egor Koulechov.,69,46
+16:22,24,Reid Travis made Free Throw.,69,47
+16:22,24,Reid Travis made Free Throw.,69,48
+16:11,57,Chris Chiozza Turnover.,69,48
+16:11,24,Reid Travis Steal.,69,48
+16:04,24,Daejon Davis made Layup.,69,50
+15:43,57,KeVaughn Allen made Jumper.,71,50
+15:30,24,Daejon Davis Turnover.,71,50
+15:30,57,Chris Chiozza Steal.,71,50
+15:24,57,Deaundrae Ballard made Layup. Assisted by Chris Chiozza.,73,50
+15:24,24,Foul on Michael Humphrey.,73,50
+15:24,24,Official TV Timeout,73,50
+15:24,57,Deaundrae Ballard missed Free Throw.,73,50
+15:24,24,Robert Cartwright Defensive Rebound.,73,50
+15:08,57,Foul on Dontay Bassett.,73,50
+15:08,24,Michael Humphrey made Free Throw.,73,51
+15:08,24,Michael Humphrey made Free Throw.,73,52
+14:54,24,Foul on Oscar da Silva.,73,52
+14:53,57,Deaundrae Ballard made Layup. Assisted by KeVaughn Allen.,75,52
+14:24,24,Michael Humphrey missed Jumper.,75,52
+14:24,24,Stanford Offensive Rebound.,75,52
+14:11,24,Kodye Pugh made Dunk. Assisted by Robert Cartwright.,75,54
+13:47,57,Deaundrae Ballard missed Jumper.,75,54
+13:47,57,Dontay Bassett Offensive Rebound.,75,54
+13:47,57,Dontay Bassett made Dunk.,77,54
+13:26,57,Foul on Deaundrae Ballard.,77,54
+13:15,24,Reid Travis Turnover.,77,54
+13:05,57,KeVaughn Allen made Three Point Jumper.,80,54
+12:52,24,Robert Cartwright Turnover.,80,54
+12:52,57,KeVaughn Allen Steal.,80,54
+12:44,24,Foul on Michael Humphrey.,80,54
+12:44,57,KeVaughn Allen made Free Throw.,81,54
+12:44,57,KeVaughn Allen made Free Throw.,82,54
+12:33,24,Isaac White missed Three Point Jumper.,82,54
+12:33,57,Keith Stone Defensive Rebound.,82,54
+12:19,57,Keith Stone missed Jumper.,82,54
+12:19,24,Josh Sharma Defensive Rebound.,82,54
+11:50,57,Foul on Mike Okauru.,82,54
+11:50,24,Official TV Timeout,82,54
+11:50,24,Isaac White made Free Throw.,82,55
+11:50,24,Isaac White made Free Throw.,82,56
+11:37,57,Mike Okauru missed Three Point Jumper.,82,56
+11:37,57,Chris Chiozza Offensive Rebound.,82,56
+11:09,24,Foul on Josh Sharma.,82,56
+11:09,57,Chris Chiozza made Free Throw.,83,56
+11:09,57,Chris Chiozza made Free Throw.,84,56
+10:54,24,Daejon Davis Turnover.,84,56
+10:54,57,Chase Johnson Steal.,84,56
+10:54,24,Foul on Josh Sharma.,84,56
+10:54,57,Chase Johnson made Free Throw.,85,56
+10:54,57,Chase Johnson made Free Throw.,86,56
+10:37,57,Foul on Jalen Hudson.,86,56
+10:37,24,Oscar da Silva made Free Throw.,86,57
+10:37,24,Oscar da Silva made Free Throw.,86,58
+10:26,57,Mike Okauru made Layup.,88,58
+10:14,24,Daejon Davis missed Layup.,88,58
+10:14,57,Chase Johnson Defensive Rebound.,88,58
+9:43,57,Chris Chiozza made Three Point Jumper. Assisted by Dontay Bassett.,91,58
+9:31,24,Stanford  Timeout,91,58
+9:07,24,Isaac White missed Three Point Jumper.,91,58
+9:07,57,KeVaughn Allen Defensive Rebound.,91,58
+8:59,57,Mike Okauru made Layup. Assisted by Egor Koulechov.,93,58
+8:44,24,Robert Cartwright missed Three Point Jumper.,93,58
+8:44,57,Florida Defensive Rebound.,93,58
+8:27,57,Egor Koulechov made Layup.,95,58
+8:27,24,Foul on Blake Pagon.,95,58
+8:27,57,Egor Koulechov made Free Throw.,96,58
+8:17,24,Reid Travis made Three Point Jumper. Assisted by Oscar da Silva.,96,61
+7:55,57,Keith Stone missed Jumper.,96,61
+7:55,24,Isaac White Defensive Rebound.,96,61
+7:48,24,Robert Cartwright made Layup. Assisted by Isaac White.,96,63
+7:31,57,Keith Stone missed Layup.,96,63
+7:31,24,Reid Travis Defensive Rebound.,96,63
+7:20,24,Foul on Reid Travis.,96,63
+7:20,24,Reid Travis Turnover.,96,63
+7:20,24,Official TV Timeout,96,63
+6:52,57,Foul on Gorjok Gak.,96,63
+6:52,57,Gorjok Gak Turnover.,96,63
+6:44,24,Robert Cartwright missed Layup.,96,63
+6:44,57,Gorjok Gak Defensive Rebound.,96,63
+6:31,57,Foul on Dontay Bassett.,96,63
+6:31,57,Dontay Bassett Turnover.,96,63
+6:18,57,Foul on Dontay Bassett.,96,63
+6:18,24,Josh Sharma made Free Throw.,96,64
+6:18,24,Josh Sharma missed Free Throw.,96,64
+6:18,57,Dontay Bassett Defensive Rebound.,96,64
+6:12,24,Foul on Daejon Davis.,96,64
+6:12,57,Mike Okauru made Free Throw.,97,64
+6:12,57,Mike Okauru missed Free Throw.,97,64
+6:12,24,Reid Travis Defensive Rebound.,97,64
+6:00,24,Josh Sharma made Three Point Jumper. Assisted by Reid Travis.,97,67
+5:33,57,Chase Johnson made Layup. Assisted by Mike Okauru.,99,67
+5:23,24,Daejon Davis Turnover.,99,67
+5:23,57,Dontay Bassett Steal.,99,67
+5:09,57,Deaundrae Ballard missed Jumper.,99,67
+5:09,24,Reid Travis Defensive Rebound.,99,67
+5:00,57,Foul on Dontay Bassett.,99,67
+5:00,24,Reid Travis made Free Throw.,99,68
+5:00,24,Reid Travis made Free Throw.,99,69
+4:47,57,Mike Okauru made Jumper.,101,69
+4:31,24,Reid Travis missed Three Point Jumper.,101,69
+4:31,57,Mike Okauru Defensive Rebound.,101,69
+4:24,57,Deaundrae Ballard made Jumper.,103,69
+4:03,24,Isaac White missed Layup.,103,69
+4:03,57,Chase Johnson Block.,103,69
+4:03,57,Florida Defensive Rebound.,103,69
+3:50,57,Deaundrae Ballard made Jumper.,105,69
+3:35,57,Foul on Gorjok Gak.,105,69
+3:35,24,Official TV Timeout,105,69
+3:35,24,Kodye Pugh missed Free Throw.,105,69
+3:35,24,Stanford Deadball Team Rebound.,105,69
+3:35,24,Kodye Pugh made Free Throw.,105,70
+3:23,57,Chase Johnson missed Jumper.,105,70
+3:23,24,Oscar da Silva Block.,105,70
+3:23,24,Josh Sharma Defensive Rebound.,105,70
+3:16,24,Josh Sharma made Three Point Jumper. Assisted by Robert Cartwright.,105,73
+2:58,57,Deaundrae Ballard missed Jumper.,105,73
+2:58,24,Josh Sharma Defensive Rebound.,105,73
+2:52,57,Foul on Deaundrae Ballard.,105,73
+2:52,24,Josh Sharma missed Free Throw.,105,73
+2:52,24,Stanford Deadball Team Rebound.,105,73
+2:52,24,Josh Sharma missed Free Throw.,105,73
+2:52,24,Oscar da Silva Offensive Rebound.,105,73
+2:52,24,Oscar da Silva made Dunk. Assisted by Blake Pagon.,105,75
+2:32,57,Mike Okauru Turnover.,105,75
+2:32,24,Robert Cartwright Steal.,105,75
+2:22,24,Oscar da Silva made Three Point Jumper. Assisted by Robert Cartwright.,105,78
+2:11,24,Foul on Oscar da Silva.,105,78
+2:11,57,Mak Krause missed Free Throw.,105,78
+2:11,57,Florida Deadball Team Rebound.,105,78
+2:11,57,Mak Krause made Free Throw.,106,78
+2:02,24,Trevor Stanback made Dunk. Assisted by Robert Cartwright.,106,80
+1:49,57,Deaundrae Ballard Turnover.,106,80
+1:49,24,Robert Cartwright Steal.,106,80
+1:44,24,Robert Cartwright made Layup.,106,82
+1:44,57,Foul on Deaundrae Ballard.,106,82
+1:44,24,Robert Cartwright made Free Throw.,106,83
+1:21,57,Chase Johnson missed Jumper.,106,83
+1:21,57,Florida Offensive Rebound.,106,83
+1:17,57,Mak Krause made Layup. Assisted by Mike Okauru.,108,83
+1:03,24,Robert Cartwright missed Layup.,108,83
+1:03,57,Mike Okauru Block.,108,83
+1:03,57,Mike Okauru Defensive Rebound.,108,83
+0:53,57,Andrew Fava Turnover.,108,83
+0:53,24,Trevor Stanback Steal.,108,83
+0:49,57,Foul on Mike Okauru.,108,83
+0:49,24,Robert Cartwright made Free Throw.,108,84
+0:49,24,Robert Cartwright made Free Throw.,108,85
+0:20,57,Mak Krause missed Jumper.,108,85
+0:20,57,Chase Johnson Offensive Rebound.,108,85
+0:15,57,Chase Johnson missed Jumper.,108,85
+0:15,24,Blake Pagon Defensive Rebound.,108,85
+0:04,57,Foul on Andrew Fava.,108,85
+0:04,24,Rodney Herenton made Free Throw.,108,86
+0:04,24,Rodney Herenton made Free Throw.,108,87
+0:00,24,End of Game,108,87

@@ -1,0 +1,336 @@
+Duke,103,Boston College,150
+time,team_id,description,h_score,a_score
+20:00,103,Jump Ball won by Boston College,0,0
+19:44,103,Nik Popovic Turnover.,0,0
+19:25,150,Wendell Carter Jr missed Jumper.,0,0
+19:25,150,Marvin Bagley III Offensive Rebound.,0,0
+19:25,150,Marvin Bagley III made Two Point Tip Shot.,2,0
+19:01,103,Ky Bowman made Three Point Jumper. Assisted by Jerome Robinson.,2,3
+18:40,103,Foul on Steffon Mitchell.,2,3
+18:34,150,Wendell Carter Jr made Dunk. Assisted by Grayson Allen.,4,3
+18:06,150,Foul on Trevon Duval.,4,3
+18:06,103,Nik Popovic missed Free Throw.,4,3
+18:06,103,Boston College Deadball Team Rebound.,4,3
+18:06,103,Nik Popovic made Free Throw.,4,4
+17:54,150,Jump Ball won by Duke,4,4
+17:49,150,Trevon Duval missed Jumper.,4,4
+17:49,103,Boston College Defensive Rebound.,4,4
+17:37,103,Jerome Robinson Turnover.,4,4
+17:37,150,Grayson Allen Steal.,4,4
+17:33,150,Wendell Carter Jr made Layup. Assisted by Grayson Allen.,6,4
+17:10,103,Jerome Robinson Turnover.,6,4
+17:02,150,Grayson Allen missed Three Point Jumper.,6,4
+17:02,150,Grayson Allen Offensive Rebound.,6,4
+16:56,150,Gary Trent Jr missed Three Point Jumper.,6,4
+16:56,150,Marvin Bagley III Offensive Rebound.,6,4
+16:56,150,Marvin Bagley III made Two Point Tip Shot.,8,4
+16:22,103,Jordan Chatman missed Three Point Jumper.,8,4
+16:22,103,Ky Bowman Offensive Rebound.,8,4
+16:14,103,Ky Bowman made Three Point Jumper.,8,7
+16:06,150,Wendell Carter Jr Turnover.,8,7
+15:52,103,Jerome Robinson missed Layup.,8,7
+15:52,150,Marvin Bagley III Defensive Rebound.,8,7
+15:46,150,Gary Trent Jr made Jumper.,10,7
+15:26,103,Ky Bowman missed Three Point Jumper.,10,7
+15:26,150,Trevon Duval Defensive Rebound.,10,7
+15:15,150,Trevon Duval Turnover.,10,7
+15:15,103,Ky Bowman Steal.,10,7
+15:12,150,Foul on Trevon Duval.,10,7
+15:12,103,Official TV Timeout,10,7
+15:07,103,Ky Bowman made Three Point Jumper. Assisted by Jerome Robinson.,10,10
+14:42,150,Marvin Bagley III missed Three Point Jumper.,10,10
+14:42,150,Marques Bolden Offensive Rebound.,10,10
+14:35,150,Marques Bolden made Dunk.,12,10
+14:02,103,Ky Bowman Turnover.,12,10
+14:02,150,Grayson Allen Steal.,12,10
+13:58,150,Javin DeLaurier made Dunk. Assisted by Grayson Allen.,14,10
+13:40,103,Johncarlos Reyes made Jumper. Assisted by Ky Bowman.,14,12
+13:15,150,Marvin Bagley III made Jumper.,16,12
+12:52,103,Jerome Robinson Turnover.,16,12
+12:42,150,Gary Trent Jr missed Three Point Jumper.,16,12
+12:42,103,Nik Popovic Defensive Rebound.,16,12
+12:34,103,Ky Bowman missed Layup.,16,12
+12:34,150,Marvin Bagley III Defensive Rebound.,16,12
+12:29,103,Foul on Johncarlos Reyes.,16,12
+12:15,150,Trevon Duval missed Three Point Jumper.,16,12
+12:15,103,Nik Popovic Defensive Rebound.,16,12
+12:05,103,Nik Popovic missed Jumper.,16,12
+12:05,103,Nik Popovic Offensive Rebound.,16,12
+11:47,103,Nik Popovic missed Jumper.,16,12
+11:47,150,Wendell Carter Jr Block.,16,12
+11:47,103,Boston College Offensive Rebound.,16,12
+11:45,103,Official TV Timeout,16,12
+11:37,103,Ky Bowman Turnover.,16,12
+11:37,150,Javin DeLaurier Steal.,16,12
+11:21,150,Marvin Bagley III missed Jumper.,16,12
+11:21,150,Wendell Carter Jr Offensive Rebound.,16,12
+11:18,150,Wendell Carter Jr made Layup.,18,12
+11:02,150,Foul on Javin DeLaurier.,18,12
+10:56,103,Jordan Chatman made Three Point Jumper. Assisted by Ky Bowman.,18,15
+10:48,150,Marvin Bagley III made Layup. Assisted by Trevon Duval.,20,15
+10:31,150,Foul on Alex O'Connell.,20,15
+10:31,103,Jerome Robinson missed Free Throw.,20,15
+10:31,103,Boston College Deadball Team Rebound.,20,15
+10:31,103,Jerome Robinson made Free Throw.,20,16
+10:14,150,Marvin Bagley III Turnover.,20,16
+9:58,103,Nik Popovic missed Jumper.,20,16
+9:58,103,Nik Popovic Offensive Rebound.,20,16
+9:50,103,Jordan Chatman made Three Point Jumper. Assisted by Steffon Mitchell.,20,19
+9:39,150,Grayson Allen missed Layup.,20,19
+9:39,150,Javin DeLaurier Offensive Rebound.,20,19
+9:35,150,Javin DeLaurier made Dunk.,22,19
+9:32,103,Jerome Robinson made Three Point Jumper. Assisted by Ky Bowman.,22,22
+9:09,150,Wendell Carter Jr missed Jumper.,22,22
+9:09,103,Jordan Chatman Defensive Rebound.,22,22
+9:07,150,Foul on Javin DeLaurier.,22,22
+8:48,103,Nik Popovic Turnover.,22,22
+8:37,150,Marvin Bagley III made Jumper. Assisted by Grayson Allen.,24,22
+8:20,103,Jordan Chatman missed Three Point Jumper.,24,22
+8:20,150,Marvin Bagley III Defensive Rebound.,24,22
+8:11,150,Grayson Allen made Jumper.,26,22
+7:58,103,Nik Popovic made Three Point Jumper. Assisted by Ky Bowman.,26,25
+7:45,150,Foul on Grayson Allen.,26,25
+7:45,150,Grayson Allen Turnover.,26,25
+7:45,103,Official TV Timeout,26,25
+7:21,103,Jerome Robinson made Three Point Jumper. Assisted by Ky Bowman.,26,28
+7:03,150,Gary Trent Jr made Three Point Jumper. Assisted by Grayson Allen.,29,28
+6:39,103,Jordan Chatman made Jumper.,29,30
+6:23,150,Grayson Allen made Jumper.,31,30
+6:03,103,Jerome Robinson made Jumper. Assisted by Jordan Chatman.,31,32
+5:50,103,Foul on Ky Bowman.,31,32
+5:41,150,Wendell Carter Jr missed Three Point Jumper.,31,32
+5:41,150,Trevon Duval Offensive Rebound.,31,32
+5:41,150,Trevon Duval made Two Point Tip Shot.,33,32
+5:22,103,Ky Bowman missed Three Point Jumper.,33,32
+5:22,150,Marvin Bagley III Defensive Rebound.,33,32
+5:17,103,Foul on Johncarlos Reyes.,33,32
+5:08,150,Foul on Marvin Bagley III.,33,32
+5:08,150,Marvin Bagley III Turnover.,33,32
+4:49,150,Foul on Gary Trent Jr.,33,32
+4:49,103,Jordan Chatman made Free Throw.,33,33
+4:49,103,Jordan Chatman missed Free Throw.,33,33
+4:49,150,Marvin Bagley III Defensive Rebound.,33,33
+4:40,103,Foul on Nik Popovic.,33,33
+4:39,150,Grayson Allen missed Three Point Jumper.,33,33
+4:39,103,Boston College Defensive Rebound.,33,33
+4:18,103,Ky Bowman made Jumper. Assisted by Steffon Mitchell.,33,35
+4:11,150,Gary Trent Jr made Three Point Jumper. Assisted by Trevon Duval.,36,35
+3:49,103,Ky Bowman made Jumper.,36,37
+3:23,150,Grayson Allen missed Jumper.,36,37
+3:23,103,Ky Bowman Defensive Rebound.,36,37
+3:14,103,Ky Bowman missed Jumper.,36,37
+3:14,150,Wendell Carter Jr Block.,36,37
+3:14,103,Boston College Offensive Rebound.,36,37
+3:11,103,Official TV Timeout,36,37
+3:07,103,Steffon Mitchell made Three Point Jumper. Assisted by Nik Popovic.,36,40
+2:53,150,Grayson Allen missed Three Point Jumper.,36,40
+2:53,103,Ky Bowman Defensive Rebound.,36,40
+2:43,103,Foul on Jerome Robinson.,36,40
+2:43,103,Jerome Robinson Turnover.,36,40
+2:26,150,Gary Trent Jr made Three Point Jumper. Assisted by Wendell Carter Jr.,39,40
+2:06,103,Jordan Chatman made Three Point Jumper.,39,43
+1:45,150,Foul on Javin DeLaurier.,39,43
+1:45,150,Javin DeLaurier Turnover.,39,43
+1:31,103,Ky Bowman missed Jumper.,39,43
+1:31,103,Steffon Mitchell Offensive Rebound.,39,43
+1:20,103,Jordan Chatman made Three Point Jumper. Assisted by Steffon Mitchell.,39,46
+1:16,150,Duke  Timeout,39,46
+1:05,150,Gary Trent Jr missed Three Point Jumper.,39,46
+1:05,103,Ky Bowman Defensive Rebound.,39,46
+0:55,103,Jordan Chatman missed Layup.,39,46
+0:55,150,Javin DeLaurier Defensive Rebound.,39,46
+0:48,150,Grayson Allen missed Jumper.,39,46
+0:48,150,Gary Trent Jr Offensive Rebound.,39,46
+0:39,150,Gary Trent Jr missed Layup.,39,46
+0:39,103,Jordan Chatman Defensive Rebound.,39,46
+0:36,103,Ky Bowman Turnover.,39,46
+0:36,150,Grayson Allen Steal.,39,46
+0:33,150,Grayson Allen missed Layup.,39,46
+0:33,103,Nik Popovic Block.,39,46
+0:33,103,Jordan Chatman Defensive Rebound.,39,46
+0:21,103,Ky Bowman made Layup.,39,48
+0:20,103,Foul on Ky Bowman.,39,48
+0:20,150,Gary Trent Jr made Free Throw.,40,48
+0:20,150,Gary Trent Jr made Free Throw.,41,48
+0:02,103,Ky Bowman missed Three Point Jumper.,41,48
+0:02,103,Jordan Chatman Offensive Rebound.,41,48
+0:00,103,End of 1st half,41,48
+20:00,103,Jump Ball won by Boston College,41,48
+19:49,103,Steffon Mitchell missed Three Point Jumper.,41,48
+19:49,103,Jordan Chatman Offensive Rebound.,41,48
+19:43,103,Jordan Chatman made Three Point Jumper. Assisted by Steffon Mitchell.,41,51
+19:17,103,Foul on Jerome Robinson.,41,51
+19:17,150,Trevon Duval made Free Throw.,42,51
+19:17,150,Trevon Duval made Free Throw.,43,51
+19:07,103,Ky Bowman Turnover.,43,51
+18:58,150,Grayson Allen Turnover.,43,51
+18:39,103,Nik Popovic Turnover.,43,51
+18:39,150,Grayson Allen Steal.,43,51
+18:39,103,Foul on Jerome Robinson.,43,51
+18:30,150,Gary Trent Jr missed Three Point Jumper.,43,51
+18:30,103,Nik Popovic Defensive Rebound.,43,51
+18:22,103,Nik Popovic missed Layup.,43,51
+18:22,150,Gary Trent Jr Defensive Rebound.,43,51
+18:16,150,Grayson Allen missed Three Point Jumper.,43,51
+18:16,103,Steffon Mitchell Defensive Rebound.,43,51
+18:10,150,Foul on Marvin Bagley III.,43,51
+17:58,103,Nik Popovic made Layup.,43,53
+17:38,103,Foul on Steffon Mitchell.,43,53
+17:38,150,Gary Trent Jr made Free Throw.,44,53
+17:26,103,Ky Bowman missed Layup.,44,53
+17:26,150,Marvin Bagley III Block.,44,53
+17:26,150,Marvin Bagley III Defensive Rebound.,44,53
+17:24,103,Foul on Ky Bowman.,44,53
+17:17,150,Gary Trent Jr missed Three Point Jumper.,44,53
+17:17,103,Ky Bowman Defensive Rebound.,44,53
+17:09,103,Jordan Chatman missed Jumper.,44,53
+17:09,150,Gary Trent Jr Defensive Rebound.,44,53
+17:06,103,Foul on Vin Baker Jr..,44,53
+16:57,150,Marvin Bagley III missed Jumper.,44,53
+16:57,103,Steffon Mitchell Defensive Rebound.,44,53
+16:36,103,Nik Popovic missed Jumper.,44,53
+16:36,150,Marvin Bagley III Defensive Rebound.,44,53
+16:29,150,Trevon Duval Turnover.,44,53
+16:29,103,Steffon Mitchell Steal.,44,53
+16:23,150,Foul on Grayson Allen.,44,53
+16:21,103,Jordan Chatman missed Three Point Jumper.,44,53
+16:21,150,Marvin Bagley III Defensive Rebound.,44,53
+16:19,103,Foul on Johncarlos Reyes.,44,53
+16:09,150,Grayson Allen missed Jumper.,44,53
+16:09,103,Jordan Chatman Defensive Rebound.,44,53
+15:59,103,Steffon Mitchell Turnover.,44,53
+15:59,150,Gary Trent Jr Steal.,44,53
+15:55,150,Grayson Allen made Dunk. Assisted by Gary Trent Jr.,46,53
+15:45,103,Boston College  Timeout,46,53
+15:36,103,Ky Bowman made Layup.,46,55
+15:36,150,Foul on Marvin Bagley III.,46,55
+15:36,103,Official TV Timeout,46,55
+15:36,103,Ky Bowman made Free Throw.,46,56
+15:26,150,Marvin Bagley III made Three Point Jumper.,49,56
+15:00,103,Vin Baker Jr. Turnover.,49,56
+15:00,150,Marques Bolden Steal.,49,56
+14:55,150,Grayson Allen made Three Point Jumper.,52,56
+14:22,103,Jerome Robinson made Layup.,52,58
+14:12,150,Marvin Bagley III missed Three Point Jumper.,52,58
+14:12,103,Jerome Robinson Defensive Rebound.,52,58
+13:57,103,Jerome Robinson missed Jumper.,52,58
+13:57,150,Duke Defensive Rebound.,52,58
+13:45,150,Trevon Duval made Jumper.,54,58
+13:13,103,Ky Bowman missed Jumper.,54,58
+13:09,150,Marvin Bagley III Defensive Rebound.,54,58
+13:07,103,Foul on Nik Popovic.,54,58
+13:07,150,Marvin Bagley III made Free Throw.,55,58
+13:07,150,Marvin Bagley III made Free Throw.,56,58
+12:46,103,Ky Bowman missed Three Point Jumper.,56,58
+12:46,150,Wendell Carter Jr Defensive Rebound.,56,58
+12:32,150,Trevon Duval missed Jumper.,56,58
+12:32,150,Javin DeLaurier Offensive Rebound.,56,58
+12:32,150,Javin DeLaurier made Two Point Tip Shot.,58,58
+12:11,103,Nik Popovic made Jumper. Assisted by Ky Bowman.,58,60
+11:55,103,Foul on Jordan Chatman.,58,60
+11:55,103,Official TV Timeout,58,60
+11:55,150,Grayson Allen missed Free Throw.,58,60
+11:55,103,Ky Bowman Defensive Rebound.,58,60
+11:44,103,Jerome Robinson made Dunk. Assisted by Ky Bowman.,58,62
+11:17,150,Trevon Duval missed Three Point Jumper.,58,62
+11:17,103,Ky Bowman Defensive Rebound.,58,62
+11:04,103,Ky Bowman made Jumper.,58,64
+10:54,150,Trevon Duval missed Jumper.,58,64
+10:54,103,Ky Bowman Defensive Rebound.,58,64
+10:35,103,Jerome Robinson missed Jumper.,58,64
+10:35,103,Ky Bowman Offensive Rebound.,58,64
+10:30,103,Ky Bowman missed Layup.,58,64
+10:30,150,Grayson Allen Defensive Rebound.,58,64
+10:25,150,Grayson Allen missed Three Point Jumper.,58,64
+10:25,150,Wendell Carter Jr Offensive Rebound.,58,64
+10:19,150,Trevon Duval made Layup. Assisted by Wendell Carter Jr.,60,64
+10:17,150,Duke  Timeout,60,64
+10:09,103,Ky Bowman Turnover.,60,64
+10:09,150,Marvin Bagley III Steal.,60,64
+9:39,150,Grayson Allen made Layup.,62,64
+9:39,103,Foul on Nik Popovic.,62,64
+9:39,150,Grayson Allen made Free Throw.,63,64
+9:30,103,Ky Bowman made Jumper.,63,66
+9:13,103,Foul on Ky Bowman.,63,66
+9:13,150,Grayson Allen made Free Throw.,64,66
+9:13,150,Grayson Allen made Free Throw.,65,66
+8:54,150,Foul on Grayson Allen.,65,66
+8:47,103,Jerome Robinson made Three Point Jumper.,65,69
+8:29,150,Grayson Allen missed Three Point Jumper.,65,69
+8:29,103,Nik Popovic Defensive Rebound.,65,69
+8:17,103,Johncarlos Reyes Turnover.,65,69
+8:17,150,Grayson Allen Steal.,65,69
+8:10,150,Grayson Allen missed Layup.,65,69
+8:10,150,Javin DeLaurier Offensive Rebound.,65,69
+8:10,150,Javin DeLaurier made Two Point Tip Shot.,67,69
+7:46,103,Johncarlos Reyes Turnover.,67,69
+7:46,150,Trevon Duval Steal.,67,69
+7:46,150,Jump Ball won by Duke,67,69
+7:46,103,Official TV Timeout,67,69
+7:43,150,Grayson Allen missed Three Point Jumper.,67,69
+7:43,103,Jerome Robinson Defensive Rebound.,67,69
+7:28,103,Nik Popovic missed Jumper.,67,69
+7:28,150,Javin DeLaurier Defensive Rebound.,67,69
+7:07,150,Gary Trent Jr made Three Point Jumper.,70,69
+6:54,150,Foul on Javin DeLaurier.,70,69
+6:43,103,Jordan Chatman missed Three Point Jumper.,70,69
+6:43,150,Marvin Bagley III Defensive Rebound.,70,69
+6:32,150,Marvin Bagley III missed Three Point Jumper.,70,69
+6:32,103,Nik Popovic Defensive Rebound.,70,69
+6:29,150,Foul on Javin DeLaurier.,70,69
+6:24,103,Ky Bowman missed Three Point Jumper.,70,69
+6:24,150,Duke Defensive Rebound.,70,69
+6:01,150,Wendell Carter Jr made Layup. Assisted by Trevon Duval.,72,69
+5:43,103,Ky Bowman made Layup.,72,71
+5:27,150,Grayson Allen missed Three Point Jumper.,72,71
+5:27,150,Duke Offensive Rebound.,72,71
+5:17,150,Gary Trent Jr missed Three Point Jumper.,72,71
+5:17,150,Wendell Carter Jr Offensive Rebound.,72,71
+5:13,150,Wendell Carter Jr made Dunk.,74,71
+5:02,103,Boston College  Timeout,74,71
+4:52,103,Ky Bowman made Dunk. Assisted by Steffon Mitchell.,74,73
+4:36,150,Foul on Marvin Bagley III.,74,73
+4:36,150,Marvin Bagley III Turnover.,74,73
+4:25,103,Ky Bowman made Layup.,74,75
+4:14,103,Foul on Jordan Chatman.,74,75
+4:14,150,Gary Trent Jr made Free Throw.,75,75
+4:14,150,Gary Trent Jr made Free Throw.,76,75
+4:03,103,Ky Bowman missed Three Point Jumper.,76,75
+4:03,103,Steffon Mitchell Offensive Rebound.,76,75
+3:51,103,Jordan Chatman missed Layup.,76,75
+3:51,150,Wendell Carter Jr Defensive Rebound.,76,75
+3:33,150,Gary Trent Jr made Three Point Jumper. Assisted by Marvin Bagley III.,79,75
+3:11,103,Ky Bowman Turnover.,79,75
+3:11,103,Official TV Timeout,79,75
+2:57,150,Trevon Duval missed Three Point Jumper.,79,75
+2:57,103,Jerome Robinson Defensive Rebound.,79,75
+2:45,103,Jerome Robinson made Three Point Jumper. Assisted by Ky Bowman.,79,78
+2:26,150,Marvin Bagley III Turnover.,79,78
+2:26,103,Steffon Mitchell Steal.,79,78
+2:26,103,Jump Ball won by Boston College,79,78
+2:03,103,Nik Popovic missed Jumper.,79,78
+2:03,150,Wendell Carter Jr Defensive Rebound.,79,78
+1:32,150,Gary Trent Jr Turnover.,79,78
+1:20,103,Jerome Robinson made Three Point Jumper. Assisted by Ky Bowman.,79,81
+1:01,150,Grayson Allen missed Jumper.,79,81
+1:01,103,Jerome Robinson Defensive Rebound.,79,81
+0:37,150,Intentional Foul on Trevon Duval.,79,81
+0:37,103,Ky Bowman made Free Throw.,79,82
+0:37,103,Ky Bowman made Free Throw.,79,83
+0:32,150,Trevon Duval made Layup.,81,83
+0:32,150,Duke  Timeout,81,83
+0:17,150,Foul on Trevon Duval.,81,83
+0:17,103,Jordan Chatman made Free Throw.,81,84
+0:17,103,Jordan Chatman made Free Throw.,81,85
+0:17,103,Boston College  Timeout,81,85
+0:15,150,Foul on Trevon Duval.,81,85
+0:15,103,Jordan Chatman made Free Throw.,81,86
+0:15,103,Jordan Chatman made Free Throw.,81,87
+0:11,150,Gary Trent Jr made Three Point Jumper. Assisted by Grayson Allen.,84,87
+0:08,150,Duke  Timeout,84,87
+0:07,150,Foul on Jordan Goldwire.,84,87
+0:07,103,Jerome Robinson made Free Throw.,84,88
+0:07,103,Jerome Robinson made Free Throw.,84,89
+0:04,150,Gary Trent Jr missed Three Point Jumper.,84,89
+0:04,103,Ky Bowman Defensive Rebound.,84,89
+0:00,103,End of Game,84,89

@@ -1,0 +1,350 @@
+Duke,84,Indiana,150
+time,team_id,description,h_score,a_score
+20:00,150,Jump Ball won by Duke,0,0
+19:48,150,Marvin Bagley III made Layup. Assisted by Grayson Allen.,2,0
+19:32,84,De'Ron Davis made Jumper.,2,2
+19:05,150,Gary Trent Jr missed Three Point Jumper.,2,2
+19:05,150,Wendell Carter Jr Offensive Rebound.,2,2
+19:01,84,Foul on De'Ron Davis.,2,2
+19:00,150,Gary Trent Jr missed Layup.,2,2
+19:00,84,Juwan Morgan Block.,2,2
+19:00,150,Duke Offensive Rebound.,2,2
+18:59,150,Grayson Allen made Jumper. Assisted by Trevon Duval.,4,2
+18:36,84,Juwan Morgan missed Three Point Jumper.,4,2
+18:36,84,De'Ron Davis Offensive Rebound.,4,2
+18:30,84,Josh Newkirk missed Three Point Jumper.,4,2
+18:30,150,Marvin Bagley III Defensive Rebound.,4,2
+18:13,150,Grayson Allen missed Three Point Jumper.,4,2
+18:13,150,Trevon Duval Offensive Rebound.,4,2
+18:06,150,Marvin Bagley III made Jumper. Assisted by Gary Trent Jr.,6,2
+17:54,150,Foul on Gary Trent Jr.,6,2
+17:46,84,Josh Newkirk made Layup. Assisted by Aljami Durham.,6,4
+17:25,150,Trevon Duval missed Layup.,6,4
+17:25,84,Juwan Morgan Defensive Rebound.,6,4
+17:17,84,De'Ron Davis made Layup. Assisted by Josh Newkirk.,6,6
+16:56,150,Gary Trent Jr missed Three Point Jumper.,6,6
+16:56,150,Wendell Carter Jr Offensive Rebound.,6,6
+16:52,150,Wendell Carter Jr made Dunk.,8,6
+16:25,84,Robert Johnson missed Jumper.,8,6
+16:25,150,Wendell Carter Jr Defensive Rebound.,8,6
+16:20,150,Wendell Carter Jr Turnover.,8,6
+16:20,84,Juwan Morgan Steal.,8,6
+16:04,84,Josh Newkirk made Jumper.,8,8
+15:36,150,Trevon Duval missed Three Point Jumper.,8,8
+15:36,84,De'Ron Davis Defensive Rebound.,8,8
+15:27,84,Robert Johnson missed Three Point Jumper.,8,8
+15:27,150,Wendell Carter Jr Defensive Rebound.,8,8
+15:13,84,Foul on De'Ron Davis.,8,8
+15:13,84,Official TV Timeout,8,8
+15:03,150,Trevon Duval made Three Point Jumper.,11,8
+14:44,84,Aljami Durham made Layup. Assisted by Freddie McSwain Jr..,11,10
+14:36,150,Gary Trent Jr made Layup. Assisted by Grayson Allen.,13,10
+14:26,84,Devonte Green missed Jumper.,13,10
+14:26,84,Freddie McSwain Jr. Offensive Rebound.,13,10
+14:22,150,Foul on Marques Bolden.,13,10
+14:21,84,Aljami Durham missed Three Point Jumper.,13,10
+14:21,84,Juwan Morgan Offensive Rebound.,13,10
+14:17,84,Juwan Morgan made Layup.,13,12
+13:56,150,Trevon Duval made Jumper.,15,12
+13:39,150,Foul on Trevon Duval.,15,12
+13:38,84,Juwan Morgan made Three Point Jumper.,15,15
+13:18,150,Trevon Duval made Jumper.,17,15
+12:54,84,Devonte Green made Jumper.,17,17
+12:54,150,Foul on Marques Bolden.,17,17
+12:54,84,Devonte Green made Free Throw.,17,18
+12:42,150,Alex O'Connell made Jumper. Assisted by Marvin Bagley III.,19,18
+12:21,84,Juwan Morgan missed Jumper.,19,18
+12:21,150,Marvin Bagley III Defensive Rebound.,19,18
+12:03,150,Marvin Bagley III Turnover.,19,18
+12:03,84,Devonte Green Steal.,19,18
+11:57,84,Freddie McSwain Jr. made Dunk. Assisted by Devonte Green.,19,20
+11:33,150,Alex O'Connell missed Jumper.,19,20
+11:33,150,Marvin Bagley III Offensive Rebound.,19,20
+11:29,150,Marvin Bagley III made Dunk.,21,20
+11:02,84,Josh Newkirk missed Three Point Jumper.,21,20
+11:02,150,Javin DeLaurier Defensive Rebound.,21,20
+10:52,150,Trevon Duval missed Layup.,21,20
+10:52,84,Josh Newkirk Block.,21,20
+10:52,150,Duke Offensive Rebound.,21,20
+10:52,84,Official TV Timeout,21,20
+10:49,150,Grayson Allen missed Jumper.,21,20
+10:49,84,Josh Newkirk Defensive Rebound.,21,20
+10:27,84,Robert Johnson made Layup.,21,22
+10:12,84,Foul on Freddie McSwain Jr..,21,22
+10:01,150,Wendell Carter Jr missed Jumper.,21,22
+10:01,150,Wendell Carter Jr Offensive Rebound.,21,22
+9:57,84,Foul on Robert Johnson.,21,22
+9:57,150,Wendell Carter Jr made Free Throw.,22,22
+9:57,150,Wendell Carter Jr missed Free Throw.,22,22
+9:57,84,Robert Johnson Defensive Rebound.,22,22
+9:46,84,Devonte Green made Layup. Assisted by Collin Hartman.,22,24
+9:30,150,Wendell Carter Jr made Dunk. Assisted by Marvin Bagley III.,24,24
+9:19,84,Devonte Green missed Jumper.,24,24
+9:19,150,Wendell Carter Jr Defensive Rebound.,24,24
+9:09,84,Foul on Josh Newkirk.,24,24
+9:06,150,Wendell Carter Jr made Jumper.,26,24
+8:50,84,Collin Hartman missed Three Point Jumper.,26,24
+8:48,84,Juwan Morgan Offensive Rebound.,26,24
+8:33,150,Foul on Gary Trent Jr.,26,24
+8:15,84,Juwan Morgan missed Jumper.,26,24
+8:15,150,Wendell Carter Jr Block.,26,24
+8:15,84,Collin Hartman Offensive Rebound.,26,24
+8:10,84,Collin Hartman made Layup.,26,26
+8:02,150,Wendell Carter Jr made Jumper.,28,26
+7:41,84,Collin Hartman made Layup.,28,28
+7:25,150,Marvin Bagley III made Dunk. Assisted by Grayson Allen.,30,28
+7:06,84,Juwan Morgan made Dunk. Assisted by Josh Newkirk.,30,30
+6:46,150,Grayson Allen Turnover.,30,30
+6:46,84,Juwan Morgan Steal.,30,30
+6:40,150,Foul on Trevon Duval.,30,30
+6:40,84,Official TV Timeout,30,30
+6:40,84,Josh Newkirk missed Free Throw.,30,30
+6:40,84,Indiana Deadball Team Rebound.,30,30
+6:40,84,Josh Newkirk made Free Throw.,30,31
+6:15,150,Marvin Bagley III made Dunk. Assisted by Trevon Duval.,32,31
+6:01,84,Josh Newkirk made Three Point Jumper.,32,34
+5:38,150,Grayson Allen made Dunk.,34,34
+5:21,84,Freddie McSwain Jr. missed Layup.,34,34
+5:21,150,Wendell Carter Jr Block.,34,34
+5:21,84,Indiana Offensive Rebound.,34,34
+5:21,84,Jump Ball won by Indiana,34,34
+5:09,84,Robert Johnson missed Three Point Jumper.,34,34
+5:09,84,Justin Smith Offensive Rebound.,34,34
+4:49,84,Josh Newkirk Turnover.,34,34
+4:49,150,Marvin Bagley III Steal.,34,34
+4:39,84,Foul on Justin Smith.,34,34
+4:38,150,Grayson Allen made Three Point Jumper. Assisted by Trevon Duval.,37,34
+4:15,84,Robert Johnson missed Three Point Jumper.,37,34
+4:15,150,Grayson Allen Defensive Rebound.,37,34
+3:59,150,Marvin Bagley III missed Three Point Jumper.,37,34
+3:59,84,Zach McRoberts Defensive Rebound.,37,34
+3:46,84,Justin Smith missed Layup.,37,34
+3:46,150,Wendell Carter Jr Defensive Rebound.,37,34
+3:24,150,Trevon Duval missed Three Point Jumper.,37,34
+3:24,84,Zach McRoberts Defensive Rebound.,37,34
+3:00,84,Robert Johnson missed Three Point Jumper.,37,34
+3:00,150,Wendell Carter Jr Defensive Rebound.,37,34
+2:47,150,Gary Trent Jr missed Three Point Jumper.,37,34
+2:47,84,Justin Smith Defensive Rebound.,37,34
+2:39,150,Foul on Grayson Allen.,37,34
+2:39,84,Official TV Timeout,37,34
+2:39,84,Aljami Durham missed Free Throw.,37,34
+2:39,84,Indiana Deadball Team Rebound.,37,34
+2:39,84,Aljami Durham missed Free Throw.,37,34
+2:39,84,Juwan Morgan Offensive Rebound.,37,34
+2:38,150,Foul on Javin DeLaurier.,37,34
+2:38,84,Juwan Morgan made Free Throw.,37,35
+2:38,84,Juwan Morgan missed Free Throw.,37,35
+2:38,150,Marvin Bagley III Defensive Rebound.,37,35
+2:22,150,Marvin Bagley III missed Jumper.,37,35
+2:22,150,Duke Offensive Rebound.,37,35
+2:03,150,Marvin Bagley III missed Three Point Jumper.,37,35
+2:03,84,Indiana Defensive Rebound.,37,35
+1:46,84,Aljami Durham missed Three Point Jumper.,37,35
+1:46,84,Devonte Green Offensive Rebound.,37,35
+1:36,84,Collin Hartman missed Three Point Jumper.,37,35
+1:36,150,Marvin Bagley III Defensive Rebound.,37,35
+1:28,150,Trevon Duval made Layup.,39,35
+1:01,84,Devonte Green Turnover.,39,35
+1:01,150,Grayson Allen Steal.,39,35
+0:56,84,Foul on Juwan Morgan.,39,35
+0:56,150,Grayson Allen made Free Throw.,40,35
+0:56,150,Grayson Allen made Free Throw.,41,35
+0:42,84,Robert Johnson made Three Point Jumper. Assisted by Devonte Green.,41,38
+0:30,150,Duke  Timeout,41,38
+0:09,84,Foul on Freddie McSwain Jr..,41,38
+0:09,150,Marvin Bagley III missed Free Throw.,41,38
+0:09,150,Duke Deadball Team Rebound.,41,38
+0:09,150,Marvin Bagley III made Free Throw.,42,38
+0:09,84,Indiana  Timeout,42,38
+0:04,84,Devonte Green missed Three Point Jumper.,42,38
+0:04,150,Marvin Bagley III Defensive Rebound.,42,38
+0:00,84,End of 1st half,42,38
+20:00,150,Jump Ball won by Duke,42,38
+19:48,150,Marvin Bagley III made Layup.,44,38
+19:32,150,Foul on Wendell Carter Jr.,44,38
+19:32,84,De'Ron Davis made Free Throw.,44,39
+19:32,84,De'Ron Davis made Free Throw.,44,40
+19:19,150,Grayson Allen made Jumper.,46,40
+19:19,84,Foul on Robert Johnson.,46,40
+19:19,150,Grayson Allen made Free Throw.,47,40
+19:06,84,De'Ron Davis made Layup.,47,42
+18:51,150,Trevon Duval made Jumper.,49,42
+18:51,84,Foul on Josh Newkirk.,49,42
+18:51,150,Trevon Duval made Free Throw.,50,42
+18:37,150,Foul on Wendell Carter Jr.,50,42
+18:33,84,De'Ron Davis Turnover.,50,42
+18:22,150,Grayson Allen made Jumper.,52,42
+18:09,84,Aljami Durham made Three Point Jumper. Assisted by Robert Johnson.,52,45
+18:07,84,Indiana  Timeout,52,45
+17:55,150,Gary Trent Jr Turnover.,52,45
+17:34,84,Juwan Morgan made Layup. Assisted by Robert Johnson.,52,47
+17:23,84,Foul on Juwan Morgan.,52,47
+17:19,150,Marvin Bagley III missed Layup.,52,47
+17:19,84,Juwan Morgan Block.,52,47
+17:19,84,Juwan Morgan Defensive Rebound.,52,47
+17:10,84,Robert Johnson missed Three Point Jumper.,52,47
+17:10,150,Wendell Carter Jr Defensive Rebound.,52,47
+16:56,150,Wendell Carter Jr missed Jumper.,52,47
+16:56,84,De'Ron Davis Defensive Rebound.,52,47
+16:27,150,Foul on Gary Trent Jr.,52,47
+16:14,150,Foul on Marvin Bagley III.,52,47
+16:14,84,Robert Johnson made Free Throw.,52,48
+16:14,84,Robert Johnson made Free Throw.,52,49
+16:00,150,Marvin Bagley III Turnover.,52,49
+16:00,84,Freddie McSwain Jr. Steal.,52,49
+15:49,84,Robert Johnson missed Jumper.,52,49
+15:49,150,Wendell Carter Jr Defensive Rebound.,52,49
+15:37,150,Gary Trent Jr missed Three Point Jumper.,52,49
+15:37,150,Wendell Carter Jr Offensive Rebound.,52,49
+15:33,150,Wendell Carter Jr made Dunk.,54,49
+15:09,84,Juwan Morgan Turnover.,54,49
+15:09,150,Wendell Carter Jr Steal.,54,49
+14:59,84,Foul on Juwan Morgan.,54,49
+14:59,84,Official TV Timeout,54,49
+14:59,150,Trevon Duval made Free Throw.,55,49
+14:59,150,Trevon Duval missed Free Throw.,55,49
+14:59,84,Robert Johnson Defensive Rebound.,55,49
+14:32,84,Robert Johnson made Jumper.,55,51
+14:11,84,Foul on Collin Hartman.,55,51
+14:07,150,Gary Trent Jr missed Three Point Jumper.,55,51
+14:07,84,Devonte Green Defensive Rebound.,55,51
+13:58,150,Foul on Trevon Duval.,55,51
+13:58,84,Devonte Green missed Free Throw.,55,51
+13:58,84,Indiana Deadball Team Rebound.,55,51
+13:58,84,Devonte Green made Free Throw.,55,52
+13:51,150,Grayson Allen missed Three Point Jumper.,55,52
+13:51,84,Robert Johnson Defensive Rebound.,55,52
+13:42,84,Robert Johnson made Layup.,55,54
+13:34,150,Alex O'Connell missed Layup.,55,54
+13:34,84,De'Ron Davis Block.,55,54
+13:34,150,Marvin Bagley III Offensive Rebound.,55,54
+13:30,150,Marvin Bagley III made Layup.,57,54
+13:28,150,Duke  Timeout,57,54
+13:11,84,Collin Hartman made Three Point Jumper. Assisted by De'Ron Davis.,57,57
+12:57,150,Javin DeLaurier made Layup. Assisted by Trevon Duval.,59,57
+12:38,84,De'Ron Davis made Layup.,59,59
+12:38,150,Foul on Marvin Bagley III.,59,59
+12:38,84,De'Ron Davis missed Free Throw.,59,59
+12:38,84,Collin Hartman Offensive Rebound.,59,59
+12:17,150,Foul on Grayson Allen.,59,59
+12:17,84,Collin Hartman made Free Throw.,59,60
+12:17,84,Collin Hartman made Free Throw.,59,61
+11:59,150,Wendell Carter Jr Turnover.,59,61
+11:59,84,Official TV Timeout,59,61
+11:49,84,Robert Johnson made Layup.,59,63
+11:36,84,Foul on Robert Johnson.,59,63
+11:36,150,Grayson Allen made Free Throw.,60,63
+11:36,84,Foul on Devonte Green.,59,63
+11:36,150,Grayson Allen made Free Throw.,61,63
+11:11,84,De'Ron Davis made Layup.,61,65
+10:52,150,Marvin Bagley III made Jumper.,63,65
+10:52,84,Foul on Collin Hartman.,63,65
+10:52,150,Marvin Bagley III made Free Throw.,64,65
+10:27,84,Josh Newkirk missed Three Point Jumper.,64,65
+10:27,150,Marvin Bagley III Defensive Rebound.,64,65
+10:14,150,Foul on Wendell Carter Jr.,64,65
+10:14,150,Wendell Carter Jr Turnover.,64,65
+9:52,84,Devonte Green missed Three Point Jumper.,64,65
+9:52,150,Trevon Duval Defensive Rebound.,64,65
+9:45,150,Grayson Allen missed Three Point Jumper.,64,65
+9:45,84,Josh Newkirk Defensive Rebound.,64,65
+9:31,84,Devonte Green made Layup.,64,67
+9:17,150,Wendell Carter Jr made Layup. Assisted by Trevon Duval.,66,67
+9:17,84,Foul on Collin Hartman.,66,67
+9:17,150,Wendell Carter Jr made Free Throw.,67,67
+9:02,84,Josh Newkirk Turnover.,67,67
+9:02,150,Marques Bolden Steal.,67,67
+9:02,84,Foul on Josh Newkirk.,67,67
+9:02,150,Trevon Duval missed Free Throw.,67,67
+9:02,150,Duke Deadball Team Rebound.,67,67
+9:02,150,Trevon Duval made Free Throw.,68,67
+8:49,84,De'Ron Davis missed Jumper.,68,67
+8:49,150,Gary Trent Jr Defensive Rebound.,68,67
+8:25,150,Trevon Duval missed Jumper.,68,67
+8:25,84,Juwan Morgan Defensive Rebound.,68,67
+8:12,84,Robert Johnson made Layup.,68,69
+7:55,150,Foul on Marvin Bagley III.,68,69
+7:55,150,Marvin Bagley III Turnover.,68,69
+7:55,84,Official TV Timeout,68,69
+7:36,84,Aljami Durham Turnover.,68,69
+7:36,150,Marques Bolden Steal.,68,69
+7:36,84,Foul on Aljami Durham.,68,69
+7:36,150,Marques Bolden missed Free Throw.,68,69
+7:36,150,Duke Deadball Team Rebound.,68,69
+7:36,150,Marques Bolden made Free Throw.,69,69
+7:15,84,Juwan Morgan missed Layup.,69,69
+7:15,150,Marques Bolden Block.,69,69
+7:15,84,Indiana Offensive Rebound.,69,69
+7:15,84,Josh Newkirk Turnover.,69,69
+7:15,150,Trevon Duval Steal.,69,69
+7:10,150,Trevon Duval missed Jumper.,69,69
+7:10,84,Devonte Green Defensive Rebound.,69,69
+7:06,84,Juwan Morgan made Dunk. Assisted by Devonte Green.,69,71
+6:42,150,Gary Trent Jr missed Three Point Jumper.,69,71
+6:42,84,De'Ron Davis Defensive Rebound.,69,71
+6:31,84,De'Ron Davis made Dunk. Assisted by Devonte Green.,69,73
+6:04,150,Marvin Bagley III made Layup. Assisted by Gary Trent Jr.,71,73
+6:04,84,Foul on Juwan Morgan.,71,73
+6:04,150,Marvin Bagley III made Free Throw.,72,73
+5:41,84,Robert Johnson Turnover.,72,73
+5:41,150,Gary Trent Jr Steal.,72,73
+5:41,84,Foul on Robert Johnson.,72,73
+5:41,150,Gary Trent Jr made Free Throw.,73,73
+5:41,150,Gary Trent Jr made Free Throw.,74,73
+5:41,150,Duke  Timeout,74,73
+5:34,84,Devonte Green missed Jumper.,74,73
+5:34,84,Collin Hartman Offensive Rebound.,74,73
+5:29,84,Collin Hartman made Layup.,74,75
+5:12,150,Marvin Bagley III missed Jumper.,74,75
+5:12,150,Wendell Carter Jr Offensive Rebound.,74,75
+5:09,84,Foul on Freddie McSwain Jr..,74,75
+5:09,150,Wendell Carter Jr missed Free Throw.,74,75
+5:09,150,Duke Deadball Team Rebound.,74,75
+5:09,150,Wendell Carter Jr made Free Throw.,75,75
+4:45,150,Foul on Wendell Carter Jr.,75,75
+4:45,84,De'Ron Davis missed Free Throw.,75,75
+4:45,84,Indiana Deadball Team Rebound.,75,75
+4:45,84,De'Ron Davis missed Free Throw.,75,75
+4:45,150,Grayson Allen Defensive Rebound.,75,75
+4:32,150,Wendell Carter Jr made Layup. Assisted by Trevon Duval.,77,75
+4:32,84,Foul on Aljami Durham.,77,75
+4:32,150,Wendell Carter Jr made Free Throw.,78,75
+4:11,150,Foul on Marques Bolden.,78,75
+4:11,84,De'Ron Davis made Free Throw.,78,76
+4:11,84,De'Ron Davis made Free Throw.,78,77
+4:00,150,Grayson Allen made Three Point Jumper.,81,77
+3:39,150,Foul on Wendell Carter Jr.,81,77
+3:39,84,Official TV Timeout,81,77
+3:39,84,De'Ron Davis missed Free Throw.,81,77
+3:39,84,Indiana Deadball Team Rebound.,81,77
+3:39,84,De'Ron Davis missed Free Throw.,81,77
+3:39,150,Marvin Bagley III Defensive Rebound.,81,77
+3:17,150,Marvin Bagley III made Layup. Assisted by Grayson Allen.,83,77
+2:57,84,Robert Johnson missed Jumper.,83,77
+2:57,84,De'Ron Davis Offensive Rebound.,83,77
+2:48,84,Josh Newkirk missed Jumper.,83,77
+2:48,150,Marvin Bagley III Defensive Rebound.,83,77
+2:24,150,Gary Trent Jr made Jumper. Assisted by Marvin Bagley III.,85,77
+2:24,84,Foul on De'Ron Davis.,85,77
+2:24,150,Gary Trent Jr made Free Throw.,86,77
+1:59,150,Foul on Marques Bolden.,86,77
+1:59,84,Robert Johnson made Free Throw.,86,78
+1:59,84,Robert Johnson made Free Throw.,86,79
+1:35,150,Grayson Allen made Jumper.,88,79
+1:16,84,Robert Johnson Turnover.,88,79
+0:54,150,Grayson Allen missed Three Point Jumper.,88,79
+0:54,150,Gary Trent Jr Offensive Rebound.,88,79
+0:39,84,Foul on Devonte Green.,88,79
+0:39,150,Trevon Duval made Free Throw.,89,79
+0:39,150,Trevon Duval missed Free Throw.,89,79
+0:39,84,Robert Johnson Defensive Rebound.,89,79
+0:30,150,Foul on Javin DeLaurier.,89,79
+0:30,84,Juwan Morgan made Free Throw.,89,80
+0:30,84,Juwan Morgan made Free Throw.,89,81
+0:28,84,Foul on Robert Johnson.,89,81
+0:28,150,Gary Trent Jr made Free Throw.,90,81
+0:28,150,Gary Trent Jr made Free Throw.,91,81
+0:22,84,Devonte Green missed Three Point Jumper.,91,81
+0:22,150,Gary Trent Jr Defensive Rebound.,91,81
+0:00,84,End of Game,91,81

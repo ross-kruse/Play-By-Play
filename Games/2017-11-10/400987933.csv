@@ -1,0 +1,366 @@
+LIU Brooklyn,2655,Tulane,2341
+time,team_id,description,h_score,a_score
+19:46,2655,Jordan Cornish made Jumper.,0,2
+19:33,2341,Foul on Raiquan Clark.,0,2
+19:33,2341,Raiquan Clark Turnover.,0,2
+19:14,2655,Cameron Reynolds missed Jumper.,0,2
+19:14,2341,Joel Hernandez Defensive Rebound.,0,2
+19:04,2341,Joel Hernandez Turnover.,0,2
+18:51,2655,Melvin Frazier missed Three Point Jumper.,0,2
+18:51,2655,Blake Paul Offensive Rebound.,0,2
+18:37,2655,Ray Ona Embo missed Three Point Jumper.,0,2
+18:37,2655,Jordan Cornish Offensive Rebound.,0,2
+18:31,2655,Cameron Reynolds missed Three Point Jumper.,0,2
+18:31,2341,Joel Hernandez Defensive Rebound.,0,2
+18:23,2655,Foul on Ray Ona Embo.,0,2
+18:19,2341,Joel Hernandez missed Layup.,0,2
+18:19,2655,Colin Slater Block.,0,2
+18:17,2655,Colin Slater Defensive Rebound.,0,2
+18:01,2655,Melvin Frazier Turnover.,0,2
+18:00,2341,Julian Batts Steal.,0,2
+17:55,2341,Joel Hernandez made Three Point Jumper. Assisted by Julian Batts.,3,2
+17:39,2655,Melvin Frazier made Layup.,3,4
+17:21,2341,Raiquan Clark made Layup.,5,4
+17:07,2655,Cameron Reynolds missed Three Point Jumper.,5,4
+17:07,2341,Julian Batts Defensive Rebound.,5,4
+17:00,2341,Julian Batts made Layup.,7,4
+16:48,2655,Blake Paul Turnover.,7,4
+16:41,2341,Zach Coleman made Layup.,9,4
+16:27,2655,Colin Slater Turnover.,9,4
+16:26,2341,Raiquan Clark Steal.,9,4
+16:24,2341,Raiquan Clark made Dunk.,11,4
+16:21,2655,Tulane  Timeout,11,4
+16:02,2655,Melvin Frazier missed Three Point Jumper.,11,4
+16:02,2341,Raiquan Clark Defensive Rebound.,11,4
+15:49,2341,Joel Hernandez made Layup. Assisted by Julian Batts.,13,4
+15:34,2655,Jordan Cornish made Jumper.,13,6
+15:33,2341,Foul on Julian Batts.,13,6
+15:33,2655,Jordan Cornish made Free Throw.,13,7
+15:19,2341,Joel Hernandez missed Jumper.,13,7
+15:19,2655,Tulane Defensive Rebound.,13,7
+14:59,2655,Ray Ona Embo missed Three Point Jumper.,13,7
+14:59,2655,Blake Paul Offensive Rebound.,13,7
+14:59,2341,Foul on Zach Coleman.,13,7
+14:55,2655,Cameron Reynolds made Three Point Jumper. Assisted by Ray Ona Embo.,13,10
+14:35,2341,Raiquan Clark made Layup.,15,10
+14:24,2655,Jordan Cornish missed Three Point Jumper.,15,10
+14:24,2341,Zach Coleman Defensive Rebound.,15,10
+14:17,2341,Jashaun Agosto missed Three Point Jumper.,15,10
+14:17,2655,Blake Paul Defensive Rebound.,15,10
+13:57,2655,Melvin Frazier missed Three Point Jumper.,15,10
+13:57,2341,LIU Brooklyn Defensive Rebound.,15,10
+13:36,2341,Raiquan Clark Turnover.,15,10
+13:20,2341,Foul on Julius van Sauers.,15,10
+13:19,2655,Cameron Reynolds made Three Point Jumper. Assisted by Ray Ona Embo.,15,13
+13:02,2341,Jamall Robinson missed Jumper.,15,13
+13:02,2655,Samir Sehic Defensive Rebound.,15,13
+12:48,2655,Melvin Frazier made Layup.,15,15
+12:39,2341,Jashaun Agosto missed Layup.,15,15
+12:39,2655,Samir Sehic Defensive Rebound.,15,15
+12:30,2655,Ray Ona Embo made Three Point Jumper.,15,18
+12:27,2341,LIU Brooklyn  Timeout,15,18
+12:18,2341,Jashaun Agosto made Jumper.,17,18
+12:03,2341,Foul on Julius van Sauers.,17,18
+11:55,2655,Ray Ona Embo made Three Point Jumper. Assisted by Jordan Cornish.,17,21
+11:36,2341,Jashaun Agosto missed Layup.,17,21
+11:36,2655,Samir Sehic Defensive Rebound.,17,21
+11:36,2341,Foul on Zach Coleman.,17,21
+11:22,2655,Cameron Reynolds made Layup. Assisted by Melvin Frazier.,17,23
+11:02,2341,Joel Hernandez made Jumper.,19,23
+10:42,2655,Melvin Frazier missed Layup.,19,23
+10:42,2341,Raiquan Clark Block.,19,23
+10:39,2655,Melvin Frazier Offensive Rebound.,19,23
+10:37,2655,Melvin Frazier made Layup.,19,25
+10:24,2341,Raiquan Clark made Layup.,21,25
+10:14,2655,Cameron Reynolds made Layup.,21,27
+9:52,2341,Joel Hernandez Turnover.,21,27
+9:51,2655,Melvin Frazier Steal.,21,27
+9:44,2655,Cameron Reynolds missed Three Point Jumper.,21,27
+9:44,2341,Jashaun Agosto Defensive Rebound.,21,27
+9:33,2655,Foul on Cameron Reynolds.,21,27
+9:30,2341,Jamall Robinson missed Three Point Jumper.,21,27
+9:30,2655,Ray Ona Embo Defensive Rebound.,21,27
+9:25,2655,Jordan Cornish missed Layup.,21,27
+9:25,2341,Jamall Robinson Block.,21,27
+9:24,2341,Jamall Robinson Defensive Rebound.,21,27
+9:16,2341,Jashaun Agosto missed Three Point Jumper.,21,27
+9:16,2655,Samir Sehic Defensive Rebound.,21,27
+9:00,2655,Jordan Cornish missed Three Point Jumper.,21,27
+9:00,2341,Joel Hernandez Defensive Rebound.,21,27
+8:53,2341,Joel Hernandez Turnover.,21,27
+8:42,2655,Ray Ona Embo made Layup. Assisted by Samir Sehic.,21,29
+8:23,2341,Joel Hernandez missed Three Point Jumper.,21,29
+8:23,2655,Jordan Cornish Defensive Rebound.,21,29
+8:13,2655,Cameron Reynolds Turnover.,21,29
+7:50,2341,Raiquan Clark missed Three Point Jumper.,21,29
+7:50,2655,Ray Ona Embo Defensive Rebound.,21,29
+7:38,2655,Cameron Reynolds missed Layup.,21,29
+7:38,2655,Samir Sehic Offensive Rebound.,21,29
+7:35,2655,Samir Sehic missed Layup.,21,29
+7:35,2655,Samir Sehic Offensive Rebound.,21,29
+7:33,2655,Samir Sehic made Two Point Tip Shot.,21,31
+7:14,2341,Jamall Robinson made Jumper.,23,31
+6:55,2655,Samir Sehic missed Layup.,23,31
+6:55,2341,Raiquan Clark Defensive Rebound.,23,31
+6:47,2341,Raul Frias made Three Point Jumper. Assisted by Jashaun Agosto.,26,31
+6:30,2655,Colin Slater made Three Point Jumper. Assisted by Ray Ona Embo.,26,34
+6:22,2655,Foul on Ray Ona Embo.,26,34
+6:22,2655,Official TV Timeout,26,34
+6:17,2341,Zach Coleman missed Layup.,26,34
+6:17,2655,Samir Sehic Defensive Rebound.,26,34
+6:09,2655,Samir Sehic made Three Point Jumper. Assisted by Shakwon Barrett.,26,37
+5:40,2341,Zach Coleman missed Jumper.,26,37
+5:40,2655,Colin Slater Defensive Rebound.,26,37
+5:24,2655,Cameron Reynolds missed Jumper.,26,37
+5:24,2655,Samir Sehic Offensive Rebound.,26,37
+5:20,2655,Samir Sehic made Layup.,26,39
+5:05,2341,Jamall Robinson made Jumper.,28,39
+4:47,2341,Foul on Jamall Robinson.,28,39
+4:47,2655,Cameron Reynolds made Free Throw.,28,40
+4:47,2655,Cameron Reynolds made Free Throw.,28,41
+4:30,2341,Jashaun Agosto made Jumper.,30,41
+4:14,2655,Samir Sehic made Layup. Assisted by Jordan Cornish.,30,43
+3:59,2341,Joel Hernandez Turnover.,30,43
+3:58,2655,Samir Sehic Steal.,30,43
+3:48,2655,Cameron Reynolds missed Jumper.,30,43
+3:48,2341,Raiquan Clark Defensive Rebound.,30,43
+3:46,2655,Foul on Samir Sehic.,30,43
+3:45,2655,Official TV Timeout,30,43
+3:35,2655,Foul on Bul Ajang.,30,43
+3:35,2341,Raiquan Clark made Free Throw.,31,43
+3:35,2341,Raiquan Clark made Free Throw.,32,43
+3:20,2655,Foul on Jordan Cornish.,32,43
+3:20,2655,Jordan Cornish Turnover.,32,43
+3:08,2341,Raiquan Clark missed Layup.,32,43
+3:08,2655,Samir Sehic Defensive Rebound.,32,43
+3:02,2341,Foul on Jashaun Agosto.,32,43
+3:02,2655,Colin Slater made Free Throw.,32,44
+3:02,2655,Colin Slater made Free Throw.,32,45
+2:53,2341,Joel Hernandez made Layup.,34,45
+2:53,2655,Foul on Melvin Frazier.,34,45
+2:53,2341,Joel Hernandez made Free Throw.,35,45
+2:38,2655,Jordan Cornish missed Jumper.,35,45
+2:38,2341,Raiquan Clark Defensive Rebound.,35,45
+2:33,2341,Joel Hernandez missed Layup.,35,45
+2:33,2341,LIU Brooklyn Offensive Rebound.,35,45
+2:31,2341,Raiquan Clark Turnover.,35,45
+2:14,2655,Foul on Samir Sehic.,35,45
+2:14,2655,Samir Sehic Turnover.,35,45
+2:05,2341,Joel Hernandez missed Three Point Jumper.,35,45
+2:05,2655,Tulane Defensive Rebound.,35,45
+1:44,2341,Foul on Jamall Robinson.,35,45
+1:44,2655,Cameron Reynolds made Free Throw.,35,46
+1:44,2655,Cameron Reynolds missed Free Throw.,35,46
+1:44,2341,Raiquan Clark Defensive Rebound.,35,46
+1:31,2341,Jashaun Agosto missed Layup.,35,46
+1:31,2655,Colin Slater Block.,35,46
+1:29,2655,Bul Ajang Defensive Rebound.,35,46
+1:25,2341,Foul on Raiquan Clark.,35,46
+1:25,2655,Jordan Cornish missed Free Throw.,35,46
+1:25,2655,Tulane Deadball Team Rebound.,35,46
+1:25,2655,Jordan Cornish made Free Throw.,35,47
+0:57,2341,Joel Hernandez missed Jumper.,35,47
+0:57,2655,Colin Slater Defensive Rebound.,35,47
+0:50,2655,Colin Slater made Layup.,35,49
+0:42,2341,Jamall Robinson missed Three Point Jumper.,35,49
+0:42,2655,Melvin Frazier Defensive Rebound.,35,49
+0:20,2655,Colin Slater made Three Point Jumper.,35,52
+0:02,2341,Jashaun Agosto made Three Point Jumper.,38,52
+0:02,2655,Foul on Cameron Reynolds.,38,52
+0:02,2341,Jashaun Agosto missed Free Throw.,38,52
+0:02,2655,Colin Slater Defensive Rebound.,38,52
+0:00,2655,End of 1st half,38,52
+19:50,2655,Foul on Melvin Frazier.,38,52
+19:43,2341,Raiquan Clark missed Jumper.,38,52
+19:43,2655,Blake Paul Defensive Rebound.,38,52
+19:31,2655,Jordan Cornish made Layup.,38,54
+19:12,2341,Zach Coleman made Layup. Assisted by Joel Hernandez.,40,54
+18:49,2655,Blake Paul made Jumper. Assisted by Cameron Reynolds.,40,56
+18:31,2341,Joel Hernandez made Layup.,42,56
+18:17,2655,Ray Ona Embo missed Three Point Jumper.,42,56
+18:17,2341,Raiquan Clark Defensive Rebound.,42,56
+18:09,2341,Raiquan Clark made Layup.,44,56
+18:00,2655,Melvin Frazier missed Jumper.,44,56
+18:00,2341,Jashaun Agosto Defensive Rebound.,44,56
+17:46,2341,Raiquan Clark made Jumper.,46,56
+17:40,2655,Tulane  Timeout,46,56
+17:32,2655,Blake Paul made Layup. Assisted by Cameron Reynolds.,46,58
+17:23,2341,Raiquan Clark made Layup.,48,58
+17:08,2655,Melvin Frazier made Layup.,48,60
+16:44,2341,Raiquan Clark made Layup.,50,60
+16:29,2655,Melvin Frazier made Layup. Assisted by Cameron Reynolds.,50,62
+16:19,2341,Joel Hernandez Turnover.,50,62
+16:19,2655,Blake Paul Steal.,50,62
+16:09,2655,Ray Ona Embo made Three Point Jumper. Assisted by Jordan Cornish.,50,65
+15:43,2341,Jashaun Agosto made Three Point Jumper.,53,65
+15:20,2655,Melvin Frazier made Dunk. Assisted by Ray Ona Embo.,53,67
+15:17,2655,Official TV Timeout,53,67
+15:05,2341,Raiquan Clark made Three Point Jumper. Assisted by Joel Hernandez.,56,67
+14:39,2655,Jordan Cornish missed Layup.,56,67
+14:39,2341,Joel Hernandez Block.,56,67
+14:38,2341,LIU Brooklyn Defensive Rebound.,56,67
+14:24,2341,Joel Hernandez missed Layup.,56,67
+14:24,2655,Blake Paul Block.,56,67
+14:22,2341,Jashaun Agosto Offensive Rebound.,56,67
+14:21,2341,Jashaun Agosto missed Three Point Jumper.,56,67
+14:21,2655,Jordan Cornish Defensive Rebound.,56,67
+14:14,2341,Foul on Jamall Robinson.,56,67
+14:14,2655,Melvin Frazier made Free Throw.,56,68
+14:14,2655,Melvin Frazier made Free Throw.,56,69
+13:58,2341,Raiquan Clark missed Layup.,56,69
+13:58,2655,Blake Paul Block.,56,69
+13:57,2341,Raiquan Clark Offensive Rebound.,56,69
+13:54,2341,Joel Hernandez missed Three Point Jumper.,56,69
+13:54,2655,Blake Paul Defensive Rebound.,56,69
+13:47,2655,Jordan Cornish made Dunk. Assisted by Ray Ona Embo.,56,71
+13:29,2341,Raiquan Clark made Jumper.,58,71
+13:21,2655,Jordan Cornish Turnover.,58,71
+13:20,2341,Jamall Robinson Steal.,58,71
+13:15,2341,Foul on Julius van Sauers.,58,71
+13:15,2341,Julius van Sauers Turnover.,58,71
+12:58,2655,Melvin Frazier made Dunk. Assisted by Ray Ona Embo.,58,73
+12:47,2341,Raiquan Clark missed Jumper.,58,73
+12:47,2655,Blake Paul Defensive Rebound.,58,73
+12:34,2655,Ray Ona Embo Turnover.,58,73
+12:33,2341,Jamall Robinson Steal.,58,73
+12:30,2341,Jamall Robinson Turnover.,58,73
+12:20,2655,Ray Ona Embo Turnover.,58,73
+12:10,2341,Zach Coleman made Three Point Jumper.,61,73
+12:08,2341,LIU Brooklyn  Timeout,61,73
+11:50,2655,Cameron Reynolds made Three Point Jumper. Assisted by Ray Ona Embo.,61,76
+11:31,2341,Jamall Robinson made Jumper.,63,76
+11:09,2655,Melvin Frazier missed Jumper.,63,76
+11:09,2341,Joel Hernandez Block.,63,76
+11:06,2341,Joel Hernandez Defensive Rebound.,63,76
+10:58,2341,Joel Hernandez missed Jumper.,63,76
+10:58,2655,Ray Ona Embo Block.,63,76
+10:56,2655,Samir Sehic Defensive Rebound.,63,76
+10:46,2655,Ray Ona Embo missed Jumper.,63,76
+10:46,2655,Samir Sehic Offensive Rebound.,63,76
+10:45,2341,Foul on Julian Batts.,63,76
+10:45,2655,Samir Sehic made Free Throw.,63,77
+10:45,2655,Samir Sehic made Free Throw.,63,78
+10:24,2341,Julian Batts missed Three Point Jumper.,63,78
+10:24,2341,Jashaun Agosto Offensive Rebound.,63,78
+10:22,2341,Jashaun Agosto missed Jumper.,63,78
+10:22,2655,Cameron Reynolds Defensive Rebound.,63,78
+10:15,2655,Melvin Frazier missed Jumper.,63,78
+10:15,2655,Tulane Offensive Rebound.,63,78
+10:05,2655,Samir Sehic made Layup. Assisted by Colin Slater.,63,80
+9:52,2341,Zach Coleman made Jumper.,65,80
+9:31,2655,Cameron Reynolds missed Three Point Jumper.,65,80
+9:31,2341,Zach Coleman Defensive Rebound.,65,80
+9:25,2655,Foul on Colin Slater.,65,80
+9:19,2341,Jashaun Agosto made Layup.,67,80
+8:56,2655,Jordan Cornish missed Three Point Jumper.,67,80
+8:56,2341,Jashaun Agosto Defensive Rebound.,67,80
+8:46,2341,Raiquan Clark made Layup. Assisted by Zach Coleman.,69,80
+8:46,2655,Foul on Jordan Cornish.,69,80
+8:46,2341,Raiquan Clark made Free Throw.,70,80
+8:37,2341,Foul on Raul Frias.,70,80
+8:30,2655,Samir Sehic missed Three Point Jumper.,70,80
+8:30,2341,Jashaun Agosto Defensive Rebound.,70,80
+8:20,2341,Raiquan Clark made Layup.,72,80
+8:04,2655,Ray Ona Embo missed Layup.,72,80
+8:04,2341,Zach Coleman Block.,72,80
+8:02,2655,Tulane Offensive Rebound.,72,80
+8:02,2341,Foul on Jamall Robinson.,72,80
+7:58,2655,Melvin Frazier made Layup. Assisted by Colin Slater.,72,82
+7:34,2341,Zach Coleman missed Three Point Jumper.,72,82
+7:34,2655,Melvin Frazier Defensive Rebound.,72,82
+7:14,2655,Melvin Frazier missed Three Point Jumper.,72,82
+7:14,2341,Zach Coleman Defensive Rebound.,72,82
+7:05,2341,Raiquan Clark made Layup. Assisted by Joel Hernandez.,74,82
+7:05,2655,Foul on Colin Slater.,74,82
+7:05,2655,Official TV Timeout,74,82
+7:05,2341,Raiquan Clark missed Free Throw.,74,82
+7:05,2655,Jordan Cornish Defensive Rebound.,74,82
+6:51,2655,Jordan Cornish made Layup.,74,84
+6:45,2341,Joel Hernandez made Three Point Jumper. Assisted by Jashaun Agosto.,77,84
+6:32,2655,Cameron Reynolds made Layup. Assisted by Ray Ona Embo.,77,86
+6:32,2341,Foul on Zach Coleman.,77,86
+6:32,2655,Cameron Reynolds made Free Throw.,77,87
+6:11,2341,Zach Coleman made Layup.,79,87
+5:58,2655,Samir Sehic made Layup. Assisted by Ray Ona Embo.,79,89
+5:48,2341,Jashaun Agosto missed Layup.,79,89
+5:48,2655,Jordan Cornish Defensive Rebound.,79,89
+5:23,2655,Samir Sehic Turnover.,79,89
+5:14,2341,Raiquan Clark made Layup.,81,89
+4:50,2655,Samir Sehic Turnover.,81,89
+4:41,2341,Raiquan Clark missed Jumper.,81,89
+4:41,2341,Zach Coleman Offensive Rebound.,81,89
+4:38,2341,Zach Coleman missed Jumper.,81,89
+4:38,2655,Tulane Defensive Rebound.,81,89
+4:13,2341,Foul on Raiquan Clark.,81,89
+4:13,2655,Melvin Frazier made Free Throw.,81,90
+4:13,2655,Melvin Frazier missed Free Throw.,81,90
+4:13,2341,Jamall Robinson Defensive Rebound.,81,90
+4:08,2341,Jamall Robinson missed Three Point Jumper.,81,90
+4:08,2341,Joel Hernandez Offensive Rebound.,81,90
+4:03,2655,Foul on Melvin Frazier.,81,90
+4:03,2341,Joel Hernandez made Free Throw.,82,90
+4:03,2341,Joel Hernandez made Free Throw.,83,90
+3:39,2341,Foul on Jamall Robinson.,83,90
+3:39,2655,Official TV Timeout,83,90
+3:39,2655,Cameron Reynolds made Free Throw.,83,91
+3:39,2655,Cameron Reynolds missed Free Throw.,83,91
+3:39,2655,Cameron Reynolds Offensive Rebound.,83,91
+3:36,2655,Tulane  Turnover.,83,91
+3:30,2655,Foul on Bul Ajang.,83,91
+3:25,2341,Zach Coleman missed Three Point Jumper.,83,91
+3:25,2655,Melvin Frazier Block.,83,91
+3:23,2341,Zach Coleman Offensive Rebound.,83,91
+3:19,2341,Julian Batts missed Three Point Jumper.,83,91
+3:19,2655,Bul Ajang Defensive Rebound.,83,91
+3:15,2655,Bul Ajang Turnover.,83,91
+3:15,2341,Raiquan Clark Steal.,83,91
+3:14,2655,Foul on Bul Ajang.,83,91
+3:14,2341,Raiquan Clark made Free Throw.,84,91
+3:14,2341,Raiquan Clark made Free Throw.,85,91
+2:54,2655,Cameron Reynolds missed Layup.,85,91
+2:54,2341,Zach Coleman Defensive Rebound.,85,91
+2:47,2341,Zach Coleman Turnover.,85,91
+2:46,2655,Melvin Frazier Steal.,85,91
+2:28,2655,Colin Slater Turnover.,85,91
+2:27,2341,Raiquan Clark Steal.,85,91
+2:24,2341,Joel Hernandez made Layup. Assisted by Raiquan Clark.,87,91
+2:24,2655,Foul on Ray Ona Embo.,87,91
+2:24,2341,Joel Hernandez made Free Throw.,88,91
+2:12,2341,Foul on Raiquan Clark.,88,91
+2:12,2655,Jordan Cornish made Free Throw.,88,92
+2:12,2655,Jordan Cornish made Free Throw.,88,93
+1:53,2655,Foul on Ray Ona Embo.,88,93
+1:53,2341,Jashaun Agosto made Free Throw.,89,93
+1:53,2341,Jashaun Agosto made Free Throw.,90,93
+1:29,2655,Jordan Cornish missed Jumper.,90,93
+1:29,2655,Samir Sehic Offensive Rebound.,90,93
+1:08,2655,Jordan Cornish missed Layup.,90,93
+1:08,2655,Samir Sehic Offensive Rebound.,90,93
+1:05,2655,Samir Sehic missed Layup.,90,93
+1:05,2655,Samir Sehic Offensive Rebound.,90,93
+1:03,2655,Samir Sehic made Layup.,90,95
+0:54,2341,Jashaun Agosto missed Three Point Jumper.,90,95
+0:54,2655,Melvin Frazier Defensive Rebound.,90,95
+0:42,2655,Cameron Reynolds made Dunk. Assisted by Samir Sehic.,90,97
+0:38,2341,Joel Hernandez made Three Point Jumper. Assisted by Jashaun Agosto.,93,97
+0:37,2341,LIU Brooklyn  Timeout,93,97
+0:32,2341,Foul on Jashaun Agosto.,93,97
+0:32,2655,Jordan Cornish made Free Throw.,93,98
+0:32,2655,Jordan Cornish missed Free Throw.,93,98
+0:32,2341,Zach Coleman Defensive Rebound.,93,98
+0:23,2341,Zach Coleman made Three Point Jumper. Assisted by Jashaun Agosto.,96,98
+0:22,2341,LIU Brooklyn  Timeout,96,98
+0:18,2341,Foul on Eral Penn.,96,98
+0:18,2655,Jordan Cornish made Free Throw.,96,99
+0:18,2655,Jordan Cornish made Free Throw.,96,100
+0:11,2341,Zach Coleman missed Three Point Jumper.,96,100
+0:11,2655,Tulane Defensive Rebound.,96,100
+0:08,2341,Foul on Raul Frias.,96,100
+0:08,2655,Cameron Reynolds made Free Throw.,96,101
+0:08,2655,Cameron Reynolds made Free Throw.,96,102
+0:08,2655,Tulane  Timeout,96,102
+0:05,2341,Jashaun Agosto missed Three Point Jumper.,96,102
+0:04,2341,Joel Hernandez Offensive Rebound.,96,102
+0:03,2341,Joel Hernandez missed Layup.,96,102
+0:02,2655,Jordan Cornish Defensive Rebound.,96,102
+0:00,2655,End of Game,96,102

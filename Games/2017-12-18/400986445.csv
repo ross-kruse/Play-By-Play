@@ -1,0 +1,402 @@
+Houston Baptist,127,Michigan State,2277
+time,team_id,description,h_score,a_score
+20:00,127,Jump Ball won by Michigan State,0,0
+19:48,127,Miles Bridges made Dunk. Assisted by Cassius Winston.,0,2
+19:28,2277,Foul on Edward Hardt.,0,2
+19:28,2277,Edward Hardt Turnover.,0,2
+19:23,127,Cassius Winston Turnover.,0,2
+19:23,2277,Braxton Bonds Steal.,0,2
+19:22,2277,Braxton Bonds Turnover.,0,2
+19:09,127,Jaren Jackson Jr. Turnover.,0,2
+19:09,2277,William Gates Jr. Steal.,0,2
+19:01,2277,Braxton Bonds missed Jumper.,0,2
+19:01,2277,David Caraher Offensive Rebound.,0,2
+18:58,127,Foul on Jaren Jackson Jr..,0,2
+18:58,2277,David Caraher made Free Throw.,1,2
+18:58,2277,David Caraher made Free Throw.,2,2
+18:45,127,Miles Bridges Turnover.,2,2
+18:45,2277,Ian DuBose Steal.,2,2
+18:38,2277,Ian DuBose missed Layup.,2,2
+18:38,127,Jaren Jackson Jr. Defensive Rebound.,2,2
+18:32,127,Miles Bridges missed Three Point Jumper.,2,2
+18:32,127,Nick Ward Offensive Rebound.,2,2
+18:27,127,Nick Ward made Dunk.,2,4
+18:26,127,Michigan State  Timeout,2,4
+18:01,2277,Ian DuBose missed Jumper.,2,4
+18:01,2277,David Caraher Offensive Rebound.,2,4
+17:53,2277,Edward Hardt missed Layup.,2,4
+17:53,127,Jaren Jackson Jr. Block.,2,4
+17:53,127,Jaren Jackson Jr. Defensive Rebound.,2,4
+17:47,127,Jaren Jackson Jr. Turnover.,2,4
+17:47,2277,Ian DuBose Steal.,2,4
+17:33,2277,David Caraher missed Three Point Jumper.,2,4
+17:33,2277,Braxton Bonds Offensive Rebound.,2,4
+17:26,2277,Tim Myles missed Jumper.,2,4
+17:26,127,Miles Bridges Defensive Rebound.,2,4
+17:15,2277,Foul on Tim Myles.,2,4
+17:12,2277,Foul on William Gates Jr..,2,4
+17:12,127,Ben Carter made Free Throw.,2,5
+17:12,127,Ben Carter missed Free Throw.,2,5
+17:12,2277,Ian DuBose Defensive Rebound.,2,5
+16:54,2277,William Gates Jr. made Layup.,4,5
+16:47,127,Joshua Langford missed Three Point Jumper.,4,5
+16:47,127,Nick Ward Offensive Rebound.,4,5
+16:42,127,Nick Ward made Layup.,4,7
+16:38,2277,Braxton Bonds Turnover.,4,7
+16:29,2277,Foul on Tim Myles.,4,7
+16:24,127,Miles Bridges made Three Point Jumper. Assisted by Ben Carter.,4,10
+15:50,2277,Houston Baptist  Turnover.,4,10
+15:50,127,Official TV Timeout,4,10
+15:40,127,Cassius Winston made Three Point Jumper. Assisted by Joshua Langford.,4,13
+15:09,2277,Braxton Bonds made Layup.,6,13
+14:58,127,Ben Carter missed Jumper.,6,13
+14:58,2277,Braxton Bonds Defensive Rebound.,6,13
+14:33,2277,William Gates Jr. missed Layup.,6,13
+14:33,127,Ben Carter Block.,6,13
+14:33,2277,Houston Baptist Offensive Rebound.,6,13
+14:29,2277,Ian DuBose missed Jumper.,6,13
+14:29,127,Cassius Winston Defensive Rebound.,6,13
+14:19,127,Joshua Langford made Jumper. Assisted by Cassius Winston.,6,15
+13:50,127,Foul on Matt McQuaid.,6,15
+13:50,2277,Ian DuBose made Free Throw.,7,15
+13:50,2277,Ian DuBose made Free Throw.,8,15
+13:43,127,Foul on Jaren Jackson Jr..,8,15
+13:43,127,Jaren Jackson Jr. Turnover.,8,15
+13:23,2277,Braxton Bonds missed Jumper.,8,15
+13:23,127,Jaren Jackson Jr. Defensive Rebound.,8,15
+13:16,127,Gavin Schilling made Layup. Assisted by Cassius Winston.,8,17
+13:16,2277,Foul on Chukuka Emili.,8,17
+13:16,127,Gavin Schilling made Free Throw.,8,18
+12:51,2277,David Caraher missed Jumper.,8,18
+12:51,127,Jaren Jackson Jr. Block.,8,18
+12:51,2277,Edward Hardt Offensive Rebound.,8,18
+12:46,2277,Edward Hardt made Layup.,10,18
+12:25,127,Cassius Winston missed Three Point Jumper.,10,18
+12:25,127,Jaren Jackson Jr. Offensive Rebound.,10,18
+12:15,127,Gavin Schilling made Dunk. Assisted by Cassius Winston.,10,20
+12:00,127,Foul on Jaren Jackson Jr..,10,20
+12:00,127,Official TV Timeout,10,20
+11:45,2277,Jalon Gates made Layup.,12,20
+11:39,127,Miles Bridges made Dunk. Assisted by Joshua Langford.,12,22
+11:34,2277,Foul on Edward Hardt.,12,22
+11:34,127,Miles Bridges made Free Throw.,12,23
+11:19,2277,Chukuka Emili missed Three Point Jumper.,12,23
+11:19,2277,Chukuka Emili Offensive Rebound.,12,23
+11:09,2277,Ian DuBose missed Three Point Jumper.,12,23
+11:09,2277,Philip McKenzie Offensive Rebound.,12,23
+11:07,2277,Philip McKenzie missed Layup.,12,23
+11:07,127,Kenny Goins Block.,12,23
+11:07,2277,Houston Baptist Offensive Rebound.,12,23
+11:03,127,Foul on Joshua Langford.,12,23
+11:03,2277,Jalon Gates made Free Throw.,13,23
+11:03,2277,Jalon Gates made Free Throw.,14,23
+11:03,2277,Jalon Gates made Free Throw.,15,23
+10:57,127,Xavier Tillman made Layup. Assisted by Miles Bridges.,15,25
+10:27,2277,Chukuka Emili missed Jumper.,15,25
+10:27,127,Kenny Goins Defensive Rebound.,15,25
+10:05,127,Miles Bridges missed Three Point Jumper.,15,25
+10:05,127,Xavier Tillman Offensive Rebound.,15,25
+10:01,127,Xavier Tillman missed Layup.,15,25
+10:01,2277,Ian DuBose Defensive Rebound.,15,25
+9:40,2277,Ian DuBose missed Jumper.,15,25
+9:40,127,Miles Bridges Defensive Rebound.,15,25
+9:33,127,Joshua Langford missed Jumper.,15,25
+9:33,2277,Chukuka Emili Defensive Rebound.,15,25
+9:17,2277,Oliver Lynch-Daniels missed Jumper.,15,25
+9:17,127,Lourawls Nairn Jr. Defensive Rebound.,15,25
+9:10,127,Lourawls Nairn Jr. Turnover.,15,25
+8:54,2277,Foul on Jalon Gates.,15,25
+8:54,2277,Jalon Gates Turnover.,15,25
+8:41,127,Miles Bridges made Jumper. Assisted by Cassius Winston.,15,27
+8:30,2277,Jalon Gates made Three Point Jumper. Assisted by Oliver Lynch-Daniels.,18,27
+8:11,127,Nick Ward made Jumper.,18,29
+8:11,2277,Foul on Chukuka Emili.,18,29
+8:11,127,Nick Ward made Free Throw.,18,30
+7:55,2277,Jalon Gates made Three Point Jumper. Assisted by Ian DuBose.,21,30
+7:41,127,Miles Bridges made Three Point Jumper. Assisted by Lourawls Nairn Jr..,21,33
+7:23,2277,Braxton Bonds made Layup.,23,33
+7:11,127,Joshua Langford made Three Point Jumper. Assisted by Cassius Winston.,23,36
+6:38,2277,Philip McKenzie missed Layup.,23,36
+6:38,127,Nick Ward Block.,23,36
+6:38,2277,Philip McKenzie Offensive Rebound.,23,36
+6:31,2277,Philip McKenzie missed Layup.,23,36
+6:31,2277,David Caraher Offensive Rebound.,23,36
+6:31,2277,David Caraher made Two Point Tip Shot.,25,36
+6:22,127,Miles Bridges missed Three Point Jumper.,25,36
+6:22,2277,David Caraher Defensive Rebound.,25,36
+6:22,127,Foul on Nick Ward.,25,36
+6:22,127,Official TV Timeout,25,36
+5:54,2277,Jalon Gates missed Layup.,25,36
+5:54,127,Matt McQuaid Defensive Rebound.,25,36
+5:43,2277,Foul on Philip McKenzie.,25,36
+5:43,127,Nick Ward missed Free Throw.,25,36
+5:43,127,Michigan State Deadball Team Rebound.,25,36
+5:43,127,Nick Ward made Free Throw.,25,37
+5:23,2277,Ian DuBose missed Jumper.,25,37
+5:23,127,Kenny Goins Block.,25,37
+5:23,127,Matt McQuaid Defensive Rebound.,25,37
+5:07,127,Joshua Langford made Three Point Jumper. Assisted by Matt McQuaid.,25,40
+4:46,2277,David Caraher Turnover.,25,40
+4:46,127,Joshua Langford Steal.,25,40
+4:41,127,Joshua Langford made Layup.,25,42
+4:34,2277,Ian DuBose made Layup. Assisted by Braxton Bonds.,27,42
+4:26,127,Nick Ward made Jumper. Assisted by Cassius Winston.,27,44
+4:08,2277,Braxton Bonds missed Jumper.,27,44
+4:08,2277,David Caraher Offensive Rebound.,27,44
+4:08,127,Foul on Kenny Goins.,27,44
+4:08,2277,Philip McKenzie missed Free Throw.,27,44
+4:08,127,Gavin Schilling Defensive Rebound.,27,44
+3:49,2277,Foul on Ian DuBose.,27,44
+3:49,127,Official TV Timeout,27,44
+3:49,127,Gavin Schilling made Free Throw.,27,45
+3:49,127,Gavin Schilling missed Free Throw.,27,45
+3:49,2277,Tim Myles Defensive Rebound.,27,45
+3:27,2277,Tim Myles made Jumper. Assisted by Ian DuBose.,29,45
+3:09,127,Miles Bridges made Three Point Jumper. Assisted by Cassius Winston.,29,48
+2:48,2277,David Caraher missed Jumper.,29,48
+2:48,127,Gavin Schilling Defensive Rebound.,29,48
+2:40,127,Miles Bridges made Jumper. Assisted by Cassius Winston.,29,50
+2:27,2277,Foul on Tim Myles.,29,50
+2:27,2277,Tim Myles Turnover.,29,50
+2:16,127,Cassius Winston Turnover.,29,50
+2:16,2277,Braxton Bonds Steal.,29,50
+2:09,2277,Braxton Bonds made Dunk.,31,50
+1:52,127,Kenny Goins made Jumper. Assisted by Miles Bridges.,31,52
+1:33,2277,David Caraher Turnover.,31,52
+1:24,127,Foul on Gavin Schilling.,31,52
+1:24,127,Gavin Schilling Turnover.,31,52
+1:12,2277,William Gates Jr. missed Three Point Jumper.,31,52
+1:12,2277,Ian DuBose Offensive Rebound.,31,52
+1:10,127,Foul on Lourawls Nairn Jr..,31,52
+1:10,2277,Ian DuBose missed Free Throw.,31,52
+1:10,127,Gavin Schilling Defensive Rebound.,31,52
+1:03,127,Miles Bridges made Jumper. Assisted by Cassius Winston.,31,54
+0:44,2277,David Caraher missed Three Point Jumper.,31,54
+0:44,2277,Braxton Bonds Offensive Rebound.,31,54
+0:37,2277,Braxton Bonds missed Layup.,31,54
+0:37,2277,Tim Myles Offensive Rebound.,31,54
+0:32,2277,Tim Myles missed Layup.,31,54
+0:32,2277,Braxton Bonds Offensive Rebound.,31,54
+0:29,2277,Braxton Bonds made Layup.,33,54
+0:25,127,Michigan State  Timeout,33,54
+0:01,127,Matt McQuaid missed Three Point Jumper.,33,54
+0:01,2277,David Caraher Defensive Rebound.,33,54
+0:00,127,End of 1st half,33,54
+20:00,2277,Jump Ball won by Houston Baptist,33,54
+19:53,127,Foul on Jaren Jackson Jr..,33,54
+19:49,127,Foul on Nick Ward.,33,54
+19:40,2277,Edward Hardt Turnover.,33,54
+19:31,127,Nick Ward made Layup. Assisted by Joshua Langford.,33,56
+19:07,2277,Braxton Bonds missed Layup.,33,56
+19:07,127,Nick Ward Defensive Rebound.,33,56
+19:00,127,Jaren Jackson Jr. missed Layup.,33,56
+19:00,2277,Ian DuBose Block.,33,56
+19:00,2277,Edward Hardt Defensive Rebound.,33,56
+18:49,2277,William Gates Jr. missed Layup.,33,56
+18:49,127,Jaren Jackson Jr. Block.,33,56
+18:49,2277,Houston Baptist Offensive Rebound.,33,56
+18:39,2277,David Caraher missed Jumper.,33,56
+18:39,127,Cassius Winston Defensive Rebound.,33,56
+18:31,127,Nick Ward made Layup. Assisted by Miles Bridges.,33,58
+18:06,2277,Edward Hardt missed Jumper.,33,58
+18:06,127,Nick Ward Block.,33,58
+18:06,127,Cassius Winston Defensive Rebound.,33,58
+17:59,2277,Foul on William Gates Jr..,33,58
+17:44,2277,Foul on William Gates Jr..,33,58
+17:44,127,Miles Bridges made Free Throw.,33,59
+17:44,127,Miles Bridges made Free Throw.,33,60
+17:29,2277,Chukuka Emili missed Three Point Jumper.,33,60
+17:29,127,Joshua Langford Defensive Rebound.,33,60
+17:19,127,Nick Ward made Dunk. Assisted by Miles Bridges.,33,62
+17:12,2277,David Caraher missed Three Point Jumper.,33,62
+17:12,2277,Ian DuBose Offensive Rebound.,33,62
+16:50,2277,Braxton Bonds missed Layup.,33,62
+16:50,127,Miles Bridges Block.,33,62
+16:50,127,Nick Ward Defensive Rebound.,33,62
+16:44,127,Cassius Winston Turnover.,33,62
+16:28,2277,David Caraher made Jumper.,35,62
+16:20,127,Joshua Langford missed Jumper.,35,62
+16:20,2277,Chukuka Emili Block.,35,62
+16:20,2277,Ian DuBose Defensive Rebound.,35,62
+16:12,2277,Oliver Lynch-Daniels missed Layup.,35,62
+16:12,127,Jaren Jackson Jr. Defensive Rebound.,35,62
+16:10,2277,Foul on Ian DuBose.,35,62
+16:02,127,Miles Bridges made Jumper. Assisted by Gavin Schilling.,35,64
+15:42,2277,David Caraher missed Layup.,35,64
+15:42,2277,Chukuka Emili Offensive Rebound.,35,64
+15:36,2277,Ian DuBose made Layup.,37,64
+15:36,127,Foul on Miles Bridges.,37,64
+15:36,127,Official TV Timeout,37,64
+15:36,2277,Ian DuBose missed Free Throw.,37,64
+15:36,127,Gavin Schilling Defensive Rebound.,37,64
+15:25,127,Matt McQuaid made Jumper. Assisted by Lourawls Nairn Jr..,37,66
+15:00,2277,Ian DuBose Turnover.,37,66
+15:00,127,Gavin Schilling Steal.,37,66
+14:54,127,Matt McQuaid missed Three Point Jumper.,37,66
+14:54,2277,Philip McKenzie Defensive Rebound.,37,66
+14:38,2277,Oliver Lynch-Daniels Turnover.,37,66
+14:28,127,Jaren Jackson Jr. Turnover.,37,66
+14:28,2277,Ian DuBose Steal.,37,66
+14:23,2277,Ian DuBose missed Layup.,37,66
+14:23,127,Jaren Jackson Jr. Block.,37,66
+14:23,127,Lourawls Nairn Jr. Defensive Rebound.,37,66
+14:17,2277,Foul on Braxton Bonds.,37,66
+14:17,127,Gavin Schilling made Free Throw.,37,67
+14:17,127,Gavin Schilling missed Free Throw.,37,67
+14:17,2277,Philip McKenzie Defensive Rebound.,37,67
+13:53,2277,Chukuka Emili missed Jumper.,37,67
+13:53,127,Gavin Schilling Defensive Rebound.,37,67
+13:46,2277,Foul on David Caraher.,37,67
+13:31,2277,Foul on David Caraher.,37,67
+13:29,2277,Foul on Ian DuBose.,37,67
+13:29,127,Jaren Jackson Jr. made Free Throw.,37,68
+13:29,127,Jaren Jackson Jr. made Free Throw.,37,69
+13:15,2277,Jalon Gates missed Three Point Jumper.,37,69
+13:15,127,Jaren Jackson Jr. Defensive Rebound.,37,69
+13:12,2277,Foul on Tim Myles.,37,69
+13:12,127,Jaren Jackson Jr. missed Free Throw.,37,69
+13:12,2277,David Caraher Defensive Rebound.,37,69
+12:50,2277,Braxton Bonds made Layup. Assisted by Philip McKenzie.,39,69
+12:41,127,Michigan State  Timeout,39,69
+12:38,127,Joshua Langford missed Three Point Jumper.,39,69
+12:38,127,Jaren Jackson Jr. Offensive Rebound.,39,69
+12:33,127,Jaren Jackson Jr. missed Layup.,39,69
+12:33,127,Nick Ward Offensive Rebound.,39,69
+12:30,127,Jump Ball won by Michigan State,39,69
+12:25,127,Joshua Langford missed Jumper.,39,69
+12:25,2277,Tim Myles Defensive Rebound.,39,69
+12:17,2277,Philip McKenzie made Dunk. Assisted by Braxton Bonds.,41,69
+12:03,127,Joshua Langford missed Jumper.,41,69
+12:03,2277,Tim Myles Defensive Rebound.,41,69
+11:38,2277,David Caraher Turnover.,41,69
+11:38,127,Cassius Winston Steal.,41,69
+11:33,127,Cassius Winston made Layup.,41,71
+11:16,2277,Jalon Gates missed Three Point Jumper.,41,71
+11:16,127,Michigan State Defensive Rebound.,41,71
+11:14,127,Official TV Timeout,41,71
+11:07,127,Cassius Winston Turnover.,41,71
+10:51,2277,Jalon Gates missed Layup.,41,71
+10:51,2277,Tim Myles Offensive Rebound.,41,71
+10:51,2277,Tim Myles made Two Point Tip Shot.,43,71
+10:37,127,Nick Ward made Jumper. Assisted by Miles Bridges.,43,73
+10:30,2277,David Caraher missed Three Point Jumper.,43,73
+10:30,2277,Tim Myles Offensive Rebound.,43,73
+10:24,2277,Jalon Gates made Three Point Jumper. Assisted by Tim Myles.,46,73
+10:24,127,Foul on Matt McQuaid.,46,73
+10:24,2277,Jalon Gates made Free Throw.,47,73
+10:12,127,Cassius Winston missed Three Point Jumper.,47,73
+10:12,127,Miles Bridges Offensive Rebound.,47,73
+10:04,2277,Foul on David Caraher.,47,73
+10:04,127,Jaren Jackson Jr. made Free Throw.,47,74
+10:04,127,Jaren Jackson Jr. made Free Throw.,47,75
+9:52,2277,William Gates Jr. missed Layup.,47,75
+9:52,127,Jaren Jackson Jr. Block.,47,75
+9:52,127,Nick Ward Defensive Rebound.,47,75
+9:46,2277,Foul on Tim Myles.,47,75
+9:46,127,Miles Bridges made Free Throw.,47,76
+9:46,127,Miles Bridges made Free Throw.,47,77
+9:29,2277,Edward Hardt missed Jumper.,47,77
+9:29,127,Nick Ward Block.,47,77
+9:29,127,Miles Bridges Defensive Rebound.,47,77
+9:20,127,Miles Bridges made Three Point Jumper. Assisted by Cassius Winston.,47,80
+9:02,2277,Ian DuBose missed Three Point Jumper.,47,80
+9:02,127,Jaren Jackson Jr. Defensive Rebound.,47,80
+8:57,127,Nick Ward made Dunk. Assisted by Cassius Winston.,47,82
+8:45,2277,Houston Baptist  Timeout,47,82
+8:33,2277,William Gates Jr. missed Jumper.,47,82
+8:33,127,Jaren Jackson Jr. Block.,47,82
+8:33,127,Miles Bridges Defensive Rebound.,47,82
+8:22,127,Cassius Winston made Three Point Jumper. Assisted by Xavier Tillman.,47,85
+8:07,2277,Foul on Edward Hardt.,47,85
+8:07,2277,Edward Hardt Turnover.,47,85
+7:44,127,Xavier Tillman Turnover.,47,85
+7:44,2277,Braxton Bonds Steal.,47,85
+7:44,2277,Jump Ball won by Houston Baptist,47,85
+7:44,127,Official TV Timeout,47,85
+7:24,2277,Jalon Gates missed Three Point Jumper.,47,85
+7:24,2277,Ian DuBose Offensive Rebound.,47,85
+7:24,2277,Ian DuBose made Two Point Tip Shot.,49,85
+7:02,127,Foul on Jaren Jackson Jr..,49,85
+7:02,127,Jaren Jackson Jr. Turnover.,49,85
+6:42,2277,Jalon Gates made Jumper. Assisted by Braxton Bonds.,51,85
+6:24,2277,Foul on Edward Hardt.,51,85
+6:24,127,Xavier Tillman made Free Throw.,51,86
+6:24,127,Xavier Tillman made Free Throw.,51,87
+6:10,2277,Edward Hardt missed Jumper.,51,87
+6:10,127,Nick Ward Block.,51,87
+6:10,127,Miles Bridges Defensive Rebound.,51,87
+6:03,127,Joshua Langford made Jumper. Assisted by Lourawls Nairn Jr..,51,89
+6:03,2277,Foul on Oliver Lynch-Daniels.,51,89
+6:03,127,Joshua Langford made Free Throw.,51,90
+5:42,2277,Oliver Lynch-Daniels made Three Point Jumper. Assisted by Ian DuBose.,54,90
+5:24,127,Miles Bridges made Jumper. Assisted by Ben Carter.,54,92
+5:06,2277,Oliver Lynch-Daniels Turnover.,54,92
+5:06,127,Lourawls Nairn Jr. Steal.,54,92
+5:01,2277,Foul on Oliver Lynch-Daniels.,54,92
+5:01,127,Miles Bridges made Free Throw.,54,93
+5:01,127,Miles Bridges made Free Throw.,54,94
+4:51,127,Foul on Lourawls Nairn Jr..,54,94
+4:45,127,Foul on Ben Carter.,54,94
+4:45,2277,Edward Hardt made Free Throw.,55,94
+4:45,2277,Edward Hardt made Free Throw.,56,94
+4:35,2277,Foul on William Gates Jr..,56,94
+4:35,127,Joshua Langford missed Free Throw.,56,94
+4:35,127,Michigan State Deadball Team Rebound.,56,94
+4:35,127,Joshua Langford made Free Throw.,56,95
+4:22,127,Foul on Matt McQuaid.,56,95
+4:22,2277,Ian DuBose made Free Throw.,57,95
+4:22,2277,Ian DuBose made Free Throw.,58,95
+4:08,127,Joshua Langford missed Three Point Jumper.,58,95
+4:08,127,Gavin Schilling Offensive Rebound.,58,95
+4:05,2277,Foul on Philip McKenzie.,58,95
+4:05,127,Gavin Schilling missed Free Throw.,58,95
+4:05,127,Michigan State Deadball Team Rebound.,58,95
+4:05,127,Gavin Schilling missed Free Throw.,58,95
+4:05,2277,Philip McKenzie Defensive Rebound.,58,95
+3:35,2277,Ian DuBose missed Three Point Jumper.,58,95
+3:35,2277,Philip McKenzie Offensive Rebound.,58,95
+3:29,127,Foul on Ben Carter.,58,95
+3:29,127,Official TV Timeout,58,95
+3:29,2277,Philip McKenzie missed Free Throw.,58,95
+3:29,2277,Houston Baptist Deadball Team Rebound.,58,95
+3:29,2277,Philip McKenzie made Free Throw.,59,95
+3:14,2277,Foul on Edward Hardt.,59,95
+3:14,127,Cassius Winston made Free Throw.,59,96
+3:14,127,Cassius Winston made Free Throw.,59,97
+2:57,127,Foul on Joshua Langford.,59,97
+2:57,2277,Stephen O'Suji made Free Throw.,60,97
+2:57,2277,Stephen O'Suji made Free Throw.,61,97
+2:47,127,Foul on Gavin Schilling.,61,97
+2:47,127,Gavin Schilling Turnover.,61,97
+2:32,2277,Stephen O'Suji missed Layup.,61,97
+2:32,127,Matt McQuaid Block.,61,97
+2:32,127,Xavier Tillman Defensive Rebound.,61,97
+2:17,2277,Foul on Chukuka Emili.,61,97
+2:17,127,Xavier Tillman made Free Throw.,61,98
+2:17,127,Xavier Tillman made Free Throw.,61,99
+1:59,2277,Michael Saladin missed Three Point Jumper.,61,99
+1:59,2277,Stephen O'Suji Offensive Rebound.,61,99
+1:52,2277,Stephen O'Suji missed Layup.,61,99
+1:52,127,Matt McQuaid Defensive Rebound.,61,99
+1:38,127,Matt McQuaid made Three Point Jumper. Assisted by Lourawls Nairn Jr..,61,102
+1:28,127,Foul on Gavin Schilling.,61,102
+1:28,2277,Tyquon Jordan missed Free Throw.,61,102
+1:28,2277,Houston Baptist Deadball Team Rebound.,61,102
+1:28,2277,Tyquon Jordan missed Free Throw.,61,102
+1:28,127,Matt McQuaid Defensive Rebound.,61,102
+1:21,127,Matt McQuaid made Three Point Jumper. Assisted by Lourawls Nairn Jr..,61,105
+1:01,2277,Chukuka Emili missed Layup.,61,105
+1:01,127,Xavier Tillman Block.,61,105
+1:01,2277,Houston Baptist Offensive Rebound.,61,105
+0:52,2277,Oliver Lynch-Daniels missed Three Point Jumper.,61,105
+0:52,127,Gavin Schilling Defensive Rebound.,61,105
+0:36,127,Xavier Tillman missed Jumper.,61,105
+0:36,127,Matt McQuaid Offensive Rebound.,61,105
+0:26,127,Conner George missed Layup.,61,105
+0:26,127,Xavier Tillman Offensive Rebound.,61,105
+0:26,127,Xavier Tillman made Dunk.,61,107
+0:18,127,Foul on Gavin Schilling.,61,107
+0:18,2277,Tyquon Jordan missed Free Throw.,61,107
+0:18,2277,Houston Baptist Deadball Team Rebound.,61,107
+0:18,2277,Tyquon Jordan made Free Throw.,62,107
+0:00,127,End of Game,62,107

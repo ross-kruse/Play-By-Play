@@ -1,0 +1,376 @@
+Cornell,2,Auburn,172
+time,team_id,description,h_score,a_score
+19:46,2,Desean Murray made Layup. Assisted by Bryce Brown.,0,2
+19:18,2,Foul on Desean Murray.,0,2
+19:18,172,Foul on Matt Morgan.,0,2
+19:18,172,Matt Morgan Turnover.,0,2
+18:52,2,Jared Harper made Three Point Jumper. Assisted by Bryce Brown.,0,5
+18:36,172,Steven Julian made Layup.,2,5
+18:26,2,Mustapha Heron missed Three Point Jumper.,2,5
+18:26,172,Matt Morgan Defensive Rebound.,2,5
+18:20,172,Stone Gettings made Layup. Assisted by Matt Morgan.,4,5
+18:09,2,Mustapha Heron made Layup.,4,7
+17:48,172,Stone Gettings Turnover.,4,7
+17:47,2,Anfernee McLemore Steal.,4,7
+17:42,2,Desean Murray missed Jumper.,4,7
+17:42,172,Joel Davis Defensive Rebound.,4,7
+17:34,172,Joel Davis made Layup.,6,7
+17:12,2,Desean Murray missed Layup.,6,7
+17:12,172,Stone Gettings Defensive Rebound.,6,7
+17:06,172,Matt Morgan made Three Point Jumper.,9,7
+16:36,2,Mustapha Heron missed Jumper.,9,7
+16:36,172,Stone Gettings Defensive Rebound.,9,7
+16:23,172,Joel Davis missed Three Point Jumper.,9,7
+16:23,2,Jared Harper Defensive Rebound.,9,7
+16:15,2,Bryce Brown made Three Point Jumper. Assisted by Jared Harper.,9,10
+16:03,172,Matt Morgan missed Layup.,9,10
+16:03,2,Anfernee McLemore Block.,9,10
+16:01,2,Bryce Brown Defensive Rebound.,9,10
+15:53,2,Bryce Brown made Layup.,9,12
+15:53,172,Foul on Joel Davis.,9,12
+15:53,2,Official TV Timeout,9,12
+15:53,2,Bryce Brown made Free Throw.,9,13
+15:35,172,Stone Gettings missed Jumper.,9,13
+15:35,2,Chuma Okeke Defensive Rebound.,9,13
+15:23,172,Foul on Matt Morgan.,9,13
+15:23,2,Horace Spencer made Free Throw.,9,14
+15:23,2,Horace Spencer made Free Throw.,9,15
+15:12,172,Jack Gordon made Three Point Jumper. Assisted by Stone Gettings.,12,15
+14:47,2,Bryce Brown missed Three Point Jumper.,12,15
+14:47,172,Stone Gettings Defensive Rebound.,12,15
+14:37,172,Stone Gettings made Layup.,14,15
+14:37,2,Foul on Davion Mitchell.,14,15
+14:37,172,Stone Gettings made Free Throw.,15,15
+14:24,2,Chuma Okeke missed Layup.,15,15
+14:24,172,Stone Gettings Defensive Rebound.,15,15
+14:14,172,Matt Morgan missed Three Point Jumper.,15,15
+14:14,2,Malik Dunbar Defensive Rebound.,15,15
+13:54,2,Malik Dunbar missed Three Point Jumper.,15,15
+13:54,172,Cornell Defensive Rebound.,15,15
+13:39,172,Bryan Knapp Turnover.,15,15
+13:23,172,Foul on Bryan Knapp.,15,15
+13:17,2,Horace Spencer missed Jumper.,15,15
+13:17,172,Matt Morgan Defensive Rebound.,15,15
+13:09,172,Matt Morgan Turnover.,15,15
+13:08,2,Malik Dunbar Steal.,15,15
+13:05,2,Malik Dunbar made Layup.,15,17
+12:56,2,Foul on Horace Spencer.,15,17
+12:39,172,Stone Gettings missed Jumper.,15,17
+12:39,2,Chuma Okeke Defensive Rebound.,15,17
+12:28,172,Foul on Jack Gordon.,15,17
+12:28,2,Chuma Okeke missed Free Throw.,15,17
+12:28,2,Auburn Deadball Team Rebound.,15,17
+12:28,2,Chuma Okeke made Free Throw.,15,18
+12:28,172,Jack Gordon Turnover.,15,18
+12:28,2,Anfernee McLemore Steal.,15,18
+12:28,2,Anfernee McLemore Turnover.,15,18
+12:28,172,Bryan Knapp Steal.,15,18
+12:28,172,Bryan Knapp missed Layup.,15,18
+12:28,2,Chuma Okeke Block.,15,18
+12:28,2,Jared Harper Defensive Rebound.,15,18
+12:28,2,Malik Dunbar made Dunk. Assisted by Jared Harper.,15,20
+11:48,172,Jack Gordon missed Layup.,15,20
+11:48,2,Anfernee McLemore Block.,15,20
+11:47,172,Cornell Offensive Rebound.,15,20
+11:47,2,Official TV Timeout,15,20
+11:45,172,Stone Gettings missed Layup.,15,20
+11:45,2,Anfernee McLemore Block.,15,20
+11:44,2,Mustapha Heron Defensive Rebound.,15,20
+11:21,2,Mustapha Heron Turnover.,15,20
+11:20,172,Josh Warren Steal.,15,20
+11:13,172,Stone Gettings missed Three Point Jumper.,15,20
+11:13,2,Auburn Deadball Team Rebound.,15,20
+11:11,172,Foul on Steven Julian.,15,20
+10:52,2,Desean Murray missed Layup.,15,20
+10:52,2,Anfernee McLemore Offensive Rebound.,15,20
+10:49,172,Foul on Josh Warren.,15,20
+10:49,2,Anfernee McLemore missed Free Throw.,15,20
+10:49,2,Auburn Deadball Team Rebound.,15,20
+10:49,2,Anfernee McLemore made Free Throw.,15,21
+10:42,172,Steven Julian made Dunk. Assisted by Bryan Knapp.,17,21
+10:21,2,Mustapha Heron missed Layup.,17,21
+10:21,2,Auburn Offensive Rebound.,17,21
+10:05,2,Mustapha Heron made Jumper. Assisted by Horace Spencer.,17,23
+9:55,172,Matt Morgan missed Three Point Jumper.,17,23
+9:55,2,Horace Spencer Defensive Rebound.,17,23
+9:38,2,Foul on Bryce Brown.,17,23
+9:38,2,Bryce Brown Turnover.,17,23
+9:31,172,Matt Morgan Turnover.,17,23
+9:29,2,Horace Spencer Steal.,17,23
+9:28,2,Horace Spencer made Layup.,17,25
+9:15,172,Bryan Knapp Turnover.,17,25
+9:03,2,Mustapha Heron missed Three Point Jumper.,17,25
+9:03,2,Desean Murray Offensive Rebound.,17,25
+8:59,2,Desean Murray made Layup.,17,27
+8:52,172,Matt Morgan made Layup.,19,27
+8:37,2,Jared Harper missed Three Point Jumper.,19,27
+8:37,172,Cornell Defensive Rebound.,19,27
+8:16,172,Terrance McBride made Jumper.,21,27
+8:05,2,Anfernee McLemore made Dunk. Assisted by Desean Murray.,21,29
+7:51,172,Terrance McBride missed Three Point Jumper.,21,29
+7:51,2,Anfernee McLemore Defensive Rebound.,21,29
+7:42,2,Jared Harper missed Layup.,21,29
+7:42,2,Mustapha Heron Offensive Rebound.,21,29
+7:40,172,Foul on Steven Julian.,21,29
+7:40,2,Official TV Timeout,21,29
+7:40,2,Mustapha Heron made Free Throw.,21,30
+7:40,2,Mustapha Heron made Free Throw.,21,31
+7:24,172,Stone Gettings made Layup. Assisted by Jack Gordon.,23,31
+7:17,2,Bryce Brown Turnover.,23,31
+7:09,2,Foul on Mustapha Heron.,23,31
+6:55,172,Jack Gordon missed Layup.,23,31
+6:55,172,Joel Davis Offensive Rebound.,23,31
+6:52,172,Joel Davis made Layup.,25,31
+6:34,2,Anfernee McLemore made Dunk. Assisted by Desean Murray.,25,33
+6:17,2,Foul on Anfernee McLemore.,25,33
+6:17,172,Joel Davis missed Free Throw.,25,33
+6:17,172,Cornell Deadball Team Rebound.,25,33
+6:17,172,Joel Davis missed Free Throw.,25,33
+6:17,2,Mustapha Heron Defensive Rebound.,25,33
+6:03,2,Desean Murray Turnover.,25,33
+6:02,172,Jimmy Boeheim Steal.,25,33
+5:57,2,Foul on Bryce Brown.,25,33
+5:57,2,Technical Foul on Bryce Brown.,25,33
+5:57,2,Foul on Bryce Brown.,25,33
+5:57,172,Matt Morgan made Free Throw.,26,33
+5:57,172,Matt Morgan made Free Throw.,27,33
+5:57,172,Matt Morgan made Free Throw.,28,33
+5:57,172,Matt Morgan made Free Throw.,29,33
+5:42,2,Malik Dunbar made Three Point Jumper. Assisted by Jared Harper.,29,36
+5:22,172,Joel Davis missed Layup.,29,36
+5:22,2,Horace Spencer Block.,29,36
+5:20,2,Horace Spencer Defensive Rebound.,29,36
+5:18,2,Horace Spencer Turnover.,29,36
+5:17,172,Matt Morgan Steal.,29,36
+5:13,172,Matt Morgan missed Three Point Jumper.,29,36
+5:13,2,Horace Spencer Defensive Rebound.,29,36
+5:03,2,Davion Mitchell made Three Point Jumper. Assisted by Jared Harper.,29,39
+4:59,172,Cornell  Timeout,29,39
+4:36,172,Joel Davis Turnover.,29,39
+4:35,2,Horace Spencer Steal.,29,39
+4:18,2,Horace Spencer missed Jumper.,29,39
+4:18,172,Matt Morgan Defensive Rebound.,29,39
+4:12,2,Foul on Malik Dunbar.,29,39
+4:12,172,Jimmy Boeheim made Free Throw.,30,39
+4:12,172,Jimmy Boeheim made Free Throw.,31,39
+3:51,2,Davion Mitchell missed Three Point Jumper.,31,39
+3:51,2,Chuma Okeke Offensive Rebound.,31,39
+3:50,172,Foul on Bryan Knapp.,31,39
+3:50,2,Official TV Timeout,31,39
+3:50,2,Chuma Okeke made Free Throw.,31,40
+3:50,2,Chuma Okeke made Free Throw.,31,41
+3:22,172,Matt Morgan missed Jumper.,31,41
+3:22,2,Malik Dunbar Defensive Rebound.,31,41
+3:10,2,Jared Harper Turnover.,31,41
+3:09,172,Stone Gettings Steal.,31,41
+3:02,172,Josh Warren missed Layup.,31,41
+3:02,2,Chuma Okeke Defensive Rebound.,31,41
+2:40,2,Jared Harper missed Three Point Jumper.,31,41
+2:40,172,Josh Warren Defensive Rebound.,31,41
+2:31,2,Foul on Malik Dunbar.,31,41
+2:31,172,Bryan Knapp made Free Throw.,32,41
+2:31,172,Bryan Knapp made Free Throw.,33,41
+2:21,2,Anfernee McLemore missed Three Point Jumper.,33,41
+2:21,172,Stone Gettings Defensive Rebound.,33,41
+2:02,172,Foul on Stone Gettings.,33,41
+2:02,172,Stone Gettings Turnover.,33,41
+1:48,2,Desean Murray missed Layup.,33,41
+1:48,2,Anfernee McLemore Offensive Rebound.,33,41
+1:45,2,Anfernee McLemore Turnover.,33,41
+1:33,172,Josh Warren missed Layup.,33,41
+1:33,2,Desean Murray Block.,33,41
+1:32,2,Anfernee McLemore Defensive Rebound.,33,41
+1:26,2,Jared Harper made Layup.,33,43
+1:18,172,Bryan Knapp missed Layup.,33,43
+1:18,2,Anfernee McLemore Block.,33,43
+1:16,2,Desean Murray Defensive Rebound.,33,43
+1:13,172,Foul on Stone Gettings.,33,43
+1:13,2,Jared Harper made Free Throw.,33,44
+1:13,2,Jared Harper made Free Throw.,33,45
+0:52,2,Foul on Davion Mitchell.,33,45
+0:52,172,Matt Morgan made Free Throw.,34,45
+0:52,172,Matt Morgan made Free Throw.,35,45
+0:43,2,Davion Mitchell made Layup.,35,47
+0:14,172,Stone Gettings missed Three Point Jumper.,35,47
+0:14,172,Jack Gordon Offensive Rebound.,35,47
+0:09,172,Jack Gordon missed Jumper.,35,47
+0:09,172,Stone Gettings Offensive Rebound.,35,47
+0:07,172,Stone Gettings missed Jumper.,35,47
+0:07,2,Anfernee McLemore Block.,35,47
+0:05,172,Stone Gettings Offensive Rebound.,35,47
+0:04,172,Stone Gettings missed Jumper.,35,47
+0:04,2,Davion Mitchell Defensive Rebound.,35,47
+0:00,2,End of 1st half,35,47
+19:38,2,Foul on Anfernee McLemore.,35,47
+19:38,172,Steven Julian missed Free Throw.,35,47
+19:38,172,Cornell Deadball Team Rebound.,35,47
+19:38,172,Steven Julian made Free Throw.,36,47
+19:38,172,Steven Julian missed Free Throw.,36,47
+19:38,2,Anfernee McLemore Defensive Rebound.,36,47
+19:26,2,Bryce Brown made Three Point Jumper. Assisted by Desean Murray.,36,50
+19:06,172,Matt Morgan missed Three Point Jumper.,36,50
+19:06,2,Desean Murray Defensive Rebound.,36,50
+18:43,2,Bryce Brown made Three Point Jumper. Assisted by Anfernee McLemore.,36,53
+18:29,172,Matt Morgan made Jumper.,38,53
+18:28,172,Cornell  Timeout,38,53
+18:21,172,Foul on Stone Gettings.,38,53
+18:21,2,Mustapha Heron missed Free Throw.,38,53
+18:21,2,Auburn Deadball Team Rebound.,38,53
+18:21,2,Mustapha Heron made Free Throw.,38,54
+18:07,172,Steven Julian missed Jumper.,38,54
+18:07,2,Bryce Brown Defensive Rebound.,38,54
+17:43,2,Mustapha Heron made Three Point Jumper. Assisted by Jared Harper.,38,57
+17:25,172,Stone Gettings made Jumper.,40,57
+17:16,2,Bryce Brown missed Three Point Jumper.,40,57
+17:16,172,Steven Julian Defensive Rebound.,40,57
+17:05,172,Matt Morgan made Jumper.,42,57
+16:59,2,Bryce Brown made Jumper.,42,59
+16:36,172,Joel Davis missed Three Point Jumper.,42,59
+16:36,2,Mustapha Heron Defensive Rebound.,42,59
+16:30,2,Mustapha Heron made Layup.,42,61
+16:18,172,Stone Gettings made Three Point Jumper. Assisted by Steven Julian.,45,61
+15:56,2,Jared Harper made Layup.,45,63
+15:56,2,Official TV Timeout,45,63
+15:56,172,Foul on Stone Gettings.,45,63
+15:56,2,Jared Harper made Free Throw.,45,64
+15:46,172,Bryan Knapp missed Jumper.,45,64
+15:46,2,Desean Murray Defensive Rebound.,45,64
+15:36,2,Foul on Mustapha Heron.,45,64
+15:36,2,Mustapha Heron Turnover.,45,64
+15:30,2,Foul on Jared Harper.,45,64
+15:27,172,Matt Morgan made Jumper. Assisted by Jack Gordon.,47,64
+15:19,172,Foul on Steven Julian.,47,64
+15:18,2,Horace Spencer made Jumper. Assisted by Desean Murray.,47,66
+15:02,172,Bryan Knapp missed Three Point Jumper.,47,66
+15:02,2,Chuma Okeke Defensive Rebound.,47,66
+14:46,2,Bryce Brown made Three Point Jumper. Assisted by Chuma Okeke.,47,69
+14:33,172,Jack Gordon missed Three Point Jumper.,47,69
+14:33,2,Davion Mitchell Defensive Rebound.,47,69
+14:23,2,Horace Spencer missed Jumper.,47,69
+14:23,2,Chuma Okeke Offensive Rebound.,47,69
+14:19,2,Chuma Okeke made Dunk.,47,71
+13:57,172,Matt Morgan missed Jumper.,47,71
+13:57,2,Chuma Okeke Block.,47,71
+13:55,2,Horace Spencer Defensive Rebound.,47,71
+13:48,172,Foul on Jack Gordon.,47,71
+13:48,2,Mustapha Heron missed Free Throw.,47,71
+13:48,2,Auburn Deadball Team Rebound.,47,71
+13:48,2,Mustapha Heron made Free Throw.,47,72
+13:37,172,Stone Gettings missed Jumper.,47,72
+13:37,2,Chuma Okeke Defensive Rebound.,47,72
+13:27,2,Bryce Brown missed Three Point Jumper.,47,72
+13:27,2,Horace Spencer Offensive Rebound.,47,72
+13:25,172,Foul on Stone Gettings.,47,72
+13:20,2,Mustapha Heron missed Jumper.,47,72
+13:20,2,Horace Spencer Offensive Rebound.,47,72
+13:18,172,Foul on Josh Warren.,47,72
+13:04,2,Bryce Brown made Layup.,47,74
+12:48,172,Matt Morgan Turnover.,47,74
+12:46,2,Horace Spencer Steal.,47,74
+12:43,2,Chuma Okeke made Layup. Assisted by Davion Mitchell.,47,76
+12:20,172,Matt Morgan made Layup.,49,76
+12:12,2,Mustapha Heron missed Layup.,49,76
+12:12,2,Auburn Deadball Team Rebound.,49,76
+12:11,172,Foul on Jimmy Boeheim.,49,76
+12:11,2,Mustapha Heron made Free Throw.,49,77
+12:11,2,Mustapha Heron made Free Throw.,49,78
+11:58,172,Jimmy Boeheim missed Three Point Jumper.,49,78
+11:58,2,Horace Spencer Defensive Rebound.,49,78
+11:51,2,Bryce Brown missed Three Point Jumper.,49,78
+11:51,2,Chuma Okeke Offensive Rebound.,49,78
+11:46,2,Chuma Okeke made Dunk.,49,80
+11:35,172,Jimmy Boeheim missed Jumper.,49,80
+11:35,2,Malik Dunbar Defensive Rebound.,49,80
+11:28,2,Malik Dunbar made Dunk. Assisted by Bryce Brown.,49,82
+11:16,172,Cornell  Timeout,49,82
+11:06,172,Josh Warren missed Layup.,49,82
+11:06,2,Malik Dunbar Defensive Rebound.,49,82
+10:57,2,Jared Harper missed Three Point Jumper.,49,82
+10:57,172,Josh Warren Defensive Rebound.,49,82
+10:35,172,Bryan Knapp missed Jumper.,49,82
+10:35,2,Chuma Okeke Defensive Rebound.,49,82
+10:22,2,Horace Spencer made Jumper. Assisted by Jared Harper.,49,84
+10:09,172,Jimmy Boeheim missed Three Point Jumper.,49,84
+10:09,2,Horace Spencer Defensive Rebound.,49,84
+10:01,2,Malik Dunbar missed Three Point Jumper.,49,84
+10:01,172,Terrance McBride Defensive Rebound.,49,84
+9:51,172,Foul on Terrance McBride.,49,84
+9:51,172,Terrance McBride Turnover.,49,84
+9:42,2,Anfernee McLemore made Dunk. Assisted by Jared Harper.,49,86
+9:25,2,Foul on Malik Dunbar.,49,86
+9:24,172,Terrance McBride Turnover.,49,86
+9:23,2,Anfernee McLemore Steal.,49,86
+9:15,2,Desean Murray made Layup. Assisted by Davion Mitchell.,49,88
+9:04,2,Foul on Davion Mitchell.,49,88
+8:56,172,Matt Morgan made Layup. Assisted by Josh Warren.,51,88
+8:56,2,Foul on Davion Mitchell.,51,88
+8:56,172,Matt Morgan made Free Throw.,52,88
+8:31,172,Foul on Josh Warren.,52,88
+8:31,2,Anfernee McLemore made Free Throw.,52,89
+8:31,2,Anfernee McLemore missed Free Throw.,52,89
+8:31,172,Josh Warren Defensive Rebound.,52,89
+8:17,172,Josh Warren made Layup.,54,89
+7:53,2,Bryce Brown Turnover.,54,89
+7:53,2,Official TV Timeout,54,89
+7:35,172,Matt Morgan Turnover.,54,89
+7:34,2,Mustapha Heron Steal.,54,89
+7:32,172,Foul on Joel Davis.,54,89
+7:32,2,Mustapha Heron made Free Throw.,54,90
+7:32,2,Mustapha Heron made Free Throw.,54,91
+7:25,172,Jake Kuhn made Layup.,56,91
+7:03,2,Mustapha Heron Turnover.,56,91
+7:02,172,Joel Davis Steal.,56,91
+6:57,172,Jake Kuhn made Three Point Jumper. Assisted by Joel Davis.,59,91
+6:43,2,Bryce Brown missed Jumper.,59,91
+6:43,172,Steven Julian Defensive Rebound.,59,91
+6:27,172,Matt Morgan made Three Point Jumper. Assisted by Josh Warren.,62,91
+6:05,2,Jared Harper made Jumper.,62,93
+5:53,172,Jake Kuhn missed Three Point Jumper.,62,93
+5:53,2,Auburn Defensive Rebound.,62,93
+5:40,2,Horace Spencer made Jumper. Assisted by Bryce Brown.,62,95
+5:15,172,Jordan Abdur-Ra'oof missed Three Point Jumper.,62,95
+5:15,2,Bryce Brown Defensive Rebound.,62,95
+5:01,2,Horace Spencer missed Jumper.,62,95
+5:01,2,Chuma Okeke Offensive Rebound.,62,95
+4:37,2,Chuma Okeke missed Three Point Jumper.,62,95
+4:37,2,Horace Spencer Offensive Rebound.,62,95
+4:33,2,Horace Spencer made Layup.,62,97
+4:08,172,Jake Kuhn missed Three Point Jumper.,62,97
+4:08,2,Malik Dunbar Defensive Rebound.,62,97
+3:46,2,Malik Dunbar missed Three Point Jumper.,62,97
+3:46,172,Joel Davis Defensive Rebound.,62,97
+3:38,172,Joel Davis made Layup.,64,97
+3:25,2,Malik Dunbar missed Three Point Jumper.,64,97
+3:25,172,Joel Davis Defensive Rebound.,64,97
+3:17,172,Jake Kuhn made Three Point Jumper. Assisted by Joel Davis.,67,97
+3:15,172,Cornell  Timeout,67,97
+3:00,2,Chuma Okeke missed Jumper.,67,97
+3:00,172,Jake Kuhn Defensive Rebound.,67,97
+2:50,172,Jake Kuhn missed Three Point Jumper.,67,97
+2:50,172,Jake Kuhn Offensive Rebound.,67,97
+2:49,2,Foul on Cole Blackstock.,67,97
+2:49,172,Jake Kuhn made Free Throw.,68,97
+2:49,172,Jake Kuhn made Free Throw.,69,97
+2:36,172,Foul on Jimmy Boeheim.,69,97
+2:36,2,Chuma Okeke missed Free Throw.,69,97
+2:36,2,Auburn Deadball Team Rebound.,69,97
+2:36,2,Chuma Okeke made Free Throw.,69,98
+2:17,172,Bryan Knapp missed Layup.,69,98
+2:17,2,Cole Blackstock Block.,69,98
+2:17,172,Cornell Offensive Rebound.,69,98
+2:09,172,Jake Kuhn made Three Point Jumper. Assisted by Bryan Knapp.,72,98
+1:51,2,Devontae Williams missed Layup.,72,98
+1:51,172,Kyle Brown Defensive Rebound.,72,98
+1:39,172,Bryan Knapp missed Jumper.,72,98
+1:39,2,Will Macoy Defensive Rebound.,72,98
+1:31,2,Brett Easterling Turnover.,72,98
+1:25,172,Jake Kuhn made Three Point Jumper. Assisted by Jimmy Boeheim.,75,98
+1:00,2,Patrick Keim missed Three Point Jumper.,75,98
+1:00,172,Kyle Brown Defensive Rebound.,75,98
+0:52,172,Jake Kuhn missed Layup.,75,98
+0:52,172,Jimmy Boeheim Offensive Rebound.,75,98
+0:48,172,Jimmy Boeheim made Two Point Tip Shot.,77,98
+0:27,2,Foul on Patrick Keim.,77,98
+0:27,2,Patrick Keim Turnover.,77,98
+0:16,172,Jake Kuhn Turnover.,77,98
+0:00,2,End of Game,77,98

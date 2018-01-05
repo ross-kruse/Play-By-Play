@@ -1,0 +1,324 @@
+Villanova,2250,Gonzaga,222
+time,team_id,description,h_score,a_score
+20:00,222,Jump Ball won by Villanova,0,0
+19:44,222,Jalen Brunson missed Jumper.,0,0
+19:44,222,Villanova Offensive Rebound.,0,0
+19:34,222,Mikal Bridges missed Three Point Jumper.,0,0
+19:34,2250,Zach Norvell Jr. Defensive Rebound.,0,0
+19:22,2250,Silas Melson made Jumper.,0,2
+18:51,222,Jalen Brunson missed Layup.,0,2
+18:51,2250,Killian Tillie Defensive Rebound.,0,2
+18:34,2250,Killian Tillie Turnover.,0,2
+18:23,222,Foul on Mikal Bridges.,0,2
+18:23,222,Mikal Bridges Turnover.,0,2
+18:17,2250,Johnathan Williams Turnover.,0,2
+17:50,222,Jalen Brunson missed Layup.,0,2
+17:50,2250,Zach Norvell Jr. Defensive Rebound.,0,2
+17:37,2250,Josh Perkins missed Three Point Jumper.,0,2
+17:37,2250,Gonzaga Offensive Rebound.,0,2
+17:32,2250,Josh Perkins made Jumper. Assisted by Johnathan Williams.,0,4
+17:05,222,Phil Booth made Layup.,2,4
+16:53,2250,Zach Norvell Jr. made Three Point Jumper. Assisted by Killian Tillie.,2,7
+16:25,2250,Foul on Killian Tillie.,2,7
+16:25,222,Mikal Bridges made Free Throw.,3,7
+16:25,222,Mikal Bridges made Free Throw.,4,7
+16:20,2250,Zach Norvell Jr. Turnover.,4,7
+16:20,222,Omari Spellman Steal.,4,7
+16:14,222,Omari Spellman made Jumper.,6,7
+16:04,2250,Rui Hachimura made Layup. Assisted by Johnathan Williams.,6,9
+15:40,222,Omari Spellman made Three Point Jumper. Assisted by Phil Booth.,9,9
+15:17,2250,Silas Melson missed Three Point Jumper.,9,9
+15:17,222,Villanova Defensive Rebound.,9,9
+15:17,2250,Official TV Timeout,9,9
+15:11,222,Mikal Bridges made Three Point Jumper.,12,9
+14:54,222,Foul on Donte DiVincenzo.,12,9
+14:33,2250,Foul on Silas Melson.,12,9
+14:19,222,Jalen Brunson made Jumper.,14,9
+14:09,222,Foul on Donte DiVincenzo.,14,9
+14:09,2250,Johnathan Williams made Free Throw.,14,10
+14:09,2250,Johnathan Williams made Free Throw.,14,11
+13:58,222,Jalen Brunson missed Layup.,14,11
+13:58,2250,Johnathan Williams Block.,14,11
+13:58,2250,Silas Melson Defensive Rebound.,14,11
+13:51,2250,Rui Hachimura Turnover.,14,11
+13:51,222,Jalen Brunson Steal.,14,11
+13:45,222,Phil Booth made Layup.,16,11
+13:33,2250,Zach Norvell Jr. missed Three Point Jumper.,16,11
+13:33,222,Jalen Brunson Defensive Rebound.,16,11
+13:26,222,Foul on Jalen Brunson.,16,11
+13:26,222,Jalen Brunson Turnover.,16,11
+13:07,2250,Rui Hachimura Turnover.,16,11
+12:48,222,Mikal Bridges missed Three Point Jumper.,16,11
+12:48,2250,Gonzaga Deadball Team Rebound.,16,11
+12:48,222,Foul on Dhamir Cosby-Roundtree.,16,11
+12:43,2250,Johnathan Williams made Dunk. Assisted by Josh Perkins.,16,13
+12:19,222,Phil Booth missed Layup.,16,13
+12:19,222,Dhamir Cosby-Roundtree Offensive Rebound.,16,13
+12:16,222,Dhamir Cosby-Roundtree missed Layup.,16,13
+12:16,2250,Josh Perkins Defensive Rebound.,16,13
+12:13,2250,Josh Perkins Turnover.,16,13
+12:13,222,Dhamir Cosby-Roundtree Steal.,16,13
+11:54,2250,Foul on Johnathan Williams.,16,13
+11:54,2250,Official TV Timeout,16,13
+11:49,222,Donte DiVincenzo Turnover.,16,13
+11:36,2250,Killian Tillie Turnover.,16,13
+11:36,222,Eric Paschall Steal.,16,13
+11:28,2250,Foul on Killian Tillie.,16,13
+11:28,222,Donte DiVincenzo missed Free Throw.,16,13
+11:28,222,Villanova Deadball Team Rebound.,16,13
+11:28,222,Donte DiVincenzo made Free Throw.,17,13
+11:13,2250,Jacob Larsen made Layup. Assisted by Josh Perkins.,17,15
+11:13,222,Foul on Jalen Brunson.,17,15
+11:13,2250,Jacob Larsen missed Free Throw.,17,15
+11:13,222,Omari Spellman Defensive Rebound.,17,15
+10:58,222,Eric Paschall missed Layup.,17,15
+10:58,2250,Silas Melson Defensive Rebound.,17,15
+10:51,2250,Jacob Larsen made Layup. Assisted by Josh Perkins.,17,17
+10:20,222,Jalen Brunson made Jumper.,19,17
+10:06,2250,Foul on Johnathan Williams.,19,17
+10:06,2250,Johnathan Williams Turnover.,19,17
+9:55,222,Phil Booth Turnover.,19,17
+9:55,2250,Josh Perkins Steal.,19,17
+9:38,2250,Josh Perkins missed Layup.,19,17
+9:38,222,Eric Paschall Defensive Rebound.,19,17
+9:31,222,Mikal Bridges made Three Point Jumper. Assisted by Donte DiVincenzo.,22,17
+9:18,2250,Foul on Jacob Larsen.,22,17
+9:11,222,Donte DiVincenzo made Jumper.,24,17
+9:04,2250,Gonzaga  Timeout,24,17
+8:41,2250,Josh Perkins missed Three Point Jumper.,24,17
+8:41,222,Mikal Bridges Defensive Rebound.,24,17
+8:24,2250,Foul on Josh Perkins.,24,17
+8:24,222,Mikal Bridges missed Free Throw.,24,17
+8:24,222,Villanova Deadball Team Rebound.,24,17
+8:24,222,Mikal Bridges made Free Throw.,25,17
+8:17,2250,Foul on Zach Norvell Jr..,25,17
+8:17,2250,Zach Norvell Jr. Turnover.,25,17
+7:56,222,Phil Booth missed Three Point Jumper.,25,17
+7:56,222,Omari Spellman Offensive Rebound.,25,17
+7:48,222,Mikal Bridges missed Three Point Jumper.,25,17
+7:48,2250,Josh Perkins Defensive Rebound.,25,17
+7:42,2250,Josh Perkins Turnover.,25,17
+7:42,222,Phil Booth Steal.,25,17
+7:38,222,Phil Booth made Dunk.,27,17
+7:13,2250,Zach Norvell Jr. missed Three Point Jumper.,27,17
+7:13,222,Mikal Bridges Defensive Rebound.,27,17
+6:50,2250,Foul on Rui Hachimura.,27,17
+6:50,222,Dhamir Cosby-Roundtree missed Free Throw.,27,17
+6:50,222,Villanova Deadball Team Rebound.,27,17
+6:50,222,Dhamir Cosby-Roundtree made Free Throw.,28,17
+6:37,2250,Zach Norvell Jr. missed Three Point Jumper.,28,17
+6:37,222,Omari Spellman Defensive Rebound.,28,17
+6:17,222,Phil Booth missed Three Point Jumper.,28,17
+6:17,222,Mikal Bridges Offensive Rebound.,28,17
+5:56,222,Omari Spellman missed Jumper.,28,17
+5:56,2250,Killian Tillie Defensive Rebound.,28,17
+5:46,2250,Silas Melson made Three Point Jumper. Assisted by Josh Perkins.,28,20
+5:16,222,Phil Booth missed Three Point Jumper.,28,20
+5:16,222,Omari Spellman Offensive Rebound.,28,20
+5:12,222,Dhamir Cosby-Roundtree made Layup. Assisted by Omari Spellman.,30,20
+4:56,222,Foul on Dhamir Cosby-Roundtree.,30,20
+4:56,2250,Josh Perkins missed Free Throw.,30,20
+4:56,222,Omari Spellman Defensive Rebound.,30,20
+4:44,222,Phil Booth made Layup.,32,20
+4:34,2250,Jacob Larsen missed Layup.,32,20
+4:34,222,Phil Booth Defensive Rebound.,32,20
+4:06,222,Mikal Bridges Turnover.,32,20
+4:06,2250,Zach Norvell Jr. Steal.,32,20
+3:58,2250,Zach Norvell Jr. made Layup.,32,22
+3:58,2250,Official TV Timeout,32,22
+3:50,222,Phil Booth made Three Point Jumper. Assisted by Eric Paschall.,35,22
+3:33,2250,Killian Tillie missed Layup.,35,22
+3:33,222,Omari Spellman Defensive Rebound.,35,22
+3:18,222,Mikal Bridges made Three Point Jumper. Assisted by Eric Paschall.,38,22
+2:56,2250,Zach Norvell Jr. made Layup.,38,24
+2:36,222,Donte DiVincenzo made Three Point Jumper. Assisted by Phil Booth.,41,24
+2:16,2250,Jacob Larsen made Jumper. Assisted by Killian Tillie.,41,26
+1:53,222,Donte DiVincenzo missed Jumper.,41,26
+1:53,2250,Jacob Larsen Defensive Rebound.,41,26
+1:44,222,Foul on Donte DiVincenzo.,41,26
+1:44,2250,Josh Perkins made Free Throw.,41,27
+1:44,2250,Josh Perkins made Free Throw.,41,28
+1:44,2250,Josh Perkins made Free Throw.,41,29
+1:29,222,Mikal Bridges Turnover.,41,29
+1:13,2250,Johnathan Williams missed Jumper.,41,29
+1:13,222,Mikal Bridges Defensive Rebound.,41,29
+0:49,222,Eric Paschall missed Layup.,41,29
+0:49,2250,Jacob Larsen Block.,41,29
+0:49,222,Omari Spellman Offensive Rebound.,41,29
+0:42,222,Omari Spellman made Layup.,43,29
+0:38,222,Foul on Omari Spellman.,43,29
+0:38,2250,Jacob Larsen made Free Throw.,43,30
+0:38,2250,Jacob Larsen missed Free Throw.,43,30
+0:38,2250,Jeremy Jones Offensive Rebound.,43,30
+0:31,2250,Jacob Larsen Turnover.,43,30
+0:31,222,Villanova  Timeout,43,30
+0:04,222,Mikal Bridges missed Jumper.,43,30
+0:04,2250,Josh Perkins Defensive Rebound.,43,30
+0:00,2250,End of 1st half,43,30
+20:00,2250,Jump Ball won by Gonzaga,43,30
+19:44,2250,Johnathan Williams Turnover.,43,30
+19:44,2250,Foul on Johnathan Williams.,43,30
+19:27,222,Jalen Brunson Turnover.,43,30
+19:11,2250,Josh Perkins missed Three Point Jumper.,43,30
+19:11,222,Phil Booth Defensive Rebound.,43,30
+18:48,2250,Foul on Johnathan Williams.,43,30
+18:48,222,Omari Spellman missed Free Throw.,43,30
+18:48,222,Villanova Deadball Team Rebound.,43,30
+18:48,222,Omari Spellman made Free Throw.,44,30
+18:36,2250,Killian Tillie made Layup. Assisted by Jacob Larsen.,44,32
+18:10,222,Eric Paschall missed Three Point Jumper.,44,32
+18:10,2250,Josh Perkins Defensive Rebound.,44,32
+17:50,2250,Killian Tillie missed Three Point Jumper.,44,32
+17:50,222,Jalen Brunson Defensive Rebound.,44,32
+17:30,222,Eric Paschall missed Jumper.,44,32
+17:30,2250,Killian Tillie Defensive Rebound.,44,32
+17:15,2250,Zach Norvell Jr. made Three Point Jumper. Assisted by Josh Perkins.,44,35
+16:51,222,Collin Gillespie missed Three Point Jumper.,44,35
+16:51,2250,Josh Perkins Defensive Rebound.,44,35
+16:39,2250,Silas Melson missed Three Point Jumper.,44,35
+16:39,2250,Gonzaga Offensive Rebound.,44,35
+16:36,2250,Killian Tillie made Layup.,44,37
+16:07,222,Mikal Bridges made Three Point Jumper. Assisted by Jalen Brunson.,47,37
+15:58,222,Foul on Eric Paschall.,47,37
+15:58,2250,Official TV Timeout,47,37
+15:46,2250,Killian Tillie Turnover.,47,37
+15:30,222,Mikal Bridges made Layup. Assisted by Jalen Brunson.,49,37
+15:17,2250,Killian Tillie made Dunk. Assisted by Jacob Larsen.,49,39
+15:02,222,Jalen Brunson made Layup.,51,39
+15:02,2250,Foul on Silas Melson.,51,39
+15:02,222,Jalen Brunson missed Free Throw.,51,39
+15:02,2250,Jacob Larsen Defensive Rebound.,51,39
+14:53,2250,Zach Norvell Jr. missed Three Point Jumper.,51,39
+14:53,222,Mikal Bridges Defensive Rebound.,51,39
+14:35,222,Phil Booth missed Layup.,51,39
+14:35,2250,Killian Tillie Block.,51,39
+14:35,2250,Killian Tillie Defensive Rebound.,51,39
+14:30,2250,Silas Melson made Layup. Assisted by Killian Tillie.,51,41
+13:57,222,Foul on Jalen Brunson.,51,41
+13:57,222,Jalen Brunson Turnover.,51,41
+13:44,2250,Killian Tillie Turnover.,51,41
+13:16,222,Eric Paschall missed Layup.,51,41
+13:16,222,Eric Paschall Offensive Rebound.,51,41
+13:09,2250,Foul on Jacob Larsen.,51,41
+12:57,222,Phil Booth made Layup.,53,41
+12:37,2250,Josh Perkins made Three Point Jumper. Assisted by Killian Tillie.,53,44
+11:55,222,Eric Paschall missed Three Point Jumper.,53,44
+11:55,2250,Gonzaga Defensive Rebound.,53,44
+11:55,2250,Official TV Timeout,53,44
+11:48,2250,Josh Perkins missed Three Point Jumper.,53,44
+11:48,222,Jalen Brunson Defensive Rebound.,53,44
+11:43,222,Donte DiVincenzo missed Layup.,53,44
+11:43,2250,Jacob Larsen Defensive Rebound.,53,44
+11:29,2250,Jacob Larsen made Layup. Assisted by Killian Tillie.,53,46
+11:03,2250,Foul on Killian Tillie.,53,46
+11:03,222,Jalen Brunson missed Free Throw.,53,46
+11:03,222,Villanova Deadball Team Rebound.,53,46
+11:03,222,Jalen Brunson missed Free Throw.,53,46
+11:03,222,Dhamir Cosby-Roundtree Offensive Rebound.,53,46
+10:59,222,Jump Ball won by Villanova,53,46
+10:54,222,Mikal Bridges made Layup.,55,46
+10:54,2250,Foul on Jacob Larsen.,55,46
+10:54,222,Mikal Bridges missed Free Throw.,55,46
+10:54,2250,Silas Melson Defensive Rebound.,55,46
+10:49,2250,Josh Perkins made Layup.,55,48
+10:29,222,Mikal Bridges made Three Point Jumper. Assisted by Donte DiVincenzo.,58,48
+10:11,2250,Killian Tillie missed Jumper.,58,48
+10:11,222,Mikal Bridges Block.,58,48
+10:11,222,Mikal Bridges Defensive Rebound.,58,48
+10:05,222,Jalen Brunson made Layup. Assisted by Donte DiVincenzo.,60,48
+10:05,2250,Gonzaga  Timeout,60,48
+9:41,222,Foul on Donte DiVincenzo.,60,48
+9:41,2250,Silas Melson made Free Throw.,60,49
+9:41,2250,Silas Melson made Free Throw.,60,50
+9:27,2250,Foul on Rui Hachimura.,60,50
+9:27,222,Mikal Bridges made Free Throw.,61,50
+9:27,222,Mikal Bridges made Free Throw.,62,50
+9:14,222,Foul on Eric Paschall.,62,50
+9:05,222,Foul on Jalen Brunson.,62,50
+8:48,2250,Josh Perkins missed Jumper.,62,50
+8:48,222,Villanova Defensive Rebound.,62,50
+8:48,2250,Foul on Zach Norvell Jr..,62,50
+8:48,222,Eric Paschall made Free Throw.,63,50
+8:48,222,Eric Paschall made Free Throw.,64,50
+8:40,222,Foul on Mikal Bridges.,64,50
+8:25,2250,Silas Melson missed Layup.,64,50
+8:25,2250,Jacob Larsen Offensive Rebound.,64,50
+8:25,222,Foul on Mikal Bridges.,64,50
+8:25,2250,Jacob Larsen missed Free Throw.,64,50
+8:25,2250,Gonzaga Deadball Team Rebound.,64,50
+8:25,2250,Jacob Larsen made Free Throw.,64,51
+8:16,222,Mikal Bridges made Dunk.,66,51
+8:05,2250,Josh Perkins missed Layup.,66,51
+8:05,222,Mikal Bridges Block.,66,51
+8:05,2250,Gonzaga Offensive Rebound.,66,51
+7:59,222,Foul on Dhamir Cosby-Roundtree.,66,51
+7:59,2250,Official TV Timeout,66,51
+7:59,2250,Josh Perkins made Free Throw.,66,52
+7:59,2250,Josh Perkins made Free Throw.,66,53
+7:36,222,Eric Paschall missed Jumper.,66,53
+7:36,2250,Zach Norvell Jr. Defensive Rebound.,66,53
+7:25,2250,Josh Perkins Turnover.,66,53
+7:16,222,Phil Booth made Dunk. Assisted by Eric Paschall.,68,53
+7:06,2250,Zach Norvell Jr. made Layup.,68,55
+6:46,2250,Foul on Silas Melson.,68,55
+6:46,222,Mikal Bridges made Free Throw.,69,55
+6:46,222,Mikal Bridges made Free Throw.,70,55
+6:36,2250,Johnathan Williams missed Jumper.,70,55
+6:36,222,Omari Spellman Defensive Rebound.,70,55
+6:15,222,Mikal Bridges missed Three Point Jumper.,70,55
+6:15,2250,Gonzaga Defensive Rebound.,70,55
+6:15,222,Foul on Omari Spellman.,70,55
+6:15,2250,Josh Perkins made Free Throw.,70,56
+6:15,2250,Josh Perkins made Free Throw.,70,57
+6:03,222,Phil Booth made Layup.,72,57
+5:53,2250,Zach Norvell Jr. made Three Point Jumper. Assisted by Johnathan Williams.,72,60
+5:31,222,Mikal Bridges missed Jumper.,72,60
+5:31,2250,Silas Melson Defensive Rebound.,72,60
+5:24,222,Foul on Phil Booth.,72,60
+5:24,2250,Zach Norvell Jr. made Free Throw.,72,61
+5:24,2250,Zach Norvell Jr. made Free Throw.,72,62
+5:09,222,Donte DiVincenzo missed Three Point Jumper.,72,62
+5:09,2250,Gonzaga Defensive Rebound.,72,62
+5:09,2250,Foul on Silas Melson.,72,62
+5:09,222,Omari Spellman made Free Throw.,73,62
+5:09,222,Omari Spellman made Free Throw.,74,62
+4:58,222,Foul on Omari Spellman.,74,62
+4:58,2250,Johnathan Williams missed Free Throw.,74,62
+4:58,2250,Gonzaga Deadball Team Rebound.,74,62
+4:58,2250,Johnathan Williams made Free Throw.,74,63
+4:47,222,Jalen Brunson made Jumper.,76,63
+4:47,2250,Foul on Johnathan Williams.,76,63
+4:47,222,Jalen Brunson made Free Throw.,77,63
+4:36,2250,Silas Melson missed Three Point Jumper.,77,63
+4:36,222,Villanova Defensive Rebound.,77,63
+4:27,2250,Foul on Silas Melson.,77,63
+4:27,222,Jalen Brunson missed Free Throw.,77,63
+4:27,222,Villanova Deadball Team Rebound.,77,63
+4:27,222,Jalen Brunson made Free Throw.,78,63
+4:22,2250,Zach Norvell Jr. made Dunk.,78,65
+3:52,222,Phil Booth made Three Point Jumper.,81,65
+3:39,2250,Killian Tillie missed Three Point Jumper.,81,65
+3:39,2250,Zach Norvell Jr. Offensive Rebound.,81,65
+3:33,2250,Josh Perkins made Layup.,81,67
+2:58,222,Phil Booth Turnover.,81,67
+2:58,2250,Jeremy Jones Steal.,81,67
+2:51,2250,Josh Perkins Turnover.,81,67
+2:51,2250,Official TV Timeout,81,67
+2:38,222,Donte DiVincenzo made Three Point Jumper. Assisted by Jalen Brunson.,84,67
+2:18,2250,Josh Perkins missed Three Point Jumper.,84,67
+2:18,222,Jalen Brunson Defensive Rebound.,84,67
+2:04,2250,Foul on Jeremy Jones.,84,67
+2:04,222,Eric Paschall made Free Throw.,85,67
+2:04,222,Eric Paschall made Free Throw.,86,67
+1:53,2250,Jeremy Jones Turnover.,86,67
+1:53,222,Jalen Brunson Steal.,86,67
+1:44,222,Foul on Donte DiVincenzo.,86,67
+1:44,222,Donte DiVincenzo Turnover.,86,67
+1:35,2250,Rui Hachimura made Layup.,86,69
+1:05,222,Dhamir Cosby-Roundtree made Layup.,88,69
+0:57,2250,Zach Norvell Jr. made Three Point Jumper.,88,72
+0:36,222,Eric Paschall Turnover.,88,72
+0:36,2250,Jeremy Jones Steal.,88,72
+0:31,2250,Jeremy Jones Turnover.,88,72
+0:01,222,Villanova  Turnover.,88,72
+0:00,2250,End of Game,88,72

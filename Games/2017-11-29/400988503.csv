@@ -1,0 +1,310 @@
+Pennsylvania,222,Villanova,219
+time,team_id,description,h_score,a_score
+20:00,219,Jump Ball won by Pennsylvania,0,0
+19:45,219,Darnell Foreman Turnover.,0,0
+19:45,222,Phil Booth Steal.,0,0
+19:41,222,Phil Booth made Layup.,0,2
+19:17,219,Antonio Woods made Jumper. Assisted by Max Rothschild.,2,2
+18:50,222,Mikal Bridges missed Jumper.,2,2
+18:50,219,Darnell Foreman Defensive Rebound.,2,2
+18:40,219,Ryan Betley made Layup. Assisted by Max Rothschild.,4,2
+18:19,222,Omari Spellman made Jumper.,4,4
+17:50,219,Darnell Foreman missed Jumper.,4,4
+17:50,222,Mikal Bridges Defensive Rebound.,4,4
+17:33,222,Omari Spellman made Three Point Jumper. Assisted by Phil Booth.,4,7
+17:21,219,Ryan Betley made Three Point Jumper. Assisted by Antonio Woods.,7,7
+16:56,222,Phil Booth made Jumper.,7,9
+16:36,222,Foul on Eric Paschall.,7,9
+16:36,219,AJ Brodeur made Free Throw.,8,9
+16:36,219,AJ Brodeur made Free Throw.,9,9
+16:22,222,Omari Spellman Turnover.,9,9
+16:22,219,AJ Brodeur Steal.,9,9
+15:52,219,Antonio Woods missed Jumper.,9,9
+15:52,219,AJ Brodeur Offensive Rebound.,9,9
+15:52,219,AJ Brodeur made Two Point Tip Shot.,11,9
+15:24,222,Eric Paschall missed Jumper.,11,9
+15:24,219,Max Rothschild Defensive Rebound.,11,9
+15:08,219,Antonio Woods missed Three Point Jumper.,11,9
+15:08,222,Mikal Bridges Defensive Rebound.,11,9
+14:51,222,Jalen Brunson made Jumper.,11,11
+14:31,219,Ryan Betley missed Three Point Jumper.,11,11
+14:31,222,Eric Paschall Defensive Rebound.,11,11
+14:14,222,Omari Spellman made Three Point Jumper. Assisted by Eric Paschall.,11,14
+14:00,219,Antonio Woods Turnover.,11,14
+14:00,222,Eric Paschall Steal.,11,14
+13:56,222,Omari Spellman made Dunk. Assisted by Eric Paschall.,11,16
+13:45,219,Ryan Betley missed Jumper.,11,16
+13:45,222,Donte DiVincenzo Defensive Rebound.,11,16
+13:37,219,Foul on Antonio Woods.,11,16
+13:37,222,Official TV Timeout,11,16
+13:33,222,Phil Booth missed Jumper.,11,16
+13:33,219,Ryan Betley Defensive Rebound.,11,16
+13:07,219,AJ Brodeur made Jumper.,13,16
+12:43,222,Dhamir Cosby-Roundtree made Layup. Assisted by Phil Booth.,13,18
+12:13,219,Eddie Scott missed Jumper.,13,18
+12:13,222,Mikal Bridges Defensive Rebound.,13,18
+12:05,222,Donte DiVincenzo made Three Point Jumper. Assisted by Collin Gillespie.,13,21
+11:57,222,Foul on Mikal Bridges.,13,21
+11:57,222,Official TV Timeout,13,21
+11:32,219,Ryan Betley missed Jumper.,13,21
+11:32,219,Ryan Betley Offensive Rebound.,13,21
+11:30,219,Ryan Betley missed Jumper.,13,21
+11:30,222,Dhamir Cosby-Roundtree Block.,13,21
+11:30,219,Pennsylvania Offensive Rebound.,13,21
+11:21,219,Darnell Foreman made Jumper.,15,21
+10:57,219,Foul on Eddie Scott.,15,21
+10:57,222,Eric Paschall made Free Throw.,15,22
+10:57,222,Eric Paschall made Free Throw.,15,23
+10:46,219,Caleb Wood Turnover.,15,23
+10:28,222,Eric Paschall made Dunk. Assisted by Donte DiVincenzo.,15,25
+10:28,219,Foul on Caleb Wood.,15,25
+10:28,222,Eric Paschall made Free Throw.,15,26
+10:15,219,Darnell Foreman missed Three Point Jumper.,15,26
+10:15,222,Villanova Defensive Rebound.,15,26
+10:13,219,Foul on Max Rothschild.,15,26
+10:00,222,Eric Paschall Turnover.,15,26
+10:00,219,Max Rothschild Steal.,15,26
+9:51,219,Darnell Foreman made Jumper. Assisted by Antonio Woods.,17,26
+9:36,222,Donte DiVincenzo missed Three Point Jumper.,17,26
+9:36,219,Max Rothschild Defensive Rebound.,17,26
+9:17,219,Max Rothschild Turnover.,17,26
+9:03,222,Jalen Brunson made Three Point Jumper. Assisted by Omari Spellman.,17,29
+8:33,222,Foul on Jalen Brunson.,17,29
+8:33,219,Darnell Foreman made Free Throw.,18,29
+8:33,219,Darnell Foreman made Free Throw.,19,29
+8:17,219,Foul on Darnell Foreman.,19,29
+8:17,222,Mikal Bridges made Free Throw.,19,30
+8:17,222,Mikal Bridges made Free Throw.,19,31
+8:03,219,Darnell Foreman missed Jumper.,19,31
+8:03,222,Omari Spellman Defensive Rebound.,19,31
+7:56,222,Jermaine Samuels made Three Point Jumper. Assisted by Donte DiVincenzo.,19,34
+7:38,222,Foul on Jermaine Samuels.,19,34
+7:38,222,Official TV Timeout,19,34
+7:29,219,Darnell Foreman missed Jumper.,19,34
+7:29,222,Omari Spellman Defensive Rebound.,19,34
+7:03,222,Omari Spellman missed Jumper.,19,34
+7:03,219,Darnell Foreman Defensive Rebound.,19,34
+6:41,222,Foul on Jalen Brunson.,19,34
+6:30,219,Ryan Betley missed Three Point Jumper.,19,34
+6:30,222,Donte DiVincenzo Defensive Rebound.,19,34
+6:13,222,Phil Booth missed Three Point Jumper.,19,34
+6:13,219,Pennsylvania Defensive Rebound.,19,34
+6:11,222,Foul on Omari Spellman.,19,34
+6:11,219,Antonio Woods missed Three Point Jumper.,19,34
+6:11,222,Omari Spellman Block.,19,34
+6:11,222,Mikal Bridges Defensive Rebound.,19,34
+6:09,222,Foul on Donte DiVincenzo.,19,34
+6:09,222,Donte DiVincenzo Turnover.,19,34
+5:58,219,Ryan Betley missed Three Point Jumper.,19,34
+5:58,222,Omari Spellman Defensive Rebound.,19,34
+5:47,222,Mikal Bridges missed Three Point Jumper.,19,34
+5:47,219,Jackson Donahue Defensive Rebound.,19,34
+5:31,219,Jackson Donahue missed Three Point Jumper.,19,34
+5:31,222,Phil Booth Defensive Rebound.,19,34
+5:31,219,Foul on AJ Brodeur.,19,34
+5:14,222,Mikal Bridges made Layup. Assisted by Phil Booth.,19,36
+5:14,219,Foul on Eddie Scott.,19,36
+5:14,222,Mikal Bridges made Free Throw.,19,37
+5:00,219,Ryan Betley missed Layup.,19,37
+5:00,222,Mikal Bridges Defensive Rebound.,19,37
+4:54,222,Phil Booth missed Jumper.,19,37
+4:54,219,Max Rothschild Defensive Rebound.,19,37
+4:52,222,Foul on Dhamir Cosby-Roundtree.,19,37
+4:52,219,Max Rothschild made Free Throw.,20,37
+4:52,219,Max Rothschild made Free Throw.,21,37
+4:37,222,Mikal Bridges missed Three Point Jumper.,21,37
+4:37,219,Ryan Betley Defensive Rebound.,21,37
+4:28,219,AJ Brodeur missed Three Point Jumper.,21,37
+4:28,222,Donte DiVincenzo Defensive Rebound.,21,37
+4:18,222,Phil Booth made Jumper. Assisted by Donte DiVincenzo.,21,39
+3:44,219,AJ Brodeur made Layup.,23,39
+3:44,222,Official TV Timeout,23,39
+3:34,222,Eric Paschall missed Three Point Jumper.,23,39
+3:34,219,Ryan Betley Defensive Rebound.,23,39
+3:25,219,Darnell Foreman made Jumper.,25,39
+3:05,222,Donte DiVincenzo missed Jumper.,25,39
+3:05,219,AJ Brodeur Block.,25,39
+3:05,219,AJ Brodeur Defensive Rebound.,25,39
+2:44,219,Antonio Woods missed Jumper.,25,39
+2:44,222,Omari Spellman Defensive Rebound.,25,39
+2:21,219,Foul on Darnell Foreman.,25,39
+2:21,222,Collin Gillespie made Free Throw.,25,40
+2:21,222,Collin Gillespie missed Free Throw.,25,40
+2:21,219,AJ Brodeur Defensive Rebound.,25,40
+1:57,219,AJ Brodeur made Jumper.,27,40
+1:34,222,Donte DiVincenzo made Jumper. Assisted by Mikal Bridges.,27,42
+1:21,222,Foul on Collin Gillespie.,27,42
+1:21,219,Darnell Foreman missed Free Throw.,27,42
+1:21,222,Mikal Bridges Defensive Rebound.,27,42
+0:57,219,Foul on Max Rothschild.,27,42
+0:57,222,Donte DiVincenzo made Free Throw.,27,43
+0:57,222,Donte DiVincenzo made Free Throw.,27,44
+0:53,222,Foul on Jermaine Samuels.,27,44
+0:53,219,AJ Brodeur missed Free Throw.,27,44
+0:53,219,Pennsylvania Deadball Team Rebound.,27,44
+0:53,219,AJ Brodeur made Free Throw.,28,44
+0:45,222,Omari Spellman missed Jumper.,28,44
+0:45,219,AJ Brodeur Defensive Rebound.,28,44
+0:25,222,Foul on Jermaine Samuels.,28,44
+0:25,219,Eddie Scott missed Free Throw.,28,44
+0:25,219,Pennsylvania Deadball Team Rebound.,28,44
+0:25,219,Eddie Scott missed Free Throw.,28,44
+0:25,222,Jermaine Samuels Defensive Rebound.,28,44
+0:19,222,Villanova  Timeout,28,44
+0:09,219,Foul on Antonio Woods.,28,44
+0:09,222,Jalen Brunson made Free Throw.,28,45
+0:09,222,Jalen Brunson made Free Throw.,28,46
+0:09,219,Pennsylvania  Timeout,28,46
+0:03,219,Ryan Betley missed Three Point Jumper.,28,46
+0:03,222,Donte DiVincenzo Defensive Rebound.,28,46
+0:00,222,End of 1st half,28,46
+20:00,222,Jump Ball won by Villanova,28,46
+19:49,222,Eric Paschall missed Jumper.,28,46
+19:49,219,Ryan Betley Defensive Rebound.,28,46
+19:31,219,AJ Brodeur Turnover.,28,46
+19:22,222,Mikal Bridges missed Jumper.,28,46
+19:22,219,Darnell Foreman Defensive Rebound.,28,46
+19:03,219,Darnell Foreman missed Jumper.,28,46
+19:03,222,Jalen Brunson Defensive Rebound.,28,46
+18:54,222,Jalen Brunson made Layup.,28,48
+18:31,219,Antonio Woods made Layup. Assisted by Darnell Foreman.,30,48
+18:11,222,Phil Booth missed Three Point Jumper.,30,48
+18:11,219,AJ Brodeur Defensive Rebound.,30,48
+18:00,219,AJ Brodeur made Layup. Assisted by Antonio Woods.,32,48
+17:33,219,Foul on Antonio Woods.,32,48
+17:26,222,Mikal Bridges made Jumper.,32,50
+17:26,219,Foul on Antonio Woods.,32,50
+17:26,222,Mikal Bridges missed Free Throw.,32,50
+17:26,219,Darnell Foreman Defensive Rebound.,32,50
+17:20,219,Darnell Foreman Turnover.,32,50
+17:20,222,Eric Paschall Steal.,32,50
+17:11,222,Mikal Bridges made Dunk. Assisted by Jalen Brunson.,32,52
+16:50,219,Jackson Donahue missed Three Point Jumper.,32,52
+16:50,222,Omari Spellman Defensive Rebound.,32,52
+16:28,222,Omari Spellman missed Jumper.,32,52
+16:28,219,Pennsylvania Defensive Rebound.,32,52
+16:13,219,Pennsylvania  Turnover.,32,52
+16:01,222,Omari Spellman missed Jumper.,32,52
+16:01,219,Darnell Foreman Defensive Rebound.,32,52
+15:48,219,Jackson Donahue made Three Point Jumper. Assisted by Ryan Betley.,35,52
+15:21,222,Omari Spellman missed Jumper.,35,52
+15:21,222,Donte DiVincenzo Offensive Rebound.,35,52
+15:21,222,Donte DiVincenzo missed Two Point Tip Shot.,35,52
+15:21,219,AJ Brodeur Defensive Rebound.,35,52
+15:02,219,Ryan Betley missed Layup.,35,52
+15:02,222,Omari Spellman Block.,35,52
+15:02,222,Villanova Defensive Rebound.,35,52
+15:02,222,Official TV Timeout,35,52
+14:50,222,Jalen Brunson missed Jumper.,35,52
+14:50,219,Ryan Betley Defensive Rebound.,35,52
+14:33,219,Eddie Scott missed Jumper.,35,52
+14:33,222,Donte DiVincenzo Defensive Rebound.,35,52
+14:14,222,Donte DiVincenzo made Three Point Jumper.,35,55
+14:00,219,Darnell Foreman made Jumper.,37,55
+13:45,222,Mikal Bridges made Three Point Jumper. Assisted by Jalen Brunson.,37,58
+13:23,219,Jackson Donahue made Three Point Jumper. Assisted by AJ Brodeur.,40,58
+13:06,222,Jalen Brunson made Three Point Jumper.,40,61
+12:59,219,Darnell Foreman made Layup.,42,61
+12:59,222,Foul on Phil Booth.,42,61
+12:59,219,Darnell Foreman made Free Throw.,43,61
+12:52,222,Jalen Brunson made Jumper.,43,63
+12:32,219,Max Rothschild made Layup. Assisted by Jackson Donahue.,45,63
+12:04,222,Omari Spellman made Jumper. Assisted by Jalen Brunson.,45,65
+11:40,219,Max Rothschild Turnover.,45,65
+11:40,222,Official TV Timeout,45,65
+11:29,222,Jalen Brunson made Layup.,45,67
+11:29,219,Foul on Eddie Scott.,45,67
+11:29,222,Jalen Brunson made Free Throw.,45,68
+11:20,222,Foul on Collin Gillespie.,45,68
+11:13,219,Darnell Foreman missed Three Point Jumper.,45,68
+11:13,222,Jalen Brunson Defensive Rebound.,45,68
+11:06,222,Collin Gillespie missed Three Point Jumper.,45,68
+11:06,219,AJ Brodeur Defensive Rebound.,45,68
+10:54,222,Foul on Collin Gillespie.,45,68
+10:39,219,Max Rothschild made Layup. Assisted by Antonio Woods.,47,68
+10:15,222,Donte DiVincenzo missed Jumper.,47,68
+10:15,219,Sam Jones Defensive Rebound.,47,68
+10:05,219,Jackson Donahue missed Three Point Jumper.,47,68
+10:05,222,Omari Spellman Defensive Rebound.,47,68
+9:42,222,Omari Spellman made Jumper.,47,70
+9:42,219,Foul on AJ Brodeur.,47,70
+9:42,222,Omari Spellman missed Free Throw.,47,70
+9:42,219,Max Rothschild Defensive Rebound.,47,70
+9:31,219,Darnell Foreman missed Layup.,47,70
+9:31,222,Omari Spellman Block.,47,70
+9:31,222,Eric Paschall Defensive Rebound.,47,70
+9:23,222,Eric Paschall Turnover.,47,70
+9:04,219,Antonio Woods missed Jumper.,47,70
+9:04,222,Mikal Bridges Block.,47,70
+9:04,222,Donte DiVincenzo Defensive Rebound.,47,70
+8:52,222,Phil Booth made Layup. Assisted by Donte DiVincenzo.,47,72
+8:45,219,Max Rothschild Turnover.,47,72
+8:45,222,Mikal Bridges Steal.,47,72
+8:40,222,Mikal Bridges made Dunk.,47,74
+8:38,219,Pennsylvania  Timeout,47,74
+8:18,219,Jackson Donahue Turnover.,47,74
+8:18,222,Phil Booth Steal.,47,74
+8:18,219,Foul on Ryan Betley.,47,74
+8:08,222,Foul on Dhamir Cosby-Roundtree.,47,74
+8:08,222,Dhamir Cosby-Roundtree Turnover.,47,74
+7:48,219,Darnell Foreman Turnover.,47,74
+7:48,222,Phil Booth Steal.,47,74
+7:47,219,Foul on Jackson Donahue.,47,74
+7:47,222,Official TV Timeout,47,74
+7:47,222,Phil Booth made Free Throw.,47,75
+7:47,222,Phil Booth made Free Throw.,47,76
+7:31,219,Jarrod Simmons made Three Point Jumper. Assisted by Devon Goodman.,50,76
+7:07,222,Donte DiVincenzo made Jumper.,50,78
+6:45,219,Darnell Foreman missed Jumper.,50,78
+6:45,222,Omari Spellman Defensive Rebound.,50,78
+6:36,222,Phil Booth made Layup.,50,80
+6:16,219,Ryan Betley made Three Point Jumper. Assisted by Darnell Foreman.,53,80
+5:56,219,Foul on Devon Goodman.,53,80
+5:56,222,Phil Booth made Free Throw.,53,81
+5:56,222,Phil Booth made Free Throw.,53,82
+5:45,219,Ryan Betley Turnover.,53,82
+5:45,222,Jalen Brunson Steal.,53,82
+5:39,222,Mikal Bridges missed Jumper.,53,82
+5:39,219,Ryan Betley Block.,53,82
+5:39,219,Jarrod Simmons Defensive Rebound.,53,82
+5:30,222,Foul on Mikal Bridges.,53,82
+5:20,219,Devon Goodman made Layup.,55,82
+4:55,222,Collin Gillespie missed Layup.,55,82
+4:55,219,AJ Brodeur Block.,55,82
+4:55,219,Ryan Betley Defensive Rebound.,55,82
+4:47,219,Devon Goodman missed Jumper.,55,82
+4:47,219,Pennsylvania Offensive Rebound.,55,82
+4:47,222,Foul on Dhamir Cosby-Roundtree.,55,82
+4:37,219,AJ Brodeur missed Jumper.,55,82
+4:37,222,Dhamir Cosby-Roundtree Defensive Rebound.,55,82
+4:29,222,Omari Spellman missed Three Point Jumper.,55,82
+4:29,219,Ryan Betley Defensive Rebound.,55,82
+4:17,219,Ryan Betley made Three Point Jumper. Assisted by Darnell Foreman.,58,82
+3:57,222,Dhamir Cosby-Roundtree made Dunk. Assisted by Jalen Brunson.,58,84
+3:26,219,AJ Brodeur made Layup. Assisted by Jarrod Simmons.,60,84
+3:20,222,Official TV Timeout,60,84
+3:02,222,Eric Paschall made Jumper.,60,86
+2:50,219,Jarrod Simmons made Layup. Assisted by Eddie Scott.,62,86
+2:32,222,Eric Paschall Turnover.,62,86
+2:32,219,Antonio Woods Steal.,62,86
+2:29,219,Ryan Betley missed Three Point Jumper.,62,86
+2:29,219,Devon Goodman Offensive Rebound.,62,86
+2:24,219,Devon Goodman Turnover.,62,86
+2:24,222,Collin Gillespie Steal.,62,86
+1:59,222,Collin Gillespie made Layup.,62,88
+1:49,219,Foul on Eddie Scott.,62,88
+1:49,219,Eddie Scott Turnover.,62,88
+1:26,222,Eric Paschall made Jumper.,62,90
+1:05,219,Eddie Scott missed Jumper.,62,90
+1:05,222,Dhamir Cosby-Roundtree Defensive Rebound.,62,90
+0:55,222,Villanova  Timeout,62,90
+0:31,222,Villanova  Turnover.,62,90
+0:22,219,Jarrod Simmons missed Three Point Jumper.,62,90
+0:22,222,Denny Grace Defensive Rebound.,62,90
+0:17,222,Denny Grace Turnover.,62,90
+0:05,219,Jarrod Simmons missed Jumper.,62,90
+0:05,219,Jake Silpe Offensive Rebound.,62,90
+0:05,222,Foul on Denny Grace.,62,90
+0:05,219,Jake Silpe missed Free Throw.,62,90
+0:05,222,Denny Grace Defensive Rebound.,62,90
+0:00,222,End of Game,62,90

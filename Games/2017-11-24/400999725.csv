@@ -1,0 +1,348 @@
+North Carolina,8,Arkansas,153
+time,team_id,description,h_score,a_score
+20:00,153,Jump Ball won by North Carolina,0,0
+19:49,153,Joel Berry II missed Layup.,0,0
+19:49,8,Adrio Bailey Block.,0,0
+19:49,8,Adrio Bailey Defensive Rebound.,0,0
+19:28,8,Anton Beard missed Jumper.,0,0
+19:28,8,Trey Thompson Offensive Rebound.,0,0
+19:22,8,Trey Thompson made Layup.,0,2
+19:00,153,Garrison Brooks missed Jumper.,0,2
+19:00,8,Jaylen Barford Defensive Rebound.,0,2
+18:55,8,Jaylen Barford made Jumper.,0,4
+18:34,153,Luke Maye missed Jumper.,0,4
+18:34,8,Adrio Bailey Defensive Rebound.,0,4
+18:18,8,Anton Beard missed Layup.,0,4
+18:18,153,Luke Maye Defensive Rebound.,0,4
+18:05,153,Joel Berry II missed Layup.,0,4
+18:05,8,Trey Thompson Defensive Rebound.,0,4
+17:57,8,Adrio Bailey missed Jumper.,0,4
+17:57,153,Luke Maye Defensive Rebound.,0,4
+17:38,153,Theo Pinson missed Three Point Jumper.,0,4
+17:38,8,Arkansas Defensive Rebound.,0,4
+17:33,8,Foul on Trey Thompson.,0,4
+17:29,153,Kenny Williams missed Layup.,0,4
+17:29,153,Luke Maye Offensive Rebound.,0,4
+17:27,8,Foul on Anton Beard.,0,4
+17:27,153,Luke Maye made Free Throw.,1,4
+17:27,153,Luke Maye made Free Throw.,2,4
+17:21,8,Adrio Bailey missed Layup.,2,4
+17:21,153,Luke Maye Defensive Rebound.,2,4
+17:07,153,Garrison Brooks missed Layup.,2,4
+17:07,8,Adrio Bailey Block.,2,4
+17:07,8,Adrio Bailey Defensive Rebound.,2,4
+16:40,8,Jaylen Barford made Layup.,2,6
+16:32,153,Luke Maye Turnover.,2,6
+16:32,8,Trey Thompson Steal.,2,6
+16:17,8,Jaylen Barford missed Three Point Jumper.,2,6
+16:17,153,Luke Maye Defensive Rebound.,2,6
+16:10,153,Joel Berry II missed Jumper.,2,6
+16:10,8,Trey Thompson Block.,2,6
+16:10,153,North Carolina Offensive Rebound.,2,6
+15:53,153,Luke Maye Turnover.,2,6
+15:53,8,Jaylen Barford Steal.,2,6
+15:46,8,Anton Beard missed Layup.,2,6
+15:46,153,Theo Pinson Block.,2,6
+15:46,8,Arkansas Offensive Rebound.,2,6
+15:46,8,Official TV Timeout,2,6
+15:42,8,Daryl Macon missed Three Point Jumper.,2,6
+15:42,153,Joel Berry II Defensive Rebound.,2,6
+15:35,153,Theo Pinson Turnover.,2,6
+15:35,8,Daryl Macon Steal.,2,6
+15:09,8,Jaylen Barford missed Jumper.,2,6
+15:09,8,Adrio Bailey Offensive Rebound.,2,6
+15:04,8,Adrio Bailey made Layup.,2,8
+14:50,153,Garrison Brooks made Jumper. Assisted by Luke Maye.,4,8
+14:30,153,Foul on Joel Berry II.,4,8
+14:13,8,Anton Beard missed Three Point Jumper.,4,8
+14:13,153,North Carolina Deadball Team Rebound.,4,8
+13:57,153,Theo Pinson Turnover.,4,8
+13:57,8,Anton Beard Steal.,4,8
+13:45,8,Daryl Macon missed Jumper.,4,8
+13:45,153,Luke Maye Defensive Rebound.,4,8
+13:34,153,Sterling Manley Turnover.,4,8
+13:34,8,C.J. Jones Steal.,4,8
+13:22,8,Anton Beard made Jumper.,4,10
+12:58,153,Sterling Manley made Jumper.,6,10
+12:30,8,Daryl Macon missed Three Point Jumper.,6,10
+12:30,153,Theo Pinson Defensive Rebound.,6,10
+12:19,153,Kenny Williams made Three Point Jumper. Assisted by Luke Maye.,9,10
+12:01,8,Daniel Gafford missed Jumper.,9,10
+12:01,153,Luke Maye Defensive Rebound.,9,10
+11:53,8,Foul on Daniel Gafford.,9,10
+11:53,8,Official TV Timeout,9,10
+11:48,8,Foul on Daniel Gafford.,9,10
+11:48,153,Joel Berry II missed Free Throw.,9,10
+11:48,153,North Carolina Deadball Team Rebound.,9,10
+11:48,153,Joel Berry II made Free Throw.,10,10
+11:31,8,Jaylen Barford Turnover.,10,10
+11:23,153,Luke Maye made Three Point Jumper. Assisted by Joel Berry II.,13,10
+11:00,8,Dustin Thomas Turnover.,13,10
+11:00,153,Kenny Williams Steal.,13,10
+10:57,8,Foul on Dustin Thomas.,13,10
+10:35,153,Joel Berry II made Jumper.,15,10
+10:22,8,Foul on Jaylen Barford.,15,10
+10:22,8,Jaylen Barford Turnover.,15,10
+10:15,153,Luke Maye made Layup.,17,10
+9:49,8,Anton Beard missed Jumper.,17,10
+9:49,153,Luke Maye Block.,17,10
+9:49,153,Kenny Williams Defensive Rebound.,17,10
+9:40,153,Kenny Williams Turnover.,17,10
+9:27,8,Daryl Macon made Three Point Jumper.,17,13
+9:13,153,Luke Maye Turnover.,17,13
+8:49,8,Daryl Macon missed Three Point Jumper.,17,13
+8:49,153,Garrison Brooks Defensive Rebound.,17,13
+8:41,153,Luke Maye made Layup. Assisted by Jalek Felton.,19,13
+8:07,8,Anton Beard made Three Point Jumper. Assisted by Jaylen Barford.,19,16
+7:49,8,Foul on Trey Thompson.,19,16
+7:49,8,Official TV Timeout,19,16
+7:49,153,Luke Maye missed Free Throw.,19,16
+7:49,153,North Carolina Deadball Team Rebound.,19,16
+7:49,153,Luke Maye missed Free Throw.,19,16
+7:49,153,Luke Maye Offensive Rebound.,19,16
+7:49,153,Kenny Williams missed Three Point Jumper.,19,16
+7:49,153,Luke Maye Offensive Rebound.,19,16
+7:45,153,Luke Maye missed Layup.,19,16
+7:45,8,Anton Beard Defensive Rebound.,19,16
+7:34,8,Foul on Jaylen Barford.,19,16
+7:34,8,Jaylen Barford Turnover.,19,16
+7:12,8,Foul on Adrio Bailey.,19,16
+7:12,153,Theo Pinson missed Free Throw.,19,16
+7:12,153,North Carolina Deadball Team Rebound.,19,16
+7:12,153,Theo Pinson made Free Throw.,20,16
+7:02,8,C.J. Jones made Three Point Jumper.,20,19
+6:47,153,Jalek Felton made Three Point Jumper. Assisted by Andrew Platek.,23,19
+6:35,153,Foul on Kenny Williams.,23,19
+6:27,153,Foul on Brandon Robinson.,23,19
+6:13,8,Daryl Macon missed Jumper.,23,19
+6:13,153,Brandon Robinson Defensive Rebound.,23,19
+5:51,153,Joel Berry II missed Three Point Jumper.,23,19
+5:51,8,Arkansas Defensive Rebound.,23,19
+5:26,8,C.J. Jones made Three Point Jumper. Assisted by Daryl Macon.,23,22
+5:06,153,Brandon Robinson made Jumper.,25,22
+5:06,8,Foul on C.J. Jones.,25,22
+5:06,153,Brandon Robinson made Free Throw.,26,22
+4:53,153,Foul on Brandon Robinson.,26,22
+4:53,8,Trey Thompson missed Free Throw.,26,22
+4:53,8,Arkansas Deadball Team Rebound.,26,22
+4:53,8,Trey Thompson missed Free Throw.,26,22
+4:53,153,North Carolina Defensive Rebound.,26,22
+4:42,153,Seventh Woods missed Three Point Jumper.,26,22
+4:42,8,Dustin Thomas Defensive Rebound.,26,22
+4:13,8,Anton Beard missed Jumper.,26,22
+4:13,153,Joel Berry II Defensive Rebound.,26,22
+4:08,8,Foul on Darious Hall.,26,22
+4:08,153,Joel Berry II made Free Throw.,27,22
+4:08,153,Joel Berry II made Free Throw.,28,22
+3:43,8,Daryl Macon missed Jumper.,28,22
+3:43,153,Theo Pinson Block.,28,22
+3:43,153,Kenny Williams Defensive Rebound.,28,22
+3:31,153,Joel Berry II made Jumper.,30,22
+3:06,153,Foul on Seventh Woods.,30,22
+3:06,8,Official TV Timeout,30,22
+2:59,8,Arkansas  Timeout,30,22
+2:46,8,Daryl Macon Turnover.,30,22
+2:36,153,Luke Maye made Three Point Jumper. Assisted by Seventh Woods.,33,22
+2:02,8,Daryl Macon missed Jumper.,33,22
+2:02,8,Dustin Thomas Offensive Rebound.,33,22
+1:54,8,Dustin Thomas missed Layup.,33,22
+1:54,153,Seventh Woods Defensive Rebound.,33,22
+1:43,153,Joel Berry II missed Jumper.,33,22
+1:43,8,Adrio Bailey Block.,33,22
+1:43,8,Dustin Thomas Defensive Rebound.,33,22
+1:29,8,C.J. Jones missed Three Point Jumper.,33,22
+1:29,153,Luke Maye Defensive Rebound.,33,22
+1:22,153,Seventh Woods missed Layup.,33,22
+1:22,8,Adrio Bailey Block.,33,22
+1:22,8,Daryl Macon Defensive Rebound.,33,22
+1:09,153,Foul on Theo Pinson.,33,22
+1:09,8,Daryl Macon made Free Throw.,33,23
+1:09,8,Daryl Macon made Free Throw.,33,24
+0:59,153,Theo Pinson made Layup. Assisted by Andrew Platek.,35,24
+0:40,8,Daryl Macon missed Three Point Jumper.,35,24
+0:40,153,Theo Pinson Defensive Rebound.,35,24
+0:31,153,Luke Maye made Layup.,37,24
+0:04,8,Anton Beard made Jumper.,37,26
+0:00,8,End of 1st half,37,26
+20:00,153,Jump Ball won by North Carolina,37,26
+19:38,153,Luke Maye made Jumper.,39,26
+19:17,8,Daryl Macon missed Jumper.,39,26
+19:17,153,Kenny Williams Block.,39,26
+19:17,153,Garrison Brooks Defensive Rebound.,39,26
+19:07,153,Theo Pinson missed Jumper.,39,26
+19:07,8,Anton Beard Defensive Rebound.,39,26
+18:59,8,Jaylen Barford made Three Point Jumper. Assisted by Anton Beard.,39,29
+18:43,153,Joel Berry II missed Jumper.,39,29
+18:43,8,Jaylen Barford Defensive Rebound.,39,29
+18:34,8,Jaylen Barford made Jumper.,39,31
+18:11,153,Luke Maye made Three Point Jumper. Assisted by Theo Pinson.,42,31
+17:59,8,Jaylen Barford missed Three Point Jumper.,42,31
+17:59,153,Kenny Williams Defensive Rebound.,42,31
+17:51,153,Garrison Brooks made Layup. Assisted by Luke Maye.,44,31
+17:47,8,Arkansas  Timeout,44,31
+17:47,8,Official TV Timeout,44,31
+17:41,8,Jaylen Barford missed Layup.,44,31
+17:41,8,Dustin Thomas Offensive Rebound.,44,31
+17:39,8,Dustin Thomas missed Layup.,44,31
+17:39,153,Garrison Brooks Block.,44,31
+17:39,8,Arkansas Offensive Rebound.,44,31
+17:18,8,Trey Thompson made Jumper. Assisted by Daryl Macon.,44,33
+17:01,8,Foul on Jaylen Barford.,44,33
+16:59,153,Luke Maye made Jumper.,46,33
+16:36,8,Anton Beard missed Three Point Jumper.,46,33
+16:36,153,Kenny Williams Defensive Rebound.,46,33
+16:27,153,Kenny Williams made Layup.,48,33
+16:16,8,Jaylen Barford made Layup.,48,35
+16:06,153,Kenny Williams made Three Point Jumper. Assisted by Luke Maye.,51,35
+15:50,8,Daryl Macon made Layup.,51,37
+15:37,153,Garrison Brooks missed Layup.,51,37
+15:37,153,Theo Pinson Offensive Rebound.,51,37
+15:31,8,Foul on Dustin Thomas.,51,37
+15:31,8,Official TV Timeout,51,37
+15:31,153,Theo Pinson made Free Throw.,52,37
+15:31,153,Theo Pinson made Free Throw.,53,37
+15:23,8,Daniel Gafford made Layup.,53,39
+15:12,153,Luke Maye Turnover.,53,39
+14:48,8,Jaylen Barford made Jumper.,53,41
+14:30,153,Luke Maye missed Jumper.,53,41
+14:30,8,Daniel Gafford Defensive Rebound.,53,41
+14:23,8,Jaylen Barford made Three Point Jumper. Assisted by Anton Beard.,53,44
+14:15,153,Sterling Manley Turnover.,53,44
+14:15,8,Jaylen Barford Steal.,53,44
+14:09,8,C.J. Jones missed Three Point Jumper.,53,44
+14:09,153,Brandon Robinson Defensive Rebound.,53,44
+14:03,153,Brandon Robinson missed Jumper.,53,44
+14:03,8,Daniel Gafford Block.,53,44
+14:03,8,Daniel Gafford Defensive Rebound.,53,44
+13:51,8,Dustin Thomas made Layup. Assisted by Anton Beard.,53,46
+13:31,153,Joel Berry II made Layup.,55,46
+13:16,8,Foul on Anton Beard.,55,46
+13:16,8,Anton Beard Turnover.,55,46
+13:07,153,Theo Pinson Turnover.,55,46
+13:07,8,Daniel Gafford Steal.,55,46
+13:03,8,Daniel Gafford made Layup.,55,48
+12:46,153,Foul on Theo Pinson.,55,48
+12:46,153,Theo Pinson Turnover.,55,48
+12:41,8,C.J. Jones missed Three Point Jumper.,55,48
+12:41,153,Kenny Williams Defensive Rebound.,55,48
+12:31,153,Joel Berry II missed Layup.,55,48
+12:31,153,Luke Maye Offensive Rebound.,55,48
+12:13,153,Luke Maye made Two Point Tip Shot.,57,48
+12:07,8,Dustin Thomas missed Jumper.,57,48
+12:07,153,Brandon Robinson Defensive Rebound.,57,48
+12:05,8,Foul on Daniel Gafford.,57,48
+12:05,153,Joel Berry II made Free Throw.,58,48
+12:05,153,Joel Berry II made Free Throw.,59,48
+11:44,8,Adrio Bailey missed Layup.,59,48
+11:44,153,Luke Maye Defensive Rebound.,59,48
+11:35,8,Foul on Daniel Gafford.,59,48
+11:35,8,Official TV Timeout,59,48
+11:35,153,Kenny Williams made Free Throw.,60,48
+11:35,153,Kenny Williams made Free Throw.,61,48
+11:23,8,Jaylen Barford made Jumper.,61,50
+10:59,153,Theo Pinson missed Jumper.,61,50
+10:59,8,Adrio Bailey Block.,61,50
+10:59,8,Anton Beard Defensive Rebound.,61,50
+10:39,153,Foul on Joel Berry II.,61,50
+10:37,8,Jaylen Barford missed Three Point Jumper.,61,50
+10:37,153,North Carolina Defensive Rebound.,61,50
+10:26,153,Kenny Williams made Three Point Jumper. Assisted by Joel Berry II.,64,50
+9:58,8,C.J. Jones missed Three Point Jumper.,64,50
+9:58,153,Brandon Robinson Defensive Rebound.,64,50
+9:50,153,Joel Berry II missed Layup.,64,50
+9:50,153,Brandon Robinson Offensive Rebound.,64,50
+9:47,153,Brandon Robinson missed Layup.,64,50
+9:47,8,Arkansas Defensive Rebound.,64,50
+9:33,8,Adrio Bailey made Layup. Assisted by Trey Thompson.,64,52
+9:19,153,Theo Pinson made Layup.,66,52
+8:56,8,Anton Beard made Three Point Jumper. Assisted by Trey Thompson.,66,55
+8:51,153,Kenny Williams made Jumper.,68,55
+8:36,8,Anton Beard missed Jumper.,68,55
+8:36,153,Theo Pinson Block.,68,55
+8:36,153,Kenny Williams Defensive Rebound.,68,55
+8:36,153,Kenny Williams missed Layup.,68,55
+8:36,8,Jaylen Barford Block.,68,55
+8:36,153,Brandon Robinson Offensive Rebound.,68,55
+8:27,153,Brandon Robinson made Layup.,70,55
+8:07,153,Foul on Kenny Williams.,70,55
+7:54,8,Anton Beard Turnover.,70,55
+7:54,8,Official TV Timeout,70,55
+7:37,153,Jalek Felton missed Three Point Jumper.,70,55
+7:37,8,C.J. Jones Defensive Rebound.,70,55
+7:26,8,Darious Hall made Jumper.,70,57
+7:26,153,Foul on Theo Pinson.,70,57
+7:26,8,Darious Hall made Free Throw.,70,58
+7:21,153,Andrew Platek made Layup. Assisted by Theo Pinson.,72,58
+7:08,8,Darious Hall missed Jumper.,72,58
+7:08,153,Andrew Platek Block.,72,58
+7:08,8,Darious Hall Offensive Rebound.,72,58
+6:57,8,Trey Thompson missed Jumper.,72,58
+6:57,153,Luke Maye Defensive Rebound.,72,58
+6:45,153,Luke Maye made Layup. Assisted by Kenny Williams.,74,58
+6:21,8,C.J. Jones missed Jumper.,74,58
+6:21,153,Luke Maye Defensive Rebound.,74,58
+6:15,153,Kenny Williams missed Three Point Jumper.,74,58
+6:15,153,Luke Maye Offensive Rebound.,74,58
+6:08,153,Joel Berry II missed Jumper.,74,58
+6:08,8,Daniel Gafford Defensive Rebound.,74,58
+6:05,153,Foul on Luke Maye.,74,58
+5:43,8,Jaylen Barford missed Three Point Jumper.,74,58
+5:43,8,Daniel Gafford Offensive Rebound.,74,58
+5:37,8,C.J. Jones missed Three Point Jumper.,74,58
+5:37,153,Kenny Williams Defensive Rebound.,74,58
+5:29,153,Kenny Williams missed Layup.,74,58
+5:29,153,North Carolina Offensive Rebound.,74,58
+5:06,153,Theo Pinson Turnover.,74,58
+4:49,153,Foul on Luke Maye.,74,58
+4:49,8,Daniel Gafford missed Free Throw.,74,58
+4:49,8,Arkansas Deadball Team Rebound.,74,58
+4:49,8,Daniel Gafford made Free Throw.,74,59
+4:41,153,Luke Maye Turnover.,74,59
+4:41,8,Dustin Thomas Steal.,74,59
+4:32,8,C.J. Jones made Three Point Jumper. Assisted by Jaylen Barford.,74,62
+4:10,153,Andrew Platek missed Three Point Jumper.,74,62
+4:10,8,C.J. Jones Defensive Rebound.,74,62
+4:04,8,C.J. Jones made Three Point Jumper. Assisted by Anton Beard.,74,65
+3:37,153,Luke Maye missed Layup.,74,65
+3:37,8,Daniel Gafford Defensive Rebound.,74,65
+3:32,8,Jaylen Barford made Jumper.,74,67
+3:32,153,Foul on Kenny Williams.,74,67
+3:32,8,Official TV Timeout,74,67
+3:32,8,Jaylen Barford made Free Throw.,74,68
+3:17,8,Foul on Jaylen Barford.,74,68
+3:17,153,Joel Berry II made Free Throw.,75,68
+3:17,153,Joel Berry II made Free Throw.,76,68
+3:11,8,Foul on Dustin Thomas.,76,68
+3:11,8,Dustin Thomas Turnover.,76,68
+3:03,153,Theo Pinson made Dunk.,78,68
+2:50,8,Anton Beard Turnover.,78,68
+2:50,153,Joel Berry II Steal.,78,68
+2:44,153,Kenny Williams made Layup. Assisted by Joel Berry II.,80,68
+2:34,8,Arkansas  Timeout,80,68
+2:25,8,Anton Beard missed Three Point Jumper.,80,68
+2:25,153,Kenny Williams Defensive Rebound.,80,68
+2:21,153,Kenny Williams Turnover.,80,68
+2:05,8,Jaylen Barford missed Jumper.,80,68
+2:05,153,Theo Pinson Defensive Rebound.,80,68
+1:46,153,Luke Maye made Three Point Jumper. Assisted by Joel Berry II.,83,68
+1:28,8,Daniel Gafford missed Jumper.,83,68
+1:28,153,North Carolina Defensive Rebound.,83,68
+1:13,153,Luke Maye missed Three Point Jumper.,83,68
+1:13,153,Garrison Brooks Offensive Rebound.,83,68
+1:06,153,Garrison Brooks missed Jumper.,83,68
+1:06,8,Daniel Gafford Block.,83,68
+1:06,8,Jaylen Barford Defensive Rebound.,83,68
+1:01,8,Jaylen Barford missed Layup.,83,68
+1:01,153,Luke Maye Defensive Rebound.,83,68
+0:53,153,Kenny Williams made Layup. Assisted by Luke Maye.,85,68
+0:43,153,North Carolina  Timeout,85,68
+0:39,8,C.J. Jones missed Three Point Jumper.,85,68
+0:39,8,Daniel Gafford Offensive Rebound.,85,68
+0:34,8,Anton Beard missed Jumper.,85,68
+0:34,153,Sterling Manley Defensive Rebound.,85,68
+0:25,8,Foul on Anton Beard.,85,68
+0:25,153,Sterling Manley made Free Throw.,86,68
+0:25,153,Sterling Manley made Free Throw.,87,68
+0:08,8,Anton Beard missed Three Point Jumper.,87,68
+0:08,153,Sterling Manley Defensive Rebound.,87,68
+0:00,8,End of Game,87,68

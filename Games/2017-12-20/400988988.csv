@@ -1,0 +1,322 @@
+New Orleans,5,UAB,2443
+time,team_id,description,h_score,a_score
+19:46,5,Zack Bryant made Layup.,0,2
+19:32,2443,Bryson Robinson missed Three Point Jumper.,0,2
+19:32,5,William Lee Defensive Rebound.,0,2
+19:24,5,Nate Darling made Layup. Assisted by William Lee.,0,4
+19:06,2443,Travin Thibodeaux missed Jumper.,0,4
+19:06,5,William Lee Block.,0,4
+19:04,2443,New Orleans Offensive Rebound.,0,4
+19:03,2443,Troy Green Turnover.,0,4
+19:02,5,Nick Norton Steal.,0,4
+19:01,5,Nick Norton made Layup.,0,6
+18:57,2443,New Orleans  Timeout,0,6
+18:42,2443,Dionta Champion missed Three Point Jumper.,0,6
+18:42,5,Nate Darling Defensive Rebound.,0,6
+18:15,5,Zack Bryant made Three Point Jumper. Assisted by Nick Norton.,0,9
+18:05,2443,Makur Puou made Jumper. Assisted by Travin Thibodeaux.,2,9
+17:49,5,Zack Bryant Turnover.,2,9
+17:38,2443,Troy Green made Layup. Assisted by Dionta Champion.,4,9
+17:25,2443,Foul on Troy Green.,4,9
+17:25,5,Zack Bryant missed Free Throw.,4,9
+17:25,5,UAB Deadball Team Rebound.,4,9
+17:25,5,Zack Bryant made Free Throw.,4,10
+16:56,2443,Troy Green missed Three Point Jumper.,4,10
+16:56,5,UAB Defensive Rebound.,4,10
+16:38,5,Nick Norton made Three Point Jumper. Assisted by Chris Cokley.,4,13
+16:17,2443,Troy Green missed Layup.,4,13
+16:17,5,William Lee Block.,4,13
+16:15,5,Nick Norton Defensive Rebound.,4,13
+16:12,2443,Foul on Travin Thibodeaux.,4,13
+16:12,5,Nate Darling made Free Throw.,4,14
+16:12,5,Nate Darling made Free Throw.,4,15
+15:52,2443,Scott Plaisance made Layup. Assisted by Michael Zeno.,6,15
+15:30,5,William Lee missed Three Point Jumper.,6,15
+15:30,2443,Bryson Robinson Defensive Rebound.,6,15
+15:05,2443,Damion Rosser missed Layup.,6,15
+15:05,5,Nate Darling Block.,6,15
+15:03,5,Chris Cokley Defensive Rebound.,6,15
+14:51,5,Chris Cokley missed Jumper.,6,15
+14:51,2443,Bryson Robinson Defensive Rebound.,6,15
+14:41,5,Foul on Nate Darling.,6,15
+14:41,5,Official TV Timeout,6,15
+14:41,2443,Troy Green made Free Throw.,7,15
+14:41,2443,Troy Green made Free Throw.,8,15
+14:15,2443,Foul on Troy Green.,8,15
+14:08,5,Lewis Sullivan made Layup.,8,17
+13:51,2443,Michael Zeno made Layup.,10,17
+13:51,5,Foul on William Lee.,10,17
+13:51,2443,Michael Zeno missed Free Throw.,10,17
+13:51,2443,Michael Zeno Offensive Rebound.,10,17
+13:36,2443,Michael Zeno missed Jumper.,10,17
+13:36,5,Makhtar Gueye Defensive Rebound.,10,17
+13:19,5,Chris Cokley made Layup. Assisted by Lewis Sullivan.,10,19
+12:57,2443,Ezekiel Charles missed Three Point Jumper.,10,19
+12:57,2443,Michael Zeno Offensive Rebound.,10,19
+12:50,5,Foul on Makhtar Gueye.,10,19
+12:25,2443,Michael Zeno missed Layup.,10,19
+12:25,5,Makhtar Gueye Block.,10,19
+12:23,5,Zack Bryant Defensive Rebound.,10,19
+12:19,5,Zack Bryant made Layup.,10,21
+11:55,2443,Ezekiel Charles made Three Point Jumper.,13,21
+11:30,5,Lewis Sullivan made Dunk.,13,23
+11:11,2443,Bryson Robinson missed Three Point Jumper.,13,23
+11:11,2443,Damion Rosser Offensive Rebound.,13,23
+11:05,2443,Scott Plaisance made Dunk. Assisted by Damion Rosser.,15,23
+10:45,5,Lewis Sullivan made Jumper. Assisted by Jalen Perry.,15,25
+10:27,2443,Ezekiel Charles missed Jumper.,15,25
+10:27,2443,New Orleans Offensive Rebound.,15,25
+10:23,5,Foul on Zack Bryant.,15,25
+10:21,5,Official TV Timeout,15,25
+9:53,2443,Makur Puou Turnover.,15,25
+9:52,5,Jalen Perry Steal.,15,25
+9:35,5,Chris Cokley missed Layup.,15,25
+9:35,2443,New Orleans Defensive Rebound.,15,25
+9:19,2443,Makur Puou made Layup.,17,25
+9:19,5,Foul on Nate Darling.,17,25
+9:19,2443,Makur Puou made Free Throw.,18,25
+9:08,5,Nick Norton made Three Point Jumper. Assisted by Jalen Perry.,18,28
+8:38,2443,Makur Puou Turnover.,18,28
+8:37,5,Chris Cokley Steal.,18,28
+8:32,5,Jalen Perry Turnover.,18,28
+8:31,2443,Lamont Berzat Steal.,18,28
+8:28,2443,Damion Rosser made Layup. Assisted by Lamont Berzat.,20,28
+7:58,2443,Foul on Lamont Berzat.,20,28
+7:58,5,Official TV Timeout,20,28
+7:45,5,Nick Norton Turnover.,20,28
+7:44,2443,Damion Rosser Steal.,20,28
+7:41,2443,Damion Rosser made Layup.,22,28
+7:28,2443,Foul on Lamont Berzat.,22,28
+7:28,5,Zack Bryant missed Free Throw.,22,28
+7:28,5,UAB Deadball Team Rebound.,22,28
+7:28,5,Zack Bryant made Free Throw.,22,29
+7:01,2443,Ezekiel Charles missed Three Point Jumper.,22,29
+7:01,2443,Travin Thibodeaux Offensive Rebound.,22,29
+6:54,2443,Makur Puou Turnover.,22,29
+6:44,5,Zack Bryant Turnover.,22,29
+6:43,2443,Makur Puou Steal.,22,29
+6:40,5,Foul on William Lee.,22,29
+6:40,2443,Ezekiel Charles missed Free Throw.,22,29
+6:40,2443,New Orleans Deadball Team Rebound.,22,29
+6:40,2443,Ezekiel Charles made Free Throw.,23,29
+6:13,5,Zack Bryant missed Three Point Jumper.,23,29
+6:13,5,Lewis Sullivan Offensive Rebound.,23,29
+6:07,5,Lewis Sullivan made Layup.,23,31
+5:51,2443,Bryson Robinson Turnover.,23,31
+5:49,5,Nick Norton Steal.,23,31
+5:29,5,Lewis Sullivan made Layup.,23,33
+5:09,2443,Damion Rosser made Three Point Jumper. Assisted by Bryson Robinson.,26,33
+4:40,5,Chris Cokley missed Jumper.,26,33
+4:40,2443,Makur Puou Defensive Rebound.,26,33
+4:07,2443,New Orleans  Turnover.,26,33
+3:53,5,Chris Cokley Turnover.,26,33
+3:52,2443,Makur Puou Steal.,26,33
+3:49,2443,Damion Rosser Turnover.,26,33
+3:49,2443,Foul on Damion Rosser.,26,33
+3:49,5,Official TV Timeout,26,33
+3:25,2443,Foul on Michael Zeno.,26,33
+3:25,5,Chris Cokley made Free Throw.,26,34
+3:20,5,Chris Cokley made Free Throw.,26,35
+3:13,2443,Michael Zeno Turnover.,26,35
+3:12,5,Chris Cokley Steal.,26,35
+3:09,5,Chris Cokley missed Layup.,26,35
+3:09,2443,Michael Zeno Defensive Rebound.,26,35
+2:51,2443,Michael Zeno Turnover.,26,35
+2:48,5,Nick Norton Steal.,26,35
+2:36,5,Jalen Perry missed Three Point Jumper.,26,35
+2:36,2443,Ezekiel Charles Defensive Rebound.,26,35
+2:23,2443,Michael Zeno Turnover.,26,35
+2:22,5,Nick Norton Steal.,26,35
+2:06,5,Nick Norton Turnover.,26,35
+2:05,2443,Bryson Robinson Steal.,26,35
+2:02,5,Foul on Zack Bryant.,26,35
+2:02,2443,Michael Zeno made Free Throw.,27,35
+2:02,2443,Michael Zeno made Free Throw.,28,35
+1:50,5,Chris Cokley made Layup.,28,37
+1:28,2443,Ezekiel Charles missed Three Point Jumper.,28,37
+1:28,5,Chris Cokley Defensive Rebound.,28,37
+1:23,5,Zack Bryant made Layup. Assisted by Nick Norton.,28,39
+1:22,2443,Travin Thibodeaux missed Layup.,28,39
+1:22,5,Lewis Sullivan Block.,28,39
+1:19,5,Chris Cokley Defensive Rebound.,28,39
+1:19,5,UAB  Timeout,28,39
+1:15,5,Makhtar Gueye made Three Point Jumper. Assisted by Jalen Perry.,28,42
+1:07,2443,New Orleans  Timeout,28,42
+0:51,2443,Travin Thibodeaux made Jumper.,30,42
+0:28,5,Nick Norton made Three Point Jumper. Assisted by Jalen Perry.,30,45
+0:02,2443,Bryson Robinson missed Three Point Jumper.,30,45
+0:02,5,Chris Cokley Defensive Rebound.,30,45
+0:00,5,End of 1st half,30,45
+19:40,2443,Makur Puou missed Jumper.,30,45
+19:40,2443,New Orleans Offensive Rebound.,30,45
+19:35,2443,Travin Thibodeaux made Layup. Assisted by Bryson Robinson.,32,45
+19:12,5,William Lee Turnover.,32,45
+19:10,2443,Makur Puou Steal.,32,45
+19:02,2443,Bryson Robinson missed Three Point Jumper.,32,45
+19:02,5,Chris Cokley Defensive Rebound.,32,45
+18:53,5,Nick Norton made Layup.,32,47
+18:37,2443,Travin Thibodeaux missed Jumper.,32,47
+18:37,5,Chris Cokley Defensive Rebound.,32,47
+18:22,5,Zack Bryant made Jumper. Assisted by Nick Norton.,32,49
+18:02,2443,Travin Thibodeaux Turnover.,32,49
+17:42,5,Chris Cokley made Jumper. Assisted by Nate Darling.,32,51
+17:28,2443,Bryson Robinson missed Three Point Jumper.,32,51
+17:28,2443,Makur Puou Offensive Rebound.,32,51
+17:21,2443,Makur Puou made Layup.,34,51
+17:15,2443,Foul on Dionta Champion.,34,51
+17:15,5,Zack Bryant made Free Throw.,34,52
+17:15,5,Zack Bryant missed Free Throw.,34,52
+17:15,2443,Travin Thibodeaux Defensive Rebound.,34,52
+17:07,5,Foul on William Lee.,34,52
+17:07,2443,Troy Green made Free Throw.,35,52
+17:07,2443,Troy Green made Free Throw.,36,52
+16:54,5,Foul on Lewis Sullivan.,36,52
+16:54,5,Lewis Sullivan Turnover.,36,52
+16:41,2443,Travin Thibodeaux made Layup. Assisted by Troy Green.,38,52
+16:25,5,Chris Cokley made Dunk. Assisted by Jalen Perry.,38,54
+16:01,2443,Troy Green missed Jumper.,38,54
+16:01,2443,Travin Thibodeaux Offensive Rebound.,38,54
+15:56,2443,Travin Thibodeaux missed Layup.,38,54
+15:56,5,Lewis Sullivan Block.,38,54
+15:54,2443,Travin Thibodeaux Offensive Rebound.,38,54
+15:52,2443,Travin Thibodeaux missed Jumper.,38,54
+15:52,5,Chris Cokley Defensive Rebound.,38,54
+15:32,5,Nate Darling Turnover.,38,54
+15:17,2443,Bryson Robinson missed Layup.,38,54
+15:17,5,Lewis Sullivan Block.,38,54
+15:14,2443,Scott Plaisance Offensive Rebound.,38,54
+15:01,2443,Troy Green missed Jumper.,38,54
+15:01,2443,Scott Plaisance Offensive Rebound.,38,54
+14:57,2443,Scott Plaisance made Layup.,40,54
+14:40,5,Thomas Smallwood missed Layup.,40,54
+14:40,2443,Scott Plaisance Defensive Rebound.,40,54
+14:33,2443,Travin Thibodeaux made Layup. Assisted by Troy Green.,42,54
+14:11,5,Lewis Sullivan missed Layup.,42,54
+14:11,2443,Scott Plaisance Block.,42,54
+14:10,5,Jalen Perry Offensive Rebound.,42,54
+14:06,5,Lewis Sullivan Turnover.,42,54
+13:53,2443,Travin Thibodeaux missed Jumper.,42,54
+13:53,5,Lewis Sullivan Defensive Rebound.,42,54
+13:45,5,Jalen Perry missed Layup.,42,54
+13:45,5,Lewis Sullivan Offensive Rebound.,42,54
+13:41,5,Lewis Sullivan made Layup.,42,56
+13:34,2443,Michael Zeno missed Layup.,42,56
+13:34,5,Zack Bryant Defensive Rebound.,42,56
+13:28,2443,Foul on Troy Green.,42,56
+13:24,5,Chris Cokley made Layup. Assisted by Lewis Sullivan.,42,58
+13:15,2443,Michael Zeno missed Layup.,42,58
+13:15,5,Chris Cokley Block.,42,58
+13:10,5,Chris Cokley Defensive Rebound.,42,58
+13:06,5,Chris Cokley Turnover.,42,58
+13:05,2443,Travin Thibodeaux Steal.,42,58
+13:04,2443,Travin Thibodeaux made Layup.,44,58
+12:54,5,Nate Darling Turnover.,44,58
+12:53,2443,Lamont Berzat Steal.,44,58
+12:46,2443,Michael Zeno missed Layup.,44,58
+12:46,5,Lewis Sullivan Defensive Rebound.,44,58
+12:39,5,Zack Bryant missed Layup.,44,58
+12:39,5,Zack Bryant Offensive Rebound.,44,58
+12:31,5,Jalen Perry Turnover.,44,58
+12:31,2443,Lamont Berzat Steal.,44,58
+12:31,2443,New Orleans  Timeout,44,58
+12:20,2443,New Orleans  Turnover.,44,58
+12:20,2443,Technical Foul on New Orleans.,44,58
+12:20,5,Jalen Perry made Free Throw.,44,59
+12:20,5,Jalen Perry missed Free Throw.,44,59
+12:20,5,UAB Deadball Team Rebound.,44,59
+12:05,5,Makhtar Gueye missed Three Point Jumper.,44,59
+12:05,2443,Makur Puou Defensive Rebound.,44,59
+11:32,2443,Makur Puou missed Layup.,44,59
+11:32,5,Chris Cokley Defensive Rebound.,44,59
+11:03,5,Makhtar Gueye missed Three Point Jumper.,44,59
+11:03,2443,Lamont Berzat Defensive Rebound.,44,59
+10:56,2443,Damion Rosser made Layup.,46,59
+10:30,5,Jalen Perry Turnover.,46,59
+10:29,2443,Lamont Berzat Steal.,46,59
+10:27,2443,Dionta Champion made Layup. Assisted by Lamont Berzat.,48,59
+10:15,5,UAB  Timeout,48,59
+10:09,2443,Foul on Dionta Champion.,48,59
+9:55,5,UAB  Timeout,48,59
+9:55,5,Nick Norton missed Three Point Jumper.,48,59
+9:55,5,Chris Cokley Offensive Rebound.,48,59
+9:39,5,William Lee missed Three Point Jumper.,48,59
+9:39,2443,Ezekiel Charles Defensive Rebound.,48,59
+9:28,2443,Ezekiel Charles made Three Point Jumper. Assisted by Damion Rosser.,51,59
+8:58,5,Jalen Perry missed Layup.,51,59
+8:58,2443,Damion Rosser Defensive Rebound.,51,59
+8:52,2443,Damion Rosser made Layup.,53,59
+8:39,2443,Foul on Lamont Berzat.,53,59
+8:27,5,Nate Darling Turnover.,53,59
+8:16,2443,Dionta Champion Turnover.,53,59
+8:14,5,Nick Norton Steal.,53,59
+8:13,2443,Foul on Lamont Berzat.,53,59
+8:03,2443,Foul on Damion Rosser.,53,59
+8:03,5,Lewis Sullivan missed Free Throw.,53,59
+8:03,5,UAB Deadball Team Rebound.,53,59
+8:03,5,Lewis Sullivan made Free Throw.,53,60
+7:55,2443,Damion Rosser Turnover.,53,60
+7:55,5,Official TV Timeout,53,60
+7:37,5,Zack Bryant missed Three Point Jumper.,53,60
+7:37,5,Nate Darling Offensive Rebound.,53,60
+7:10,5,Nick Norton Turnover.,53,60
+7:10,5,Foul on Nick Norton.,53,60
+6:58,5,Foul on Lewis Sullivan.,53,60
+6:58,2443,Damion Rosser missed Free Throw.,53,60
+6:58,2443,New Orleans Deadball Team Rebound.,53,60
+6:58,2443,Damion Rosser missed Free Throw.,53,60
+6:58,2443,Troy Green Offensive Rebound.,53,60
+6:42,2443,Ezekiel Charles missed Layup.,53,60
+6:42,2443,Travin Thibodeaux Offensive Rebound.,53,60
+6:34,2443,Travin Thibodeaux missed Layup.,53,60
+6:34,2443,Dionta Champion Offensive Rebound.,53,60
+6:30,2443,Dionta Champion made Layup.,55,60
+6:18,5,William Lee made Layup. Assisted by Nick Norton.,55,62
+5:55,5,Foul on Nate Darling.,55,62
+5:54,2443,Damion Rosser made Free Throw.,56,62
+5:54,2443,Damion Rosser made Free Throw.,57,62
+5:37,5,Jalen Perry missed Three Point Jumper.,57,62
+5:37,2443,Ezekiel Charles Block.,57,62
+5:31,2443,Dionta Champion Defensive Rebound.,57,62
+5:17,2443,Dionta Champion missed Layup.,57,62
+5:17,5,William Lee Block.,57,62
+5:14,2443,New Orleans Offensive Rebound.,57,62
+5:10,2443,Travin Thibodeaux made Layup.,59,62
+4:56,5,Chris Cokley made Dunk. Assisted by Nick Norton.,59,64
+4:40,5,Foul on Jalen Perry.,59,64
+4:36,2443,Troy Green Turnover.,59,64
+4:17,5,William Lee made Three Point Jumper. Assisted by Nick Norton.,59,67
+4:07,2443,New Orleans  Timeout,59,67
+3:55,2443,Ezekiel Charles made Three Point Jumper. Assisted by Bryson Robinson.,62,67
+3:27,5,Chris Cokley made Layup. Assisted by Zack Bryant.,62,69
+2:57,2443,Bryson Robinson made Three Point Jumper.,65,69
+2:37,5,Jalen Perry missed Three Point Jumper.,65,69
+2:37,2443,Ezekiel Charles Defensive Rebound.,65,69
+2:05,2443,Troy Green missed Layup.,65,69
+2:05,5,William Lee Block.,65,69
+2:03,5,William Lee Defensive Rebound.,65,69
+1:45,2443,Foul on Troy Green.,65,69
+1:45,5,Nick Norton missed Free Throw.,65,69
+1:45,2443,Travin Thibodeaux Defensive Rebound.,65,69
+1:28,5,Foul on Zack Bryant.,65,69
+1:28,2443,Ezekiel Charles made Free Throw.,66,69
+1:28,2443,Ezekiel Charles made Free Throw.,67,69
+1:05,5,Nick Norton made Three Point Jumper.,67,72
+0:49,5,Foul on Jalen Perry.,67,72
+0:49,2443,Troy Green missed Free Throw.,67,72
+0:49,2443,New Orleans Offensive Rebound.,67,72
+0:31,2443,Damion Rosser missed Layup.,67,72
+0:31,2443,Ezekiel Charles Offensive Rebound.,67,72
+0:25,2443,Travin Thibodeaux missed Three Point Jumper.,67,72
+0:25,5,William Lee Defensive Rebound.,67,72
+0:21,2443,Foul on Damion Rosser.,67,72
+0:21,5,William Lee made Free Throw.,67,73
+0:21,5,William Lee missed Free Throw.,67,73
+0:21,2443,Travin Thibodeaux Defensive Rebound.,67,73
+0:17,2443,Bryson Robinson missed Three Point Jumper.,67,73
+0:17,5,Lewis Sullivan Defensive Rebound.,67,73
+0:12,2443,Foul on Travin Thibodeaux.,67,73
+0:12,5,Lewis Sullivan made Free Throw.,67,74
+0:12,5,Lewis Sullivan missed Free Throw.,67,74
+0:12,2443,Travin Thibodeaux Defensive Rebound.,67,74
+0:07,2443,Travin Thibodeaux Turnover.,67,74
+0:00,5,End of Game,67,74

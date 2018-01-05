@@ -1,0 +1,346 @@
+Columbia,349,Army,171
+time,team_id,description,h_score,a_score
+19:45,171,Jaron Faulds missed Layup.,0,0
+19:45,171,Nate Hickman Offensive Rebound.,0,0
+19:38,171,Nate Hickman missed Layup.,0,0
+19:38,349,Matthew Wilson Defensive Rebound.,0,0
+19:31,349,Matthew Wilson made Jumper. Assisted by Thomas Funk.,0,2
+19:13,171,Mike Smith missed Three Point Jumper.,0,2
+19:13,349,Luke Morrison Defensive Rebound.,0,2
+19:06,349,Jordan Fox made Three Point Jumper. Assisted by Thomas Funk.,0,5
+18:44,171,Lukas Meisner missed Three Point Jumper.,0,5
+18:44,349,Jordan Fox Defensive Rebound.,0,5
+18:35,349,Luke Morrison made Three Point Jumper. Assisted by Jordan Fox.,0,8
+18:16,171,Lukas Meisner missed Layup.,0,8
+18:16,349,Luke Morrison Defensive Rebound.,0,8
+18:06,171,Foul on Lukas Meisner.,0,8
+17:57,349,Luke Morrison missed Three Point Jumper.,0,8
+17:57,171,Nate Hickman Defensive Rebound.,0,8
+17:46,171,Quinton Adlesh missed Three Point Jumper.,0,8
+17:46,349,Thomas Funk Defensive Rebound.,0,8
+17:38,349,Thomas Funk missed Layup.,0,8
+17:38,171,Jaron Faulds Defensive Rebound.,0,8
+17:29,171,Nate Hickman missed Three Point Jumper.,0,8
+17:29,349,Jacob Kessler Defensive Rebound.,0,8
+17:08,349,Jacob Kessler made Layup. Assisted by Matthew Wilson.,0,10
+16:53,171,Quinton Adlesh missed Three Point Jumper.,0,10
+16:53,171,Jaron Faulds Offensive Rebound.,0,10
+16:46,171,Lukas Meisner made Dunk.,2,10
+16:33,349,Jordan Fox Turnover.,2,10
+16:32,171,Lukas Meisner Steal.,2,10
+16:29,349,Foul on Jacob Kessler.,2,10
+16:29,171,Lukas Meisner made Free Throw.,3,10
+16:29,171,Lukas Meisner missed Free Throw.,3,10
+16:29,349,Alex King Defensive Rebound.,3,10
+16:17,349,Alex King made Three Point Jumper. Assisted by Jordan Fox.,3,13
+16:10,171,Jaron Faulds made Layup. Assisted by Mike Smith.,5,13
+15:49,349,John Miller Turnover.,5,13
+15:49,349,Foul on John Miller.,5,13
+15:49,349,Official TV Timeout,5,13
+15:42,171,Mike Smith missed Layup.,5,13
+15:42,171,Columbia Offensive Rebound.,5,13
+15:23,171,Tai Bibbs missed Layup.,5,13
+15:23,171,Rodney Hunter Offensive Rebound.,5,13
+15:18,171,Nate Hickman missed Three Point Jumper.,5,13
+15:18,349,Tucker Blackwell Defensive Rebound.,5,13
+15:11,349,Matthew Wilson made Jumper. Assisted by Thomas Funk.,5,15
+15:02,171,Tai Bibbs missed Three Point Jumper.,5,15
+15:02,349,John Emezie Defensive Rebound.,5,15
+14:52,349,John Emezie Turnover.,5,15
+14:50,171,Rodney Hunter Steal.,5,15
+14:50,349,Foul on Alex King.,5,15
+14:42,171,Mike Smith made Three Point Jumper.,8,15
+14:24,349,Tucker Blackwell made Three Point Jumper.,8,18
+14:05,171,Nate Hickman made Layup.,10,18
+13:55,349,Matthew Wilson missed Layup.,10,18
+13:55,171,Lukas Meisner Defensive Rebound.,10,18
+13:47,171,Mike Smith missed Three Point Jumper.,10,18
+13:47,349,Army Defensive Rebound.,10,18
+13:25,349,Matthew Wilson made Layup. Assisted by Thomas Funk.,10,20
+13:10,171,Jaron Faulds missed Layup.,10,20
+13:10,349,Matthew Wilson Block.,10,20
+13:08,349,Matthew Wilson Defensive Rebound.,10,20
+12:50,349,Thomas Funk made Three Point Jumper. Assisted by Luke Morrison.,10,23
+12:39,171,Jaron Faulds made Layup. Assisted by Quinton Adlesh.,12,23
+12:11,349,Jacob Kessler made Layup. Assisted by Jordan Fox.,12,25
+11:49,171,Jaron Faulds missed Jumper.,12,25
+11:49,349,Matthew Wilson Defensive Rebound.,12,25
+11:40,349,Jordan Fox Turnover.,12,25
+11:40,349,Foul on Jordan Fox.,12,25
+11:40,349,Official TV Timeout,12,25
+11:30,171,Rodney Hunter Turnover.,12,25
+11:28,349,Alex King Steal.,12,25
+11:24,349,Jordan Fox missed Three Point Jumper.,12,25
+11:24,171,Quinton Adlesh Defensive Rebound.,12,25
+11:11,349,Foul on Jacob Kessler.,12,25
+11:11,171,Tai Bibbs made Free Throw.,13,25
+11:11,171,Tai Bibbs missed Free Throw.,13,25
+11:11,349,Alex King Defensive Rebound.,13,25
+10:50,349,John Miller missed Layup.,13,25
+10:50,171,Jaron Faulds Block.,13,25
+10:48,349,John Miller Offensive Rebound.,13,25
+10:48,349,John Miller Turnover.,13,25
+10:37,171,Quinton Adlesh missed Three Point Jumper.,13,25
+10:37,349,Alex King Defensive Rebound.,13,25
+10:23,349,John Miller Turnover.,13,25
+10:22,171,Nate Hickman Steal.,13,25
+10:19,171,Nate Hickman missed Layup.,13,25
+10:19,349,Jordan Fox Defensive Rebound.,13,25
+10:17,171,Foul on Jaron Faulds.,13,25
+10:07,171,Foul on Gabe Stefanini.,13,25
+9:53,349,Tucker Blackwell made Three Point Jumper.,13,28
+9:41,349,Foul on John Emezie.,13,28
+9:26,171,Gabe Stefanini made Layup.,15,28
+9:03,349,Thomas Funk made Layup.,15,30
+8:51,171,Quinton Adlesh made Three Point Jumper. Assisted by Myles Hanson.,18,30
+8:38,349,Luke Morrison missed Three Point Jumper.,18,30
+8:38,349,Luke Morrison Offensive Rebound.,18,30
+8:32,349,Thomas Funk made Three Point Jumper. Assisted by Luke Morrison.,18,33
+8:27,349,Official TV Timeout,18,33
+8:14,171,Myles Hanson missed Three Point Jumper.,18,33
+8:14,171,Lukas Meisner Offensive Rebound.,18,33
+7:57,171,Nate Hickman made Three Point Jumper. Assisted by Quinton Adlesh.,21,33
+7:30,349,Tucker Blackwell missed Three Point Jumper.,21,33
+7:30,171,Myles Hanson Defensive Rebound.,21,33
+7:20,171,Mike Smith Turnover.,21,33
+7:19,349,Thomas Funk Steal.,21,33
+7:14,349,Lonnie Grayson missed Three Point Jumper.,21,33
+7:14,171,Nate Hickman Defensive Rebound.,21,33
+7:04,349,Foul on Matthew Wilson.,21,33
+7:04,171,Nate Hickman made Free Throw.,22,33
+7:04,171,Nate Hickman made Free Throw.,23,33
+6:38,349,John Emezie made Jumper.,23,35
+6:32,171,Mike Smith missed Layup.,23,35
+6:32,171,Jaron Faulds Offensive Rebound.,23,35
+6:28,171,Jaron Faulds made Layup.,25,35
+6:23,171,Foul on Jaron Faulds.,25,35
+6:00,349,Luke Morrison missed Jumper.,25,35
+6:00,171,Columbia Defensive Rebound.,25,35
+5:46,171,Quinton Adlesh made Three Point Jumper. Assisted by Nate Hickman.,28,35
+5:35,349,Jordan Fox missed Layup.,28,35
+5:35,171,Lukas Meisner Defensive Rebound.,28,35
+5:25,171,Nate Hickman Turnover.,28,35
+5:24,349,Jordan Fox Steal.,28,35
+5:20,171,Foul on Mike Smith.,28,35
+5:20,349,Jacob Kessler made Free Throw.,28,36
+5:20,349,Jacob Kessler made Free Throw.,28,37
+5:10,171,Lukas Meisner missed Three Point Jumper.,28,37
+5:10,349,Jordan Fox Defensive Rebound.,28,37
+5:00,349,Jacob Kessler missed Jumper.,28,37
+5:00,171,Nate Hickman Defensive Rebound.,28,37
+4:53,171,Mike Smith missed Three Point Jumper.,28,37
+4:53,349,Matthew Wilson Defensive Rebound.,28,37
+4:36,349,Matthew Wilson made Layup. Assisted by Thomas Funk.,28,39
+4:36,171,Foul on Quinton Adlesh.,28,39
+4:36,349,Matthew Wilson missed Free Throw.,28,39
+4:36,171,Peter Barba Defensive Rebound.,28,39
+4:15,171,Peter Barba made Three Point Jumper. Assisted by Mike Smith.,31,39
+3:59,349,Official TV Timeout,31,39
+3:54,349,Jordan Fox made Three Point Jumper. Assisted by Thomas Funk.,31,42
+3:49,349,Foul on Alex King.,31,42
+3:49,171,Mike Smith made Free Throw.,32,42
+3:49,171,Mike Smith missed Free Throw.,32,42
+3:49,349,Matthew Wilson Defensive Rebound.,32,42
+3:36,349,Alex King made Layup. Assisted by Jordan Fox.,32,44
+3:36,171,Foul on Rodney Hunter.,32,44
+3:36,349,Alex King missed Free Throw.,32,44
+3:36,349,Alex King Offensive Rebound.,32,44
+3:34,349,Tucker Blackwell missed Three Point Jumper.,32,44
+3:34,171,Nate Hickman Defensive Rebound.,32,44
+3:18,171,Tai Bibbs made Three Point Jumper. Assisted by Lukas Meisner.,35,44
+3:01,349,Alex King Turnover.,35,44
+2:54,349,Foul on Tucker Blackwell.,35,44
+2:54,171,Tai Bibbs made Free Throw.,36,44
+2:54,171,Tai Bibbs made Free Throw.,37,44
+2:43,349,Matthew Wilson Turnover.,37,44
+2:42,171,Rodney Hunter Steal.,37,44
+2:37,171,Tai Bibbs made Layup. Assisted by Rodney Hunter.,39,44
+2:22,349,Jordan Fox made Layup.,39,46
+2:13,171,Tai Bibbs missed Three Point Jumper.,39,46
+2:13,349,Matthew Wilson Defensive Rebound.,39,46
+1:55,171,Foul on Rodney Hunter.,39,46
+1:55,349,Matthew Wilson missed Free Throw.,39,46
+1:55,349,Army Deadball Team Rebound.,39,46
+1:55,349,Matthew Wilson made Free Throw.,39,47
+1:43,171,Lukas Meisner made Dunk. Assisted by Mike Smith.,41,47
+1:43,349,Foul on Luke Morrison.,41,47
+1:43,171,Lukas Meisner missed Free Throw.,41,47
+1:43,349,Luke Morrison Defensive Rebound.,41,47
+1:28,349,Jordan Fox missed Three Point Jumper.,41,47
+1:28,171,Myles Hanson Defensive Rebound.,41,47
+1:18,171,Mike Smith missed Jumper.,41,47
+1:18,349,Luke Morrison Defensive Rebound.,41,47
+1:10,349,Thomas Funk missed Layup.,41,47
+1:10,349,Thomas Funk Offensive Rebound.,41,47
+1:06,349,Jordan Fox missed Three Point Jumper.,41,47
+1:06,171,Lukas Meisner Defensive Rebound.,41,47
+0:42,171,Lukas Meisner made Three Point Jumper. Assisted by Mike Smith.,44,47
+0:09,349,John Miller missed Layup.,44,47
+0:09,171,Lukas Meisner Block.,44,47
+0:09,349,Army Offensive Rebound.,44,47
+0:08,349,Tucker Blackwell made Jumper. Assisted by Thomas Funk.,44,49
+0:05,171,Mike Smith missed Three Point Jumper.,44,49
+0:05,349,Thomas Funk Defensive Rebound.,44,49
+0:00,349,End of 1st half,44,49
+19:53,349,Thomas Funk Turnover.,44,49
+19:52,171,Mike Smith Steal.,44,49
+19:49,171,Mike Smith Turnover.,44,49
+19:43,349,Jacob Kessler Steal.,44,49
+19:42,349,Jordan Fox made Three Point Jumper. Assisted by Jacob Kessler.,44,52
+19:32,171,Lukas Meisner missed Three Point Jumper.,44,52
+19:32,349,Luke Morrison Defensive Rebound.,44,52
+19:05,349,Thomas Funk Turnover.,44,52
+18:50,171,Mike Smith made Layup. Assisted by Nate Hickman.,46,52
+18:38,349,Jordan Fox missed Three Point Jumper.,46,52
+18:38,349,Jacob Kessler Offensive Rebound.,46,52
+18:33,349,Jordan Fox made Three Point Jumper. Assisted by Jacob Kessler.,46,55
+18:14,171,Mike Smith missed Three Point Jumper.,46,55
+18:14,349,Matthew Wilson Defensive Rebound.,46,55
+18:04,349,Jordan Fox missed Jumper.,46,55
+18:04,171,Lukas Meisner Defensive Rebound.,46,55
+18:00,171,Quinton Adlesh made Layup. Assisted by Lukas Meisner.,48,55
+17:42,349,Thomas Funk missed Jumper.,48,55
+17:42,171,Lukas Meisner Defensive Rebound.,48,55
+17:34,171,Rodney Hunter Turnover.,48,55
+17:21,349,Jordan Fox made Layup.,48,57
+17:10,349,Foul on Tucker Blackwell.,48,57
+16:59,171,Nate Hickman made Three Point Jumper. Assisted by Quinton Adlesh.,51,57
+16:51,349,Tucker Blackwell missed Jumper.,51,57
+16:51,349,Alex King Offensive Rebound.,51,57
+16:46,349,Alex King made Layup.,51,59
+16:35,171,Quinton Adlesh made Three Point Jumper. Assisted by Nate Hickman.,54,59
+16:19,349,Alex King Turnover.,54,59
+16:08,171,Jaron Faulds Turnover.,54,59
+16:07,349,Alex King Steal.,54,59
+16:03,349,Tucker Blackwell missed Layup.,54,59
+16:03,171,Peter Barba Defensive Rebound.,54,59
+15:49,349,Foul on Babacar Thiombane.,54,59
+15:49,349,Official TV Timeout,54,59
+15:34,349,Foul on Thomas Funk.,54,59
+15:34,171,Gabe Stefanini made Free Throw.,55,59
+15:34,171,Gabe Stefanini missed Free Throw.,55,59
+15:34,349,Thomas Funk Defensive Rebound.,55,59
+15:12,349,Matthew Wilson missed Layup.,55,59
+15:12,171,Jaron Faulds Defensive Rebound.,55,59
+14:59,171,Nate Hickman made Jumper.,57,59
+14:42,349,Tucker Blackwell missed Jumper.,57,59
+14:42,349,Luke Morrison Offensive Rebound.,57,59
+14:38,171,Foul on Gabe Stefanini.,57,59
+14:38,171,Foul on Rodney Hunter.,57,59
+14:17,349,Matthew Wilson made Layup.,57,61
+14:07,349,Foul on Luke Morrison.,57,61
+13:51,171,Gabe Stefanini Turnover.,57,61
+13:50,349,Jacob Kessler Steal.,57,61
+13:49,349,Jordan Fox made Layup. Assisted by Jacob Kessler.,57,63
+13:27,171,Gabe Stefanini missed Three Point Jumper.,57,63
+13:27,349,Jordan Fox Defensive Rebound.,57,63
+13:14,349,Jordan Fox Turnover.,57,63
+13:12,171,Gabe Stefanini Steal.,57,63
+13:09,171,Lukas Meisner made Dunk. Assisted by Gabe Stefanini.,59,63
+12:47,349,Luke Morrison made Jumper.,59,65
+12:26,171,Gabe Stefanini missed Jumper.,59,65
+12:26,349,Tucker Blackwell Defensive Rebound.,59,65
+12:14,349,Tucker Blackwell missed Three Point Jumper.,59,65
+12:14,171,Tai Bibbs Defensive Rebound.,59,65
+12:05,171,Tai Bibbs missed Jumper.,59,65
+12:05,171,Lukas Meisner Offensive Rebound.,59,65
+12:01,171,Lukas Meisner made Layup.,61,65
+12:00,349,Foul on Matthew Wilson.,61,65
+12:00,349,Official TV Timeout,61,65
+12:00,171,Lukas Meisner missed Free Throw.,61,65
+12:00,349,Army Defensive Rebound.,61,65
+11:45,349,Matthew Wilson made Layup. Assisted by Jordan Fox.,61,67
+11:33,171,Gabe Stefanini Turnover.,61,67
+11:32,349,Tucker Blackwell Steal.,61,67
+11:31,349,Jacob Kessler made Layup. Assisted by Tucker Blackwell.,61,69
+11:21,171,Gabe Stefanini Turnover.,61,69
+11:16,171,Foul on Lukas Meisner.,61,69
+11:14,349,Alex King missed Layup.,61,69
+11:14,171,Lukas Meisner Defensive Rebound.,61,69
+10:54,171,Tai Bibbs missed Three Point Jumper.,61,69
+10:54,349,Alex King Defensive Rebound.,61,69
+10:43,349,Tucker Blackwell Turnover.,61,69
+10:26,171,Quinton Adlesh made Layup. Assisted by Lukas Meisner.,63,69
+10:13,349,Alex King missed Three Point Jumper.,63,69
+10:13,171,Tai Bibbs Defensive Rebound.,63,69
+10:03,349,Foul on Tucker Blackwell.,63,69
+10:03,171,Peter Barba missed Three Point Jumper.,63,69
+10:03,349,Jordan Fox Defensive Rebound.,63,69
+9:45,349,Luke Morrison made Layup. Assisted by Thomas Funk.,63,71
+9:16,171,Mike Smith missed Jumper.,63,71
+9:16,171,Mike Smith Offensive Rebound.,63,71
+9:12,171,Tai Bibbs made Three Point Jumper. Assisted by Mike Smith.,66,71
+9:07,349,Army  Timeout,66,71
+8:40,349,Jacob Kessler missed Layup.,66,71
+8:40,171,Jaron Faulds Block.,66,71
+8:38,349,Jacob Kessler Offensive Rebound.,66,71
+8:36,349,Army  Turnover.,66,71
+8:13,349,Foul on John Emezie.,66,71
+8:13,171,Tai Bibbs made Free Throw.,67,71
+8:13,171,Tai Bibbs missed Free Throw.,67,71
+8:13,349,Matthew Wilson Defensive Rebound.,67,71
+7:58,349,Matthew Wilson missed Layup.,67,71
+7:58,171,Quinton Adlesh Defensive Rebound.,67,71
+7:49,171,Rodney Hunter missed Jumper.,67,71
+7:49,171,Rodney Hunter Offensive Rebound.,67,71
+7:27,171,Mike Smith missed Jumper.,67,71
+7:27,349,Matthew Wilson Block.,67,71
+7:24,171,Jaron Faulds Offensive Rebound.,67,71
+7:21,171,Jaron Faulds missed Layup.,67,71
+7:21,349,Thomas Funk Defensive Rebound.,67,71
+7:16,171,Foul on Tai Bibbs.,67,71
+7:16,349,Official TV Timeout,67,71
+7:13,349,Jacob Kessler missed Jumper.,67,71
+7:13,349,Matthew Wilson Offensive Rebound.,67,71
+7:10,349,Matthew Wilson made Layup.,67,73
+6:39,171,Quinton Adlesh missed Three Point Jumper.,67,73
+6:39,171,Rodney Hunter Offensive Rebound.,67,73
+6:32,171,Mike Smith made Jumper.,69,73
+6:17,349,Thomas Funk Turnover.,69,73
+6:17,171,Mike Smith Steal.,69,73
+6:06,171,Mike Smith missed Three Point Jumper.,69,73
+6:06,349,Jacob Kessler Defensive Rebound.,69,73
+5:45,349,Jordan Fox missed Three Point Jumper.,69,73
+5:45,349,Babacar Thiombane Offensive Rebound.,69,73
+5:39,349,Babacar Thiombane Turnover.,69,73
+5:18,171,Mike Smith missed Jumper.,69,73
+5:18,349,Babacar Thiombane Defensive Rebound.,69,73
+5:02,349,Matthew Wilson made Jumper. Assisted by Jacob Kessler.,69,75
+4:43,171,Columbia  Timeout,69,75
+4:26,171,Lukas Meisner missed Jumper.,69,75
+4:26,171,Rodney Hunter Offensive Rebound.,69,75
+4:21,171,Quinton Adlesh missed Three Point Jumper.,69,75
+4:21,349,Jordan Fox Defensive Rebound.,69,75
+4:01,171,Foul on Quinton Adlesh.,69,75
+4:01,349,Alex King made Free Throw.,69,76
+4:01,349,Alex King made Free Throw.,69,77
+3:40,171,Lukas Meisner made Layup. Assisted by Quinton Adlesh.,71,77
+3:21,349,Jordan Fox made Jumper.,71,79
+2:59,171,Lukas Meisner made Jumper.,73,79
+2:52,349,Army  Timeout,73,79
+2:40,349,Matthew Wilson Turnover.,73,79
+2:39,171,Mike Smith Steal.,73,79
+2:38,171,Mike Smith made Layup.,75,79
+2:29,349,Jordan Fox made Layup.,75,81
+2:03,349,Foul on Alex King.,75,81
+2:03,171,Mike Smith missed Free Throw.,75,81
+2:03,171,Columbia Deadball Team Rebound.,75,81
+2:03,171,Mike Smith made Free Throw.,76,81
+1:37,349,Jordan Fox made Jumper.,76,83
+1:27,171,Mike Smith missed Jumper.,76,83
+1:27,349,Matthew Wilson Defensive Rebound.,76,83
+1:13,171,Foul on Tai Bibbs.,76,83
+1:13,349,Army  Timeout,76,83
+0:58,349,Jacob Kessler made Layup. Assisted by Thomas Funk.,76,85
+0:58,171,Foul on Tai Bibbs.,76,85
+0:58,349,Jacob Kessler made Free Throw.,76,86
+0:40,349,Foul on Matthew Wilson.,76,86
+0:40,171,Mike Smith made Free Throw.,77,86
+0:40,171,Mike Smith made Free Throw.,78,86
+0:34,171,Foul on Tai Bibbs.,78,86
+0:34,349,Jordan Fox made Free Throw.,78,87
+0:34,349,Jordan Fox made Free Throw.,78,88
+0:30,171,Nate Hickman missed Three Point Jumper.,78,88
+0:30,171,Columbia Offensive Rebound.,78,88
+0:24,171,Lukas Meisner Turnover.,78,88
+0:00,349,End of Game,78,88

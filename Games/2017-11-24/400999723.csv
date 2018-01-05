@@ -1,0 +1,381 @@
+Stanford,194,Ohio State,24
+time,team_id,description,h_score,a_score
+20:00,24,Jump Ball won by Stanford,0,0
+19:53,24,Isaac White missed Three Point Jumper.,0,0
+19:53,194,Keita Bates-Diop Defensive Rebound.,0,0
+19:26,194,Kaleb Wesson missed Jumper.,0,0
+19:26,24,Michael Humphrey Defensive Rebound.,0,0
+19:03,24,Daejon Davis made Jumper.,2,0
+18:45,194,Jae'Sean Tate made Dunk.,2,2
+18:18,24,Reid Travis missed Layup.,2,2
+18:18,194,Keita Bates-Diop Block.,2,2
+18:18,194,Ohio State Defensive Rebound.,2,2
+18:04,194,Musa Jallow missed Jumper.,2,2
+18:04,24,Michael Humphrey Defensive Rebound.,2,2
+17:42,24,Isaac White missed Layup.,2,2
+17:42,194,Keita Bates-Diop Block.,2,2
+17:42,194,C.J. Jackson Defensive Rebound.,2,2
+17:30,194,C.J. Jackson missed Jumper.,2,2
+17:30,24,Stanford Defensive Rebound.,2,2
+17:30,194,Foul on Kaleb Wesson.,2,2
+17:22,24,Foul on Michael Humphrey.,2,2
+17:22,24,Michael Humphrey Turnover.,2,2
+17:18,194,Jae'Sean Tate missed Jumper.,2,2
+17:18,24,Stanford Defensive Rebound.,2,2
+16:48,24,Daejon Davis Turnover.,2,2
+16:36,194,Kaleb Wesson made Layup. Assisted by Musa Jallow.,2,4
+16:28,24,Daejon Davis missed Layup.,2,4
+16:28,194,C.J. Jackson Defensive Rebound.,2,4
+16:20,24,Foul on Daejon Davis.,2,4
+16:11,194,Kaleb Wesson made Layup.,2,6
+15:48,24,Michael Humphrey missed Jumper.,2,6
+15:48,194,Keita Bates-Diop Defensive Rebound.,2,6
+15:36,194,Foul on Musa Jallow.,2,6
+15:36,194,Musa Jallow Turnover.,2,6
+15:36,194,Official TV Timeout,2,6
+15:15,24,Foul on Reid Travis.,2,6
+15:15,24,Reid Travis Turnover.,2,6
+15:01,194,Jae'Sean Tate missed Jumper.,2,6
+15:01,24,Reid Travis Defensive Rebound.,2,6
+14:45,24,Isaac White Turnover.,2,6
+14:25,194,Keita Bates-Diop Turnover.,2,6
+14:15,24,Daejon Davis missed Three Point Jumper.,2,6
+14:15,194,Keita Bates-Diop Defensive Rebound.,2,6
+13:48,194,Jae'Sean Tate missed Layup.,2,6
+13:48,24,Michael Humphrey Defensive Rebound.,2,6
+13:36,194,Foul on C.J. Jackson.,2,6
+13:34,24,Oscar da Silva made Three Point Jumper. Assisted by Reid Travis.,5,6
+13:19,194,Keita Bates-Diop missed Jumper.,5,6
+13:19,24,Michael Humphrey Defensive Rebound.,5,6
+13:09,24,Reid Travis made Dunk. Assisted by Oscar da Silva.,7,6
+12:52,194,Kam Williams missed Three Point Jumper.,7,6
+12:52,24,Michael Humphrey Defensive Rebound.,7,6
+12:40,24,Michael Humphrey missed Jumper.,7,6
+12:40,194,Keita Bates-Diop Defensive Rebound.,7,6
+12:28,194,Musa Jallow Turnover.,7,6
+12:28,24,Michael Humphrey Steal.,7,6
+12:19,24,Daejon Davis Turnover.,7,6
+12:13,194,Musa Jallow missed Jumper.,7,6
+12:13,24,Daejon Davis Defensive Rebound.,7,6
+12:02,24,Reid Travis missed Three Point Jumper.,7,6
+12:02,194,Kaleb Wesson Defensive Rebound.,7,6
+11:42,194,Musa Jallow missed Jumper.,7,6
+11:42,24,Josh Sharma Block.,7,6
+11:42,24,Daejon Davis Defensive Rebound.,7,6
+11:28,24,Foul on Daejon Davis.,7,6
+11:28,24,Daejon Davis Turnover.,7,6
+11:28,194,Official TV Timeout,7,6
+11:13,194,Jae'Sean Tate made Jumper.,7,8
+10:48,24,Robert Cartwright made Three Point Jumper.,10,8
+10:31,194,Foul on Kaleb Wesson.,10,8
+10:31,194,Kaleb Wesson Turnover.,10,8
+10:19,24,Michael Humphrey missed Jumper.,10,8
+10:19,194,C.J. Jackson Defensive Rebound.,10,8
+10:08,194,Keita Bates-Diop missed Jumper.,10,8
+10:08,24,Robert Cartwright Defensive Rebound.,10,8
+9:49,24,Michael Humphrey made Three Point Jumper. Assisted by Robert Cartwright.,13,8
+9:30,194,Andrew Dakich Turnover.,13,8
+9:04,24,Robert Cartwright Turnover.,13,8
+9:04,194,Keita Bates-Diop Steal.,13,8
+8:56,194,Keita Bates-Diop made Three Point Jumper. Assisted by C.J. Jackson.,13,11
+8:39,24,Isaac White made Jumper.,15,11
+8:24,194,Kam Williams missed Three Point Jumper.,15,11
+8:24,24,Michael Humphrey Defensive Rebound.,15,11
+8:19,194,Foul on Andre Wesson.,15,11
+8:01,24,Oscar da Silva missed Jumper.,15,11
+8:01,24,Stanford Offensive Rebound.,15,11
+7:56,194,Foul on Jae'Sean Tate.,15,11
+7:56,194,Official TV Timeout,15,11
+7:48,24,Oscar da Silva made Layup.,17,11
+7:27,194,Andre Wesson made Three Point Jumper. Assisted by Kam Williams.,17,14
+7:11,194,Foul on Kam Williams.,17,14
+7:11,24,Isaac White made Free Throw.,18,14
+7:11,24,Isaac White made Free Throw.,19,14
+6:47,194,C.J. Jackson made Jumper.,19,16
+6:29,24,Isaac White Turnover.,19,16
+6:29,194,C.J. Jackson Steal.,19,16
+6:23,194,C.J. Jackson made Layup.,19,18
+6:08,24,Michael Humphrey missed Three Point Jumper.,19,18
+6:08,24,Stanford Offensive Rebound.,19,18
+6:05,194,Foul on Andre Wesson.,19,18
+6:05,24,Kodye Pugh missed Free Throw.,19,18
+6:05,24,Oscar da Silva Offensive Rebound.,19,18
+5:48,24,Oscar da Silva made Three Point Jumper. Assisted by Kodye Pugh.,22,18
+5:25,194,C.J. Jackson made Three Point Jumper. Assisted by Jae'Sean Tate.,22,21
+5:01,24,Michael Humphrey made Jumper. Assisted by Kodye Pugh.,24,21
+4:41,194,Andre Wesson missed Three Point Jumper.,24,21
+4:41,24,Michael Humphrey Defensive Rebound.,24,21
+4:20,24,Robert Cartwright missed Three Point Jumper.,24,21
+4:20,24,Kodye Pugh Offensive Rebound.,24,21
+4:15,24,Isaac White made Three Point Jumper. Assisted by Kodye Pugh.,27,21
+3:52,194,C.J. Jackson missed Jumper.,27,21
+3:52,194,Andre Wesson Offensive Rebound.,27,21
+3:47,194,Kam Williams missed Jumper.,27,21
+3:47,24,Oscar da Silva Defensive Rebound.,27,21
+3:27,24,Kodye Pugh missed Layup.,27,21
+3:27,194,Keita Bates-Diop Defensive Rebound.,27,21
+3:20,194,Kam Williams missed Three Point Jumper.,27,21
+3:20,24,Michael Humphrey Defensive Rebound.,27,21
+3:18,194,Foul on Keita Bates-Diop.,27,21
+3:18,194,Official TV Timeout,27,21
+3:18,24,Michael Humphrey made Free Throw.,28,21
+3:18,24,Michael Humphrey made Free Throw.,29,21
+3:11,194,Musa Jallow missed Dunk.,29,21
+3:11,24,Oscar da Silva Block.,29,21
+3:11,24,Josh Sharma Defensive Rebound.,29,21
+2:53,24,Reid Travis missed Jumper.,29,21
+2:53,24,Stanford Offensive Rebound.,29,21
+2:51,194,Foul on Andre Wesson.,29,21
+2:51,24,Josh Sharma made Free Throw.,30,21
+2:51,24,Josh Sharma made Free Throw.,31,21
+2:35,194,Keita Bates-Diop made Three Point Jumper. Assisted by C.J. Jackson.,31,24
+2:17,24,Robert Cartwright missed Layup.,31,24
+2:17,194,C.J. Jackson Block.,31,24
+2:17,194,Andrew Dakich Defensive Rebound.,31,24
+2:08,194,Musa Jallow missed Jumper.,31,24
+2:08,24,Josh Sharma Defensive Rebound.,31,24
+1:50,24,Robert Cartwright missed Three Point Jumper.,31,24
+1:50,194,Jae'Sean Tate Defensive Rebound.,31,24
+1:38,194,Jae'Sean Tate missed Layup.,31,24
+1:38,24,Josh Sharma Block.,31,24
+1:38,194,Andrew Dakich Offensive Rebound.,31,24
+1:35,194,Andrew Dakich made Layup.,31,26
+1:05,24,Isaac White Turnover.,31,26
+1:05,194,Keita Bates-Diop Steal.,31,26
+1:01,24,Foul on Isaac White.,31,26
+0:57,194,Keita Bates-Diop made Three Point Jumper. Assisted by C.J. Jackson.,31,29
+0:45,24,Stanford  Timeout,31,29
+0:39,194,Foul on Jae'Sean Tate.,31,29
+0:39,24,Reid Travis made Free Throw.,32,29
+0:39,24,Reid Travis missed Free Throw.,32,29
+0:39,194,Keita Bates-Diop Defensive Rebound.,32,29
+0:29,194,Ohio State  Timeout,32,29
+0:17,24,Foul on Oscar da Silva.,32,29
+0:10,194,Keita Bates-Diop made Three Point Jumper. Assisted by Micah Potter.,32,32
+0:02,24,Robert Cartwright missed Jumper.,32,32
+0:02,24,Stanford Deadball Team Rebound.,32,32
+0:00,194,End of 1st half,32,32
+20:00,194,Jump Ball won by Ohio State,32,32
+19:48,194,C.J. Jackson made Three Point Jumper.,32,35
+19:31,24,Reid Travis Turnover.,32,35
+19:21,194,Kaleb Wesson missed Three Point Jumper.,32,35
+19:21,24,Daejon Davis Defensive Rebound.,32,35
+19:10,24,Reid Travis made Jumper. Assisted by Daejon Davis.,34,35
+18:47,194,Musa Jallow Turnover.,34,35
+18:47,24,Michael Humphrey Steal.,34,35
+18:36,24,Daejon Davis missed Three Point Jumper.,34,35
+18:36,194,Jae'Sean Tate Defensive Rebound.,34,35
+18:20,194,Jae'Sean Tate made Jumper.,34,37
+18:00,24,Oscar da Silva missed Layup.,34,37
+18:00,194,Keita Bates-Diop Defensive Rebound.,34,37
+17:54,194,Jae'Sean Tate Turnover.,34,37
+17:46,24,Daejon Davis missed Jumper.,34,37
+17:46,24,Stanford Offensive Rebound.,34,37
+17:40,24,Reid Travis missed Jumper.,34,37
+17:40,194,Keita Bates-Diop Defensive Rebound.,34,37
+17:30,24,Foul on Oscar da Silva.,34,37
+17:20,194,Kaleb Wesson made Layup. Assisted by Musa Jallow.,34,39
+16:57,194,Foul on Musa Jallow.,34,39
+16:57,24,Daejon Davis made Free Throw.,35,39
+16:57,24,Daejon Davis made Free Throw.,36,39
+16:42,194,Jae'Sean Tate made Layup.,36,41
+16:42,24,Foul on Michael Humphrey.,36,41
+16:42,194,Jae'Sean Tate made Free Throw.,36,42
+16:24,24,Michael Humphrey missed Jumper.,36,42
+16:24,24,Reid Travis Offensive Rebound.,36,42
+16:17,194,Foul on Jae'Sean Tate.,36,42
+16:17,24,Reid Travis missed Free Throw.,36,42
+16:17,24,Stanford Deadball Team Rebound.,36,42
+16:17,24,Reid Travis made Free Throw.,37,42
+16:07,194,Keita Bates-Diop missed Jumper.,37,42
+16:07,194,Kaleb Wesson Offensive Rebound.,37,42
+15:59,194,Musa Jallow made Layup. Assisted by Kaleb Wesson.,37,44
+15:29,194,Foul on C.J. Jackson.,37,44
+15:29,194,Official TV Timeout,37,44
+15:29,24,Daejon Davis made Free Throw.,38,44
+15:29,24,Daejon Davis missed Free Throw.,38,44
+15:29,194,Keita Bates-Diop Defensive Rebound.,38,44
+15:09,194,Kaleb Wesson missed Layup.,38,44
+15:09,24,Stanford Defensive Rebound.,38,44
+15:09,24,Jump Ball won by Stanford,38,44
+14:56,194,Foul on Keita Bates-Diop.,38,44
+14:34,24,Reid Travis missed Jumper.,38,44
+14:34,194,Kaleb Wesson Defensive Rebound.,38,44
+14:24,194,C.J. Jackson made Layup.,38,46
+14:17,24,Isaac White missed Three Point Jumper.,38,46
+14:17,194,Andrew Dakich Defensive Rebound.,38,46
+14:05,194,Keita Bates-Diop made Layup. Assisted by Andrew Dakich.,38,48
+13:53,24,Stanford  Timeout,38,48
+13:42,24,Michael Humphrey made Dunk. Assisted by Daejon Davis.,40,48
+13:21,194,Keita Bates-Diop missed Three Point Jumper.,40,48
+13:21,194,Micah Potter Offensive Rebound.,40,48
+13:15,194,Keita Bates-Diop missed Layup.,40,48
+13:15,194,Micah Potter Offensive Rebound.,40,48
+13:15,194,Micah Potter made Two Point Tip Shot.,40,50
+13:01,24,Michael Humphrey missed Jumper.,40,50
+13:01,194,Andrew Dakich Defensive Rebound.,40,50
+12:48,194,Micah Potter Turnover.,40,50
+12:48,24,Oscar da Silva Steal.,40,50
+12:29,24,Reid Travis missed Layup.,40,50
+12:29,24,Michael Humphrey Offensive Rebound.,40,50
+12:29,24,Michael Humphrey missed Two Point Tip Shot.,40,50
+12:29,24,Oscar da Silva Offensive Rebound.,40,50
+12:29,24,Oscar da Silva made Two Point Tip Shot.,42,50
+12:07,194,Keita Bates-Diop Turnover.,42,50
+12:07,24,Oscar da Silva Steal.,42,50
+12:01,24,Daejon Davis made Jumper.,44,50
+12:01,194,Foul on C.J. Jackson.,44,50
+12:01,24,Daejon Davis missed Free Throw.,44,50
+12:01,194,Jae'Sean Tate Defensive Rebound.,44,50
+11:44,194,C.J. Jackson made Three Point Jumper. Assisted by Jae'Sean Tate.,44,53
+11:31,24,Daejon Davis made Layup.,46,53
+11:11,194,C.J. Jackson Turnover.,46,53
+11:11,194,Official TV Timeout,46,53
+11:04,24,Daejon Davis missed Jumper.,46,53
+11:04,194,C.J. Jackson Defensive Rebound.,46,53
+10:46,194,C.J. Jackson missed Three Point Jumper.,46,53
+10:46,194,C.J. Jackson Offensive Rebound.,46,53
+10:40,194,Jae'Sean Tate made Layup.,46,55
+10:40,24,Foul on Kodye Pugh.,46,55
+10:40,194,Jae'Sean Tate made Free Throw.,46,56
+10:16,24,Reid Travis missed Three Point Jumper.,46,56
+10:16,24,Josh Sharma Offensive Rebound.,46,56
+10:08,194,Foul on C.J. Jackson.,46,56
+9:59,194,Foul on Musa Jallow.,46,56
+9:59,24,Daejon Davis missed Free Throw.,46,56
+9:59,24,Stanford Deadball Team Rebound.,46,56
+9:59,24,Daejon Davis missed Free Throw.,46,56
+9:59,194,Jae'Sean Tate Defensive Rebound.,46,56
+9:47,194,Keita Bates-Diop missed Three Point Jumper.,46,56
+9:47,194,Ohio State Offensive Rebound.,46,56
+9:43,24,Foul on Josh Sharma.,46,56
+9:42,194,Musa Jallow missed Three Point Jumper.,46,56
+9:42,24,Daejon Davis Defensive Rebound.,46,56
+9:32,24,Isaac White missed Three Point Jumper.,46,56
+9:32,194,Jae'Sean Tate Defensive Rebound.,46,56
+9:01,194,Kaleb Wesson missed Jumper.,46,56
+9:01,24,Reid Travis Defensive Rebound.,46,56
+8:52,24,Daejon Davis made Jumper.,48,56
+8:52,194,Foul on Keita Bates-Diop.,48,56
+8:52,24,Daejon Davis missed Free Throw.,48,56
+8:52,194,Jae'Sean Tate Defensive Rebound.,48,56
+8:28,24,Foul on Reid Travis.,48,56
+8:10,194,Jae'Sean Tate missed Layup.,48,56
+8:10,24,Reid Travis Defensive Rebound.,48,56
+7:55,24,Oscar da Silva Turnover.,48,56
+7:55,194,Official TV Timeout,48,56
+7:45,194,Andrew Dakich Turnover.,48,56
+7:45,24,Michael Humphrey Steal.,48,56
+7:28,24,Reid Travis missed Jumper.,48,56
+7:28,24,Stanford Offensive Rebound.,48,56
+7:21,24,Daejon Davis missed Jumper.,48,56
+7:21,194,Ohio State Defensive Rebound.,48,56
+7:16,24,Foul on Michael Humphrey.,48,56
+7:03,194,Andre Wesson Turnover.,48,56
+6:53,24,Michael Humphrey missed Layup.,48,56
+6:53,194,Keita Bates-Diop Defensive Rebound.,48,56
+6:27,24,Foul on Oscar da Silva.,48,56
+6:27,194,Kaleb Wesson made Free Throw.,48,57
+6:27,194,Kaleb Wesson made Free Throw.,48,58
+6:13,24,Reid Travis made Layup.,50,58
+6:13,194,Foul on Kaleb Wesson.,50,58
+6:13,24,Reid Travis made Free Throw.,51,58
+6:01,194,Musa Jallow Turnover.,51,58
+6:01,24,Reid Travis Steal.,51,58
+5:59,194,Foul on Musa Jallow.,51,58
+5:59,24,Reid Travis made Free Throw.,52,58
+5:59,24,Reid Travis made Free Throw.,53,58
+5:45,194,Keita Bates-Diop missed Three Point Jumper.,53,58
+5:45,194,Ohio State Offensive Rebound.,53,58
+5:43,24,Foul on Reid Travis.,53,58
+5:43,194,Jae'Sean Tate missed Free Throw.,53,58
+5:43,194,Keita Bates-Diop Offensive Rebound.,53,58
+5:38,194,Ohio State  Timeout,53,58
+5:21,194,C.J. Jackson made Three Point Jumper. Assisted by Jae'Sean Tate.,53,61
+4:48,24,Daejon Davis made Jumper. Assisted by Reid Travis.,55,61
+4:25,194,C.J. Jackson missed Three Point Jumper.,55,61
+4:25,194,Jae'Sean Tate Offensive Rebound.,55,61
+4:15,194,Keita Bates-Diop made Jumper. Assisted by Andrew Dakich.,55,63
+3:57,24,Reid Travis made Layup. Assisted by Oscar da Silva.,57,63
+3:37,24,Foul on Michael Humphrey.,57,63
+3:37,194,Official TV Timeout,57,63
+3:37,194,Kaleb Wesson missed Free Throw.,57,63
+3:37,194,Ohio State Deadball Team Rebound.,57,63
+3:37,194,Kaleb Wesson made Free Throw.,57,64
+3:21,24,Isaac White missed Three Point Jumper.,57,64
+3:21,194,Ohio State Defensive Rebound.,57,64
+3:17,24,Foul on Michael Humphrey.,57,64
+3:17,194,Kaleb Wesson made Free Throw.,57,65
+3:17,194,Kaleb Wesson missed Free Throw.,57,65
+3:17,24,Reid Travis Defensive Rebound.,57,65
+3:00,24,Reid Travis missed Jumper.,57,65
+3:00,24,Reid Travis Offensive Rebound.,57,65
+2:56,194,Foul on Kaleb Wesson.,57,65
+2:56,24,Reid Travis missed Free Throw.,57,65
+2:56,24,Stanford Deadball Team Rebound.,57,65
+2:56,24,Reid Travis made Free Throw.,58,65
+2:34,24,Foul on Reid Travis.,58,65
+2:34,194,Jae'Sean Tate made Free Throw.,58,66
+2:34,194,Jae'Sean Tate made Free Throw.,58,67
+2:26,24,Foul on Reid Travis.,58,67
+2:26,24,Reid Travis Turnover.,58,67
+2:08,194,C.J. Jackson missed Layup.,58,67
+2:08,194,Jae'Sean Tate Offensive Rebound.,58,67
+2:08,194,Jae'Sean Tate missed Layup.,58,67
+2:08,194,Jae'Sean Tate Offensive Rebound.,58,67
+2:00,194,Jae'Sean Tate missed Three Point Jumper.,58,67
+2:00,24,Stanford Defensive Rebound.,58,67
+1:54,194,Foul on Kaleb Wesson.,58,67
+1:54,24,Oscar da Silva made Free Throw.,59,67
+1:54,24,Oscar da Silva made Free Throw.,60,67
+1:30,194,C.J. Jackson missed Jumper.,60,67
+1:30,24,Daejon Davis Block.,60,67
+1:30,194,C.J. Jackson Offensive Rebound.,60,67
+1:23,194,C.J. Jackson missed Jumper.,60,67
+1:23,24,Isaac White Defensive Rebound.,60,67
+1:15,24,Isaac White Turnover.,60,67
+1:09,24,Foul on Daejon Davis.,60,67
+1:09,194,C.J. Jackson made Free Throw.,60,68
+1:09,194,C.J. Jackson made Free Throw.,60,69
+1:09,194,Ohio State  Timeout,60,69
+1:01,24,Robert Cartwright made Three Point Jumper.,63,69
+0:58,24,Stanford  Timeout,63,69
+0:57,24,Foul on Robert Cartwright.,63,69
+0:57,194,C.J. Jackson missed Free Throw.,63,69
+0:57,194,Ohio State Deadball Team Rebound.,63,69
+0:57,194,C.J. Jackson made Free Throw.,63,70
+0:49,24,Oscar da Silva made Layup. Assisted by Daejon Davis.,65,70
+0:42,24,Foul on Daejon Davis.,65,70
+0:42,194,Andrew Dakich made Free Throw.,65,71
+0:42,194,Andrew Dakich made Free Throw.,65,72
+0:39,24,Robert Cartwright missed Three Point Jumper.,65,72
+0:39,194,Jae'Sean Tate Defensive Rebound.,65,72
+0:32,194,Jae'Sean Tate Turnover.,65,72
+0:29,194,Foul on Jae'Sean Tate.,65,72
+0:29,24,Daejon Davis made Free Throw.,66,72
+0:29,24,Daejon Davis made Free Throw.,67,72
+0:28,24,Foul on Daejon Davis.,67,72
+0:28,194,Andre Wesson missed Free Throw.,67,72
+0:28,194,Ohio State Deadball Team Rebound.,67,72
+0:28,194,Andre Wesson made Free Throw.,67,73
+0:26,24,Isaac White missed Three Point Jumper.,67,73
+0:26,194,Ohio State Defensive Rebound.,67,73
+0:21,24,Foul on Isaac White.,67,73
+0:21,194,C.J. Jackson made Free Throw.,67,74
+0:21,194,C.J. Jackson made Free Throw.,67,75
+0:20,24,Robert Cartwright missed Three Point Jumper.,67,75
+0:20,24,Stanford Offensive Rebound.,67,75
+0:14,194,Foul on Jae'Sean Tate.,67,75
+0:14,24,Isaac White made Free Throw.,68,75
+0:14,24,Isaac White made Free Throw.,69,75
+0:14,194,Ohio State  Timeout,69,75
+0:14,24,Foul on Robert Cartwright.,69,75
+0:14,194,Keita Bates-Diop made Free Throw.,69,76
+0:14,194,Keita Bates-Diop made Free Throw.,69,77
+0:07,24,Robert Cartwright made Layup.,71,77
+0:04,24,Foul on Josh Sharma.,71,77
+0:04,194,Andrew Dakich made Free Throw.,71,78
+0:04,194,Andrew Dakich made Free Throw.,71,79
+0:01,24,Robert Cartwright missed Three Point Jumper.,71,79
+0:01,24,Stanford Deadball Team Rebound.,71,79
+0:00,194,End of Game,71,79

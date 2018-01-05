@@ -1,0 +1,393 @@
+St. John's,2253,Grand Canyon,2599
+time,team_id,description,h_score,a_score
+19:40,2599,Tariq Owens missed Jumper.,0,0
+19:40,2253,Roberts Blumbergs Defensive Rebound.,0,0
+19:22,2253,Keonta Vernon missed Dunk.,0,0
+19:22,2599,St. John's Defensive Rebound.,0,0
+19:09,2253,Foul on Roberts Blumbergs.,0,0
+19:09,2599,Marvin Clark II made Free Throw.,1,0
+19:09,2599,Marvin Clark II made Free Throw.,2,0
+18:48,2253,Roberts Blumbergs made Three Point Jumper. Assisted by Casey Benson.,2,3
+18:30,2599,Marvin Clark II missed Jumper.,2,3
+18:30,2253,Roberts Blumbergs Defensive Rebound.,2,3
+18:17,2253,Roberts Blumbergs Turnover.,2,3
+18:15,2599,Shamorie Ponds Steal.,2,3
+18:04,2599,Justin Simon Turnover.,2,3
+17:55,2253,Roberts Blumbergs missed Three Point Jumper.,2,3
+17:55,2253,Joshua Braun Offensive Rebound.,2,3
+17:50,2253,Joshua Braun made Layup.,2,5
+17:38,2599,Bashir Ahmed missed Jumper.,2,5
+17:38,2253,Keonta Vernon Defensive Rebound.,2,5
+17:27,2253,Casey Benson Turnover.,2,5
+17:25,2599,Tariq Owens Steal.,2,5
+17:14,2599,Bashir Ahmed missed Layup.,2,5
+17:14,2599,Justin Simon Offensive Rebound.,2,5
+17:11,2599,Justin Simon made Layup.,4,5
+17:00,2253,Roberts Blumbergs missed Jumper.,4,5
+17:00,2599,Bashir Ahmed Defensive Rebound.,4,5
+16:59,2253,Foul on Keonta Vernon.,4,5
+16:47,2253,Foul on Oscar Frayer.,4,5
+16:42,2599,Bashir Ahmed missed Three Point Jumper.,4,5
+16:42,2253,Keonta Vernon Defensive Rebound.,4,5
+16:25,2599,Foul on Justin Simon.,4,5
+16:24,2253,Joshua Braun missed Three Point Jumper.,4,5
+16:24,2253,Casey Benson Offensive Rebound.,4,5
+16:19,2253,Casey Benson missed Jumper.,4,5
+16:19,2599,Tariq Owens Defensive Rebound.,4,5
+16:08,2599,Marvin Clark II made Three Point Jumper. Assisted by Shamorie Ponds.,7,5
+15:45,2253,Joshua Braun Turnover.,7,5
+15:44,2599,Bashir Ahmed Steal.,7,5
+15:22,2253,Official TV Timeout,7,5
+15:16,2599,Bashir Ahmed made Three Point Jumper. Assisted by Shamorie Ponds.,10,5
+15:00,2599,Foul on Marvin Clark II.,10,5
+15:00,2253,Alessandro Lever made Free Throw.,10,6
+15:00,2253,Alessandro Lever missed Free Throw.,10,6
+15:00,2599,Bashir Ahmed Defensive Rebound.,10,6
+14:45,2599,Justin Simon missed Dunk.,10,6
+14:45,2253,Joshua Braun Defensive Rebound.,10,6
+14:26,2253,Foul on Casey Benson.,10,6
+14:26,2253,Casey Benson Turnover.,10,6
+14:12,2253,Foul on Roberts Blumbergs.,10,6
+14:12,2599,Tariq Owens missed Free Throw.,10,6
+14:12,2599,St. John's Deadball Team Rebound.,10,6
+14:12,2599,Tariq Owens missed Free Throw.,10,6
+14:12,2253,Keonta Vernon Defensive Rebound.,10,6
+13:56,2253,Foul on Alessandro Lever.,10,6
+13:56,2253,Alessandro Lever Turnover.,10,6
+13:39,2599,Marvin Clark II missed Three Point Jumper.,10,6
+13:39,2253,Alessandro Lever Defensive Rebound.,10,6
+13:30,2253,Oscar Frayer missed Layup.,10,6
+13:30,2599,Tariq Owens Block.,10,6
+13:30,2253,Grand Canyon Offensive Rebound.,10,6
+13:22,2253,Alessandro Lever missed Three Point Jumper.,10,6
+13:22,2253,Keonta Vernon Offensive Rebound.,10,6
+13:17,2599,Foul on Bashir Ahmed.,10,6
+13:17,2253,Keonta Vernon missed Free Throw.,10,6
+13:17,2253,Grand Canyon Deadball Team Rebound.,10,6
+13:17,2253,Keonta Vernon missed Free Throw.,10,6
+13:17,2599,Justin Simon Defensive Rebound.,10,6
+13:07,2599,Shamorie Ponds made Three Point Jumper.,13,6
+12:52,2253,Shaq Carr Turnover.,13,6
+12:39,2599,Bashir Ahmed made Layup. Assisted by Shamorie Ponds.,15,6
+12:08,2253,Oscar Frayer missed Three Point Jumper.,15,6
+12:08,2599,Shamorie Ponds Defensive Rebound.,15,6
+11:53,2599,Bashir Ahmed missed Three Point Jumper.,15,6
+11:53,2253,Oscar Frayer Defensive Rebound.,15,6
+11:43,2599,Foul on Justin Simon.,15,6
+11:43,2253,Official TV Timeout,15,6
+11:22,2253,Alessandro Lever Turnover.,15,6
+11:20,2599,Bryan Trimble Jr. Steal.,15,6
+11:17,2599,Shamorie Ponds missed Three Point Jumper.,15,6
+11:17,2599,Shamorie Ponds Offensive Rebound.,15,6
+11:11,2599,Bryan Trimble Jr. missed Three Point Jumper.,15,6
+11:11,2253,Grand Canyon Defensive Rebound.,15,6
+10:57,2253,Keonta Vernon missed Layup.,15,6
+10:57,2599,Bryan Trimble Jr. Defensive Rebound.,15,6
+10:46,2599,Shamorie Ponds missed Layup.,15,6
+10:46,2253,Keonta Vernon Block.,15,6
+10:46,2253,Keonta Vernon Defensive Rebound.,15,6
+10:40,2253,Fiifi Aidoo missed Three Point Jumper.,15,6
+10:40,2599,Bryan Trimble Jr. Defensive Rebound.,15,6
+10:14,2599,Bashir Ahmed Turnover.,15,6
+10:04,2253,Oscar Frayer missed Three Point Jumper.,15,6
+10:04,2253,Keonta Vernon Offensive Rebound.,15,6
+9:54,2253,Shaq Carr made Layup. Assisted by Fiifi Aidoo.,15,8
+9:54,2599,Foul on Kassoum Yakwe.,15,8
+9:54,2253,Shaq Carr made Free Throw.,15,9
+9:54,2599,Marvin Clark II Turnover.,15,9
+9:53,2253,Fiifi Aidoo missed Three Point Jumper.,15,9
+9:53,2253,Gerard Martin Offensive Rebound.,15,9
+9:39,2253,Keonta Vernon Turnover.,15,9
+9:38,2599,Bryan Trimble Jr. Steal.,15,9
+9:23,2599,Shamorie Ponds Turnover.,15,9
+9:22,2253,Oscar Frayer Steal.,15,9
+9:20,2253,Oscar Frayer missed Layup.,15,9
+9:20,2253,Fiifi Aidoo Offensive Rebound.,15,9
+9:14,2253,Fiifi Aidoo made Layup.,15,11
+9:09,2599,Marvin Clark II Turnover.,15,11
+9:08,2253,Gerard Martin Steal.,15,11
+9:07,2253,Fiifi Aidoo missed Three Point Jumper.,15,11
+9:07,2253,Gerard Martin Offensive Rebound.,15,11
+8:59,2599,Foul on Bryan Trimble Jr..,15,11
+8:59,2253,Keonta Vernon missed Free Throw.,15,11
+8:59,2253,Grand Canyon Deadball Team Rebound.,15,11
+8:59,2253,Keonta Vernon missed Free Throw.,15,11
+8:59,2599,Justin Simon Defensive Rebound.,15,11
+8:40,2599,Shamorie Ponds missed Three Point Jumper.,15,11
+8:40,2253,Fiifi Aidoo Defensive Rebound.,15,11
+8:23,2253,Joshua Braun missed Layup.,15,11
+8:23,2599,Tariq Owens Block.,15,11
+8:23,2599,Bryan Trimble Jr. Defensive Rebound.,15,11
+8:15,2253,Foul on Gerard Martin.,15,11
+8:15,2599,Justin Simon made Free Throw.,16,11
+8:15,2599,Justin Simon made Free Throw.,17,11
+8:02,2253,Keonta Vernon missed Three Point Jumper.,17,11
+8:02,2599,Justin Simon Defensive Rebound.,17,11
+7:51,2253,Foul on Casey Benson.,17,11
+7:51,2253,Official TV Timeout,17,11
+7:51,2599,Justin Simon made Free Throw.,18,11
+7:51,2599,Justin Simon made Free Throw.,19,11
+7:41,2253,Joshua Braun made Three Point Jumper. Assisted by Fiifi Aidoo.,19,14
+7:09,2599,Justin Simon Turnover.,19,14
+7:08,2253,Joshua Braun Steal.,19,14
+6:48,2253,Joshua Braun missed Three Point Jumper.,19,14
+6:48,2599,Bashir Ahmed Defensive Rebound.,19,14
+6:32,2599,Justin Simon made Three Point Jumper. Assisted by Shamorie Ponds.,22,14
+6:06,2253,Joshua Braun Turnover.,22,14
+6:05,2599,Shamorie Ponds Steal.,22,14
+5:58,2599,Shamorie Ponds made Three Point Jumper. Assisted by Bryan Trimble Jr..,25,14
+5:55,2253,Grand Canyon  Timeout,25,14
+5:44,2253,Oscar Frayer made Layup.,25,16
+5:33,2599,Shamorie Ponds missed Jumper.,25,16
+5:33,2253,Kerwin Smith Defensive Rebound.,25,16
+5:18,2253,Kerwin Smith Turnover.,25,16
+5:00,2599,Tariq Owens missed Jumper.,25,16
+5:00,2253,Joshua Braun Defensive Rebound.,25,16
+4:51,2253,Oscar Frayer missed Three Point Jumper.,25,16
+4:51,2599,Justin Simon Defensive Rebound.,25,16
+4:48,2253,Foul on Kerwin Smith.,25,16
+4:48,2599,Tariq Owens missed Free Throw.,25,16
+4:48,2253,Oscar Frayer Defensive Rebound.,25,16
+4:36,2253,Kerwin Smith Turnover.,25,16
+4:35,2599,Shamorie Ponds Steal.,25,16
+4:18,2599,Tariq Owens made Dunk. Assisted by Marvin Clark II.,27,16
+3:47,2253,Casey Benson made Three Point Jumper.,27,19
+3:28,2599,Foul on Marvin Clark II.,27,19
+3:28,2599,Marvin Clark II Turnover.,27,19
+3:28,2253,Official TV Timeout,27,19
+3:10,2599,Foul on Bashir Ahmed.,27,19
+3:10,2253,Keonta Vernon missed Free Throw.,27,19
+3:10,2599,Tariq Owens Defensive Rebound.,27,19
+2:53,2599,Shamorie Ponds made Jumper.,29,19
+2:37,2253,Joshua Braun made Three Point Jumper. Assisted by Oscar Frayer.,29,22
+2:12,2599,Bryan Trimble Jr. missed Three Point Jumper.,29,22
+2:12,2253,Oscar Frayer Defensive Rebound.,29,22
+1:43,2253,Oscar Frayer missed Layup.,29,22
+1:43,2253,Keonta Vernon Offensive Rebound.,29,22
+1:40,2253,Gerard Martin made Three Point Jumper. Assisted by Keonta Vernon.,29,25
+1:25,2599,Bashir Ahmed missed Jumper.,29,25
+1:25,2253,Keonta Vernon Defensive Rebound.,29,25
+1:16,2253,Casey Benson made Jumper.,29,27
+1:13,2599,St. John's  Timeout,29,27
+1:01,2599,Tariq Owens Turnover.,29,27
+0:57,2253,Casey Benson missed Layup.,29,27
+0:57,2599,Tariq Owens Defensive Rebound.,29,27
+0:49,2253,Foul on Keonta Vernon.,29,27
+0:49,2599,Shamorie Ponds missed Free Throw.,29,27
+0:49,2599,St. John's Deadball Team Rebound.,29,27
+0:49,2599,Shamorie Ponds made Free Throw.,30,27
+0:38,2253,Joshua Braun missed Jumper.,30,27
+0:38,2599,Shamorie Ponds Defensive Rebound.,30,27
+0:28,2599,Shamorie Ponds made Jumper.,32,27
+0:03,2253,Joshua Braun missed Three Point Jumper.,32,27
+0:03,2599,Bashir Ahmed Defensive Rebound.,32,27
+0:00,2253,End of 1st half,32,27
+19:50,2253,Oscar Frayer Turnover.,32,27
+19:37,2599,Shamorie Ponds made Jumper.,34,27
+19:15,2253,Casey Benson Turnover.,34,27
+18:55,2599,Justin Simon Turnover.,34,27
+18:54,2253,Oscar Frayer Steal.,34,27
+18:40,2253,Casey Benson Turnover.,34,27
+18:38,2599,Bashir Ahmed Steal.,34,27
+18:36,2253,Foul on Oscar Frayer.,34,27
+18:24,2599,Justin Simon missed Jumper.,34,27
+18:24,2253,Keonta Vernon Defensive Rebound.,34,27
+18:22,2599,Foul on Tariq Owens.,34,27
+18:07,2599,Foul on Shamorie Ponds.,34,27
+18:02,2253,Roberts Blumbergs Turnover.,34,27
+17:46,2599,Justin Simon Turnover.,34,27
+17:36,2253,Joshua Braun missed Layup.,34,27
+17:36,2599,Justin Simon Defensive Rebound.,34,27
+17:34,2253,Foul on Joshua Braun.,34,27
+17:20,2599,Marvin Clark II Turnover.,34,27
+17:11,2253,Casey Benson missed Layup.,34,27
+17:11,2599,Bashir Ahmed Defensive Rebound.,34,27
+17:02,2599,Bashir Ahmed made Jumper.,36,27
+16:53,2253,Roberts Blumbergs made Three Point Jumper. Assisted by Oscar Frayer.,36,30
+16:34,2599,Marvin Clark II made Three Point Jumper. Assisted by Justin Simon.,39,30
+16:24,2599,Foul on Marvin Clark II.,39,30
+16:20,2253,Joshua Braun made Jumper. Assisted by Roberts Blumbergs.,39,32
+15:56,2599,Shamorie Ponds missed Layup.,39,32
+15:56,2253,Joshua Braun Defensive Rebound.,39,32
+15:48,2253,Joshua Braun missed Three Point Jumper.,39,32
+15:48,2599,Tariq Owens Block.,39,32
+15:48,2599,Marvin Clark II Defensive Rebound.,39,32
+15:42,2253,Foul on Keonta Vernon.,39,32
+15:42,2253,Official TV Timeout,39,32
+15:42,2599,Marvin Clark II made Free Throw.,40,32
+15:42,2599,Marvin Clark II made Free Throw.,41,32
+15:29,2253,Roberts Blumbergs missed Three Point Jumper.,41,32
+15:29,2253,Keonta Vernon Offensive Rebound.,41,32
+15:27,2599,Foul on Marvin Clark II.,41,32
+15:19,2253,Roberts Blumbergs missed Three Point Jumper.,41,32
+15:19,2599,Justin Simon Defensive Rebound.,41,32
+14:59,2599,Bryan Trimble Jr. missed Jumper.,41,32
+14:59,2253,Casey Benson Defensive Rebound.,41,32
+14:32,2253,Roberts Blumbergs missed Three Point Jumper.,41,32
+14:32,2599,Justin Simon Defensive Rebound.,41,32
+14:22,2599,Bashir Ahmed missed Three Point Jumper.,41,32
+14:22,2253,Joshua Braun Defensive Rebound.,41,32
+14:15,2253,Oscar Frayer missed Layup.,41,32
+14:15,2253,Grand Canyon Offensive Rebound.,41,32
+14:12,2253,Roberts Blumbergs made Jumper. Assisted by Gerard Martin.,41,34
+13:52,2599,Shamorie Ponds missed Jumper.,41,34
+13:52,2599,Bashir Ahmed Offensive Rebound.,41,34
+13:48,2599,Bashir Ahmed missed Layup.,41,34
+13:48,2253,Gerard Martin Defensive Rebound.,41,34
+13:40,2253,Casey Benson Turnover.,41,34
+13:20,2599,Bashir Ahmed missed Layup.,41,34
+13:20,2253,Alessandro Lever Defensive Rebound.,41,34
+13:19,2599,Foul on Tariq Owens.,41,34
+13:06,2253,Alessandro Lever made Jumper.,41,36
+12:47,2599,Shamorie Ponds made Layup.,43,36
+12:25,2253,Gerard Martin Turnover.,43,36
+12:24,2599,Shamorie Ponds Steal.,43,36
+12:22,2599,Shamorie Ponds made Layup.,45,36
+12:01,2253,Alessandro Lever missed Layup.,45,36
+12:01,2599,Bashir Ahmed Defensive Rebound.,45,36
+11:50,2599,Shamorie Ponds Turnover.,45,36
+11:49,2253,Roberts Blumbergs Steal.,45,36
+11:46,2253,Roberts Blumbergs missed Layup.,45,36
+11:46,2253,Shaq Carr Offensive Rebound.,45,36
+11:44,2253,Shaq Carr missed Layup.,45,36
+11:44,2599,Bashir Ahmed Defensive Rebound.,45,36
+11:32,2599,Tariq Owens Turnover.,45,36
+11:31,2253,Alessandro Lever Steal.,45,36
+11:31,2599,Foul on Tariq Owens.,45,36
+11:31,2253,Official TV Timeout,45,36
+11:22,2253,Alessandro Lever missed Three Point Jumper.,45,36
+11:22,2599,Bashir Ahmed Defensive Rebound.,45,36
+11:02,2253,Foul on Gerard Martin.,45,36
+11:02,2599,Shamorie Ponds missed Free Throw.,45,36
+11:02,2599,St. John's Deadball Team Rebound.,45,36
+11:02,2599,Shamorie Ponds made Free Throw.,46,36
+10:48,2253,Alessandro Lever missed Layup.,46,36
+10:48,2599,Justin Simon Defensive Rebound.,46,36
+10:30,2599,Shamorie Ponds missed Jumper.,46,36
+10:30,2253,Fiifi Aidoo Defensive Rebound.,46,36
+10:19,2253,Foul on Shaq Carr.,46,36
+10:19,2253,Shaq Carr Turnover.,46,36
+10:04,2599,Kassoum Yakwe made Layup. Assisted by Justin Simon.,48,36
+10:04,2253,Foul on Alessandro Lever.,48,36
+10:04,2599,Kassoum Yakwe missed Free Throw.,48,36
+10:04,2253,Gerard Martin Defensive Rebound.,48,36
+9:51,2253,Fiifi Aidoo missed Three Point Jumper.,48,36
+9:51,2253,Keonta Vernon Offensive Rebound.,48,36
+9:45,2599,Foul on Bryan Trimble Jr..,48,36
+9:45,2253,Roberts Blumbergs made Free Throw.,48,37
+9:45,2253,Roberts Blumbergs made Free Throw.,48,38
+9:34,2599,Shamorie Ponds missed Layup.,48,38
+9:34,2599,Shamorie Ponds Offensive Rebound.,48,38
+9:32,2599,Shamorie Ponds made Layup.,50,38
+9:05,2253,Shaq Carr made Layup. Assisted by Fiifi Aidoo.,50,40
+8:53,2599,St. John's  Timeout,50,40
+8:53,2253,Official TV Timeout,50,40
+8:39,2253,Foul on Keonta Vernon.,50,40
+8:39,2599,Shamorie Ponds made Free Throw.,51,40
+8:39,2599,Shamorie Ponds made Free Throw.,52,40
+8:18,2253,Gerard Martin missed Three Point Jumper.,52,40
+8:18,2599,St. John's Defensive Rebound.,52,40
+8:02,2599,Shamorie Ponds missed Jumper.,52,40
+8:02,2599,Kassoum Yakwe Offensive Rebound.,52,40
+7:48,2599,Bashir Ahmed missed Three Point Jumper.,52,40
+7:48,2253,Keonta Vernon Defensive Rebound.,52,40
+7:46,2599,Foul on Bashir Ahmed.,52,40
+7:46,2253,Official TV Timeout,52,40
+7:46,2253,Keonta Vernon missed Free Throw.,52,40
+7:46,2599,Bashir Ahmed Defensive Rebound.,52,40
+7:29,2599,Justin Simon made Jumper.,54,40
+7:11,2253,Casey Benson Turnover.,54,40
+6:57,2599,Justin Simon made Layup.,56,40
+6:24,2253,Joshua Braun made Three Point Jumper.,56,43
+6:02,2599,Justin Simon missed Jumper.,56,43
+6:02,2253,Keonta Vernon Defensive Rebound.,56,43
+5:55,2253,Keonta Vernon Turnover.,56,43
+5:53,2599,Shamorie Ponds Steal.,56,43
+5:52,2599,Shamorie Ponds made Dunk.,58,43
+5:30,2253,Casey Benson made Layup.,58,45
+5:11,2599,Shamorie Ponds missed Three Point Jumper.,58,45
+5:11,2253,Gerard Martin Defensive Rebound.,58,45
+5:05,2253,Casey Benson made Three Point Jumper.,58,48
+4:56,2599,St. John's  Timeout,58,48
+4:53,2253,Foul on Joshua Braun.,58,48
+4:53,2599,Bashir Ahmed missed Free Throw.,58,48
+4:53,2253,Joshua Braun Defensive Rebound.,58,48
+4:35,2253,Joshua Braun missed Layup.,58,48
+4:35,2599,Marvin Clark II Defensive Rebound.,58,48
+4:07,2599,Shamorie Ponds Turnover.,58,48
+4:06,2253,Casey Benson Steal.,58,48
+4:04,2599,Foul on Bryan Trimble Jr..,58,48
+4:04,2253,Oscar Frayer missed Free Throw.,58,48
+4:04,2253,Grand Canyon Deadball Team Rebound.,58,48
+4:04,2253,Oscar Frayer missed Free Throw.,58,48
+4:04,2599,Marvin Clark II Defensive Rebound.,58,48
+3:57,2599,Shamorie Ponds Turnover.,58,48
+3:55,2253,Joshua Braun Steal.,58,48
+3:49,2253,Casey Benson made Layup.,58,50
+3:46,2253,Official TV Timeout,58,50
+3:22,2599,Marvin Clark II missed Three Point Jumper.,58,50
+3:22,2599,Shamorie Ponds Offensive Rebound.,58,50
+3:16,2599,Shamorie Ponds Turnover.,58,50
+2:58,2253,Casey Benson missed Layup.,58,50
+2:58,2599,St. John's Defensive Rebound.,58,50
+2:26,2599,Marvin Clark II missed Three Point Jumper.,58,50
+2:26,2599,Shamorie Ponds Offensive Rebound.,58,50
+2:26,2253,Foul on Oscar Frayer.,58,50
+2:26,2599,Shamorie Ponds made Free Throw.,59,50
+2:26,2599,Shamorie Ponds made Free Throw.,60,50
+2:15,2253,Joshua Braun missed Three Point Jumper.,60,50
+2:15,2253,Grand Canyon Offensive Rebound.,60,50
+2:12,2253,Roberts Blumbergs missed Jumper.,60,50
+2:12,2599,Tariq Owens Defensive Rebound.,60,50
+2:12,2599,Tariq Owens Turnover.,60,50
+2:12,2253,Joshua Braun Steal.,60,50
+2:09,2599,Foul on Tariq Owens.,60,50
+2:05,2253,Casey Benson made Free Throw.,60,51
+2:05,2253,Casey Benson made Free Throw.,60,52
+2:05,2253,Grand Canyon  Timeout,60,52
+2:02,2253,Foul on Casey Benson.,60,52
+2:02,2599,Bryan Trimble Jr. made Free Throw.,61,52
+2:02,2599,Bryan Trimble Jr. made Free Throw.,62,52
+1:53,2253,Casey Benson made Layup.,62,54
+1:53,2599,Foul on Marvin Clark II.,62,54
+1:53,2253,Casey Benson made Free Throw.,62,55
+1:50,2253,Foul on Oscar Frayer.,62,55
+1:50,2599,Justin Simon made Free Throw.,63,55
+1:50,2599,Justin Simon made Free Throw.,64,55
+1:37,2253,Casey Benson missed Layup.,64,55
+1:37,2599,Justin Simon Defensive Rebound.,64,55
+1:24,2599,Shamorie Ponds made Layup.,66,55
+1:14,2253,Grand Canyon  Timeout,66,55
+1:12,2253,Roberts Blumbergs missed Three Point Jumper.,66,55
+1:12,2253,Keonta Vernon Offensive Rebound.,66,55
+1:03,2253,Joshua Braun missed Three Point Jumper.,66,55
+1:03,2253,Oscar Frayer Offensive Rebound.,66,55
+0:59,2599,Foul on Justin Simon.,66,55
+0:59,2253,Oscar Frayer made Free Throw.,66,56
+0:59,2253,Oscar Frayer made Free Throw.,66,57
+0:56,2599,Justin Simon Turnover.,66,57
+0:56,2253,Oscar Frayer Steal.,66,57
+0:56,2599,Foul on Bashir Ahmed.,66,57
+0:56,2253,Oscar Frayer made Free Throw.,66,58
+0:56,2253,Oscar Frayer made Free Throw.,66,59
+0:51,2253,Joshua Braun Turnover.,66,59
+0:50,2253,Gerard Martin Steal.,66,59
+0:49,2253,Oscar Frayer missed Three Point Jumper.,66,59
+0:42,2253,Grand Canyon Offensive Rebound.,66,59
+0:42,2253,Keonta Vernon Offensive Rebound.,66,59
+0:42,2253,Joshua Braun missed Three Point Jumper.,66,59
+0:39,2253,Grand Canyon  Timeout,66,59
+0:32,2253,Roberts Blumbergs missed Layup.,66,59
+0:32,2599,Justin Simon Defensive Rebound.,66,59
+0:26,2599,Shamorie Ponds missed Layup.,66,59
+0:26,2253,Casey Benson Block.,66,59
+0:26,2599,St. John's Offensive Rebound.,66,59
+0:25,2599,St. John's  Timeout,66,59
+0:23,2253,Foul on Joshua Braun.,66,59
+0:23,2599,Justin Simon made Free Throw.,67,59
+0:23,2599,Justin Simon made Free Throw.,68,59
+0:18,2599,Foul on Justin Simon.,68,59
+0:18,2253,Casey Benson missed Free Throw.,68,59
+0:18,2253,Grand Canyon Deadball Team Rebound.,68,59
+0:18,2253,Casey Benson made Free Throw.,68,60
+0:00,2253,End of 2nd half,68,60

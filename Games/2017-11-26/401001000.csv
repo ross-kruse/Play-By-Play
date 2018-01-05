@@ -1,0 +1,400 @@
+Portland St,24,Stanford,2502
+time,team_id,description,h_score,a_score
+20:00,2502,Jump Ball won by Portland State,0,0
+19:39,2502,Ryan Edwards missed Jumper.,0,0
+19:39,24,Michael Humphrey Defensive Rebound.,0,0
+19:31,24,Reid Travis Turnover.,0,0
+19:31,2502,Bryce Canda Steal.,0,0
+19:05,2502,Bryce Canda missed Three Point Jumper.,0,0
+19:05,24,Reid Travis Defensive Rebound.,0,0
+18:42,24,Daejon Davis Turnover.,0,0
+18:30,2502,Deante Strickland made Three Point Jumper. Assisted by Ryan Edwards.,3,0
+18:18,24,Isaac White missed Three Point Jumper.,3,0
+18:18,24,Reid Travis Offensive Rebound.,3,0
+18:18,24,Reid Travis missed Layup.,3,0
+18:18,24,Reid Travis Offensive Rebound.,3,0
+18:07,24,Reid Travis made Jumper.,3,2
+17:46,2502,Ryan Edwards Turnover.,3,2
+17:46,24,Isaac White Steal.,3,2
+17:41,24,Isaac White missed Layup.,3,2
+17:41,2502,Bryce Canda Block.,3,2
+17:41,2502,Portland State Deadball Team Rebound.,3,2
+17:29,24,Reid Travis missed Jumper.,3,2
+17:29,2502,Ryan Edwards Block.,3,2
+17:29,24,Reid Travis Offensive Rebound.,3,2
+17:29,24,Jump Ball won by Stanford,3,2
+17:26,24,Daejon Davis missed Jumper.,3,2
+17:26,24,Reid Travis Offensive Rebound.,3,2
+17:18,24,Reid Travis made Layup.,3,4
+17:10,2502,Brandon Hollins missed Jumper.,3,4
+17:10,24,Isaac White Defensive Rebound.,3,4
+16:58,24,Michael Humphrey missed Jumper.,3,4
+16:58,2502,Ryan Edwards Defensive Rebound.,3,4
+16:46,2502,Deante Strickland Turnover.,3,4
+16:41,24,Isaac White made Three Point Jumper. Assisted by Daejon Davis.,3,7
+16:29,2502,Bryce Canda made Jumper.,5,7
+16:22,24,Oscar da Silva missed Layup.,5,7
+16:22,2502,Bryce Canda Defensive Rebound.,5,7
+16:09,2502,Bryce Canda missed Three Point Jumper.,5,7
+16:09,2502,Traylin Farris Offensive Rebound.,5,7
+16:04,2502,Traylin Farris made Layup.,7,7
+15:42,24,Daejon Davis Turnover.,7,7
+15:42,24,Official TV Timeout,7,7
+15:26,2502,Traylin Farris missed Jumper.,7,7
+15:26,24,Isaac White Defensive Rebound.,7,7
+15:14,24,Josh Sharma Turnover.,7,7
+15:14,2502,Holland Woods Steal.,7,7
+15:10,24,Foul on Daejon Davis.,7,7
+15:04,24,Foul on Josh Sharma.,7,7
+15:04,2502,Traylin Farris made Free Throw.,8,7
+15:04,2502,Traylin Farris missed Free Throw.,8,7
+15:04,24,Reid Travis Defensive Rebound.,8,7
+14:49,2502,Foul on Traylin Farris.,8,7
+14:45,24,Robert Cartwright made Three Point Jumper. Assisted by Reid Travis.,8,10
+14:28,2502,Holland Woods missed Jumper.,8,10
+14:28,24,Isaac White Defensive Rebound.,8,10
+14:17,24,Michael Humphrey missed Layup.,8,10
+14:17,2502,Deontae North Block.,8,10
+14:17,2502,Deontae North Defensive Rebound.,8,10
+14:12,2502,Foul on Deontae North.,8,10
+14:12,2502,Deontae North Turnover.,8,10
+13:48,24,Michael Humphrey made Layup.,8,12
+13:24,2502,Bryce Canda missed Three Point Jumper.,8,12
+13:24,24,Stanford Deadball Team Rebound.,8,12
+13:22,2502,Foul on Michael Mayhew.,8,12
+13:12,2502,Foul on Jamie Orme.,8,12
+13:05,24,Reid Travis missed Jumper.,8,12
+13:05,24,Reid Travis Offensive Rebound.,8,12
+13:00,24,Reid Travis missed Layup.,8,12
+13:00,24,Michael Humphrey Offensive Rebound.,8,12
+13:00,24,Michael Humphrey made Two Point Tip Shot.,8,14
+12:35,2502,Traylin Farris made Layup.,10,14
+12:03,24,Michael Humphrey Turnover.,10,14
+12:03,2502,Holland Woods Steal.,10,14
+11:59,2502,Traylin Farris missed Layup.,10,14
+11:59,2502,Brandon Hollins Offensive Rebound.,10,14
+11:59,2502,Brandon Hollins missed Two Point Tip Shot.,10,14
+11:59,24,Reid Travis Defensive Rebound.,10,14
+11:46,24,Reid Travis made Layup.,10,16
+11:36,24,Official TV Timeout,10,16
+11:26,2502,Brandon Hollins Turnover.,10,16
+11:17,24,Oscar da Silva made Layup. Assisted by Michael Humphrey.,10,18
+11:03,24,Foul on Robert Cartwright.,10,18
+11:03,2502,Deontae North made Free Throw.,11,18
+11:03,2502,Deontae North made Free Throw.,12,18
+10:49,24,Michael Humphrey missed Layup.,12,18
+10:49,2502,Ryan Edwards Block.,12,18
+10:49,2502,Deante Strickland Defensive Rebound.,12,18
+10:40,2502,Deontae North missed Three Point Jumper.,12,18
+10:40,24,Oscar da Silva Defensive Rebound.,12,18
+10:25,24,Daejon Davis made Three Point Jumper. Assisted by Blake Pagon.,12,21
+10:04,2502,Ryan Edwards missed Jumper.,12,21
+10:04,24,Michael Humphrey Defensive Rebound.,12,21
+9:49,24,Robert Cartwright made Layup.,12,23
+9:48,2502,Portland State  Timeout,12,23
+9:33,2502,Traylin Farris missed Jumper.,12,23
+9:33,24,Isaac White Defensive Rebound.,12,23
+8:59,24,Isaac White missed Three Point Jumper.,12,23
+8:59,2502,Ryan Edwards Block.,12,23
+8:59,2502,Portland State Deadball Team Rebound.,12,23
+8:43,2502,Deontae North Turnover.,12,23
+8:43,24,Isaac White Steal.,12,23
+8:38,2502,Foul on Holland Woods.,12,23
+8:38,24,Isaac White made Free Throw.,12,24
+8:38,24,Isaac White made Free Throw.,12,25
+8:28,2502,Bryce Canda made Dunk.,14,25
+8:18,24,Daejon Davis Turnover.,14,25
+8:18,2502,Michael Mayhew Steal.,14,25
+8:15,2502,Michael Mayhew made Jumper.,16,25
+8:00,24,Official TV Timeout,16,25
+7:47,24,Robert Cartwright made Layup.,16,27
+7:23,2502,Deontae North made Jumper.,18,27
+7:14,24,Oscar da Silva Turnover.,18,27
+7:14,2502,Deontae North Steal.,18,27
+7:14,24,Foul on Oscar da Silva.,18,27
+7:02,2502,Traylin Farris made Layup.,20,27
+6:41,24,Foul on Reid Travis.,20,27
+6:41,24,Reid Travis Turnover.,20,27
+6:33,2502,Deontae North missed Jumper.,20,27
+6:33,2502,Traylin Farris Offensive Rebound.,20,27
+6:28,2502,Traylin Farris missed Layup.,20,27
+6:28,2502,Traylin Farris Offensive Rebound.,20,27
+6:23,2502,Traylin Farris missed Layup.,20,27
+6:23,2502,Traylin Farris Offensive Rebound.,20,27
+6:19,2502,Traylin Farris missed Layup.,20,27
+6:19,24,Daejon Davis Defensive Rebound.,20,27
+6:12,24,Daejon Davis Turnover.,20,27
+6:12,2502,Michael Mayhew Steal.,20,27
+6:08,2502,Bryce Canda made Dunk.,22,27
+6:08,24,Stanford  Timeout,22,27
+5:57,24,Reid Travis made Dunk. Assisted by Daejon Davis.,22,29
+5:41,2502,Michael Mayhew missed Layup.,22,29
+5:41,24,Oscar da Silva Block.,22,29
+5:41,24,Daejon Davis Defensive Rebound.,22,29
+5:27,24,Reid Travis made Layup. Assisted by Robert Cartwright.,22,31
+5:15,2502,Holland Woods missed Jumper.,22,31
+5:15,24,Robert Cartwright Block.,22,31
+5:15,2502,Deontae North Offensive Rebound.,22,31
+5:10,2502,Deontae North made Layup.,24,31
+4:52,24,Michael Humphrey made Layup. Assisted by Daejon Davis.,24,33
+4:40,2502,Deontae North missed Three Point Jumper.,24,33
+4:40,2502,Michael Mayhew Offensive Rebound.,24,33
+4:34,2502,Foul on Michael Mayhew.,24,33
+4:34,2502,Michael Mayhew Turnover.,24,33
+4:25,24,Robert Cartwright missed Three Point Jumper.,24,33
+4:25,24,Josh Sharma Offensive Rebound.,24,33
+4:19,24,Josh Sharma made Layup.,24,35
+3:59,2502,Deontae North missed Jumper.,24,35
+3:59,24,Josh Sharma Block.,24,35
+3:59,24,Reid Travis Defensive Rebound.,24,35
+3:57,2502,Foul on Traylin Farris.,24,35
+3:55,24,Official TV Timeout,24,35
+3:55,24,Oscar da Silva missed Free Throw.,24,35
+3:55,24,Stanford Offensive Rebound.,24,35
+3:51,24,Reid Travis made Layup.,24,37
+3:51,2502,Foul on Traylin Farris.,24,37
+3:51,24,Reid Travis missed Free Throw.,24,37
+3:51,2502,Jamie Orme Defensive Rebound.,24,37
+3:37,24,Foul on Oscar da Silva.,24,37
+3:30,2502,Ryan Edwards missed Jumper.,24,37
+3:30,24,Blake Pagon Defensive Rebound.,24,37
+3:16,24,Daejon Davis Turnover.,24,37
+3:16,2502,Bryce Canda Steal.,24,37
+3:10,2502,Bryce Canda made Layup.,26,37
+2:54,24,Reid Travis missed Layup.,26,37
+2:54,24,Reid Travis Offensive Rebound.,26,37
+2:52,24,Reid Travis made Layup.,26,39
+2:52,2502,Foul on Jamie Orme.,26,39
+2:52,24,Reid Travis made Free Throw.,26,40
+2:45,2502,Ryan Edwards missed Three Point Jumper.,26,40
+2:45,24,Blake Pagon Defensive Rebound.,26,40
+2:34,24,Reid Travis missed Jumper.,26,40
+2:34,2502,Deontae North Defensive Rebound.,26,40
+2:20,2502,Ryan Edwards made Jumper. Assisted by Jamie Orme.,28,40
+2:08,24,Daejon Davis Turnover.,28,40
+2:08,2502,Deontae North Steal.,28,40
+2:08,24,Foul on Reid Travis.,28,40
+2:08,2502,Deontae North made Free Throw.,29,40
+2:08,2502,Deontae North made Free Throw.,30,40
+1:59,24,Robert Cartwright made Layup.,30,42
+1:41,24,Foul on Josh Sharma.,30,42
+1:41,2502,Ryan Edwards made Free Throw.,31,42
+1:41,2502,Ryan Edwards made Free Throw.,32,42
+1:34,24,Michael Humphrey Turnover.,32,42
+1:34,2502,Deontae North Steal.,32,42
+1:29,2502,Deontae North missed Three Point Jumper.,32,42
+1:29,2502,Portland State Offensive Rebound.,32,42
+1:15,2502,Bryce Canda missed Jumper.,32,42
+1:15,2502,Deontae North Offensive Rebound.,32,42
+1:15,2502,Deontae North missed Jumper.,32,42
+1:15,2502,Brendan Rumel Offensive Rebound.,32,42
+1:10,24,Foul on Michael Humphrey.,32,42
+1:10,2502,Brendan Rumel missed Free Throw.,32,42
+1:10,2502,Portland State Deadball Team Rebound.,32,42
+1:10,2502,Brendan Rumel made Free Throw.,33,42
+1:03,24,Robert Cartwright Turnover.,33,42
+1:03,2502,Brendan Rumel Steal.,33,42
+0:56,2502,Holland Woods missed Three Point Jumper.,33,42
+0:56,2502,Brendan Rumel Offensive Rebound.,33,42
+0:51,24,Foul on Michael Humphrey.,33,42
+0:51,2502,Brendan Rumel made Free Throw.,34,42
+0:51,2502,Brendan Rumel made Free Throw.,35,42
+0:25,2502,Foul on Brandon Hollins.,35,42
+0:25,24,Daejon Davis made Free Throw.,35,43
+0:25,24,Daejon Davis made Free Throw.,35,44
+0:01,2502,Brendan Rumel missed Layup.,35,44
+0:01,2502,Brandon Hollins Offensive Rebound.,35,44
+0:00,24,End of 1st half,35,44
+20:00,2502,Jump Ball won by Portland State,35,44
+19:40,2502,Ryan Edwards missed Layup.,35,44
+19:40,24,Oscar da Silva Defensive Rebound.,35,44
+19:29,24,Isaac White missed Three Point Jumper.,35,44
+19:29,2502,Ryan Edwards Defensive Rebound.,35,44
+19:18,2502,Bryce Canda missed Three Point Jumper.,35,44
+19:18,24,Michael Humphrey Defensive Rebound.,35,44
+18:57,24,Isaac White made Three Point Jumper. Assisted by Daejon Davis.,35,47
+18:43,2502,Foul on Bryce Canda.,35,47
+18:43,2502,Bryce Canda Turnover.,35,47
+18:32,24,Reid Travis missed Jumper.,35,47
+18:32,2502,Deante Strickland Defensive Rebound.,35,47
+18:25,2502,Deante Strickland made Three Point Jumper.,38,47
+18:09,24,Reid Travis made Layup. Assisted by Oscar da Silva.,38,49
+18:09,2502,Foul on Ryan Edwards.,38,49
+18:09,24,Reid Travis missed Free Throw.,38,49
+18:09,2502,Ryan Edwards Defensive Rebound.,38,49
+17:59,2502,Deontae North missed Jumper.,38,49
+17:59,24,Michael Humphrey Defensive Rebound.,38,49
+17:55,24,Foul on Michael Humphrey.,38,49
+17:55,24,Michael Humphrey Turnover.,38,49
+17:55,2502,Deontae North made Free Throw.,39,49
+17:55,2502,Deontae North missed Free Throw.,39,49
+17:55,2502,Portland State Deadball Team Rebound.,39,49
+17:33,2502,Deontae North made Layup.,41,49
+17:10,24,Isaac White Turnover.,41,49
+16:56,2502,Michael Mayhew made Three Point Jumper. Assisted by Deante Strickland.,44,49
+16:27,24,Daejon Davis missed Three Point Jumper.,44,49
+16:27,2502,Traylin Farris Defensive Rebound.,44,49
+16:12,2502,Deante Strickland missed Three Point Jumper.,44,49
+16:12,24,Oscar da Silva Defensive Rebound.,44,49
+16:05,24,Isaac White missed Three Point Jumper.,44,49
+16:05,2502,Bryce Canda Defensive Rebound.,44,49
+16:00,2502,Foul on Michael Mayhew.,44,49
+16:00,2502,Michael Mayhew Turnover.,44,49
+16:00,24,Official TV Timeout,44,49
+15:42,2502,Foul on Bryce Canda.,44,49
+15:42,24,Reid Travis made Free Throw.,44,50
+15:42,24,Reid Travis made Free Throw.,44,51
+15:27,24,Foul on Oscar da Silva.,44,51
+15:27,2502,Traylin Farris made Free Throw.,45,51
+15:27,2502,Traylin Farris missed Free Throw.,45,51
+15:27,24,Reid Travis Defensive Rebound.,45,51
+15:09,24,Reid Travis made Jumper.,45,53
+14:49,24,Foul on Josh Sharma.,45,53
+14:49,2502,Bryce Canda made Free Throw.,46,53
+14:49,2502,Bryce Canda missed Free Throw.,46,53
+14:49,2502,Jamie Orme Offensive Rebound.,46,53
+14:48,24,Foul on Reid Travis.,46,53
+14:38,2502,Bryce Canda made Jumper.,48,53
+14:05,24,Reid Travis made Dunk. Assisted by Daejon Davis.,48,55
+13:55,2502,Holland Woods made Three Point Jumper.,51,55
+13:40,24,Stanford  Timeout,51,55
+13:40,24,Oscar da Silva Turnover.,51,55
+13:40,2502,Traylin Farris Steal.,51,55
+13:22,24,Foul on Blake Pagon.,51,55
+13:15,2502,Deontae North made Layup.,53,55
+12:48,24,Michael Humphrey Turnover.,53,55
+12:39,24,Foul on Michael Humphrey.,53,55
+12:27,2502,Deontae North missed Jumper.,53,55
+12:27,24,Oscar da Silva Defensive Rebound.,53,55
+12:19,24,Jump Ball won by Stanford,53,55
+12:17,2502,Foul on Jamie Orme.,53,55
+12:00,24,Blake Pagon missed Three Point Jumper.,53,55
+12:00,2502,Michael Mayhew Defensive Rebound.,53,55
+11:51,2502,Bryce Canda missed Layup.,53,55
+11:51,24,Josh Sharma Block.,53,55
+11:51,2502,Jamie Orme Offensive Rebound.,53,55
+11:48,2502,Jamie Orme made Layup.,55,55
+11:39,2502,Foul on Jamie Orme.,55,55
+11:39,24,Official TV Timeout,55,55
+11:25,24,Robert Cartwright missed Layup.,55,55
+11:25,2502,Portland State Deadball Team Rebound.,55,55
+11:16,2502,Michael Mayhew missed Three Point Jumper.,55,55
+11:16,2502,Holland Woods Offensive Rebound.,55,55
+11:11,2502,Holland Woods Turnover.,55,55
+11:11,24,Robert Cartwright Steal.,55,55
+11:06,24,Robert Cartwright missed Layup.,55,55
+11:06,2502,Traylin Farris Block.,55,55
+11:06,24,Stanford Offensive Rebound.,55,55
+10:58,2502,Foul on Traylin Farris.,55,55
+10:58,24,Reid Travis made Free Throw.,55,56
+10:58,24,Reid Travis made Free Throw.,55,57
+10:45,2502,Michael Mayhew made Three Point Jumper. Assisted by Deontae North.,58,57
+10:35,24,Isaac White Turnover.,58,57
+10:35,2502,Michael Mayhew Steal.,58,57
+10:21,2502,Holland Woods made Three Point Jumper.,61,57
+10:07,24,Daejon Davis Turnover.,61,57
+10:07,2502,Bryce Canda Steal.,61,57
+10:03,2502,Deontae North made Layup. Assisted by Bryce Canda.,63,57
+9:48,24,Reid Travis Turnover.,63,57
+9:40,2502,Deontae North missed Three Point Jumper.,63,57
+9:40,24,Reid Travis Defensive Rebound.,63,57
+9:23,24,Daejon Davis made Layup.,63,59
+9:15,2502,Bryce Canda missed Three Point Jumper.,63,59
+9:15,24,Daejon Davis Defensive Rebound.,63,59
+8:46,24,Reid Travis missed Jumper.,63,59
+8:46,2502,Deontae North Defensive Rebound.,63,59
+8:19,24,Foul on Robert Cartwright.,63,59
+8:19,2502,Holland Woods made Free Throw.,64,59
+8:19,2502,Holland Woods made Free Throw.,65,59
+8:11,24,Daejon Davis Turnover.,65,59
+8:11,2502,Bryce Canda Steal.,65,59
+8:04,2502,Deontae North missed Layup.,65,59
+8:04,2502,Bryce Canda Offensive Rebound.,65,59
+8:04,2502,Bryce Canda missed Two Point Tip Shot.,65,59
+8:04,24,Josh Sharma Defensive Rebound.,65,59
+7:58,2502,Foul on Deante Strickland.,65,59
+7:58,24,Official TV Timeout,65,59
+7:58,24,Daejon Davis made Free Throw.,65,60
+7:58,24,Daejon Davis missed Free Throw.,65,60
+7:58,2502,Bryce Canda Defensive Rebound.,65,60
+7:40,2502,Bryce Canda missed Jumper.,65,60
+7:40,24,Oscar da Silva Defensive Rebound.,65,60
+7:32,24,Foul on Robert Cartwright.,65,60
+7:32,24,Robert Cartwright Turnover.,65,60
+7:19,2502,Deontae North missed Jumper.,65,60
+7:19,24,Josh Sharma Defensive Rebound.,65,60
+7:08,24,Daejon Davis missed Layup.,65,60
+7:08,2502,Ryan Edwards Block.,65,60
+7:08,24,Daejon Davis Offensive Rebound.,65,60
+7:05,2502,Foul on Ryan Edwards.,65,60
+7:05,24,Reid Travis made Free Throw.,65,61
+7:05,24,Reid Travis made Free Throw.,65,62
+6:49,2502,Holland Woods missed Three Point Jumper.,65,62
+6:49,24,Josh Sharma Defensive Rebound.,65,62
+6:35,24,Daejon Davis Turnover.,65,62
+6:35,2502,Deante Strickland Steal.,65,62
+6:29,2502,Deontae North missed Layup.,65,62
+6:29,24,Daejon Davis Block.,65,62
+6:29,24,Oscar da Silva Defensive Rebound.,65,62
+6:07,24,Daejon Davis Turnover.,65,62
+5:46,24,Foul on Robert Cartwright.,65,62
+5:46,2502,Deontae North made Free Throw.,66,62
+5:46,2502,Deontae North made Free Throw.,67,62
+5:18,24,Daejon Davis Turnover.,67,62
+5:00,2502,Holland Woods made Layup.,69,62
+5:00,24,Foul on Isaac White.,69,62
+5:00,2502,Holland Woods made Free Throw.,70,62
+4:48,24,Oscar da Silva Turnover.,70,62
+4:48,2502,Michael Mayhew Steal.,70,62
+4:45,2502,Holland Woods made Layup.,72,62
+4:36,2502,Foul on Holland Woods.,72,62
+4:36,24,Reid Travis missed Free Throw.,72,62
+4:36,24,Stanford Deadball Team Rebound.,72,62
+4:36,24,Reid Travis made Free Throw.,72,63
+4:29,2502,Michael Mayhew missed Three Point Jumper.,72,63
+4:29,2502,Deontae North Offensive Rebound.,72,63
+4:17,2502,Portland State  Timeout,72,63
+4:17,24,Official TV Timeout,72,63
+4:03,24,Foul on Oscar da Silva.,72,63
+4:03,2502,Michael Mayhew made Free Throw.,73,63
+4:03,2502,Michael Mayhew made Free Throw.,74,63
+3:51,24,Reid Travis Turnover.,74,63
+3:51,2502,Holland Woods Steal.,74,63
+3:28,2502,Deontae North made Three Point Jumper. Assisted by Holland Woods.,77,63
+3:21,2502,Foul on Deontae North.,77,63
+3:21,24,Daejon Davis missed Free Throw.,77,63
+3:21,24,Stanford Deadball Team Rebound.,77,63
+3:21,24,Daejon Davis missed Free Throw.,77,63
+3:21,2502,Deontae North Defensive Rebound.,77,63
+3:21,24,Foul on Josh Sharma.,77,63
+3:21,2502,Deontae North made Free Throw.,78,63
+3:21,2502,Deontae North made Free Throw.,79,63
+3:16,24,Josh Sharma Turnover.,79,63
+3:16,2502,Michael Mayhew Steal.,79,63
+2:57,2502,Deontae North missed Three Point Jumper.,79,63
+2:57,24,Reid Travis Defensive Rebound.,79,63
+2:47,2502,Foul on Michael Mayhew.,79,63
+2:47,24,Robert Cartwright made Free Throw.,79,64
+2:47,24,Robert Cartwright made Free Throw.,79,65
+2:30,24,Foul on Josh Sharma.,79,65
+2:30,2502,Bryce Canda made Free Throw.,80,65
+2:30,2502,Bryce Canda made Free Throw.,81,65
+2:19,24,Oscar da Silva missed Layup.,81,65
+2:19,24,Oscar da Silva Offensive Rebound.,81,65
+2:19,24,Oscar da Silva missed Two Point Tip Shot.,81,65
+2:19,24,Oscar da Silva Offensive Rebound.,81,65
+2:19,24,Oscar da Silva made Two Point Tip Shot.,81,67
+1:49,2502,Bryce Canda made Three Point Jumper.,84,67
+1:32,24,Robert Cartwright made Three Point Jumper.,84,70
+0:57,2502,Holland Woods Turnover.,84,70
+0:50,24,Robert Cartwright made Layup.,84,72
+0:40,24,Foul on Oscar da Silva.,84,72
+0:40,2502,Bryce Canda made Free Throw.,85,72
+0:40,2502,Bryce Canda missed Free Throw.,85,72
+0:40,24,Reid Travis Defensive Rebound.,85,72
+0:33,24,Robert Cartwright made Three Point Jumper. Assisted by Isaac White.,85,75
+0:22,24,Foul on Isaac White.,85,75
+0:22,2502,Michael Mayhew made Free Throw.,86,75
+0:22,2502,Michael Mayhew made Free Throw.,87,75
+0:19,24,Isaac White made Three Point Jumper. Assisted by Robert Cartwright.,87,78
+0:00,24,End of Game,87,78
